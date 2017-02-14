@@ -35,4 +35,9 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
+  <template name="_customRepo" value="public function EncuentraPorNombre(string $nombre)&#10;    {&#10;        $em = $this-&gt;getEntityManager();&#10;        $query = $em-&gt;createQuery(&quot;select a from AppBundle:Articulo a WHERE a.nombre like :nombre&quot;);&#10;        $query-&gt;setParameter('nombre', '%'. $nombre .'%');&#10;&#10;&#10;        return $query-&gt;getResult();" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
