@@ -27,4 +27,12 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
+  <template name="_formget" value="$fooForm$-&gt;get(&quot;$PARAMETRO_GET_POST$&quot;)-&gt;getData();$END$" toReformat="true" toShortenFQNames="true">
+    <variable name="fooForm" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETRO_GET_POST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
 </templateSet>
