@@ -40,4 +40,11 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="_btn" value="&lt;a href=&quot;{{ path(&quot;$nombre_ruta$&quot;) }}&quot; class=&quot;btn btn-success&quot;&gt;$texto_boton$&lt;/a&gt;$END$" description="representa un link en html como un botón con las Class apropiadas de bootstrap." toReformat="false" toShortenFQNames="true">
+    <variable name="nombre_ruta" expression="camelCase(String)" defaultValue="pathYparametros" alwaysStopAt="true" />
+    <variable name="texto_boton" expression="camelCase(string)" defaultValue="Pulsame" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
