@@ -47,4 +47,12 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="_table" value="&lt;table class=&quot;container table&quot; name=&quot;$entidad$&quot;&gt;&#10;    &lt;h2&gt;$entidad$&lt;/h2&gt;&lt;!--Titulo--&gt;&#10;    &lt;thead&gt;&#10;    &lt;tr&gt;&#10;        &lt;th&gt;${propiedad}&lt;/th&gt;&lt;!--Duplicame--&gt;&#10;    &lt;/tr&gt;&#10;    &lt;/thead&gt;&#10;    &lt;tbody&gt;&#10;    {% for un_$entidad$  in $entidad$ %}&#10;    &lt;tr&gt;&#10;        $END$&lt;td&gt;  {{ un_$entidad$.$propiedad$  }} &lt;/td&gt;&lt;!--Duplicame--&gt;&#10;    &lt;/tr&gt;&#10;    {% else %}&#10;        &lt;td&gt;No hay $entidad$s!!!&lt;/td&gt;&#10;    {% endfor %}&#10;    &lt;/tbody&gt;&#10;&lt;/table&gt;" description="html table para representar una Entidad en Twig con un bucle For" toReformat="false" toShortenFQNames="true">
+    <variable name="entidad" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="propiedad" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
