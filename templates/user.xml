@@ -1,18 +1,18 @@
 <templateSet group="user">
-  <template name="_action" value="//_action&#10;public function $Nombre$Action(\Symfony\Component\HttpFoundation\Request  $request)&#10;{&#10;       $SELECTION$&#10;       $END$&#10;       &#10;        return new \Symfony\Component\HttpFoundation\Response(dump($this) .&#10;                 &quot;Esto es una Stub de $Nombre$Action, posiblemente quieras usar en esta linea :&#10;                  return $this-&gt;render($view)&quot;);     &#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="_action" value="//_action&#10;public function $Nombre$Action(\Symfony\Component\HttpFoundation\Request  $request)&#10;{&#10;       $SELECTION$&#10;       $END$&#10;       &#10;        return new \Symfony\Component\HttpFoundation\Response(dump($this) .&#10;                 &quot;Esto es una Stub de $Nombre$Action, posiblemente quieras usar en esta linea :&#10;                  return $this-&gt;render($view)&quot;);     &#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Nombre" expression="" defaultValue="Nombre" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="_persist" value="//_persist&#10;$this-&gt;getDoctrine()-&gt;getManager()-&gt;persist($entityToPersist$);&#10;if( $this-&gt;getDoctrine()-&gt;getManager()-&gt;flush() )&#10;    $AccionCuandoElFlushPeta$;$END$&#10;" toReformat="true" toShortenFQNames="true">
+  <template name="_persist" value="//_persist&#10;$this-&gt;getDoctrine()-&gt;getManager()-&gt;persist($entityToPersist$);&#10;if( $this-&gt;getDoctrine()-&gt;getManager()-&gt;flush() )&#10;    $AccionCuandoElFlushPeta$;$END$&#10;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="entityToPersist" expression="Entidad" defaultValue="" alwaysStopAt="false" />
     <variable name="AccionCuandoElFlushPeta" expression="Accion" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="_builder" value="$builder-&gt;add('$nombre_del_campo$', \Symfony\Component\Form\Extension\Core\Type\$nombreType$::class,&#10;[&#10;    &quot;label&quot; =&gt; '$label$',&#10;    &quot;required&quot; =&gt; &quot;required&quot;,&#10;    &quot;attr&quot; =&gt;&#10;        [&#10;            &quot;class&quot; =&gt; &quot;$css_style$ form-control&quot;&#10;        ]&#10;]);$END$" toReformat="true" toShortenFQNames="true">
+  <template name="_builder" value="$builder-&gt;add('$nombre_del_campo$', \Symfony\Component\Form\Extension\Core\Type\$nombreType$::class,&#10;[&#10;    &quot;label&quot; =&gt; '$label$',&#10;    &quot;required&quot; =&gt; &quot;required&quot;,&#10;    &quot;attr&quot; =&gt;&#10;        [&#10;            &quot;class&quot; =&gt; &quot;$css_style$ form-control&quot;&#10;        ]&#10;]);$END$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="nombre_del_campo" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="nombreType" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
@@ -21,21 +21,21 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="_controller" value="//&lt;?php&#10;namespace ${namespace}; // vg-&gt;lacueva\BlogBundle\Controller (el completion works);&#10; &#10;use Symfony\Bundle\FrameworkBundle\Controller\Controller;&#10;use \Symfony\Component\HttpFoundation\Request;&#10;use Symfony\Component\HttpFoundation\Session;&#10; &#10; &#10;class ${name_entity}Controller extends Controller&#10;{&#10; &#10;        private $_session;&#10; &#10;        public function __construct()&#10;        {&#10;                $this-&gt;_session = new \Symfony\Component\HttpFoundation\Session\Session();&#10;        }&#10; &#10;        //_action&#10;        public function indexAction(\Symfony\Component\HttpFoundation\Request $request)&#10;        {&#10;                /*&#10;                 * Este controller ha sido autogenerado por Passh:&#10;                 * Ahora no vendría mal añadir en el routing.yml la ruta&#10;                 * que me llama.&#10;                 *&#10;                 * Cuidado con los espacios si copias este skel que también es autogenerado por la template:&#10;                 *&#10;                 * ${name_entity}_index:&#10;                 *  path: /${name_entity}/index&#10;                 *  defaults: {_controller: ${namespace}:${name_entity}:index}&#10;                 */&#10;               &#10;               &#10;                //_render aqui.&#10;                ${cursor};&#10;                return new \Symfony\Component\HttpFoundation\Response(dump($this) .&#10;                                &quot;Esto es una Stub de indexAction, posiblemente quieras usar en esta linea :&#10;                  return \$this-&gt;render(\$view)&quot;);&#10;        }&#10;        //PRIVS&#10;        private function _log($dumpeame)&#10;        {&#10; &#10;               &#10;                $this-&gt;_session-&gt;getFlashBag()-&gt;add(&quot;log&quot;, $string);&#10;                dump($m);&#10;        }&#10;        private function _miRepo()&#10;        {&#10;                return $this-&gt;getDoctrine()-&gt;getRepository(&quot;${repositorio_propio}&quot;);&#10;        }&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="_controller" value="//&lt;?php&#10;namespace ${namespace}; // vg-&gt;lacueva\BlogBundle\Controller (el completion works);&#10; &#10;use Symfony\Bundle\FrameworkBundle\Controller\Controller;&#10;use \Symfony\Component\HttpFoundation\Request;&#10;use Symfony\Component\HttpFoundation\Session;&#10; &#10; &#10;class ${name_entity}Controller extends Controller&#10;{&#10; &#10;        private $_session;&#10; &#10;        public function __construct()&#10;        {&#10;                $this-&gt;_session = new \Symfony\Component\HttpFoundation\Session\Session();&#10;        }&#10; &#10;        //_action&#10;        public function indexAction(\Symfony\Component\HttpFoundation\Request $request)&#10;        {&#10;                /*&#10;                 * Este controller ha sido autogenerado por Passh:&#10;                 * Ahora no vendría mal añadir en el routing.yml la ruta&#10;                 * que me llama.&#10;                 *&#10;                 * Cuidado con los espacios si copias este skel que también es autogenerado por la template:&#10;                 *&#10;                 * ${name_entity}_index:&#10;                 *  path: /${name_entity}/index&#10;                 *  defaults: {_controller: ${namespace}:${name_entity}:index}&#10;                 */&#10;               &#10;               &#10;                //_render aqui.&#10;                ${cursor};&#10;                return new \Symfony\Component\HttpFoundation\Response(dump($this) .&#10;                                &quot;Esto es una Stub de indexAction, posiblemente quieras usar en esta linea :&#10;                  return \$this-&gt;render(\$view)&quot;);&#10;        }&#10;        //PRIVS&#10;        private function _log($dumpeame)&#10;        {&#10; &#10;               &#10;                $this-&gt;_session-&gt;getFlashBag()-&gt;add(&quot;log&quot;, $string);&#10;                dump($m);&#10;        }&#10;        private function _miRepo()&#10;        {&#10;                return $this-&gt;getDoctrine()-&gt;getRepository(&quot;${repositorio_propio}&quot;);&#10;        }&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="PHP Statement" value="true" />
       <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="_formget" value="$fooForm$-&gt;get(&quot;$PARAMETRO_GET_POST$&quot;)-&gt;getData();$END$" toReformat="true" toShortenFQNames="true">
+  <template name="_formget" value="$fooForm$-&gt;get(&quot;$PARAMETRO_GET_POST$&quot;)-&gt;getData();$END$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="fooForm" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETRO_GET_POST" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP Statement" value="true" />
       <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="_customRepo" value="public function EncuentraPorNombre(string $nombre)&#10;    {&#10;        $em = $this-&gt;getEntityManager();&#10;        $query = $em-&gt;createQuery(&quot;select a from AppBundle:Articulo a WHERE a.nombre like :nombre&quot;);&#10;        $query-&gt;setParameter('nombre', '%'. $nombre .'%');&#10;&#10;&#10;        return $query-&gt;getResult();" toReformat="true" toShortenFQNames="true">
+  <template name="_customRepo" value="public function EncuentraPorNombre(string $nombre)&#10;    {&#10;        $em = $this-&gt;getEntityManager();&#10;        $query = $em-&gt;createQuery(&quot;select a from AppBundle:Articulo a WHERE a.nombre like :nombre&quot;);&#10;        $query-&gt;setParameter('nombre', '%'. $nombre .'%');&#10;&#10;&#10;        return $query-&gt;getResult();" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
@@ -51,8 +51,8 @@
     <variable name="entidad" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="propiedad" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="Twig" value="true" />
       <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
     </context>
   </template>
 </templateSet>
