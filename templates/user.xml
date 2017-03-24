@@ -55,4 +55,9 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="_con" value="&lt;?php &#10;require_once realpath(dirname(__FILE__) . '/../../class/connecthub.php');&#10;&#10;$conn = ConnectHub::instance();&#10;$dbw = $conn-&gt;getConnection('slaveweb');&#10;&#10;$res = $dbw-&gt;query(...);" description="devuelve con con singleton" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
