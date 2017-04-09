@@ -6,7 +6,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/usr/local/Cellar/php-cs-fixer/2.2.0/bin/php-cs-fixer" />
+      <PhpCSConfiguration max_messages_per_file="99" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/opt/php-cs-fixer-v2.phar" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
