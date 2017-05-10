@@ -1,5 +1,15 @@
 <application>
   <component name="atlassian-ide-plugin">
+    <option name="JIRAConfigurationData">
+      <JiraConfigurationBean>
+        <option name="synchronizeWithIntelliJTasks" value="true" />
+      </JiraConfigurationBean>
+    </option>
+    <option name="bambooConfigurationData">
+      <BambooConfigurationBean>
+        <option name="bambooTooltipOption" value="All build failures and first build success" />
+      </BambooConfigurationBean>
+    </option>
     <option name="generalConfigurationData">
       <GeneralConfigurationBean>
         <option name="anonymousEnhancedFeedbackEnabled" value="false" />
