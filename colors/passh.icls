@@ -4,7 +4,7 @@
     <property name="created">2017-05-17T21:30:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-20T19:43:27</property>
+    <property name="modified">2017-05-20T19:51:39</property>
     <property name="originalScheme">Railscasts copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -429,8 +429,13 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="bc9458" />
+        <option name="FOREGROUND" value="ff00ff" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="ff64ff" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -1037,18 +1042,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_DOC_COMMENT_ID">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PHP_DOC_TAG">
-      <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="PHP_FUNCTION">
       <value>
         <option name="FOREGROUND" value="ffff" />
@@ -1579,7 +1572,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="b3ffb4" />
+        <option name="FOREGROUND" value="de00" />
         <option name="BACKGROUND" value="0" />
       </value>
     </option>
