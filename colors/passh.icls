@@ -4,7 +4,7 @@
     <property name="created">2017-05-17T21:30:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-20T20:41:06</property>
+    <property name="modified">2017-05-20T20:57:24</property>
     <property name="originalScheme">Railscasts copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -17,7 +17,7 @@
     <option name="GUTTER_BACKGROUND" value="2b2b2b" />
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="e6e1dc" />
-    <option name="READONLY_BACKGROUND" value="cee4f1" />
+    <option name="READONLY_BACKGROUND" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="545c73" />
     <option name="WHITESPACES" value="404040" />
@@ -1047,6 +1047,12 @@
     <option name="PHP_INTERFACE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PHP_MARKUP_ID">
+      <value>
+        <option name="FOREGROUND" value="bc9458" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
