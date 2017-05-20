@@ -4,7 +4,7 @@
     <property name="created">2017-05-17T21:30:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-18T01:00:24</property>
+    <property name="modified">2017-05-20T19:20:40</property>
     <property name="originalScheme">Railscasts copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -401,7 +401,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="e8bf6a" />
+        <option name="FOREGROUND" value="ff00ff" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -537,6 +537,12 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
@@ -774,7 +780,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c3c57" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ff00" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
     </option>
@@ -1020,6 +1027,12 @@
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ffff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="808080" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1451,7 +1464,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4f4f82" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="b3ffb4" />
       </value>
     </option>
     <option name="SLIM_BAD_CHARACTER">
@@ -1558,7 +1572,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ff00" />
+        <option name="FOREGROUND" value="b3ffb4" />
         <option name="BACKGROUND" value="0" />
       </value>
     </option>
@@ -1595,7 +1609,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="472c47" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="b3ffb4" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
       </value>
     </option>
