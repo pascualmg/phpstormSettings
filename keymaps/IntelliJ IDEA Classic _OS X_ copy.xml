@@ -1,4 +1,7 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="ConfigureCvsRoots">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Tool_-cs-fixer over current class_Php-cs-fixer">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
