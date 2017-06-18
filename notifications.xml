@@ -1,12 +1,38 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Database execution log" displayType="NONE" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database view log" displayType="NONE" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
-    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" />
-    <notification groupId="Profiling" />
-    <notification groupId="System Health" displayType="STICKY_BALLOON" />
-    <notification groupId="Web Deployment: File Transfer" displayType="TOOL_WINDOW" />
-    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
+    <notification groupId="JSCS Config Import" displayType="NONE" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" />
+    <notification groupId="PHP Interpreters" shouldReadAloud="true" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Platform and Plugin Updates" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Power Save Mode" shouldReadAloud="true" />
+    <notification groupId="Profiling" shouldReadAloud="true" />
+    <notification groupId="Project Startup Tasks Messages" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Remote Desktop" shouldReadAloud="true" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Settings Repository" shouldReadAloud="true" />
+    <notification groupId="Symfony Plugin" shouldReadAloud="true" />
+    <notification groupId="System Health" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="System Health (minor)" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="TypeScript Compiler Info" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="V8 CPU Profiling Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="V8 Heap Snapshot Analysis Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Vcs Notifications" shouldReadAloud="true" />
+    <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Web Deployment" shouldReadAloud="true" />
+    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" shouldReadAloud="true" />
   </component>
 </application>
