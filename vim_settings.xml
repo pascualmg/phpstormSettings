@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1499088007515">
+      <file name="/Dummy.txt" timestamp="1499090275031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499078786128" />
+      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499090059832">
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="56" />
+        <mark key="." line="33" column="56" />
+      </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" timestamp="1499088108956">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="10" column="0" />
@@ -36,10 +40,10 @@
         <mark key="^" line="66" column="4" />
         <mark key="." line="66" column="4" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499086776913">
+      <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499089986309">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
-        <mark key="^" line="1" column="78" />
+        <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1499081178141">
@@ -58,11 +62,11 @@
         <mark key="." line="42" column="33" />
         <mark key="^" line="42" column="33" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1499084677291">
-        <mark key="[" line="1" column="114" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="10" column="46" />
-        <mark key="^" line="10" column="46" />
+      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1499090145275">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+        <mark key="^" line="2" column="102" />
       </file>
     </filemarks>
     <jumps>
@@ -115,52 +119,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYWRvIC94bWwvZmVlZC9za2VsCg==</text>
       </register>
       <register name="-" type="4">
         <text>DEVELOP</text>
       </register>
       <register name="/" type="4">
-        <text>addsingle</text>
+        <text>deve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvY2xhc3MvUGNjb21GZWVkZXJBYnN0cmFjdC5jbGFzcy5waHAnOwovKioK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYWRvIC94bWwvZmVlZC9za2VsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9pbmNsdWRlX29uY2UgJy4uLy4uL2NsYXNzL1BjY29tRmVlZGVyQWJzdHJhY3QuY2xhc3MucGhwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly9pbmNsdWRlX29uY2UgJy4uLy4uL2NsYXNzL1BjY29tRmVlZGVyQWJzdHJhY3QuY2xhc3MucGhwJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGV4Y2VwdGlvbi0+Z2V0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJGV4Y2VwdGlvbi0+Z2V0TWVzc2FnZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSBjYXRjaCAoRXhjZXB0aW9uICRleGNlcHRpb24gKQo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJ5IHsK</text>
+        <text encoding="base64">fSBjYXRjaCAoRXhjZXB0aW9uICRleGNlcHRpb24gKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAibm92YSI7Cg==</text>
+        <text encoding="base64">dHJ5IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGllKCk7ZGQK</text>
+        <text encoding="base64">ZWNobyAibm92YSI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addsingle</last-search>
+      <last-search>deve</last-search>
       <last-offset />
-      <last-pattern>addsingle</last-pattern>
+      <last-pattern>deve</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -173,6 +177,7 @@
         <entry>error</entry>
         <entry>machaca</entry>
         <entry>addsingle</entry>
+        <entry>deve</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
