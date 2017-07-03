@@ -13,6 +13,13 @@
         <mark key="^" line="97" column="13" />
         <mark key="." line="97" column="13" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/app/config/parameters.yml" timestamp="1499072435149">
+        <mark key="'" line="45" column="13" />
+        <mark key="[" line="66" column="5" />
+        <mark key="]" line="66" column="4" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="66" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="112" column="6" filename="$USER_HOME$/src/cron/cron/tareas/doofinder/ApicallerDoofinder.php" />
@@ -22,6 +29,10 @@
       <jump line="92" column="35" filename="$USER_HOME$/src/cron/cron/tareas/doofinder/ApicallerDoofinder.php" />
       <jump line="99" column="51" filename="$USER_HOME$/src/cron/cron/tareas/doofinder/ApicallerDoofinder.php" />
       <jump line="126" column="35" filename="$USER_HOME$/src/cron/cron/tareas/doofinder/ApicallerDoofinder.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
+      <jump line="21" column="13" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
+      <jump line="44" column="28" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
+      <jump line="45" column="13" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -31,13 +42,13 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="/" type="4">
-        <text>getToken</text>
+        <text>api</text>
       </register>
     </registers>
     <search>
-      <last-search>getToken</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>getToken</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -45,8 +56,13 @@
       <history-search>
         <entry>pccapi</entry>
         <entry>getToken</entry>
+        <entry>api</entry>
       </history-search>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
