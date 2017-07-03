@@ -3,10 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1499079206489">
+      <file name="/Dummy.txt" timestamp="1499080703033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499078786128" />
+      <file name="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" timestamp="1499082161410" />
+      <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1499082232300">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="130" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/controller.php" timestamp="1499082200042" />
       <file name="$USER_HOME$/src/cron/cron/tareas/doofinder/ApicallerDoofinder.php" timestamp="1499066811466">
         <mark key="'" line="126" column="35" />
         <mark key="[" line="97" column="14" />
@@ -21,8 +29,16 @@
         <mark key="^" line="66" column="4" />
         <mark key="." line="66" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1499081178141">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/controller.php" timestamp="1499079089196">
         <mark key="[" line="24" column="114" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1499082169862">
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -39,17 +55,47 @@
       <jump line="45" column="13" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvc2tlbC9jbGFzcy9mZWVkZXIucGhwJzsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>j</text>
+      </register>
+      <register name="/" type="4">
+        <text>api</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIGlmICgkbkRlc2NyaXB0aW9uLT5sZW5ndGggIT09IE5VTEwgJiYgJG5EZXNjcmlwdGlvbi0+bGVuZ3RoID4gMCApewogICAgICAgICAgICAgJHRoaXMtPmN1cnJlbnRJdGVtLT5yZW1vdmVDaGlsZCgkbkRlc2NyaXB0aW9uLT5pdGVtKDApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvc2tlbC9jbGFzcy9mZWVkZXIucGhwJzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGlmICgkbkRlc2NyaXB0aW9uLT5sZW5ndGggIT09IE5VTEwgJiYgJG5EZXNjcmlwdGlvbi0+bGVuZ3RoID4gMCApewogICAgICAgICAgICAgJHRoaXMtPmN1cnJlbnRJdGVtLT5yZW1vdmVDaGlsZCgkbkRlc2NyaXB0aW9uLT5pdGVtKDApKTsK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZWNobyAiaG9sYWNhcmFjb2xhIjsK</text>
       </register>
-      <register name="/" type="4">
-        <text>api</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZWNobyAiY2FyZ2FkbyI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwvL2ZlZWQvY2xhc3MvUGNjb21GZWVkZXJBYnN0cmFjdC5jbGFzcy5waHAnOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGllKCk7ZGRkCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvY2xhc3MvUGNjb21GZWVkZXJBYnN0cmFjdC5jbGFzcy5waHAnOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>help</text>
       </register>
     </registers>
     <search>
@@ -65,7 +111,10 @@
         <entry>getToken</entry>
         <entry>api</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+        <entry>help</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
