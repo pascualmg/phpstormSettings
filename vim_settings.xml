@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1499065354091">
+      <file name="/Dummy.txt" timestamp="1499079206489">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499078786128" />
       <file name="$USER_HOME$/src/cron/cron/tareas/doofinder/ApicallerDoofinder.php" timestamp="1499066811466">
         <mark key="'" line="126" column="35" />
         <mark key="[" line="97" column="14" />
@@ -13,12 +14,15 @@
         <mark key="^" line="97" column="13" />
         <mark key="." line="97" column="13" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/app/config/parameters.yml" timestamp="1499075506046">
+      <file name="$USER_HOME$/src/pccapi/app/config/parameters.yml" timestamp="1499075620501">
         <mark key="'" line="45" column="13" />
         <mark key="[" line="66" column="5" />
         <mark key="]" line="66" column="4" />
         <mark key="^" line="66" column="4" />
         <mark key="." line="66" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/controller.php" timestamp="1499079089196">
+        <mark key="[" line="24" column="114" />
       </file>
     </filemarks>
     <jumps>
@@ -35,11 +39,14 @@
       <jump line="45" column="13" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIGlmICgkbkRlc2NyaXB0aW9uLT5sZW5ndGggIT09IE5VTEwgJiYgJG5EZXNjcmlwdGlvbi0+bGVuZ3RoID4gMCApewogICAgICAgICAgICAgJHRoaXMtPmN1cnJlbnRJdGVtLT5yZW1vdmVDaGlsZCgkbkRlc2NyaXB0aW9uLT5pdGVtKDApKTsK</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIGlmICgkbkRlc2NyaXB0aW9uLT5sZW5ndGggIT09IE5VTEwgJiYgJG5EZXNjcmlwdGlvbi0+bGVuZ3RoID4gMCApewogICAgICAgICAgICAgJHRoaXMtPmN1cnJlbnRJdGVtLT5yZW1vdmVDaGlsZCgkbkRlc2NyaXB0aW9uLT5pdGVtKDApKTsK</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
@@ -58,10 +65,22 @@
         <entry>getToken</entry>
         <entry>api</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
