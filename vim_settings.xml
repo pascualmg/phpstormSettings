@@ -3,16 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1499080703033">
+      <file name="/Dummy.txt" timestamp="1499084546810">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499078786128" />
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" timestamp="1499082161410" />
-      <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1499082232300">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="130" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1499084801079">
+        <mark key="[" line="71" column="70" />
+        <mark key="]" line="74" column="5" />
+        <mark key="^" line="74" column="5" />
+        <mark key="." line="74" column="5" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/controller.php" timestamp="1499082200042" />
       <file name="$USER_HOME$/src/cron/cron/tareas/doofinder/ApicallerDoofinder.php" timestamp="1499066811466">
@@ -35,10 +37,14 @@
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/controller.php" timestamp="1499079089196">
         <mark key="[" line="24" column="114" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1499082169862">
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1499084275499">
+        <mark key="'" line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1499084677291">
+        <mark key="[" line="1" column="114" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="10" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -53,19 +59,52 @@
       <jump line="21" column="13" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
       <jump line="44" column="28" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
       <jump line="45" column="13" filename="$USER_HOME$/src/pccapi/app/config/parameters.yml" />
+      <jump line="25" column="22" filename="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="637" column="30" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="662" column="46" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="779" column="36" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="781" column="43" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="782" column="56" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="787" column="54" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="803" column="38" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="804" column="57" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="806" column="106" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="810" column="86" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="811" column="100" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="812" column="88" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="813" column="88" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="814" column="82" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="828" column="64" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="830" column="64" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="918" column="32" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="975" column="73" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="976" column="73" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="977" column="50" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="34" column="2" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="149" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="323" column="25" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="985" column="65" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1058" column="21" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1067" column="102" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1068" column="76" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1237" column="22" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="33" column="19" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvc2tlbC9jbGFzcy9mZWVkZXIucGhwJzsK</text>
+        <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvY2xhc3MvUGNjb21GZWVkZXJBYnN0cmFjdC5jbGFzcy5waHAnOwovKioK</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>DES-1192 Solo 1.600 productos en el feed de Google Shopping</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGlmICgkbkRlc2NyaXB0aW9uLT5sZW5ndGggIT09IE5VTEwgJiYgJG5EZXNjcmlwdGlvbi0+bGVuZ3RoID4gMCApewogICAgICAgICAgICAgJHRoaXMtPmN1cnJlbnRJdGVtLT5yZW1vdmVDaGlsZCgkbkRlc2NyaXB0aW9uLT5pdGVtKDApKTsK</text>
+        <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvY2xhc3MvUGNjb21GZWVkZXJBYnN0cmFjdC5jbGFzcy5waHAnOwovKioK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvc2tlbC9jbGFzcy9mZWVkZXIucGhwJzsK</text>
@@ -95,13 +134,13 @@
         <text encoding="base64">aW5jbHVkZV9vbmNlICcvaG9tZS9jb21wb25lbnRlL2RvbWFpbnMvcGNjb21wb25lbnRlcy5jb20vcHVibGljX2h0bWwveG1sL2ZlZWQvY2xhc3MvUGNjb21GZWVkZXJBYnN0cmFjdC5jbGFzcy5waHAnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>help</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -110,10 +149,12 @@
         <entry>pccapi</entry>
         <entry>getToken</entry>
         <entry>api</entry>
+        <entry>[</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>help</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,6 +171,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
