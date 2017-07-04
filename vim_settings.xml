@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1499116635235">
-        <mark key="[" line="1393" column="7" />
-        <mark key="]" line="1390" column="0" />
-        <mark key="^" line="1390" column="45" />
-        <mark key="." line="1390" column="0" />
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1499167653733">
+        <mark key="[" line="1411" column="13" />
+        <mark key="]" line="1411" column="14" />
+        <mark key="^" line="1411" column="14" />
+        <mark key="." line="1411" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1499168225686">
+        <mark key="[" line="76" column="57" />
+        <mark key="]" line="76" column="1" />
+        <mark key="." line="76" column="1" />
+        <mark key="^" line="76" column="1" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" timestamp="1499108662302">
         <mark key="'" line="30" column="11" />
@@ -21,6 +27,8 @@
         <mark key="." line="286" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.orig.php" timestamp="1499110468535" />
+      <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/controller.php" timestamp="1499168300426" />
+      <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/controller.php" timestamp="1499168087281" />
     </filemarks>
     <jumps>
       <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
@@ -32,44 +40,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICRleGlzdGUgPSBQY2NvbUZlZWRlckFic3RyYWN0Ojppc1ZhbGlkTm9kZSgkbkRlc2NyaXB0aW9uKTsKICAgICAgIHZhcl9kdW1wKCRleGlzdGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>nombreClase</text>
       </register>
       <register name="-" type="4">
-        <text>PccomFeederSalesManago</text>
+        <text>nombreClase</text>
       </register>
       <register name="/" type="4">
         <text>hasdode</text>
       </register>
       <register name="0" type="4">
-        <text>isValidNode(</text>
+        <text>|</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICRleGlzdGUgPSBQY2NvbUZlZWRlckFic3RyYWN0Ojppc1ZhbGlkTm9kZSgkbkRlc2NyaXB0aW9uKTsKICAgICAgIHZhcl9kdW1wKCRleGlzdGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAid2FybmluZzogcGFzYW5kbyB1biBub2RvIG51bGwgYSBpc1ZhbGlkTm9kZS4uLmp1bW1tLCBxdWl6w6EgZXN0byBubyBkZWJlcsOtYSBwYXNhci4uLiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGRhdGUgLiAkdGltZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAid2FybmluZzogcGFzYW5kbyB1biBub2RvIG51bGwgYSBpc1ZhbGlkTm9kZS4uLmp1bW1tLCBxdWl6w6EgZXN0byBubyBkZWJlcsOtYSBwYXNhci4uLiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGltZSA9IGRhdGUoJ0dpLnMnLCAkdGltZXN0YW1wKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICRleGlzdGUgPSBQY2NvbUZlZWRlckFic3RyYWN0Ojppc1ZhbGlkTm9kZSgkbkRlc2NyaXB0aW9uKTsKICAgICAgIHZhcl9kdW1wKCRleGlzdGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZXhwb3J0KCRwb3NzaWJsZU5vZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAid2FybmluZzogcGFzYW5kbyB1biBub2RvIG51bGwgYSBpc1ZhbGlkTm9kZS4uLmp1bW1tLCBxdWl6w6EgZXN0byBubyBkZWJlcsOtYSBwYXNhci4uLiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZXhwb3J0KCRwb3NzaWJsZU5vZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAid2FybmluZzogcGFzYW5kbyB1biBub2RvIG51bGwgYSBpc1ZhbGlkTm9kZS4uLmp1bW1tLCBxdWl6w6EgZXN0byBubyBkZWJlcsOtYSBwYXNhci4uLiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9zc2libGVOb2RlID0gJGl0ZW0tPmdldEVsZW1lbnRzQnlUYWdOYW1lKCRwb3NzaWJsZU5vZGVOYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFeHRyYWVtb3MgZWwgbm9kbyBoaWpvIGRlbCBlbGVtZW50byBidXNjYW5kbyBwb3IgZWwgbm9tYnJlLgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZXhwb3J0KCRwb3NzaWJsZU5vZGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZXhwb3J0KCRwb3NzaWJsZU5vZGUpOwo=</text>
       </register>
     </registers>
     <search>
