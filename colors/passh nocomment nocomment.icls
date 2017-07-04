@@ -1,22 +1,25 @@
-<scheme name="passh" version="142" parent_scheme="Darcula">
+<scheme name="passh nocomment nocomment" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-05-17T21:30:45</property>
+    <property name="created">2017-06-08T22:20:20</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-22T10:51:56</property>
-    <property name="originalScheme">Railscasts copy</property>
+    <property name="modified">2017-06-15T22:11:57</property>
+    <property name="originalScheme">passh nocomment copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="b3ffb4" />
+    <option name="BORDER_LINES_COLOR" value="4286f4" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="333435" />
     <option name="GUTTER_BACKGROUND" value="2b2b2b" />
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="e6e1dc" />
+    <option name="MODIFIED_LINES_COLOR" value="ffff" />
     <option name="READONLY_BACKGROUND" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="545c73" />
@@ -421,6 +424,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
+        <option name="FOREGROUND" value="4286f4" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -497,7 +501,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="ff00ff" />
+        <option name="FOREGROUND" value="5a5a5a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1025,6 +1029,12 @@
     <option name="OC_FORMAT_TOKEN">
       <value>
         <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2d2d2d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONSTANT">

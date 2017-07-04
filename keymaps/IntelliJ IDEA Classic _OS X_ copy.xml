@@ -1,4 +1,24 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="ConfigureCvsRoots">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="GotoNextBookmark">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
   <action id="Tool_-cs-fixer over current class_Php-cs-fixer">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
