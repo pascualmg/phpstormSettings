@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1499442080194">
+      <file name="/Dummy.txt" timestamp="1499449837576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" timestamp="1499108662302">
@@ -18,10 +18,10 @@
       <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1499157031332">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499116322637">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
-        <mark key="." line="286" column="0" />
+      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499449169304">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb79ec66-3280-4887-bebc-9d40b8d51ee9/console.sql" timestamp="1499365387664">
         <mark key="[" line="13" column="24" />
@@ -77,10 +77,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E_ALL</text>
+        <text>include_once '../../class/PccomFeederAbstractDEVELOP.class.php';</text>
       </register>
       <register name="-" type="4">
-        <text>E_ALL</text>
+        <text>include_once '../../class/PccomFeederAbstractDEVELOP.class.php';</text>
       </register>
       <register name="/" type="4">
         <text>des</text>
