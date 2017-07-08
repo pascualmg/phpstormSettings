@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1499529130894">
+      <file name="/Dummy.txt" timestamp="1499539931862">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" timestamp="1499108662302">
         <mark key="'" line="30" column="11" />
@@ -39,12 +41,12 @@
         <mark key="." line="76" column="1" />
         <mark key="^" line="76" column="1" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1499442000651">
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1499541120923">
         <mark key="'" line="248" column="0" />
-        <mark key="[" line="102" column="7" />
-        <mark key="]" line="102" column="13" />
-        <mark key="." line="102" column="13" />
-        <mark key="^" line="102" column="13" />
+        <mark key="[" line="665" column="22" />
+        <mark key="]" line="665" column="25" />
+        <mark key="." line="665" column="25" />
+        <mark key="^" line="665" column="25" />
       </file>
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
@@ -80,10 +82,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>include_once '../../class/PccomFeederAbstractDEVELOP.class.php';</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>include_once '../../class/PccomFeederAbstractDEVELOP.class.php';</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>des</text>
@@ -91,32 +93,33 @@
       <register name="0" type="4">
         <text>|</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>DES-1306 - revision-feed-salesmanago-tras-DES-1260
+arreglado feed salesmanago, parece que no están las promos del pcdays</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIC8vICAvKioKICAgIC8vICAgICAgICAgICAgICogREVTLTEyNDcKICAgIC8vICAgICAgICAgICAgICogPHNhbGVfcHJpY2U+IGhheSBxdWUgcGludGFybG8gY3VhbmRvIGVsIGFydGljdWxvIGVzdGUgaW5jbHVpZG8gZW4gbGFzIHByb21vcyBkZWwgcGMtZGF5cy4KICAgIC8vICAgICAgICAgICAgICogZXN0ZSBjYW1wbyAsIGVzIGVsIGNhbXBvIHF1ZSBzYWxlIHVuaWNhbWVudGUgY3VhbmRvIGVsIGFydGljdWxvIHRpZW5lIHVuIHByZWNpbyBwcm9tb2Npb25hbAogICAgLy8gICAgICAgICAgICAgKiB5IG5vIHNlIG1hY2hhY2EgZWwgcHJlY2lvIG9yaWdpbmFsIGNvbW8gaGFjZW1vcyBjb24gZWwgcGNjb21mZWVkZXIgLgogICAgLy8gICAgICAgICAgICAgKi8KICAgIC8vCiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzcWxQcm9tb2Npb25lc1BjRGF5cyA9ICIKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVAogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYS5pZF9hcnRpY3VsbywKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91bmQoIHBhLmJhc2VfaW1wb25pYmxlICogMS4yMSwgMikgYXMgc2FsZV9wcmljZSAvKnByZWNpbyBudWV2byovCiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogcC4qLAogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYS4qLAogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB0LiogKi8KICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb20gYXBpX3Byb21vY2lvbmVzIHAKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGFwaV9wcm9tb2Npb25fYXJ0aWN1bG9zIHBhIG9uIHBhLmlkX3Byb21vY2lvbiA9IHAuaWRfcHJvbW9jaW9uIGFuZCBwLnNsdWcgPSAncGNkYXlzJwogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gYXBpX3Byb21vY2lvbl9hcnRpY3Vsb3NfdGltZXIgcHQgb24gcHQuaWRfcHJvbW9jaW9uX2FydGljdWxvID0gcGEuaWRfcHJvbW9jaW9uX2FydGljdWxvCiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUgQ1VSUkVOVF9USU1FU1RBTVAoKSBCRVRXRUVOIHB0LmZlY2hhX2luaWNpbyBhbmQgcHQuZmVjaGFfZmluCiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIjsKICAgIC8vCiAgICAvLyAgICAgICAgICAgICRyZXNQcm9tb2Npb25lc1BjRGF5cyA9ICRkYm1hc3Rlci0+cXVlcnkoJHNxbFByb21vY2lvbmVzUGNEYXlzKTsKICAgIC8vICAgICAgICAgICAgaWYgKCEkcmVzUHJvbW9jaW9uZXNQY0RheXMpCiAgICAvLyAgICAgICAgICAgIHsKICAgIC8vICAgICAgICAgICAgICAgIGVjaG8gIldBUk5JTkcgOiBJbXBvc2libGUgb2J0ZW5lciBpbmZvcm1hY2lvbiBkZSBsYXMgcHJvbW9jaW9uZXMgZGUgUGNEYXlzIGRlIGxhIEJhc2UgZGUgZGF0b3MiOwogICAgLy8gICAgICAgICAgICAgICAgZWNobyAiZWwgY2FtcG8gPHNhbGVfcHJpY2U+IG5vIHNlcmEgYWN0dWFsaXphZG8gY29uIGVzdGEgaW5mbyAiOwogICAgLy8gICAgICAgICAgICB9CiAgICAvLwogICAgLy8gICAgICAgICAgICAvL0FRVUkgRVMgT0ROREUgU0UgR1VBUkRBIC4KICAgIC8vICAgICAgICAgICAgJGFyclByb21vY2lvbmVzUGNEYXlzID0gYXJyYXkoKTsKICAgIC8vCiAgICAvLyAgICAgICAgICAgIHdoaWxlICgkcm93UHJvbW9jaW9uZXNQZERheXMgPSAkcmVzUHJvbW9jaW9uZXNQY0RheXMtPmZldGNoX2Fzc29jKCkpCiAgICAvLyAgICAgICAgICAgIHsKICAgIC8vICAgICAgICAgICAgICAgICRhcnJQcm9tb2Npb25lc1BjRGF5c1skcm93UHJvbW9jaW9uZXNQZERheXNbJ2lkX2FydGljdWxvJ11dID0gKGZsb2F0KSRyb3dQcm9tb2Npb25lc1BkRGF5c1snc2FsZV9wcmljZSddOwogICAgLy8gICAgICAgICAgICB9CiAgICAvLwogICAgLy8vLyAgICAgICAgICAgIHZhcl9kdW1wKCRhcnJQcm9tb2Npb25lc1BjRGF5cyk7CiAgICAvLy8vICAgICAgICAgICAgZGllKCk7CiAgICAvLwogICAgLy8gICAgICAgICAgICBpZiAoaXNzZXQoJGFyclByb21vY2lvbmVzUGNEYXlzWyRyb3dbJ2lkX2FydGljdWxvJ11dKSl7CiAgICAvLwogICAgLy8gICAgICAgICAgICAgICAgJGN1cnJlbnRJZEFydGljdWxvID0gJHJvd1snaWRfYXJ0aWN1bG8nXTsKICAgIC8vCiAgICAvLyAgICAgICAgICAgICAgICAkbmV3UHJpY2UgPSAgJGFyclByb21vY2lvbmVzUGNEYXlzWyRjdXJyZW50SWRBcnRpY3Vsb107CiAgICAvLwogICAgLy8KICAgIC8vLy8gICAgICAgICAgICAgICAgZWNobyAieyRjdXJyZW50SWRBcnRpY3Vsb30gLT4geyRuZXdQcmljZX0iIC4gUEhQX0VPTDsKICAgIC8vLy8gICAgICAgICAgICAgICAgZmx1c2goKTsKICAgIC8vCiAgICAvLyAgICAgICAgICAgICAgICAkY3VycmVudGl0ZW0tPmFwcGVuZENoaWxkKCAkZG9tLT5jcmVhdGVFbGVtZW50KCAnZzpzYWxlX3ByaWNlJywgJG5ld1ByaWNlICkpOwogICAgLy8gICAgICAgICAgICB9CiAgICAvLyAgICAgICAgICAgIC8qKiBGSU4gREVTLTEyNDcgKi8KICAgIC8vCiAgICAvLwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBFTkQ7Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBFTkQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBCRUdJTgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBSRVRVUk5TIElOVAo=</text>
+        <text encoding="base64">ICBCRUdJTgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIEZVTkNUSU9OIG5hbWUoKQo=</text>
+        <text encoding="base64">ICBSRVRVUk5TIElOVAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIEZVTkNUSU9OIG5hbWUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBFTkQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
