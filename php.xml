@@ -9,13 +9,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/opt/phpcs.phar" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/Applications/mampstack-7.1.2-0/php/bin/php" id="74c696a1-5398-4799-9074-bbae5f35f603" name="PHP mamp" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/bin/php" id="ec0e727f-30a9-476e-883f-f5a74dc2dd9b" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php56/5.6.30_6/bin/php" id="d05decfa-0756-4d22-91aa-2e3718afa22b" name="PHP 5.6 (brew)" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
