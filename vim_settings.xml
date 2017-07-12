@@ -14,6 +14,12 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1499865371263">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="4" />
+        <mark key="^" line="68" column="4" />
+        <mark key="." line="68" column="4" />
+      </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" timestamp="1499777340418">
         <mark key="'" line="203" column="21" />
         <mark key="[" line="278" column="35" />
@@ -21,10 +27,19 @@
         <mark key="." line="280" column="28" />
         <mark key="^" line="280" column="28" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" timestamp="1499864564718">
+        <mark key="'" line="259" column="17" />
+      </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generate.php" timestamp="1499840796605">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/docker/local/docker-compose.yml" timestamp="1499864240493">
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1499845234922">
         <mark key="[" line="81" column="3" />
@@ -60,6 +75,12 @@
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1499863907568">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="34" />
+        <mark key="^" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+      </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499764246579">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="16" />
@@ -83,7 +104,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499849974178">
+      <file name="/Dummy.txt" timestamp="1499865269047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -106,7 +127,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/docker/local/app-fpm/Dockerfile" timestamp="1499858632641">
+      <file name="$USER_HOME$/src/pccfront/docker/local/app-fpm/Dockerfile" timestamp="1499861024310">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="7" column="3" />
         <mark key="^" line="7" column="3" />
@@ -121,17 +142,14 @@
         <mark key="^" line="53" column="44" />
         <mark key="." line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/docker/local/start_dockers.sh" timestamp="1499854985345">
+      <file name="$USER_HOME$/src/pccapi/docker/local/start_dockers.sh" timestamp="1499864981784">
         <mark key="[" line="44" column="48" />
         <mark key="]" line="44" column="64" />
         <mark key="^" line="47" column="1" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1499858373572">
+      <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1499863126937">
         <mark key="[" line="0" column="14" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -148,19 +166,21 @@
       <jump line="55" column="5" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="212" column="71" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="210" column="21" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
+      <jump line="74" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
+      <jump line="259" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIC4uLy4uL2FwcC9sb2dzL25naW54LzovdmFyL2xvZy9uZ2lueAo=</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgZXhlYyBmcG1fYXBpd2ViIGJhc2ggLWMgImFwdC1nZXQgaW5zdGFsbCBnaXQiICAgIA==</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>des</text>
+        <text>sales</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICYmIGVjaG8gInhkZWJ1Zy5yZW1vdGVfYXV0b3N0YXJ0PW9mZiIgPj4gL3Vzci9sb2NhbC9ldGMvcGhwL2NvbmYuZC94ZGVidWcuaW5pCg==</text>
+        <text encoding="base64">ICAgIGFwaV9jYWxsZXJfaG9zdDogJ2h0dHA6Ly9sb2NhbGhvc3Q6NjA4MC8nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtIC4uLy4uL2FwcC9sb2dzL25naW54LzovdmFyL2xvZy9uZ2lueAo=</text>
@@ -194,9 +214,9 @@
       </register>
     </registers>
     <search>
-      <last-search>des</last-search>
+      <last-search>sales</last-search>
       <last-offset />
-      <last-pattern>des</last-pattern>
+      <last-pattern>sales</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -207,6 +227,8 @@
         <entry>hasdode</entry>
         <entry>des-1247</entry>
         <entry>des</entry>
+        <entry>salesman</entry>
+        <entry>sales</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -226,6 +248,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
