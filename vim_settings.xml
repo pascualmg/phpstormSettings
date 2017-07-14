@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/PHP Console" timestamp="1499967334014">
+      <file name="/PHP Console" timestamp="1500070869279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/UsersRepository.php" timestamp="1499941770799">
@@ -107,7 +107,7 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500030254505">
+      <file name="/Dummy.txt" timestamp="1500071170836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -130,6 +130,12 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="33" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/standardSchemas/XMLSchema-instance.xsd" timestamp="1500070373001" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/User/BillingAddress/DeleteBillingAddressTest.php" timestamp="1500071455224">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Review/createArticleReview.php" timestamp="1500013813756">
         <mark key="[" line="27" column="27" />
         <mark key="]" line="27" column="27" />
@@ -144,7 +150,7 @@
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/User/BillingAddress/DeleteBillingAddress.php" timestamp="1499967521900">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/User/BillingAddress/DeleteBillingAddress.php" timestamp="1500071611257">
         <mark key="[" line="27" column="39" />
       </file>
     </filemarks>
@@ -165,11 +171,11 @@
       <jump line="20" column="24" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Review/createArticleReviewCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlZHNzZGQgcGhwdGUK</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>des</text>
@@ -178,31 +184,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgJGlkQXJ0aWN1bG8sICRyZXZpZXcsICRsYW5ndWFnZSwgJGVtYWlsLCAkbmljaywgJGlwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlZHNzZGQgcGhwdGUK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">a2trawo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SWQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbWFpbCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5lbWFpbDsKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgJGVtYWlsOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgJGlkOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICR0aGlzLT5lbWFpbCA9ICRlbWFpbDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICR0aGlzLT5pZCA9ICRpZDsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9fY29uc3RydWN0KGopCg==</text>
+        <text encoding="base64">ICAgICAgICR0aGlzLT5pZCA9ICRpZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -238,6 +244,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
