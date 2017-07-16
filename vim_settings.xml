@@ -33,8 +33,8 @@
         <mark key="." line="41" column="6" />
         <mark key="^" line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/User/BillingAddress/DeleteBillingAddressCommand.php" timestamp="1499938128587">
-        <mark key="[" line="1" column="25" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/User/BillingAddress/DeleteBillingAddressCommand.php" timestamp="1500196428660">
+        <mark key="[" line="19" column="23" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/PHP Console" timestamp="1500070869279">
+      <file name="/PHP Console" timestamp="1500196103066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/UsersRepository.php" timestamp="1499941770799">
@@ -111,6 +111,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/BillingAddressesController.php" timestamp="1500196506851">
+        <mark key="[" line="286" column="70" />
+        <mark key="]" line="172" column="5" />
+        <mark key="." line="172" column="5" />
+        <mark key="^" line="172" column="5" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499764246579">
         <mark key="[" line="22" column="16" />
@@ -182,11 +188,11 @@
       <jump line="20" column="24" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Review/createArticleReviewCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgT2tSZXNwb25zZSgnQmlsbGluZyBhZGRyZXNzIGFkZGVkLicsIDIwMSwgJHVzZXJSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>des</text>
@@ -195,31 +201,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgJGlkQXJ0aWN1bG8sICRyZXZpZXcsICRsYW5ndWFnZSwgJGVtYWlsLCAkbmljaywgJGlwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgT2tSZXNwb25zZSgnQmlsbGluZyBhZGRyZXNzIGFkZGVkLicsIDIwMSwgJHVzZXJSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlZHNzZGQgcGhwdGUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXkobmV3IE9rUmVzcG9uc2UoJ0JpbGxpbmcgYWRkcmVzcyBhZGRlZC4nLCAyMDEsICR1c2VyUmVzcG9uc2UpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2trawo=</text>
+        <text encoding="base64">dXNlZHNzZGQgcGhwdGUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SWQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbWFpbCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5lbWFpbDsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">a2trawo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGVtYWlsOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SWQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbWFpbCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5lbWFpbDsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGlkOwo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICR0aGlzLT5lbWFpbCA9ICRlbWFpbDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGVtYWlsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
