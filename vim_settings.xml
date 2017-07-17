@@ -24,12 +24,6 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" timestamp="1499864564718">
         <mark key="'" line="259" column="17" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/docker/local/docker-compose.yml" timestamp="1499949826943">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1499845234922">
         <mark key="[" line="81" column="3" />
         <mark key="]" line="81" column="2" />
@@ -64,7 +58,7 @@
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1499863907568">
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1500276853445">
         <mark key="[" line="41" column="22" />
         <mark key="]" line="41" column="34" />
         <mark key="^" line="41" column="34" />
@@ -109,12 +103,7 @@
         <mark key="." line="722" column="19" />
         <mark key="^" line="722" column="19" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/docker/local/app-fpm/Dockerfile" timestamp="1499950796606">
-        <mark key="[" line="7" column="86" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-      </file>
+      <file name="$USER_HOME$/src/pccfront/docker/local/app-fpm/Dockerfile" timestamp="1499950796606" />
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
@@ -159,7 +148,7 @@
         <text>id_articulo = 133540</text>
       </register>
       <register name="/" type="4">
-        <text>zend_ex</text>
+        <text>apica</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICYmIGVjaG8gInhkZWJ1Zy5yZW1vdGVfaG9zdD0xOTIuMTY4LjEzLjM3IiA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL3hkZWJ1Zy5pbmkK</text>
@@ -198,9 +187,9 @@ se modifica el controller.</text>
       </register>
     </registers>
     <search>
-      <last-search>zend_ex</last-search>
+      <last-search>apica</last-search>
       <last-offset />
-      <last-pattern>zend_ex</last-pattern>
+      <last-pattern>apica</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -216,6 +205,7 @@ se modifica el controller.</text>
         <entry>availia</entry>
         <entry>availi</entry>
         <entry>zend_ex</entry>
+        <entry>apica</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
