@@ -39,10 +39,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500317994909">
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500322901390">
+        <mark key="[" line="233" column="25" />
+        <mark key="]" line="233" column="32" />
+        <mark key="." line="233" column="32" />
+        <mark key="^" line="233" column="32" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1499841307937">
         <mark key="[" line="57" column="0" />
@@ -50,16 +51,17 @@
         <mark key="." line="76" column="1" />
         <mark key="^" line="76" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1500296084898">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1500322950864">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="59" />
+        <mark key="." line="57" column="59" />
+        <mark key="^" line="57" column="59" />
       </file>
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1500318009669">
+      <file name="/PHP Console" timestamp="1500322798054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
@@ -79,6 +81,12 @@
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManagoCommand.php" timestamp="1500320936923">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/generatecache.php" timestamp="1499762153380">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="16" />
@@ -91,7 +99,7 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500312218545">
+      <file name="/Dummy.txt" timestamp="1500320570967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -154,6 +162,9 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
+        <mark key="[" line="14" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
@@ -180,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICRiYXNrZXRNYW5hZ2VyLT5sb2FkRnJvbUNhcnQoJGlkQ2FydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaXNOb3RMb2dnZWQgPSAhaXNfb2JqZWN0KENvbnRhaW5lcml6YWJsZTo6Z2V0TG9nZ2VkVXNlcigpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdSZQ==</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
@@ -192,31 +203,31 @@
         <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldElkQ2FydCgpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICRiYXNrZXRNYW5hZ2VyLT5sb2FkRnJvbUNhcnQoJGlkQ2FydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaXNOb3RMb2dnZWQgPSAhaXNfb2JqZWN0KENvbnRhaW5lcml6YWJsZTo6Z2V0TG9nZ2VkVXNlcigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYmFza2V0TWFuYWdlci0+dXBkYXRlQmFza2V0KClzdGF1cmFyIENhcnJpdG8geyRpZENhcnR9JzsK</text>
+        <text encoding="base64">ICAkYmFza2V0TWFuYWdlciA9ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgLyoqIEB2YXIgQmFza2V0TWFuYWdlciAkYmFza2V0TWFuYWdlciAqLwogICAgICAgICRiYXNrZXRNYW5hZ2VyID0gbmV3IEJhc2tldE1hbmFnZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ29tbWFuZCBkZSBCdWVub3NWaW5vcyAuLi4gcXVlIHJlY2liZSBlbCBpZENhcnQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICRiYXNrZXRNYW5hZ2VyLT5sb2FkRnJvbUNhcnQoJGlkQ2FydCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAkYmFza2V0TWFuYWdlci0+dXBkYXRlQmFza2V0KClzdGF1cmFyIENhcnJpdG8geyRpZENhcnR9JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FkZW5hID0gJ1Jlc3RhdXJhciBDYXJyaXRvIHskaWRDYXJ0fSc7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBgUmVzdGF1cmFyIENhcnJpdG8geyRpZENhcnR9YAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgibm8gZXN0w6FzIGxvZ3VlYWRvICIpOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -277,6 +288,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
