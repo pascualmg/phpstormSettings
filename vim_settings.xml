@@ -3,12 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/SalesManagoApiBundle/Resources/config/routing.yml" timestamp="1500246862171">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/RequestBuilder/SalesManagoRequestBuilder.php" timestamp="1500244089524" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1499438587845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="9" />
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Resources/config/services.yml" timestamp="1500245326930">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1500015970653">
         <mark key="[" line="0" column="0" />
@@ -23,6 +32,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/vendor/pixers/salesmanago-api/src/Pixers/SalesManagoAPI/Service/ContactService.php" timestamp="1500245894977" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb79ec66-3280-4887-bebc-9d40b8d51ee9/console.sql" timestamp="1499365387664">
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="24" />
@@ -58,15 +68,14 @@
         <mark key="." line="76" column="1" />
         <mark key="^" line="76" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ListBundle/Model/ReviewsManager.php" timestamp="1499944923083">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="79" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/User/BillingAddress/createBillingAddress.php" timestamp="1500016224408">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/SalesManagoApiBundle/Controller/DefaultController.php" timestamp="1500234601286">
-        <mark key="[" line="4" column="56" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/SalesManagoApiBundle/Controller/DefaultController.php" timestamp="1500249853601">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="28" />
+        <mark key="." line="40" column="28" />
+        <mark key="^" line="40" column="28" />
       </file>
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
@@ -74,8 +83,13 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/PHP Console" timestamp="1500196103066">
+      <file name="/PHP Console" timestamp="1500247463052">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/SalesManagoApiBundle/Tests/Controller/DefaultControllerTest.php" timestamp="1500248664779">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/UsersRepository.php" timestamp="1499941770799">
         <mark key="[" line="201" column="35" />
@@ -108,7 +122,7 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500231146759">
+      <file name="/Dummy.txt" timestamp="1500244532705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -149,6 +163,12 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="59" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/SalesManagoApiBundle/pccSalesmanagoApi.php" timestamp="1500248395923">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/User/BillingAddress/DeleteBillingAddressTest.php" timestamp="1500073123683">
         <mark key="[" line="10" column="66" />
         <mark key="]" line="10" column="40" />
@@ -183,6 +203,13 @@
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/User/BillingAddress/DeleteBillingAddress.php" timestamp="1500071611257">
         <mark key="[" line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/app/config/routing.yml" timestamp="1500246828299">
+        <mark key="'" line="223" column="4" />
+        <mark key="[" line="226" column="15" />
+        <mark key="]" line="224" column="0" />
+        <mark key="^" line="224" column="0" />
+        <mark key="." line="224" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
@@ -199,46 +226,48 @@
       <jump line="212" column="71" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="210" column="21" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="20" column="24" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Review/createArticleReviewCommand.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
+      <jump line="223" column="4" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>M</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
         <text>des</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVybCI6ICJzc2g6Ly9naXRAYml0YnVja2V0LnBjY29tcG9uZW50ZXMuY29tOjc5OTkvd3AvcGNjb2F1dGhsaWJyYXJ5LmdpdCIK</text>
+      <register name="0" type="4">
+        <text>http://www.salesmanago.pl/api'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9uZXcgSGlwXE1hbmRyaWxsQnVuZGxlXEhpcE1hbmRyaWxsQnVuZGxlKCksCiAgICAgICAgICAgIG5ldyBTb2ZvcnRcU29mb3J0QnVuZGxlKCksCiAgICAgICAgICAgIG5ldyBKTVNcVHJhbnNsYXRpb25CdW5kbGVcSk1TVHJhbnNsYXRpb25CdW5kbGUoKSwK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZW9mCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbWFuZCA9IG5ldyBDcmVhdGVBcnRpY2xlUmV2aWV3Q29tbWFuZCg2NjY2NjYsJ0xvcmVtIGlwc3VtJywgJ2VzJywgJ2luZm9AbG9rZXNlYS5lcycsICd5bycsICcxMjcuMC4wLjEnKTsK</text>
+        <text encoding="base64">dXNlIFBpeGVyc1xTYWxlc01hbmFnb0FQSVxTZXJ2aWNlXENvbnRhY3RTZXJ2aWNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApKS0+aGFuZGxlKAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldERvY3RyaW5lKCktPmdldFJlcG9zaXRvcnkoJ1BjY0VudGl0eUJ1bmRsZTpVc2VycycpLAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKERlbGV0ZUJpbGxpbmdBZGRyZXNzQ29tbWFuZDo6ZnJvbUh0dHBSZXF1ZXN0KCRyZXF1ZXN0KSktPnZhbGlkYXRlKCkgdmFsaWRhdGUoJHRoaXMtPmdldCgndmFsaWRhdG9yJykpCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBSZXNwb25zZURhdGFUcmFuc2Zvcm1lcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBqc29uX2RlY29kZShqc29uX2VuY29kZSgkcmVzcG9uc2UpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgT2tSZXNwb25zZSgnQmlsbGluZyBhZGRyZXNzIGFkZGVkLicsIDIwMSwgJHVzZXJSZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgID0ganNvbl9kZWNvZGUoJHJlc3BvbnNlLCB0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXkobmV3IE9rUmVzcG9uc2UoJ0JpbGxpbmcgYWRkcmVzcyBhZGRlZC4nLCAyMDEsICR1c2VyUmVzcG9uc2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
