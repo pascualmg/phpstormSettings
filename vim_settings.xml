@@ -21,16 +21,21 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500294657884">
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500300449584">
+        <mark key="[" line="230" column="9" />
+        <mark key="]" line="230" column="25" />
+        <mark key="." line="230" column="25" />
+        <mark key="^" line="230" column="25" />
       </file>
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" timestamp="1499864564718">
-        <mark key="'" line="259" column="17" />
+      <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1500296783337">
+        <mark key="'" line="59" column="25" />
+        <mark key="[" line="59" column="24" />
+        <mark key="]" line="59" column="25" />
+        <mark key="^" line="59" column="25" />
+        <mark key="." line="59" column="25" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1499845234922">
         <mark key="[" line="81" column="3" />
@@ -54,7 +59,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/index-generic-article-list.html.twig" timestamp="1500292878434" />
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/controller.php" timestamp="1499759915546">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="16" />
@@ -85,7 +89,7 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1500294694670">
+      <file name="/PHP Console" timestamp="1500299901189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500011312517">
@@ -94,8 +98,11 @@
         <mark key="^" line="59" column="29" />
         <mark key="." line="59" column="29" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1500294631507">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1500296084898">
         <mark key="'" line="42" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/docker-compose.yml" timestamp="1499851849673">
         <mark key="[" line="15" column="45" />
@@ -103,7 +110,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500293645783">
+      <file name="/Dummy.txt" timestamp="1500300357006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -121,8 +128,15 @@
         <mark key="." line="722" column="19" />
         <mark key="^" line="722" column="19" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" timestamp="1500294062237">
+      <file name="/fragment.php" timestamp="1500300134247">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" timestamp="1500296777138">
         <mark key="'" line="274" column="15" />
+        <mark key="[" line="546" column="32" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
@@ -163,57 +177,61 @@
       <jump line="269" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
       <jump line="274" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
       <jump line="42" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" />
+      <jump line="59" column="25" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>resum</text>
+        <text>load</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldElkQ2FydCgpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoQ29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldElkQ2FydCgpKTsKICAgICAgICAgICAgICAgIGRpZSgpOyA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>DES-1069 generar-feed-completo-es-automaticamente-salesmanago
-se deja en xml sin gz. 
-se modifica el controller.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRwCg==</text>
+        <text encoding="base64">ICAgICAgICAkY2FkZW5hID0gJ1Jlc3RhdXJhciBDYXJyaXRvIHskaWRDYXJ0fSc7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dWJsaWMgZnVuY3Rpb24gZ2V0Q2FjaGVGaWxlTmFtZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRDYWNoZUZpbGVuYW1lSW5YbWwoKTsKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBgUmVzdGF1cmFyIENhcnJpdG8geyRpZENhcnR9YAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICYmIGVjaG8gInhkZWJ1Zy5yZW1vdGVfaG9zdD0xOTIuMTY4LjEzLjM3IiA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL3hkZWJ1Zy5pbmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgibm8gZXN0w6FzIGxvZ3VlYWRvICIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICYmIGVjaG8gInhkZWJ1Zy5yZW1vdGVfcG9ydD05MDAzIiA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL3hkZWJ1Zy5pbmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIFhERUJVR19DT05GSUc6IHJlbW90ZV9ob3N0PScxOTIuMTY4LjEzLjM3Jwo=</text>
+      <register name="9" type="4">
+        <text>pcc_restore_cart_after_mail_salesmanago:
+    path:     /restorecart/{idCart}
+    defaults: { _controller: PccWebBundle:User/Basket/Basket:restoreCartAfterMailSalesManago }
+    methods: [GET]
+    options:
+        expose: true</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resum</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>resum</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -232,6 +250,8 @@ se modifica el controller.</text>
         <entry>apica</entry>
         <entry>bask</entry>
         <entry>resum</entry>
+        <entry>usuarios</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -260,6 +280,9 @@ se modifica el controller.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
