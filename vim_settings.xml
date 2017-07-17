@@ -39,11 +39,23 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500322901390">
-        <mark key="[" line="233" column="25" />
-        <mark key="]" line="233" column="32" />
-        <mark key="." line="233" column="32" />
-        <mark key="^" line="233" column="32" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/appRestoreCartAfterMailSalesManago.php" timestamp="1500323872743">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="42" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500323987989">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="241" column="67" />
+        <mark key="." line="241" column="67" />
+        <mark key="^" line="241" column="67" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/appRestoreCartAfterMailSalesManagoCommand.php" timestamp="1500323397175">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1499841307937">
         <mark key="[" line="57" column="0" />
@@ -163,7 +175,7 @@
         <mark key="." line="68" column="4" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
-        <mark key="[" line="14" column="0" />
+        <mark key="[" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -191,43 +203,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNOb3RMb2dnZWQgPSAhaXNfb2JqZWN0KENvbnRhaW5lcml6YWJsZTo6Z2V0TG9nZ2VkVXNlcigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldElkQ2FydCgpKQ==</text>
+        <text>Pcc\Application\User;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNOb3RMb2dnZWQgPSAhaXNfb2JqZWN0KENvbnRhaW5lcml6YWJsZTo6Z2V0TG9nZ2VkVXNlcigpKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAkYmFza2V0TWFuYWdlciA9ICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgLyoqIEB2YXIgQmFza2V0TWFuYWdlciAkYmFza2V0TWFuYWdlciAqLwogICAgICAgICRiYXNrZXRNYW5hZ2VyID0gbmV3IEJhc2tldE1hbmFnZXIoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogQ29tbWFuZCBkZSBCdWVub3NWaW5vcyAuLi4gcXVlIHJlY2liZSBlbCBpZENhcnQgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICRiYXNrZXRNYW5hZ2VyLT5sb2FkRnJvbUNhcnQoJGlkQ2FydCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYmFza2V0TWFuYWdlci0+dXBkYXRlQmFza2V0KClzdGF1cmFyIENhcnJpdG8geyRpZENhcnR9JzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGNhcnRtYW5hZ2VyID0gbmV3IFxQY2NcQnVuZGxlXFdlYkJ1bmRsZVxNb2RlbFxTaG9wcGluZ1xDYXJ0XENhcnRNYW5hZ2VyKCk7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3RpdGxlJyA9PiAncmVzdGF1cmFyIGNhcnJpdG8gJywKICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnUmVzdGF1cmFyIGNhcnJpdG8gJyAuICRpZENhcnRBY3Rpdm8gLAogICAgICAgICAgICBdLAogICAgICAgICAgICBSZXNwb25zZTo6SFRUUF9PSwogICAgICAgICk7</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgVXNlclxhcHBSZXN0b3JlQ2FydEFmdGVyTWFpbFNhbGVzTWFuYWdvKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXGFwcFJlc3RvcmVDYXJ0QWZ0ZXJNYWlsU2FsZXNNYW5hZ287Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIFBjY1xBcHBsaWNhdGlvblxVc2VyOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkaXNOb3RMb2dnZWQgPSAhaXNfb2JqZWN0KENvbnRhaW5lcml6YWJsZTo6Z2V0TG9nZ2VkVXNlcigpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAkYmFza2V0TWFuYWdlciA9ICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgLyoqIEB2YXIgQmFza2V0TWFuYWdlciAkYmFza2V0TWFuYWdlciAqLwogICAgICAgICRiYXNrZXRNYW5hZ2VyID0gbmV3IEJhc2tldE1hbmFnZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
