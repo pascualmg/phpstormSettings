@@ -25,11 +25,6 @@
         <mark key="^" line="81" column="2" />
         <mark key="." line="81" column="2" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499952499084">
-        <mark key="[" line="115" column="33" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,12 +41,12 @@
         <mark key="." line="25" column="51" />
         <mark key="^" line="25" column="51" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" timestamp="1500335005725">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" timestamp="1500339420886">
         <mark key="'" line="26" column="6" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="30" column="44" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="44" />
+        <mark key="[" line="100" column="78" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="91" column="31" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500336664375">
         <mark key="'" line="223" column="50" />
@@ -93,11 +88,11 @@
         <mark key="]" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" timestamp="1500337730479">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="30" column="7" />
-        <mark key="^" line="30" column="7" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" timestamp="1500358314253">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="47" column="17" />
+        <mark key="^" line="47" column="17" />
+        <mark key="." line="47" column="17" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/controller.php" timestamp="1500009099556">
         <mark key="[" line="60" column="43" />
@@ -126,10 +121,10 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500335081992">
+      <file name="/Dummy.txt" timestamp="1500358293215">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="51" />
+        <mark key="." line="0" column="51" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499764246579">
         <mark key="[" line="22" column="16" />
@@ -143,11 +138,6 @@
         <mark key="]" line="59" column="25" />
         <mark key="^" line="59" column="25" />
         <mark key="." line="59" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/docker/app-fpm/docker-compose.yml" timestamp="1499858395147">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1500318098302">
         <mark key="[" line="0" column="0" />
@@ -204,6 +194,10 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Shopping/Cart/CartManager.php" timestamp="1500339224142">
+        <mark key="[" line="343" column="0" />
+        <mark key="]" line="358" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
@@ -238,43 +232,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text encoding="base64">CmFkZGVkIHJvdXRlIDogdXN1YXJpb3MvbWktbGlzdGEtZGUtZGVzZW9zL3Jlc3RvcmVjYXJ0LzExMzM0CnJlZmFjdG9yaW5nIHNrZWwgZG9uZS4=</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
       </register>
       <register name="0" type="4">
-        <text>$idCartCommingFromSalesManagoMail</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJGlkQ2FydCBpZENhcnQKICAgICAqCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNoZWNrSWZDYXJ0RXhpc3RzKCRpZENhcnQpCiAgICB7CiAgICAgICAgJGNhbGxlciA9IG5ldyBBcGlDYWxsZXIoKTsKCiAgICAgICAgJHJlc3VsdCA9ICRjYWxsZXItPmNyZWF0ZVJlcXVlc3RCdWlsZGVyKCkKICAgICAgICAgICAgLT5zZXRVcmkoJ29yZGVycy8nIC4gJGlkQ2FydCAuICcvY2FydGV4aXN0cycpCiAgICAgICAgICAgIC0+Z2V0UmVxdWVzdCgpLT5zZW5kR2V0KCktPmdldFJlc3VsdCgpOwoKICAgICAgICByZXR1cm4gcHJvcGVydHlfZXhpc3RzKCRyZXN1bHQsICdleGlzdHMnKSAmJiAkcmVzdWx0LT5leGlzdHMgPT09IHRydWU7CiAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGtra2tra2tra2tra2tra2tra2trIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmFkZGVkIHJvdXRlIDogdXN1YXJpb3MvbWktbGlzdGEtZGUtZGVzZW9zL3Jlc3RvcmVjYXJ0LzExMzM0CnJlZmFjdG9yaW5nIHNrZWwgZG9uZS4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRPYmplY3RIYXNBdHRyaWJ1dGUoJ2VtYWlsJywgJGxvZ2dlZFVzZXJEYXRhKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkbG9hZEZyb21DYXJ0UmVzdWx0ID0gJHRoaXMtPl9iYXNrZXRNYW5hZ2VyLT5sb2FkRnJvbUNhcnQoJGNtZC0+Z2V0SWRCYXNrZXQoKSwgICRjbWQtPmdldElkQ2FydERlc2RlTWFpbCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VkVXNlckRhdGEgID0gQ29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRpZENhcnQyUmVzdG9yZSk7ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRFcXVhbHMoMSwxKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIERFUy0xMDgzIGJvdG9uLWd1YXJkYXItY2Fycml0by1saXN0YS1kZXNlb3MtZW4tbWFpbC4K</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRCYXNrZXQ0VGVzdCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRDYXJ0NFRlc3QpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRDYXJ0MlJlc3RvcmUpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+X2Jhc2tldE1hbmFnZXIgPSAkYmFza2V0TWFuYWdlcjsK</text>
+        <text encoding="base64">ZHVtcCgkY21kKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRjbWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
