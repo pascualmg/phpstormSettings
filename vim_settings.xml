@@ -22,10 +22,11 @@
         <mark key="^" line="439" column="0" />
         <mark key="." line="435" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500366033891">
-        <mark key="[" line="239" column="8" />
-        <mark key="]" line="239" column="41" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500371291174">
+        <mark key="[" line="263" column="51" />
+        <mark key="]" line="263" column="51" />
+        <mark key="." line="263" column="51" />
+        <mark key="^" line="262" column="15" />
       </file>
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
@@ -92,6 +93,11 @@
       <file name="/PHP Console" timestamp="1500363918959">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMailCommand.php" timestamp="1500370899287">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="109" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500011312517">
         <mark key="[" line="59" column="30" />
         <mark key="]" line="59" column="29" />
@@ -110,7 +116,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500363481217">
+      <file name="/Dummy.txt" timestamp="1500373110914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,9 +147,11 @@
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" timestamp="1500361412643">
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" timestamp="1500373373131">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="40" column="73" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/app-fpm/Dockerfile" timestamp="1499852188602">
         <mark key="[" line="53" column="76" />
@@ -159,11 +167,11 @@
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" timestamp="1500368375715">
-        <mark key="[" line="105" column="20" />
-        <mark key="]" line="105" column="20" />
-        <mark key="." line="105" column="20" />
-        <mark key="^" line="105" column="20" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" timestamp="1500372898931">
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+        <mark key="^" line="62" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -192,43 +200,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZHVtcGVhbWUgPSAgJHRoaXMtPl9jdXJyZW50U2Vzc2lvbi0+Z2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cm</text>
+        <text>'idCartRestoredFromSalesmanago'</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldElkQ2FydCgpKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXEFwcFJlc3RvcmVDYXJ0SW5mb0FmdGVyTWFpbDsgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZHVtcGVhbWUgPSAgJHRoaXMtPl9jdXJyZW50U2Vzc2lvbi0+Z2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY20gPSBuZXcgQ2FydE1hbmFnZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaWRDYXJ0ID0gJzhjVEtzT0RWNjEnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPl9jdXJyZW50U2Vzc2lvbi0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3VzdWFyaW9zL21pLWxpc3RhLWRlLWRlc2Vvcy9jYXJyaXRvLzhjVEtzT0RWNjEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udGFpbmVyLT5nZXQoJ3Nlc3Npb24nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICRpc09wdGVkT3V0ID0gZmFsc2U7CiAgICAgICAgfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAkY29udGFjdERhdGEgPSAkZGVjb2RlZFNNUmVzcG9uc2VbJ2NvbnRhY3RzJ11bMF07CiAgICAgICAgJGlzT3B0ZWRPdXQgPSAkY29udGFjdERhdGFbJ29wdGVkT3V0J107</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY20gPSBuZXcgQ2FydE1hbmFnZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGNtLT5jaGVja0lmQ2FydEV4aXN0cygkY21kLT5nZXRJZENhcnREZXNkZU1haWwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -292,6 +300,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
