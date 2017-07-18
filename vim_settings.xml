@@ -159,11 +159,11 @@
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" timestamp="1500366126155">
-        <mark key="[" line="89" column="13" />
-        <mark key="]" line="89" column="13" />
-        <mark key="." line="89" column="13" />
-        <mark key="^" line="89" column="12" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" timestamp="1500368375715">
+        <mark key="[" line="105" column="20" />
+        <mark key="]" line="105" column="20" />
+        <mark key="." line="105" column="20" />
+        <mark key="^" line="105" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -191,8 +191,8 @@
       <jump line="108" column="89" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZHVtcGVhbWUgPSAgJHRoaXMtPl9jdXJyZW50U2Vzc2lvbi0+Z2V0SWQoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>cm</text>
@@ -204,31 +204,31 @@
         <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldElkQ2FydCgpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY20gPSBuZXcgQ2FydE1hbmFnZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZHVtcGVhbWUgPSAgJHRoaXMtPl9jdXJyZW50U2Vzc2lvbi0+Z2V0SWQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPl9jdXJyZW50U2Vzc2lvbi0+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udGFpbmVyLT5nZXQoJ3Nlc3Npb24nKTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICRpc09wdGVkT3V0ID0gZmFsc2U7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAkY29udGFjdERhdGEgPSAkZGVjb2RlZFNNUmVzcG9uc2VbJ2NvbnRhY3RzJ11bMF07CiAgICAgICAgJGlzT3B0ZWRPdXQgPSAkY29udGFjdERhdGFbJ29wdGVkT3V0J107</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkY20gPSBuZXcgQ2FydE1hbmFnZXIoKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPl9jdXJyZW50U2Vzc2lvbi0+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udGFpbmVyLT5nZXQoJ3Nlc3Npb24nKTsK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICRpc09wdGVkT3V0ID0gZmFsc2U7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAkY29udGFjdERhdGEgPSAkZGVjb2RlZFNNUmVzcG9uc2VbJ2NvbnRhY3RzJ11bMF07CiAgICAgICAgJGlzT3B0ZWRPdXQgPSAkY29udGFjdERhdGFbJ29wdGVkT3V0J107</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGNtLT5jaGVja0lmQ2FydEV4aXN0cygkY21kLT5nZXRJZENhcnREZXNkZU1haWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY20gPSBuZXcgQ2FydE1hbmFnZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGNtLT5jaGVja0lmQ2FydEV4aXN0cygkY21kLT5nZXRJZENhcnREZXNkZU1haWwoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBkdW1wKCRsb2FkRnJvbUNhcnRSZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXN1bHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
