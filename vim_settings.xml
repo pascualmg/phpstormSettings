@@ -146,7 +146,8 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" timestamp="1500379835607">
+      <file name="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" timestamp="1500381846803">
+        <mark key="'" line="606" column="54" />
         <mark key="[" line="779" column="28" />
         <mark key="]" line="779" column="33" />
         <mark key="." line="779" column="33" />
@@ -208,6 +209,20 @@
       <jump line="42" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" />
       <jump line="59" column="25" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
       <jump line="108" column="89" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
+      <jump line="92" column="20" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="212" column="20" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="378" column="14" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="380" column="21" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="460" column="20" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="596" column="20" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="597" column="20" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="598" column="24" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="599" column="24" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="601" column="15" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="602" column="51" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="604" column="31" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="605" column="19" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="606" column="54" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -218,7 +233,7 @@ CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXEFwcFJlc3RvcmVDYXJ0SW5mb0FmdGVyTWFpbDsgCg==</text>
@@ -256,9 +271,9 @@ CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -279,6 +294,7 @@ CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
         <entry>resum</entry>
         <entry>usuarios</entry>
         <entry>load</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
