@@ -146,12 +146,12 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" timestamp="1500381846803">
-        <mark key="'" line="606" column="54" />
-        <mark key="[" line="779" column="28" />
-        <mark key="]" line="779" column="33" />
-        <mark key="." line="779" column="33" />
-        <mark key="^" line="779" column="33" />
+      <file name="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" timestamp="1500383400307">
+        <mark key="'" line="606" column="47" />
+        <mark key="[" line="773" column="49" />
+        <mark key="]" line="611" column="19" />
+        <mark key="." line="611" column="19" />
+        <mark key="^" line="611" column="19" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" timestamp="1500296777138">
         <mark key="'" line="274" column="15" />
@@ -222,7 +222,7 @@
       <jump line="602" column="51" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
       <jump line="604" column="31" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
       <jump line="605" column="19" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
-      <jump line="606" column="54" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="606" column="47" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -233,7 +233,7 @@ CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>RESERVA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXEFwcFJlc3RvcmVDYXJ0SW5mb0FmdGVyTWFpbDsgCg==</text>
@@ -271,9 +271,9 @@ CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>RESERVA</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>RESERVA</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -295,6 +295,8 @@ CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
         <entry>usuarios</entry>
         <entry>load</entry>
         <entry>filter</entry>
+        <entry>reserva</entry>
+        <entry>RESERVA</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
