@@ -28,6 +28,12 @@
         <mark key="." line="263" column="51" />
         <mark key="^" line="262" column="15" />
       </file>
+      <file name="$USER_HOME$/src/web/xml/PccomFeeder.php" timestamp="1500380255590">
+        <mark key="[" line="228" column="28" />
+        <mark key="]" line="228" column="28" />
+        <mark key="^" line="227" column="62" />
+        <mark key="." line="228" column="28" />
+      </file>
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,10 +122,10 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500373110914">
+      <file name="/Dummy.txt" timestamp="1500380498410">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1499438587845">
         <mark key="[" line="0" column="0" />
@@ -139,6 +145,12 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" timestamp="1500379835607">
+        <mark key="[" line="779" column="28" />
+        <mark key="]" line="779" column="33" />
+        <mark key="." line="779" column="33" />
+        <mark key="^" line="779" column="33" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" timestamp="1500296777138">
         <mark key="'" line="274" column="15" />
@@ -198,8 +210,9 @@
       <jump line="108" column="89" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Abstract.class.php 
+CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -210,20 +223,21 @@
       <register name="0" type="2">
         <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXEFwcFJlc3RvcmVDYXJ0SW5mb0FmdGVyTWFpbDsgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Abstract.class.php 
+CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmhheVF1ZVJlZ2VuZXJhckNhY2hlKCkpIHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkaW5HegogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2VuZXJhdGUoJGluR3opCiAgICB7CiAgICAgICAgJHRoaXMtPnNhdmVYTUx0b0NhY2hlRmlsZSgkaW5Heik7CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+b3V0cHV0X2NhY2hlZF9nenhtbCgkdGhpcy0+Y2FjaGVmaWxlR1opOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -232,10 +246,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGFwcC0+c3RvcmVJbnRvQ3VycmVudFNlc3Npb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWQgPSAkY21kLT5nZXRJZENhcnREZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
