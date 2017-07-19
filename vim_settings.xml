@@ -25,11 +25,10 @@
         <mark key="^" line="437" column="1" />
         <mark key="." line="437" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500448372141">
-        <mark key="[" line="262" column="100" />
-        <mark key="]" line="262" column="100" />
-        <mark key="." line="262" column="100" />
-        <mark key="^" line="262" column="132" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500451402412">
+        <mark key="]" line="245" column="32" />
+        <mark key="^" line="245" column="32" />
+        <mark key="." line="245" column="32" />
       </file>
       <file name="$USER_HOME$/src/web/xml/PccomFeeder.php" timestamp="1500380255590">
         <mark key="[" line="228" column="28" />
@@ -130,7 +129,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500448988323">
+      <file name="/Dummy.txt" timestamp="1500451373657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -233,55 +232,60 @@
       <jump line="33" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
       <jump line="35" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
       <jump line="30" column="83" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
+      <jump line="248" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
+      <jump line="254" column="34" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
+      <jump line="250" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
+      <jump line="256" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
+      <jump line="245" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGVsIGlkQ2FydCBubyBzZSBoYSBndWFyZGFkbyBjb3JyZWN0YW1lbnRlIGVuIGxhIFNlc3Npb24=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGVsIGlkQ2FydCBubyBzZSBoYSBndWFyZGFkbyBjb3JyZWN0YW1lbnRlIGVuIGxhIFNlc3Npb24=</text>
       </register>
       <register name="/" type="4">
-        <text>currentSession</text>
+        <text>ERROR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXQoJ2xvZ2dlcicpLT5lcnJvcigiRXJyb3IgZW4gZnVuY2lvbmFsaWRhZCBERVMtMTA4MyIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDYXJ0TWFuYWdlciAkY2FydE1hbmFnZXIgICAgRWwgY2FydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoJHJldHVybkRhdGEsICRyZXR1cm5Db2RlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhc2tldHQK</text>
+        <text encoding="base64">IGRkICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
+        <text encoding="base64">ICAgICAgICAkcmV0dXJuRGF0YSA9IFsndGl0bGUnID0+ICdTZXQgaWRDYXJ0IGludG8gU2Vzc2lvbiBhZnRlciBTYWxlc21hbmFnbyBNYWlsJ107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRpc1ZhbGlkQ2FydElkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJldHVyblZhbHVlZGQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IEVMIENVUlJPIERFIFBPUiBMQSBNQcORQU5BLiBkZXNjb21lbnRhICBpbnZlc3RpZ2EuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>currentSession</last-search>
+      <last-search>ERROR</last-search>
       <last-offset />
-      <last-pattern>currentSession</last-pattern>
+      <last-pattern>ERROR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -306,6 +310,7 @@
         <entry>reserva</entry>
         <entry>RESERVA</entry>
         <entry>currentSession</entry>
+        <entry>ERROR</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
