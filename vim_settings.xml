@@ -25,12 +25,12 @@
         <mark key="^" line="437" column="1" />
         <mark key="." line="437" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500461226488">
-        <mark key="'" line="275" column="151" />
-        <mark key="[" line="276" column="56" />
-        <mark key="]" line="276" column="56" />
-        <mark key="." line="276" column="56" />
-        <mark key="^" line="276" column="57" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500463813229">
+        <mark key="'" line="237" column="23" />
+        <mark key="[" line="284" column="20" />
+        <mark key="]" line="284" column="20" />
+        <mark key="." line="284" column="20" />
+        <mark key="^" line="284" column="20" />
       </file>
       <file name="$USER_HOME$/src/web/xml/PccomFeeder.php" timestamp="1500380255590">
         <mark key="[" line="228" column="28" />
@@ -105,7 +105,7 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1500459595798">
+      <file name="/PHP Console" timestamp="1500463340038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMailCommand.php" timestamp="1500370899287">
@@ -131,10 +131,10 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500457900962">
+      <file name="/Dummy.txt" timestamp="1500463784653">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1499438587845">
         <mark key="[" line="0" column="0" />
@@ -149,11 +149,11 @@
         <mark key="." line="722" column="19" />
         <mark key="^" line="722" column="19" />
       </file>
-      <file name="/fragment.php" timestamp="1500459530129">
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="/fragment.php" timestamp="1500462799269">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+        <mark key="^" line="0" column="46" />
       </file>
       <file name="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" timestamp="1500383400307">
         <mark key="'" line="606" column="47" />
@@ -240,13 +240,15 @@
       <jump line="84" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="290" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
       <jump line="275" column="151" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
+      <jump line="258" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
+      <jump line="237" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DD;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>DD;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>overwrite</text>
@@ -255,31 +257,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJEVSUk9SO2RkZGQK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPnNldElkQ2FydCgkaWRDYXJ0LCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0IFJlcXVlc3QgZGUgbGEgcGV0aWNpw7NuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaWRDYXJ0IEVsIGlkIGRlIGNhcnJpdG8gY29uIGVsIHF1ZSB2YW1vcyBhIG1hY2hhY2FyIGVsIGFjdHVhbCBkZSBsYSBzZXNzaW9uLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlckNvbnRyb2xsZXIgPSBuZXcgVXNlckNvbnRyb2xsZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlckNvbnRyb2xsZXItPm92ZXJ3cml0ZUlkQ2FydEFjdGlvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IC8vICAgICAgIC8qKgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRpZENhcnRDb21taW5nRnJvbVNhbGVzTWFuYWdvTWFpbAogICAgICov</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ClNlIGRlamEgc2luIGNoZWNrIGRlIHNpIGVsIGlkIHF1ZSBub3MgdmllbmUgZXMgdsOhbGlkbyB0cmFzIGNvbnN1bHRhciAKY29uIEFhcm9uIC4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
