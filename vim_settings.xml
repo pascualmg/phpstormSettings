@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccfront/app/config/acl.yml" timestamp="1500446070223" />
       <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1499841307937">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="86" column="22" />
@@ -22,7 +23,7 @@
         <mark key="^" line="437" column="1" />
         <mark key="." line="437" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500445230187">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500445675275">
         <mark key="[" line="263" column="51" />
         <mark key="]" line="263" column="51" />
         <mark key="." line="263" column="51" />
@@ -44,8 +45,10 @@
         <mark key="^" line="59" column="25" />
         <mark key="." line="59" column="25" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Util/Containerizable.php" timestamp="1500445027260">
-        <mark key="[" line="102" column="20" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Util/Containerizable.php" timestamp="1500446286067">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1499845234922">
         <mark key="[" line="81" column="3" />
@@ -58,6 +61,16 @@
         <mark key="]" line="291" column="72" />
         <mark key="." line="291" column="72" />
         <mark key="^" line="291" column="72" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" timestamp="1499952499084">
+        <mark key="[" line="115" column="33" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/docker/app-fpm/docker-compose.yml" timestamp="1499858395147">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/controller.php" timestamp="1499759915546">
         <mark key="[" line="17" column="16" />
@@ -208,9 +221,8 @@
       <jump line="606" column="47" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Abstract.class.php 
-CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -221,33 +233,33 @@ CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
       <register name="0" type="2">
         <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXEFwcFJlc3RvcmVDYXJ0SW5mb0FmdGVyTWFpbDsgCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sIHRydWUgc2kgZXN0w6EgbG9ndWVhZG8gLCBmYWxzZSBzaW5vIC4gCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gaXNMb2dnZWRVc2VyKCkKICAgIHsKICAgICAgICAkbG9nZ2VkVXNlckRhdGEgPSBDb250YWluZXJpemFibGU6OmdldExvZ2dlZFVzZXIoKTsKCiAgICAgICAgaWYoKQoKCiAgICB9</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgYm9vbCAkaXNMb2dnZWRVc2VyICovCiAgICAgICAgJGlzTm90TG9nZ2VkVXNlciA9ICEoKGJvb2xlYW4paXNfb2JqZWN0KCRsb2dnZWRVc2VyRGF0YSkpOw==</text>
+      </register>
+      <register name="5" type="4">
         <text>Abstract.class.php 
 CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmhheVF1ZVJlZ2VuZXJhckNhY2hlKCkpIHsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkaW5HegogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2VuZXJhdGUoJGluR3opCiAgICB7CiAgICAgICAgJHRoaXMtPnNhdmVYTUx0b0NhY2hlRmlsZSgkaW5Heik7CiAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+b3V0cHV0X2NhY2hlZF9nenhtbCgkdGhpcy0+Y2FjaGVmaWxlR1opOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+b3V0cHV0X2NhY2hlZF9nenhtbCgkdGhpcy0+Y2FjaGVmaWxlR1opOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
