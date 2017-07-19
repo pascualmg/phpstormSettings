@@ -25,12 +25,12 @@
         <mark key="^" line="437" column="1" />
         <mark key="." line="437" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500470040219">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500471335881">
         <mark key="'" line="237" column="23" />
-        <mark key="[" line="257" column="19" />
-        <mark key="]" line="266" column="57" />
-        <mark key="." line="266" column="0" />
-        <mark key="^" line="265" column="7" />
+        <mark key="[" line="286" column="5" />
+        <mark key="]" line="268" column="0" />
+        <mark key="^" line="266" column="56" />
+        <mark key="." line="268" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/PccomFeeder.php" timestamp="1500380255590">
         <mark key="[" line="228" column="28" />
@@ -95,7 +95,7 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1500470109572">
+      <file name="/PHP Console" timestamp="1500471259448">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMailCommand.php" timestamp="1500370899287">
@@ -128,10 +128,10 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500463815969">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
+      <file name="/Dummy.txt" timestamp="1500471539434">
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1499438587845">
         <mark key="[" line="0" column="0" />
@@ -243,7 +243,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVkaXJlY3RUb1JvdXRlKCdwY2NfY2FydF9kZXRhaWwnKTsK</text>
+        <text encoding="base64">c2UgcXVlZGE6IHNpIG5vIGVzdMOhIGxvZ3VlYWRvIGxvZ3VlYSAsIHkgdHJhcyBlbGxvICwgbWFjaGFjYSBkaXJlY3RhbWVudGUgZWwgY2Fycml0byBhY3R1YWwgZGUgbGEgCnNlc3Npb24gZGVsIHVzdWFyaW8gY29uIGVsIHF1ZSBub3MgbWFuZGVuLiBTaSBleGlzdGUgLCBsb3JlY3VwZXJhLCBzaSBubyBjcmVhIHVubyBudWV2byAuIApRdWVkYSBlbiBsYSBTZXNzaW9uIGd1YXJkYWRhIGxhIHZhcmlhYmxlIGlkQ2FydCAuCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7</text>
@@ -255,31 +255,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVkaXJlY3RUb1JvdXRlKCdwY2NfY2FydF9kZXRhaWwnKTsK</text>
+        <text encoding="base64">c2UgcXVlZGE6IHNpIG5vIGVzdMOhIGxvZ3VlYWRvIGxvZ3VlYSAsIHkgdHJhcyBlbGxvICwgbWFjaGFjYSBkaXJlY3RhbWVudGUgZWwgY2Fycml0byBhY3R1YWwgZGUgbGEgCnNlc3Npb24gZGVsIHVzdWFyaW8gY29uIGVsIHF1ZSBub3MgbWFuZGVuLiBTaSBleGlzdGUgLCBsb3JlY3VwZXJhLCBzaSBubyBjcmVhIHVubyBudWV2byAuIApRdWVkYSBlbiBsYSBTZXNzaW9uIGd1YXJkYWRhIGxhIHZhcmlhYmxlIGlkQ2FydCAuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkY2FydE1hbmFnZXItPmNoZWNrSWZDYXJ0RXhpc3RzKCRpZENhcnQpKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVkaXJlY3RUb1JvdXRlKCdwY2NfY2FydF9kZXRhaWwnKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgQ29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPnNldElkQ2FydCgkaWRDYXJ0LCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkY2FydE1hbmFnZXItPmNoZWNrSWZDYXJ0RXhpc3RzKCRpZENhcnQpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAkdXNlckRhdGEtPnNldElkQ2FydCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkY2FydE1hbmFnZXItPmNoZWNrSWZDYXJ0RXhpc3RzKCRpZENhcnQpKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAvICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
