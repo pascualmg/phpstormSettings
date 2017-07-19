@@ -25,11 +25,11 @@
         <mark key="^" line="437" column="1" />
         <mark key="." line="437" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500446884506">
-        <mark key="[" line="263" column="51" />
-        <mark key="]" line="263" column="51" />
-        <mark key="." line="263" column="51" />
-        <mark key="^" line="262" column="15" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500448372141">
+        <mark key="[" line="262" column="100" />
+        <mark key="]" line="262" column="100" />
+        <mark key="." line="262" column="100" />
+        <mark key="^" line="262" column="132" />
       </file>
       <file name="$USER_HOME$/src/web/xml/PccomFeeder.php" timestamp="1500380255590">
         <mark key="[" line="228" column="28" />
@@ -130,7 +130,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500446384605">
+      <file name="/Dummy.txt" timestamp="1500448988323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -182,7 +182,13 @@
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" timestamp="1500372898931" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" timestamp="1500449025986">
+        <mark key="'" line="30" column="83" />
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="54" />
+        <mark key="." line="32" column="54" />
+        <mark key="^" line="32" column="54" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
@@ -221,56 +227,61 @@
       <jump line="604" column="31" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
       <jump line="605" column="19" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
       <jump line="606" column="47" filename="$USER_HOME$/src/web/xml/pccomfeedersalesmanago.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
+      <jump line="69" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
+      <jump line="70" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
+      <jump line="33" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
+      <jump line="35" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
+      <jump line="30" column="83" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>RESERVA</text>
+        <text>currentSession</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXEFwcFJlc3RvcmVDYXJ0SW5mb0FmdGVyTWFpbDsgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBDYXJ0TWFuYWdlciAkY2FydE1hbmFnZXIgICAgRWwgY2FydAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sIHRydWUgc2kgZXN0w6EgbG9ndWVhZG8gLCBmYWxzZSBzaW5vIC4gCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gaXNMb2dnZWRVc2VyKCkKICAgIHsKICAgICAgICAkbG9nZ2VkVXNlckRhdGEgPSBDb250YWluZXJpemFibGU6OmdldExvZ2dlZFVzZXIoKTsKCiAgICAgICAgaWYoKQoKCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhc2tldHQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgYm9vbCAkaXNMb2dnZWRVc2VyICovCiAgICAgICAgJGlzTm90TG9nZ2VkVXNlciA9ICEoKGJvb2xlYW4paXNfb2JqZWN0KCRsb2dnZWRVc2VyRGF0YSkpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
       </register>
-      <register name="5" type="4">
-        <text>Abstract.class.php 
-CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmhheVF1ZVJlZ2VuZXJhckNhY2hlKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJldHVyblZhbHVlZGQ7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkaW5HegogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2VuZXJhdGUoJGluR3opCiAgICB7CiAgICAgICAgJHRoaXMtPnNhdmVYTUx0b0NhY2hlRmlsZSgkaW5Heik7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+b3V0cHV0X2NhY2hlZF9nenhtbCgkdGhpcy0+Y2FjaGVmaWxlR1opOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IEVMIENVUlJPIERFIFBPUiBMQSBNQcORQU5BLiBkZXNjb21lbnRhICBpbnZlc3RpZ2EuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RESERVA</last-search>
+      <last-search>currentSession</last-search>
       <last-offset />
-      <last-pattern>RESERVA</last-pattern>
+      <last-pattern>currentSession</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -294,6 +305,7 @@ CORRECCIÓN BUG SLUGS (group by id_articulo)</text>
         <entry>filter</entry>
         <entry>reserva</entry>
         <entry>RESERVA</entry>
+        <entry>currentSession</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
