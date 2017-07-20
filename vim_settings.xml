@@ -38,7 +38,7 @@
         <mark key="^" line="227" column="62" />
         <mark key="." line="228" column="28" />
       </file>
-      <file name="/Dummy.jql" timestamp="1500286487261">
+      <file name="/Dummy.jql" timestamp="1500546261414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1500296783337">
@@ -71,8 +71,12 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
-        <mark key="[" line="15" column="17" />
+      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1500546358863">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="593" column="0" />
+        <mark key="]" line="593" column="0" />
+        <mark key="^" line="574" column="21" />
+        <mark key="." line="593" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/generatecache.php" timestamp="1499762153380">
         <mark key="[" line="17" column="17" />
@@ -103,12 +107,6 @@
         <mark key="]" line="52" column="109" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500011312517">
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="59" column="29" />
-        <mark key="^" line="59" column="29" />
-        <mark key="." line="59" column="29" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1500455960705">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="56" column="0" />
@@ -132,14 +130,14 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1499438587845">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500011312517">
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="29" />
+        <mark key="^" line="59" column="29" />
+        <mark key="." line="59" column="29" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1500009633973">
-        <mark key="'" line="249" column="0" />
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1500546037534">
+        <mark key="'" line="115" column="30" />
         <mark key="[" line="717" column="83" />
         <mark key="]" line="722" column="19" />
         <mark key="." line="722" column="19" />
@@ -160,6 +158,12 @@
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1500458719012">
         <mark key="'" line="84" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1499438587845">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1500535457597">
         <mark key="'" line="30" column="88" />
@@ -184,7 +188,6 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/SalesManagoContactUpsert.php" timestamp="1500532863798" />
     </filemarks>
     <jumps>
       <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
@@ -241,63 +244,67 @@
       <jump line="237" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
       <jump line="489" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Security/User/PCUser.php" />
       <jump line="30" column="88" filename="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="1321" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="80" column="32" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="84" column="11" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="89" column="103" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="105" column="29" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="115" column="30" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>setIdCart</text>
+        <text>arrDatosPromoApi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2UgcXVlZGE6IHNpIG5vIGVzdMOhIGxvZ3VlYWRvIGxvZ3VlYSAsIHkgdHJhcyBlbGxvICwgbWFjaGFjYSBkaXJlY3RhbWVudGUgZWwgY2Fycml0byBhY3R1YWwgZGUgbGEgCnNlc3Npb24gZGVsIHVzdWFyaW8gY29uIGVsIHF1ZSBub3MgbWFuZGVuLiBTaSBleGlzdGUgLCBsb3JlY3VwZXJhLCBzaSBubyBjcmVhIHVubyBudWV2byAuIApRdWVkYSBlbiBsYSBTZXNzaW9uIGd1YXJkYWRhIGxhIHZhcmlhYmxlIGlkQ2FydCAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVkaXJlY3RUb1JvdXRlKCdwY2NfY2FydF9kZXRhaWwnKTsK</text>
+        <text encoding="base64">c2UgcXVlZGE6IHNpIG5vIGVzdMOhIGxvZ3VlYWRvIGxvZ3VlYSAsIHkgdHJhcyBlbGxvICwgbWFjaGFjYSBkaXJlY3RhbWVudGUgZWwgY2Fycml0byBhY3R1YWwgZGUgbGEgCnNlc3Npb24gZGVsIHVzdWFyaW8gY29uIGVsIHF1ZSBub3MgbWFuZGVuLiBTaSBleGlzdGUgLCBsb3JlY3VwZXJhLCBzaSBubyBjcmVhIHVubyBudWV2byAuIApRdWVkYSBlbiBsYSBTZXNzaW9uIGd1YXJkYWRhIGxhIHZhcmlhYmxlIGlkQ2FydCAuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkY2FydE1hbmFnZXItPmNoZWNrSWZDYXJ0RXhpc3RzKCRpZENhcnQpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVkaXJlY3RUb1JvdXRlKCdwY2NfY2FydF9kZXRhaWwnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setIdCart</last-search>
+      <last-search>arrDatosPromoApi</last-search>
       <last-offset />
-      <last-pattern>setIdCart</last-pattern>
+      <last-pattern>arrDatosPromoApi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hasdode</entry>
-        <entry>des-1247</entry>
-        <entry>des</entry>
         <entry>salesman</entry>
         <entry>sales</entry>
         <entry>availia</entry>
@@ -315,6 +322,9 @@
         <entry>ERROR</entry>
         <entry>overwrite</entry>
         <entry>setIdCart</entry>
+        <entry>sale_price</entry>
+        <entry>promo</entry>
+        <entry>arrDatosPromoApi</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
