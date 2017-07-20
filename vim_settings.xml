@@ -38,7 +38,6 @@
         <mark key="^" line="227" column="62" />
         <mark key="." line="228" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console_2.sql" timestamp="1500548853800" />
       <file name="/Dummy.jql" timestamp="1500546261414">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,10 +131,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500548845155">
-        <mark key="[" line="74" column="47" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500550025093">
+        <mark key="'" line="68" column="25" />
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="27" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1500546037534">
         <mark key="'" line="115" column="30" />
@@ -252,16 +253,17 @@
       <jump line="89" column="103" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="105" column="29" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="115" column="30" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="52" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR3E0dk1rU1RGbWROCg==</text>
+      <register name="&quot;" type="4">
+        <text>lp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICIuICRyb3dbJ2lkX2FydGljdWxvJ107</text>
+        <text>lp</text>
       </register>
       <register name="/" type="4">
-        <text>arrDatosPromoApi</text>
+        <text>g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
@@ -298,15 +300,14 @@
       </register>
     </registers>
     <search>
-      <last-search>arrDatosPromoApi</last-search>
+      <last-search>g</last-search>
       <last-offset />
-      <last-pattern>arrDatosPromoApi</last-pattern>
+      <last-pattern>g</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>salesman</entry>
         <entry>sales</entry>
         <entry>availia</entry>
         <entry>availi</entry>
@@ -326,6 +327,7 @@
         <entry>sale_price</entry>
         <entry>promo</entry>
         <entry>arrDatosPromoApi</entry>
+        <entry>g</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
