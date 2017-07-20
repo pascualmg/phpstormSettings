@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/src/pccfront/app/config/acl.yml" timestamp="1500446577657">
         <mark key="[" line="46" column="58" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1499841307937">
+      <file name="$USER_HOME$/src/web/xml/feed/skel/script/controller.php" timestamp="1500547068726">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="86" column="22" />
         <mark key="." line="76" column="1" />
@@ -38,6 +38,7 @@
         <mark key="^" line="227" column="62" />
         <mark key="." line="228" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console_2.sql" timestamp="1500548853800" />
       <file name="/Dummy.jql" timestamp="1500546261414">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,12 +72,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1500546358863">
+      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1500548198079">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="593" column="0" />
-        <mark key="]" line="593" column="0" />
-        <mark key="^" line="574" column="21" />
-        <mark key="." line="593" column="0" />
+        <mark key="[" line="525" column="48" />
+        <mark key="]" line="577" column="0" />
+        <mark key="." line="577" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/generatecache.php" timestamp="1499762153380">
         <mark key="[" line="17" column="17" />
@@ -123,18 +123,19 @@
       <file name="$USER_HOME$/src/pccapi/docker/local/docker-compose.yml" timestamp="1499851849673">
         <mark key="[" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1499529097969">
-        <mark key="[" line="34" column="37" />
+      <file name="$USER_HOME$/src/web/xml/feed/swogo/script/controller.php" timestamp="1500547382482">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500535489371">
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/Dummy.txt" timestamp="1500547563741">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500011312517">
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="59" column="29" />
-        <mark key="^" line="59" column="29" />
-        <mark key="." line="59" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500548845155">
+        <mark key="[" line="74" column="47" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1500546037534">
         <mark key="'" line="115" column="30" />
@@ -254,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR3E0dk1rU1RGbWROCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICIuICRyb3dbJ2lkX2FydGljdWxvJ107</text>
       </register>
       <register name="/" type="4">
         <text>arrDatosPromoApi</text>
@@ -266,31 +267,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXNrZXRNYW5hZ2VyICRiYXNrZXRNYW5hZ2VyIGxhIGJhc2tldHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR3E0dk1rU1RGbWROCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHcTR2TWtTVEZtZE4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGZlZWQtPnNldE1haWxSZXNwb25hYmxlRmVlZCgnbHVpcy5hbGVkb0BwY2NvbXBvbmVudGVzLmNvbScpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2UgcXVlZGE6IHNpIG5vIGVzdMOhIGxvZ3VlYWRvIGxvZ3VlYSAsIHkgdHJhcyBlbGxvICwgbWFjaGFjYSBkaXJlY3RhbWVudGUgZWwgY2Fycml0byBhY3R1YWwgZGUgbGEgCnNlc3Npb24gZGVsIHVzdWFyaW8gY29uIGVsIHF1ZSBub3MgbWFuZGVuLiBTaSBleGlzdGUgLCBsb3JlY3VwZXJhLCBzaSBubyBjcmVhIHVubyBudWV2byAuIApRdWVkYSBlbiBsYSBTZXNzaW9uIGd1YXJkYWRhIGxhIHZhcmlhYmxlIGlkQ2FydCAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0VG9Sb3V0ZSgncGNjX2NhcnRfZGV0YWlsJyk7Cg==</text>
+        <text encoding="base64">c2UgcXVlZGE6IHNpIG5vIGVzdMOhIGxvZ3VlYWRvIGxvZ3VlYSAsIHkgdHJhcyBlbGxvICwgbWFjaGFjYSBkaXJlY3RhbWVudGUgZWwgY2Fycml0byBhY3R1YWwgZGUgbGEgCnNlc3Npb24gZGVsIHVzdWFyaW8gY29uIGVsIHF1ZSBub3MgbWFuZGVuLiBTaSBleGlzdGUgLCBsb3JlY3VwZXJhLCBzaSBubyBjcmVhIHVubyBudWV2byAuIApRdWVkYSBlbiBsYSBTZXNzaW9uIGd1YXJkYWRhIGxhIHZhcmlhYmxlIGlkQ2FydCAuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVkaXJlY3RUb1JvdXRlKCdwY2NfY2FydF9kZXRhaWwnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
