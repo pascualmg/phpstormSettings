@@ -74,12 +74,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1500554619946">
-        <mark key="'" line="648" column="0" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1500557413106">
+        <mark key="'" line="673" column="14" />
+        <mark key="[" line="631" column="0" />
+        <mark key="]" line="631" column="0" />
+        <mark key="." line="631" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/generatecache.php" timestamp="1499762153380">
         <mark key="[" line="17" column="17" />
@@ -142,10 +141,10 @@
         <mark key="." line="52" column="26" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1500553035126">
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1500556417928">
         <mark key="'" line="625" column="29" />
-        <mark key="[" line="717" column="83" />
-        <mark key="]" line="722" column="19" />
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="493" column="75" />
         <mark key="." line="722" column="19" />
         <mark key="^" line="722" column="19" />
       </file>
@@ -272,61 +271,64 @@
       <jump line="646" column="16" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="625" column="29" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="639" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="278" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="616" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="279" column="44" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="657" column="14" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>$sl</text>
       </register>
       <register name="/" type="4">
-        <text>MACHACA</text>
+        <text>die()</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjdXJyZW50QXJyYXlEYXRhUHJvbW9bJyddOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JGN1cnJlbnRpdGVtLT5hcHBlbmRDaGlsZCggJGRvbS0+Y3JlYXRlRWxlbWVudCggJ2c6c2FsZV9wcmljZScsICRkYXRhUHJvbW9JbmZvWydwcm9tb1ByZWNpbyddKSApOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBkZCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhpdCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGN1cnJlbnRJZEFydGljdWxvIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAiaG9sYSI7ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGRwcmludHJfcigiaG9sYSIpOyAK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAiaG9sYSI7ZGllKCk7ZGQK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjdXJyZW50QXJyYXlEYXRhUHJvbW9bJyddOwo=</text>
+        <text encoding="base64">CXByaW50X3IoJGFyckRhdGFQcm9tbyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjdXJyZW50QXJyYXlEYXRhUHJvbW9bJyddOwo=</text>
+        <text encoding="base64">CWRpZSgpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjdXJyZW50QXJyYXlEYXRhUHJvbW9bJyddOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiRhcnJEYXRhUHJvbW8gPSBnZXRBcnJheURhdG9zUHJvbW8oJGRidyk7CnByaW50X3IoJGFyckRhdGFQcm9tbyk7CmRpZSgpOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MACHACA</last-search>
+      <last-search>die()</last-search>
       <last-offset />
-      <last-pattern>MACHACA</last-pattern>
+      <last-pattern>die()</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>availi</entry>
         <entry>zend_ex</entry>
         <entry>apica</entry>
         <entry>bask</entry>
@@ -343,9 +345,10 @@
         <entry>promo</entry>
         <entry>arrDatosPromoApi</entry>
         <entry>g</entry>
-        <entry>sale_price</entry>
         <entry>arrDataPromo</entry>
         <entry>MACHACA</entry>
+        <entry>sale_price</entry>
+        <entry>die()</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
