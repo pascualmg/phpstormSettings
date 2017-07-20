@@ -74,11 +74,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1500557413106">
-        <mark key="'" line="673" column="14" />
-        <mark key="[" line="631" column="0" />
-        <mark key="]" line="631" column="0" />
-        <mark key="." line="631" column="0" />
+      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1500559307230">
+        <mark key="[" line="687" column="58" />
+        <mark key="]" line="687" column="66" />
+        <mark key="." line="687" column="66" />
+        <mark key="^" line="687" column="66" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/generatecache.php" timestamp="1499762153380">
         <mark key="[" line="17" column="17" />
@@ -130,9 +130,10 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500547563741">
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1500559436151">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10b731a7-db6b-49bb-b0be-246d47a14f1f/console.sql" timestamp="1500553575821">
         <mark key="'" line="68" column="25" />
@@ -277,44 +278,44 @@
       <jump line="657" column="14" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>$dbw</text>
       </register>
       <register name="-" type="4">
-        <text>$sl</text>
+        <text>$dbw</text>
       </register>
       <register name="/" type="4">
         <text>die()</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGN1cnJlbnRpdGVtLT5hcHBlbmRDaGlsZCggJGRvbS0+Y3JlYXRlRWxlbWVudCggJ2c6c2FsZV9wcmljZScsICRkYXRhUHJvbW9JbmZvWydwcm9tb1ByZWNpbyddKSApOw==</text>
+        <text>$arrPromocionesPcDays</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICRyZXNQcm9tb2Npb25lc1BjRGF5cyA9ICRkYm1hc3Rlci0+cXVlcnkoJHNxbFByb21vY2lvbmVzUGNEYXlzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkZCAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN1cnJlbnRJZEFydGljdWxvIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50X3IoJGFyckRhdGFQcm9tbyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXJfZHVtcCgkYXJyUHJvbW9jaW9uZXNQY0RheXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWRpZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiRhcnJEYXRhUHJvbW8gPSBnZXRBcnJheURhdG9zUHJvbW8oJGRidyk7CnByaW50X3IoJGFyckRhdGFQcm9tbyk7CmRpZSgpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZmx1c2goKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
