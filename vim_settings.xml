@@ -18,12 +18,12 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="42" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1500374253389">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1500627908201">
         <mark key="'" line="108" column="89" />
-        <mark key="[" line="438" column="0" />
-        <mark key="]" line="437" column="1" />
-        <mark key="^" line="437" column="1" />
-        <mark key="." line="437" column="1" />
+        <mark key="[" line="300" column="15" />
+        <mark key="]" line="319" column="20" />
+        <mark key="^" line="319" column="20" />
+        <mark key="." line="319" column="20" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500471335881">
         <mark key="'" line="237" column="23" />
@@ -89,11 +89,11 @@
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1500366352754">
-        <mark key="[" line="41" column="41" />
-        <mark key="]" line="41" column="34" />
-        <mark key="^" line="41" column="34" />
-        <mark key="." line="41" column="34" />
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1500628217125">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="29" />
+        <mark key="^" line="47" column="26" />
+        <mark key="." line="42" column="29" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499764246579">
         <mark key="[" line="22" column="16" />
@@ -101,19 +101,13 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1500619770117">
+      <file name="/PHP Console" timestamp="1500627761525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMailCommand.php" timestamp="1500370899287">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="109" />
         <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1500455960705">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Security/User/PCUser.php" timestamp="1500469308397">
         <mark key="'" line="490" column="4" />
@@ -171,8 +165,6 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/SalesManago/SalesManagoController.php" timestamp="1500618975468" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Resources/config/services.yml" timestamp="1500619319065" />
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1500535457597">
         <mark key="'" line="30" column="88" />
         <mark key="[" line="30" column="90" />
@@ -285,16 +277,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$dbw</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>$dbw</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>die()</text>
       </register>
       <register name="0" type="4">
-        <text>$arrPromocionesPcDays</text>
+        <text>localhost.pt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICRyZXNQcm9tb2Npb25lc1BjRGF5cyA9ICRkYm1hc3Rlci0+cXVlcnkoJHNxbFByb21vY2lvbmVzUGNEYXlzKTsK</text>
@@ -402,6 +394,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
