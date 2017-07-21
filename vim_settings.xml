@@ -92,7 +92,7 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1500632349080">
+      <file name="/PHP Console" timestamp="1500641582488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMailCommand.php" timestamp="1500370899287">
@@ -115,7 +115,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500633090465">
+      <file name="/Dummy.txt" timestamp="1500641936284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -160,6 +160,7 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" timestamp="1500641503880" />
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1500535457597">
         <mark key="'" line="30" column="88" />
         <mark key="[" line="30" column="90" />
@@ -173,8 +174,12 @@
         <mark key="^" line="53" column="44" />
         <mark key="." line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1500634706073">
-        <mark key="'" line="1378" column="100" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1500641921053">
+        <mark key="'" line="289" column="12" />
+        <mark key="[" line="338" column="73" />
+        <mark key="]" line="338" column="75" />
+        <mark key="^" line="338" column="75" />
+        <mark key="." line="338" column="75" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
@@ -191,15 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
-      <jump line="295" column="31" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
-      <jump line="17" column="2" filename="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" />
-      <jump line="30" column="11" filename="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" />
-      <jump line="287" column="47" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
-      <jump line="18" column="32" filename="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" />
-      <jump line="128" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="247" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="304" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="55" column="5" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="212" column="71" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
@@ -282,22 +278,40 @@
       <jump line="783" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="1378" column="100" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="1778" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="4" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="75" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="82" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="87" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="89" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="91" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="98" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="118" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="131" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="142" column="71" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="205" column="31" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="245" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="267" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="269" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="284" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="287" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="289" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="339" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>subscribe</text>
+        <text>new</text>
       </register>
       <register name="0" type="4">
         <text>localhost.pt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkc20gPSBuZXcgU2FsZXNNYW5hZ29NYW5hZ2VyKCk7IAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -309,16 +323,16 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Z2V0U2Vzc2lvbigpLT5nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdzZXNzaW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Z2V0U2Vzc2lvbigpLT5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRyZXNQcm9tb2Npb25lc1BjRGF5cyA9ICRkYm1hc3Rlci0+cXVlcnkoJHNxbFByb21vY2lvbmVzUGNEYXlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdzZXNzaW9uJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRyZXNQcm9tb2Npb25lc1BjRGF5cyA9ICRkYm1hc3Rlci0+cXVlcnkoJHNxbFByb21vY2lvbmVzUGNEYXlzKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -328,15 +342,14 @@
       </register>
     </registers>
     <search>
-      <last-search>subscribe</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>subscribe</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resum</entry>
         <entry>usuarios</entry>
         <entry>load</entry>
         <entry>filter</entry>
@@ -356,6 +369,7 @@
         <entry>getClea</entry>
         <entry>out</entry>
         <entry>subscribe</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
