@@ -35,6 +35,12 @@
         <mark key="^" line="227" column="62" />
         <mark key="." line="228" column="28" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Resources/config/routing_salesmanago.yml" timestamp="1500889105897">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+      </file>
       <file name="/Dummy.jql" timestamp="1500546261414">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,6 +89,9 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/app/config/routing.yml" timestamp="1500889531208">
+        <mark key="'" line="82" column="20" />
+      </file>
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,7 +124,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500886702544">
+      <file name="/Dummy.txt" timestamp="1500890313904">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -160,6 +169,12 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/SalesManago/SalesManagoController.php" timestamp="1500889883078">
+        <mark key="[" line="201" column="32" />
+        <mark key="]" line="201" column="32" />
+        <mark key="^" line="201" column="32" />
+        <mark key="." line="201" column="32" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" timestamp="1500641503880" />
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1500535457597">
         <mark key="'" line="30" column="88" />
@@ -200,10 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
-      <jump line="259" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
-      <jump line="546" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
-      <jump line="545" column="70" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
       <jump line="269" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
       <jump line="274" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
       <jump line="42" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" />
@@ -300,55 +311,59 @@
       <jump line="338" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="289" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="251" column="87" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
+      <jump line="80" column="9" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
+      <jump line="81" column="60" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
+      <jump line="82" column="20" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQgICAgICAgICAkdGhpcy0+Z2V0KCdwY2Nfc2FsZXNtYW5hZ29fY29udGFjdHVwc2VydF9mcm9udCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>SM</text>
+        <text>sales</text>
       </register>
-      <register name="0" type="4">
-        <text>localhost.pt</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkc3R1Yi49ICRtYWlsOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQgICAgICAgICAkdGhpcy0+Z2V0KCdwY2Nfc2FsZXNtYW5hZ29fY29udGFjdHVwc2VydF9mcm9udCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc3R1Yi49ICRtYWlsOyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBTRUdVSVIgQVFVw40gLgo=</text>
+        <text encoding="base64">ICAgICAgICAkc3R1Yi49ICRtYWlsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc20gPSBuZXcgU2FsZXNNYW5hZ29NYW5hZ2VyKCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICAkc3R1YiA9IGdldF9jbGFzcygkdGhpcy0+c2FsZXNNYW5hZ29PcHRJbkFjdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IElNUExFTUVOVEFSIGxhIGxsYW1hZGEgbmF0aXZhIHBhcmEgb3B0SW4gT3B0T3V0CiAgICAvL19hY3Rpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJzdHViIHNhbGVzTWFuYWdvT3B0SW5BY3Rpb24gSW1wbGVtZW50YW1lIjsKICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IAogICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0KICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Z2V0U2Vzc2lvbigpLT5nCg==</text>
+        <text encoding="base64">ICAgIC8vX2FjdGlvbgogICAgcHVibGljIGZ1bmN0aW9uIEFjdGlvbihcU3ltZm9ueVxDb21wb25lbnRcSHR0cEZvdW5kYXRpb25cUmVxdWVzdCAgJHJlcXVlc3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdzZXNzaW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>SM</last-search>
+      <last-search>sales</last-search>
       <last-offset />
-      <last-pattern>SM</last-pattern>
+      <last-pattern>sales</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -366,7 +381,6 @@
         <entry>out</entry>
         <entry>subscribe</entry>
         <entry>new</entry>
-        <entry>sales</entry>
         <entry>rewri</entry>
         <entry>xml</entry>
         <entry>ago</entry>
@@ -374,9 +388,11 @@
         <entry>smOptin</entry>
         <entry>smOptIn</entry>
         <entry>SM</entry>
+        <entry>sales</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
