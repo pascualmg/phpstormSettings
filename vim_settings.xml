@@ -115,7 +115,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500641936284">
+      <file name="/Dummy.txt" timestamp="1500886702544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -147,8 +147,8 @@
         <mark key="." line="611" column="19" />
         <mark key="^" line="611" column="19" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1500633429911">
-        <mark key="'" line="84" column="8" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1500886941202">
+        <mark key="'" line="133" column="14" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -168,6 +168,7 @@
         <mark key="." line="30" column="90" />
         <mark key="^" line="30" column="90" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/cache/de_/appDevDebugProjectContaine_.php" timestamp="1500886697171" />
       <file name="$USER_HOME$/src/pccapi/docker/local/app-fpm/Dockerfile" timestamp="1499852188602">
         <mark key="[" line="53" column="76" />
         <mark key="]" line="54" column="77" />
@@ -177,8 +178,8 @@
       <file name="$USER_HOME$/src/pccapi/composer.json" timestamp="1500880010602">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1500886567471">
-        <mark key="'" line="289" column="12" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1500886958762">
+        <mark key="'" line="251" column="87" />
         <mark key="[" line="338" column="0" />
         <mark key="]" line="338" column="0" />
         <mark key="^" line="338" column="1" />
@@ -199,9 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="5" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
-      <jump line="212" column="71" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
-      <jump line="210" column="21" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="74" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
       <jump line="259" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
       <jump line="546" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
@@ -296,9 +294,12 @@
       <jump line="269" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="284" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="287" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
-      <jump line="289" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="339" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/composer.json" />
+      <jump line="133" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
+      <jump line="338" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="289" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="251" column="87" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -308,7 +309,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>doof</text>
+        <text>SM</text>
       </register>
       <register name="0" type="4">
         <text>localhost.pt</text>
@@ -345,17 +346,14 @@
       </register>
     </registers>
     <search>
-      <last-search>doof</last-search>
+      <last-search>SM</last-search>
       <last-offset />
-      <last-pattern>doof</last-pattern>
+      <last-pattern>SM</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>currentSession</entry>
-        <entry>ERROR</entry>
-        <entry>overwrite</entry>
         <entry>setIdCart</entry>
         <entry>promo</entry>
         <entry>arrDatosPromoApi</entry>
@@ -373,6 +371,9 @@
         <entry>xml</entry>
         <entry>ago</entry>
         <entry>doof</entry>
+        <entry>smOptin</entry>
+        <entry>smOptIn</entry>
+        <entry>SM</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
