@@ -18,7 +18,6 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="42" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1500634630212" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1500471335881">
         <mark key="'" line="237" column="23" />
         <mark key="[" line="286" column="5" />
@@ -124,7 +123,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500890313904">
+      <file name="/Dummy.txt" timestamp="1500891495091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -156,11 +155,12 @@
         <mark key="." line="611" column="19" />
         <mark key="^" line="611" column="19" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1500886941202">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1500891513027">
         <mark key="'" line="133" column="14" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="188" column="86" />
+        <mark key="]" line="190" column="38" />
+        <mark key="." line="190" column="38" />
+        <mark key="^" line="190" column="38" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/SalesManagoContactUpsert.php" timestamp="1500634211107" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1499438587845">
@@ -210,13 +210,15 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/SalesManagoContactUpsert.php" timestamp="1500883823022">
-        <mark key="[" line="73" column="17" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/SalesManagoContactUpsert.php" timestamp="1500890411767">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="115" column="9" />
+        <mark key="]" line="116" column="6" />
+        <mark key="^" line="116" column="6" />
+        <mark key="." line="116" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
-      <jump line="274" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
       <jump line="42" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" />
       <jump line="59" column="25" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
       <jump line="108" column="89" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
@@ -315,61 +317,62 @@
       <jump line="80" column="9" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
       <jump line="81" column="60" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
       <jump line="82" column="20" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
+      <jump line="116" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/SalesManagoContactUpsert.php" />
+      <jump line="74" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/SalesManagoContactUpsert.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICR1c2VyTWFuYWdlci0+YWRkQnVsbGV0aW5TTSgkaGFzMlN1YnNjcmliZSA9ICR1c2VyRGV0YWlsLT5nZXRCdWxsZXRpbigpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>getEma</text>
       </register>
       <register name="/" type="4">
-        <text>sales</text>
+        <text>580</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1Yi49ICRtYWlsOyAK</text>
+      <register name="0" type="4">
+        <text>DES-580 posible causa del bug .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1Yi49ICRtYWlsOyAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICR1c2VyTWFuYWdlci0+YWRkQnVsbGV0aW5TTSgkaGFzMlN1YnNjcmliZSA9ICR1c2VyRGV0YWlsLT5nZXRCdWxsZXRpbigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1Yi49ICRtYWlsOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyRGV0YWlsICR1c2VyRGV0YWlsICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1YiA9IGdldF9jbGFzcygkdGhpcy0+c2FsZXNNYW5hZ29PcHRJbkFjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc21NYW5hZ2VyID0gbmV3IFNhbGVzTWFuYWdvTWFuYWdlcigpOyAKICAgICAgICAgICAgICAgICAgICAkc21NYW5hZ2VyLT5zdWJzY3JpYmVUb05ld3NsZXR0ZXIodHJ1ZSwgInBhc2N1YWwiKTsgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IElNUExFTUVOVEFSIGxhIGxsYW1hZGEgbmF0aXZhIHBhcmEgb3B0SW4gT3B0T3V0CiAgICAvL19hY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAkc3R1Yi49ICRtYWlsOyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJzdHViIHNhbGVzTWFuYWdvT3B0SW5BY3Rpb24gSW1wbGVtZW50YW1lIjsKICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkc3R1Yi49ICRtYWlsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IAogICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkc3R1YiA9IGdldF9jbGFzcygkdGhpcy0+c2FsZXNNYW5hZ29PcHRJbkFjdGlvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IElNUExFTUVOVEFSIGxhIGxsYW1hZGEgbmF0aXZhIHBhcmEgb3B0SW4gT3B0T3V0CiAgICAvL19hY3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vX2FjdGlvbgogICAgcHVibGljIGZ1bmN0aW9uIEFjdGlvbihcU3ltZm9ueVxDb21wb25lbnRcSHR0cEZvdW5kYXRpb25cUmVxdWVzdCAgJHJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJzdHViIHNhbGVzTWFuYWdvT3B0SW5BY3Rpb24gSW1wbGVtZW50YW1lIjsKICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IAogICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>sales</last-search>
+      <last-search>580</last-search>
       <last-offset />
-      <last-pattern>sales</last-pattern>
+      <last-pattern>580</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setIdCart</entry>
         <entry>promo</entry>
         <entry>arrDatosPromoApi</entry>
         <entry>g</entry>
@@ -389,6 +392,7 @@
         <entry>smOptIn</entry>
         <entry>SM</entry>
         <entry>sales</entry>
+        <entry>580</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
