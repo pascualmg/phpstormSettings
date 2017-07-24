@@ -92,7 +92,7 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1500641582488">
+      <file name="/PHP Console" timestamp="1500879776012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMailCommand.php" timestamp="1500370899287">
@@ -174,12 +174,15 @@
         <mark key="^" line="53" column="44" />
         <mark key="." line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1500876724766">
+      <file name="$USER_HOME$/src/pccapi/composer.json" timestamp="1500880010602">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1500879044530">
         <mark key="'" line="289" column="12" />
-        <mark key="[" line="337" column="9" />
-        <mark key="]" line="337" column="8" />
-        <mark key="^" line="337" column="8" />
-        <mark key="." line="337" column="8" />
+        <mark key="[" line="338" column="58" />
+        <mark key="]" line="338" column="7" />
+        <mark key="^" line="338" column="7" />
+        <mark key="." line="338" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
@@ -191,12 +194,11 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/SalesManagoContactUpsert.php" timestamp="1500626299550">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/SalesManagoContactUpsert.php" timestamp="1500879771666">
         <mark key="[" line="98" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="55" column="5" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="212" column="71" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="210" column="21" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
@@ -296,25 +298,26 @@
       <jump line="287" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="289" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="339" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPOiBTRUdVSVIgQVFVw40gLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>ago</text>
+        <text>doof</text>
       </register>
       <register name="0" type="4">
         <text>localhost.pt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc20gPSBuZXcgU2FsZXNNYW5hZ29NYW5hZ2VyKCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPOiBTRUdVSVIgQVFVw40gLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkc20gPSBuZXcgU2FsZXNNYW5hZ29NYW5hZ2VyKCk7IAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -326,31 +329,30 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Z2V0U2Vzc2lvbigpLT5nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdzZXNzaW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Z2V0U2Vzc2lvbigpLT5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRyZXNQcm9tb2Npb25lc1BjRGF5cyA9ICRkYm1hc3Rlci0+cXVlcnkoJHNxbFByb21vY2lvbmVzUGNEYXlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdzZXNzaW9uJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRyZXNQcm9tb2Npb25lc1BjRGF5cyA9ICRkYm1hc3Rlci0+cXVlcnkoJHNxbFByb21vY2lvbmVzUGNEYXlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ago</last-search>
+      <last-search>doof</last-search>
       <last-offset />
-      <last-pattern>ago</last-pattern>
+      <last-pattern>doof</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>RESERVA</entry>
         <entry>currentSession</entry>
         <entry>ERROR</entry>
         <entry>overwrite</entry>
@@ -370,6 +372,7 @@
         <entry>rewri</entry>
         <entry>xml</entry>
         <entry>ago</entry>
+        <entry>doof</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -419,6 +422,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
