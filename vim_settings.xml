@@ -177,12 +177,12 @@
       <file name="$USER_HOME$/src/pccapi/composer.json" timestamp="1500880010602">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1500879044530">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1500886567471">
         <mark key="'" line="289" column="12" />
-        <mark key="[" line="338" column="58" />
-        <mark key="]" line="338" column="7" />
-        <mark key="^" line="338" column="7" />
-        <mark key="." line="338" column="7" />
+        <mark key="[" line="338" column="0" />
+        <mark key="]" line="338" column="0" />
+        <mark key="^" line="338" column="1" />
+        <mark key="." line="338" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
@@ -302,7 +302,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBTRUdVSVIgQVFVw40gLgo=</text>
+        <text encoding="base64">ZGQgICAgICAgICAkdGhpcy0+Z2V0KCdwY2Nfc2FsZXNtYW5hZ29fY29udGFjdHVwc2VydF9mcm9udCcpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -314,13 +314,13 @@
         <text>localhost.pt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBTRUdVSVIgQVFVw40gLgo=</text>
+        <text encoding="base64">ZGQgICAgICAgICAkdGhpcy0+Z2V0KCdwY2Nfc2FsZXNtYW5hZ29fY29udGFjdHVwc2VydF9mcm9udCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc20gPSBuZXcgU2FsZXNNYW5hZ29NYW5hZ2VyKCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPOiBTRUdVSVIgQVFVw40gLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkc20gPSBuZXcgU2FsZXNNYW5hZ29NYW5hZ2VyKCk7IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -332,13 +332,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Z2V0U2Vzc2lvbigpLT5nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdzZXNzaW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+Z2V0U2Vzc2lvbigpLT5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRyZXNQcm9tb2Npb25lc1BjRGF5cyA9ICRkYm1hc3Rlci0+cXVlcnkoJHNxbFByb21vY2lvbmVzUGNEYXlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdzZXNzaW9uJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
