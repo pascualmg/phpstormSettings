@@ -305,7 +305,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>ago</text>
       </register>
       <register name="0" type="4">
         <text>localhost.pt</text>
@@ -342,18 +342,14 @@
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>ago</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>ago</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>usuarios</entry>
-        <entry>load</entry>
-        <entry>filter</entry>
-        <entry>reserva</entry>
         <entry>RESERVA</entry>
         <entry>currentSession</entry>
         <entry>ERROR</entry>
@@ -370,6 +366,10 @@
         <entry>out</entry>
         <entry>subscribe</entry>
         <entry>new</entry>
+        <entry>sales</entry>
+        <entry>rewri</entry>
+        <entry>xml</entry>
+        <entry>ago</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
