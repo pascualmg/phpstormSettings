@@ -161,6 +161,12 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1501017856828">
+        <mark key="[" line="336" column="24" />
+        <mark key="]" line="336" column="24" />
+        <mark key="." line="336" column="24" />
+        <mark key="^" line="336" column="26" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
       </file>
@@ -202,7 +208,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmFkZGVkIHJvdXRlIDogdXN1YXJpb3MvbWktbGlzdGEtZGUtZGVzZW9zL3Jlc3RvcmVjYXJ0LzExMzM0CnJlZmFjdG9yaW5nIHNrZWwgZG9uZS4=</text>
+        <text>.
+        $</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -214,31 +221,33 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJGlkQ2FydCBpZENhcnQKICAgICAqCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNoZWNrSWZDYXJ0RXhpc3RzKCRpZENhcnQpCiAgICB7CiAgICAgICAgJGNhbGxlciA9IG5ldyBBcGlDYWxsZXIoKTsKCiAgICAgICAgJHJlc3VsdCA9ICRjYWxsZXItPmNyZWF0ZVJlcXVlc3RCdWlsZGVyKCkKICAgICAgICAgICAgLT5zZXRVcmkoJ29yZGVycy8nIC4gJGlkQ2FydCAuICcvY2FydGV4aXN0cycpCiAgICAgICAgICAgIC0+Z2V0UmVxdWVzdCgpLT5zZW5kR2V0KCktPmdldFJlc3VsdCgpOwoKICAgICAgICByZXR1cm4gcHJvcGVydHlfZXhpc3RzKCRyZXN1bHQsICdleGlzdHMnKSAmJiAkcmVzdWx0LT5leGlzdHMgPT09IHRydWU7CiAgICB9</text>
       </register>
       <register name="1" type="4">
+        <text>.
+        $</text>
+      </register>
+      <register name="2" type="4">
+        <text>.
+        $</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CmFkZGVkIHJvdXRlIDogdXN1YXJpb3MvbWktbGlzdGEtZGUtZGVzZW9zL3Jlc3RvcmVjYXJ0LzExMzM0CnJlZmFjdG9yaW5nIHNrZWwgZG9uZS4=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAkbG9hZEZyb21DYXJ0UmVzdWx0ID0gJHRoaXMtPl9iYXNrZXRNYW5hZ2VyLT5sb2FkRnJvbUNhcnQoJGNtZC0+Z2V0SWRCYXNrZXQoKSwgICRjbWQtPmdldElkQ2FydERlc2RlTWFpbCgpKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wKCRpZENhcnQyUmVzdG9yZSk7ZGQK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRCYXNrZXQ0VGVzdCkpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRDYXJ0NFRlc3QpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRDYXJ0MlJlc3RvcmUpKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZHVtcCgkY21kKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRjbWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRDYXJ0MlJlc3RvcmUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
