@@ -103,7 +103,7 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501013531737">
+      <file name="/Dummy.txt" timestamp="1501019829491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
@@ -161,11 +161,12 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1501017856828">
-        <mark key="[" line="336" column="24" />
-        <mark key="]" line="336" column="24" />
-        <mark key="." line="336" column="24" />
-        <mark key="^" line="336" column="26" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1501020769265">
+        <mark key="'" line="445" column="0" />
+        <mark key="[" line="427" column="26" />
+        <mark key="]" line="427" column="26" />
+        <mark key="." line="427" column="26" />
+        <mark key="^" line="427" column="26" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
@@ -205,59 +206,61 @@
       <jump line="223" column="50" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
       <jump line="71" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/appRestoreCartAfterMailSalesManago.php" />
       <jump line="26" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
+      <jump line="394" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
+      <jump line="351" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
+      <jump line="102" column="13" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
+      <jump line="440" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
+      <jump line="368" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.
-        $</text>
+        <text> </text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text> </text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJGlkQ2FydCBpZENhcnQKICAgICAqCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNoZWNrSWZDYXJ0RXhpc3RzKCRpZENhcnQpCiAgICB7CiAgICAgICAgJGNhbGxlciA9IG5ldyBBcGlDYWxsZXIoKTsKCiAgICAgICAgJHJlc3VsdCA9ICRjYWxsZXItPmNyZWF0ZVJlcXVlc3RCdWlsZGVyKCkKICAgICAgICAgICAgLT5zZXRVcmkoJ29yZGVycy8nIC4gJGlkQ2FydCAuICcvY2FydGV4aXN0cycpCiAgICAgICAgICAgIC0+Z2V0UmVxdWVzdCgpLT5zZW5kR2V0KCktPmdldFJlc3VsdCgpOwoKICAgICAgICByZXR1cm4gcHJvcGVydHlfZXhpc3RzKCRyZXN1bHQsICdleGlzdHMnKSAmJiAkcmVzdWx0LT5leGlzdHMgPT09IHRydWU7CiAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5IExvZ2dlciBfbG9nZ2VyCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.
-        $</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
-      <register name="2" type="4">
-        <text>.
-        $</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJiooKioqKikK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmFkZGVkIHJvdXRlIDogdXN1YXJpb3MvbWktbGlzdGEtZGUtZGVzZW9zL3Jlc3RvcmVjYXJ0LzExMzM0CnJlZmFjdG9yaW5nIHNrZWwgZG9uZS4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkbG9hZEZyb21DYXJ0UmVzdWx0ID0gJHRoaXMtPl9iYXNrZXRNYW5hZ2VyLT5sb2FkRnJvbUNhcnQoJGNtZC0+Z2V0SWRCYXNrZXQoKSwgICRjbWQtPmdldElkQ2FydERlc2RlTWFpbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRpZENhcnQyUmVzdG9yZSk7ZGQK</text>
+        <text encoding="base64">bAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRCYXNrZXQ0VGVzdCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRDYXJ0NFRlc3QpKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZGllKCk7CiAgICAgICAgICAgIC8vRXJyb3IgZW4gbGEgb3BlcmFjacOzbiBkZW50cm8gZGUgbGEgYXBpIFNNCiAgICAgICAgfSBlbHNlaWYgKHRydWUgIT09ICRkZWNvZGVkU01SZXNwb25zZVsic3VjY2VzcyJdKSB7CiAgICAgICAgICAgICRpbmZvID0gKAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgIlJlc3Blc3RhIGRlIFNNIG5vIHNhdGlzZmFjdG9yaWEiLAogICAgICAgICAgICAgICAgJGRlY29kZWRTTVJlc3BvbnNlLAogICAgICAgICAgICAgICAgXQogICAgICAgICAgICApOwogICAgICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jaGVja0lmQ2FydEV4aXN0cygkaWRDYXJ0MlJlc3RvcmUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -277,6 +280,10 @@
         <entry>resum</entry>
         <entry>usuarios</entry>
         <entry>load</entry>
+        <entry>come</entry>
+        <entry>dump</entry>
+        <entry encoding="base64">XDxkaWVcPg==</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -311,6 +318,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
