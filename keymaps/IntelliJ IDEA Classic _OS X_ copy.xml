@@ -22,4 +22,8 @@
   <action id="Tool_-cs-fixer over current class_Php-cs-fixer">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
 </keymap>
