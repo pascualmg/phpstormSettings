@@ -4,6 +4,7 @@
       <MessDetectorConfiguration />
     </phpmd_settings>
   </component>
+  <component name="PhpAutoImport" auto_import_from_global_scope="true" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/opt/phpcs.phar" />
@@ -1418,5 +1419,8 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
