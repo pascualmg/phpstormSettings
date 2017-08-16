@@ -13,6 +13,12 @@
         <mark key="^" line="53" column="44" />
         <mark key="." line="54" column="41" />
       </file>
+      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1502909630348">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="91" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="23" column="11" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1499845234922">
         <mark key="[" line="81" column="3" />
         <mark key="]" line="81" column="2" />
@@ -139,12 +145,13 @@
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1502907852732">
-        <mark key="'" line="2191" column="4" />
-        <mark key="[" line="864" column="20" />
-        <mark key="]" line="865" column="30" />
-        <mark key="^" line="865" column="30" />
-        <mark key="." line="865" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb79ec66-3280-4887-bebc-9d40b8d51ee9/console.sql" timestamp="1502909004667" />
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1502909601588">
+        <mark key="'" line="2176" column="0" />
+        <mark key="[" line="2169" column="23" />
+        <mark key="]" line="2169" column="26" />
+        <mark key="." line="2169" column="26" />
+        <mark key="^" line="2169" column="26" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet-pccom.html.twig" timestamp="1500283156981">
         <mark key="[" line="291" column="72" />
@@ -236,64 +243,72 @@
       <jump line="2094" column="8" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2157" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2189" column="4" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="882" column="5" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1472" column="4" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1446" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1434" column="13" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="2196" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1075" column="59" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1045" column="12" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1078" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="2176" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>223423</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OkFkZFNpbmdsZUFydGljdWxvKCRhcnRfaWRfYXJ0aWN1bG8pOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>223423</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>prepare</text>
+        <text>bind_para</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJTEVGVCBKT0lOIGZhbWlsaWFzX2d0YXhvbm9taWVzIEFTIGZndCBPTiBmZ3QuaWRfZmFtaWxpYT1hcnQuaWRfZmFtaWxpYQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VycmVudEl0ZW1EZXRhaWxzWydhcnRfYWN0aXZvJ10gPSAkYXJ0X2FjdGl2bzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OkFkZFNpbmdsZUFydGljdWxvKCRhcnRfaWRfYXJ0aWN1bG8pOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmZyZWVfcmVzdWx0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmZldGNoKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTwo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmJpbmRfcmVzdWx0KCRpdmEyUmV0dXJuKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REVTLTEyNjAgLSBpbmNsdWlyLXRvZG9zLWxvcy1kYXRvcy1wcm9tb2Npb25lcy1hcGktZW4tTEZDLXRvZG9zLWxvcy1mZWVkCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPnN0b3JlX3Jlc3VsdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9pbmNsdWRlX29uY2UgJy9ob21lL2NvbXBvbmVudGUvZG9tYWlucy9wY2NvbXBvbmVudGVzLmNvbS9wdWJsaWNfaHRtbC94bWwvZmVlZC9jbGFzcy9QY2NvbUZlZWRlckFic3RyYWN0LmNsYXNzLnBocCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmV4ZWN1dGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKiBVc2VyOiBwYXNzaAo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmJpbmRfcGFyYW0oJ2knLCAkYXJ0X2lkX2FydGljdWxvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKiBDcmVhdGVkIGJ5IFBocFN0b3JtLgo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEgPSAkZGJ3LT5wcmVwYXJlKCRxdWVyeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>prepare</last-search>
+      <last-search>bind_para</last-search>
       <last-offset />
-      <last-pattern>prepare</last-pattern>
+      <last-pattern>bind_para</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>salesman</entry>
         <entry>sales</entry>
         <entry>availia</entry>
         <entry>availi</entry>
@@ -313,6 +328,7 @@
         <entry>canon</entry>
         <entry>Prepare</entry>
         <entry>prepare</entry>
+        <entry>bind_para</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -353,6 +369,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
