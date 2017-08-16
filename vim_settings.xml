@@ -13,11 +13,11 @@
         <mark key="^" line="53" column="44" />
         <mark key="." line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1502910435957">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="22" column="22" />
+      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1502913301531">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1499845234922">
         <mark key="[" line="81" column="3" />
@@ -109,10 +109,10 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502384997654">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="117" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1502913631783">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499764246579">
         <mark key="[" line="22" column="16" />
@@ -146,12 +146,12 @@
         <mark key="[" line="0" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb79ec66-3280-4887-bebc-9d40b8d51ee9/console.sql" timestamp="1502909004667" />
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1502909601588">
-        <mark key="'" line="2176" column="0" />
-        <mark key="[" line="2169" column="23" />
-        <mark key="]" line="2169" column="26" />
-        <mark key="." line="2169" column="26" />
-        <mark key="^" line="2169" column="26" />
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1502912610500">
+        <mark key="'" line="2136" column="50" />
+        <mark key="[" line="1341" column="26" />
+        <mark key="]" line="1341" column="45" />
+        <mark key="^" line="1341" column="45" />
+        <mark key="." line="1341" column="45" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet-pccom.html.twig" timestamp="1500283156981">
         <mark key="[" line="291" column="72" />
@@ -252,65 +252,73 @@
       <jump line="1045" column="12" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1078" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2176" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="2122" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="73" column="16" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="747" column="81" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="820" column="38" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1340" column="30" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="2028" column="12" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="2082" column="81" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="2091" column="57" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="2134" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="2135" column="50" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>ya que no es fijo al 1.21 sino que puede ser variable.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ya que no es fijo al 1.21 sino que puede ser variable.</text>
       </register>
       <register name="/" type="4">
-        <text>bind_para</text>
+        <text>IVA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VycmVudEl0ZW1EZXRhaWxzWydhcnRfYWN0aXZvJ10gPSAkYXJ0X2FjdGl2bzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IElWQSA9IDEuMjE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OkFkZFNpbmdsZUFydGljdWxvKCRhcnRfaWRfYXJ0aWN1bG8pOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5wcmludGFHdWF5KCR0aGlzLT5nZXRQcmVjaW9Db25DYW5vblB0SWZFeGlzdHNPclJldHVybkN1cnJlbnRQcmljZSgkYXJ0X2lkX2FydGljdWxvKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaXZhID0gJHRoaXMtPmdldEl2YVNwYWluYnlJZEFydGljdWxvT3JPbmUoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5wcmludGFHdWF5KCR0aGlzLT5jdXJyZW50SXRlbURldGFpbHNbJ2FydF9wcmVjaW8nXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OkFkZFNpbmdsZUFydGljdWxvKCRhcnRfaWRfYXJ0aWN1bG8pOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmZyZWVfcmVzdWx0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmZldGNoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmJpbmRfcmVzdWx0KCRpdmEyUmV0dXJuKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5wcmludGFHdWF5KCR0aGlzLT5hcnJEYXRvc0Nhbm9uUG9ydHVnYWwsJ3Zhcl9kdW1wJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPnN0b3JlX3Jlc3VsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdF9pdmEtPmV4ZWN1dGUoKTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkYXJ0X2lkX2FydGljdWxvCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>bind_para</last-search>
+      <last-search>IVA</last-search>
       <last-offset />
-      <last-pattern>bind_para</last-pattern>
+      <last-pattern>IVA</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sales</entry>
-        <entry>availia</entry>
         <entry>availi</entry>
         <entry>zend_ex</entry>
         <entry>apica</entry>
@@ -329,6 +337,8 @@
         <entry>Prepare</entry>
         <entry>prepare</entry>
         <entry>bind_para</entry>
+        <entry>1.21</entry>
+        <entry>IVA</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
