@@ -37,11 +37,11 @@
         <mark key="." line="25" column="51" />
         <mark key="^" line="25" column="51" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Doofinder/AppSearchDoofinderTest.php" timestamp="1503436613931">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="4" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Doofinder/AppSearchDoofinderTest.php" timestamp="1503439319411">
+        <mark key="[" line="26" column="65" />
+        <mark key="]" line="26" column="65" />
+        <mark key="." line="26" column="65" />
+        <mark key="^" line="26" column="68" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/appRestoreCartAfterMailSalesManagoCommand.php" timestamp="1500333778167">
         <mark key="[" line="16" column="15" />
@@ -186,6 +186,13 @@
         <mark key="[" line="343" column="0" />
         <mark key="]" line="358" column="4" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Util/Containerizable.php" timestamp="1503440162941">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="148" column="7" />
+        <mark key="]" line="148" column="58" />
+        <mark key="^" line="148" column="58" />
+        <mark key="." line="148" column="58" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
@@ -270,49 +277,50 @@
       <jump line="2091" column="57" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2134" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2135" column="50" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Util/Containerizable.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFNpZW1wcmUgdHJ1ZS4KICAgICAqIEB0ZXN0CiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFlvU295VW5UZXN0RGVQcnVlYmFRdWVTaWVtcHJlU295VHJ1ZSgpCiAgICB7CiAgICAgICAgc2VsZjo6YXNzZXJ0RXF1YWxzKDEsIDEpOwogICAgfQ==</text>
+        <text>n</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Session</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>IVA</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFNpZW1wcmUgdHJ1ZS4KICAgICAqIEB0ZXN0CiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFlvU295VW5UZXN0RGVQcnVlYmFRdWVTaWVtcHJlU295VHJ1ZSgpCiAgICB7CiAgICAgICAgc2VsZjo6YXNzZXJ0RXF1YWxzKDEsIDEpOwogICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICR0aGlzLT5fYXBwID0gbmV3IEFwcFNlYXJjaERvb2ZpbmRlcigpOwogICAgJHRoaXMtPl9jbWQgPSBuZXcgQXBwU2VhcmNoRG9vZmluZGVyQ29tbWFuZCgpO2pqCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFRlc3RzXFNlc3Npb25cU2Vzc2lvblRlc3RkIGFzIFNlc3Npb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQnVuZGxlXEZyYW1ld29ya0J1bmRsZVxUZXN0c1xUZXN0Q2FzZTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9jbWQ7IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VycmV0U2Vzc2lvbkZha2UgPSBuZXcgU2Vzc2lvbigpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9hcHA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFNlc3Npb25cU2Vzc2lvbjsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFNlc3Npb25cU2Vzc2lvbgo=</text>
+        <text encoding="base64">ICAgICR0aGlzLT5fY21kID0gbmV3IEFwcFNlYXJjaERvb2ZpbmRlckNvbW1hbmQoKTtqago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5wcmludGFHdWF5KCR0aGlzLT5nZXRQcmVjaW9Db25DYW5vblB0SWZFeGlzdHNPclJldHVybkN1cnJlbnRQcmljZSgkYXJ0X2lkX2FydGljdWxvKSk7Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5fYXBwID0gbmV3IEFwcFNlYXJjaERvb2ZpbmRlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5wcmludGFHdWF5KCR0aGlzLT5jdXJyZW50SXRlbURldGFpbHNbJ2FydF9wcmVjaW8nXSk7Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
