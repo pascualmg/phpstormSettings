@@ -9,10 +9,11 @@
         <mark key="^" line="53" column="44" />
         <mark key="." line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" timestamp="1503593481181">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" timestamp="1503594073196">
+        <mark key="[" line="127" column="94" />
+        <mark key="]" line="127" column="93" />
+        <mark key="." line="127" column="93" />
+        <mark key="^" line="127" column="93" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1502913301531">
         <mark key="[" line="24" column="0" />
@@ -133,11 +134,11 @@
         <mark key="^" line="140" column="8" />
         <mark key="." line="140" column="8" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1503592948853">
-        <mark key="[" line="53" column="30" />
-        <mark key="]" line="53" column="53" />
-        <mark key="^" line="53" column="53" />
-        <mark key="." line="53" column="53" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1503593828632">
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="34" />
+        <mark key="^" line="47" column="34" />
+        <mark key="." line="47" column="34" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1500296783337">
         <mark key="'" line="59" column="25" />
@@ -178,6 +179,12 @@
         <mark key="." line="291" column="72" />
         <mark key="^" line="291" column="72" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" timestamp="1503594455536">
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="^" line="319" column="19" />
+        <mark key="." line="317" column="0" />
+      </file>
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
       </file>
@@ -186,6 +193,11 @@
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_search_articles.yml" timestamp="1503594418988">
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1501022813104">
         <mark key="'" line="445" column="0" />
@@ -292,48 +304,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9wYWdlOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAgc3RyaW5nICAkcXVlcnkgICBUZXh0byBhIGJ1c2Nhcgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>basepath</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>IVA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9iYXNlcGF0aDsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+X2xvY2FsZSA9ICRsb2NhbGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9wYWdlOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAgc3RyaW5nICAkcXVlcnkgICBUZXh0byBhIGJ1c2Nhcgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9wYWdlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQYWdlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9udW1fcGFnZV9pdGVtczsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>DES-1083 boton-guardar-carrito-lista-deseos-en-mail
-added route : usuarios/mi-lista-de-deseos/restorecart/11334
-refactoring skel done.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQYWdlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
