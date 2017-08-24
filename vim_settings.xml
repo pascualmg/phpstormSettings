@@ -37,11 +37,11 @@
         <mark key="." line="25" column="51" />
         <mark key="^" line="25" column="51" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Doofinder/AppSearchDoofinderTest.php" timestamp="1503439319411">
-        <mark key="[" line="26" column="65" />
-        <mark key="]" line="26" column="65" />
-        <mark key="." line="26" column="65" />
-        <mark key="^" line="26" column="68" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Doofinder/AppSearchDoofinderTest.php" timestamp="1503590367925">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/appRestoreCartAfterMailSalesManagoCommand.php" timestamp="1500333778167">
         <mark key="[" line="16" column="15" />
@@ -111,10 +111,10 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503429555197">
+      <file name="/Dummy.txt" timestamp="1503590401029">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499764246579">
         <mark key="[" line="22" column="16" />
@@ -281,7 +281,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>DES-1083 boton-guardar-carrito-lista-deseos-en-mail
+added route : usuarios/mi-lista-de-deseos/restorecart/11334
+refactoring skel done.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -295,35 +297,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICR0aGlzLT5fYXBwID0gbmV3IEFwcFNlYXJjaERvb2ZpbmRlcigpOwogICAgJHRoaXMtPl9jbWQgPSBuZXcgQXBwU2VhcmNoRG9vZmluZGVyQ29tbWFuZCgpO2pqCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>DES-1083 boton-guardar-carrito-lista-deseos-en-mail
+added route : usuarios/mi-lista-de-deseos/restorecart/11334
+refactoring skel done.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9jbWQ7IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9hcHA7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9jbWQ7IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9hcHA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5fY21kID0gbmV3IEFwcFNlYXJjaERvb2ZpbmRlckNvbW1hbmQoKTtqago=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5fYXBwID0gbmV3IEFwcFNlYXJjaERvb2ZpbmRlcigpOwo=</text>
+        <text encoding="base64">ICAgICR0aGlzLT5fY21kID0gbmV3IEFwcFNlYXJjaERvb2ZpbmRlckNvbW1hbmQoKTtqago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICR0aGlzLT5fYXBwID0gbmV3IEFwcFNlYXJjaERvb2ZpbmRlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -357,10 +361,10 @@
         <entry>IVA</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>bn</entry>
         <entry>reg</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
