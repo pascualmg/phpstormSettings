@@ -74,7 +74,6 @@
         <mark key="." line="76" column="1" />
         <mark key="^" line="76" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/SalesManagoApiBundle/Controller/DefaultController.php" timestamp="1503941436105" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1501021176776">
         <mark key="'" line="42" column="0" />
       </file>
@@ -171,6 +170,9 @@
         <mark key="^" line="59" column="29" />
         <mark key="." line="59" column="29" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1503947772590">
+        <mark key="'" line="11" column="9" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
       </file>
@@ -222,10 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="15" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
-      <jump line="295" column="31" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
-      <jump line="17" column="2" filename="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" />
-      <jump line="30" column="11" filename="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" />
       <jump line="287" column="47" filename="$USER_HOME$/src/web/xml/feed/salesmanago/class/PccomFeederSalesManago.php" />
       <jump line="18" column="32" filename="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" />
@@ -319,6 +317,13 @@
       <jump line="127" column="80" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" />
       <jump line="78" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" />
       <jump line="136" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" />
+      <jump line="58" column="54" filename="$USER_HOME$/src/pccfront/composer.json" />
+      <jump line="38" column="17" filename="$USER_HOME$/src/pccfront/composer.json" />
+      <jump line="52" column="13" filename="$USER_HOME$/src/pccfront/composer.json" />
+      <jump line="53" column="13" filename="$USER_HOME$/src/pccfront/composer.json" />
+      <jump line="64" column="13" filename="$USER_HOME$/src/pccfront/composer.json" />
+      <jump line="65" column="13" filename="$USER_HOME$/src/pccfront/composer.json" />
+      <jump line="11" column="9" filename="$USER_HOME$/src/pccfront/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -331,7 +336,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>php</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JG1lbnVTZWFyY2ggPSAkbWVudVNlYXJjaERvb2ZpbmRlckFwcC0+aGFuZGxlKCRzZWFyY2hEb29maW5kZXJDbWQtPmdldFF1ZXJ5KCk7</text>
@@ -368,15 +373,14 @@
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>php</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
+      <last-pattern>php</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>zend_ex</entry>
         <entry>apica</entry>
         <entry>bask</entry>
         <entry>resum</entry>
@@ -396,6 +400,7 @@
         <entry>1.21</entry>
         <entry>IVA</entry>
         <entry>private</entry>
+        <entry>php</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
