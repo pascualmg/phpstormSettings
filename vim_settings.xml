@@ -16,12 +16,12 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" timestamp="1504010357943">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="139" column="45" />
-        <mark key="." line="139" column="45" />
-        <mark key="^" line="139" column="45" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" timestamp="1504012663964">
+        <mark key="'" line="55" column="36" />
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="55" column="21" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1502913301531">
         <mark key="[" line="24" column="0" />
@@ -127,7 +127,7 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504006115429">
+      <file name="/Dummy.txt" timestamp="1504012632214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499764246579">
@@ -222,9 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" />
-      <jump line="128" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="247" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="304" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="55" column="5" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="212" column="71" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
@@ -322,10 +319,13 @@
       <jump line="11" column="9" filename="$USER_HOME$/src/pccfront/composer.json" />
       <jump line="46" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
       <jump line="110" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
+      <jump line="113" column="5" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
+      <jump line="146" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
+      <jump line="55" column="36" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -340,31 +340,31 @@
         <text encoding="base64">CiAgICAgICAgICAgIGZvcmVhY2ggKCRyZXN1bHRzLT5nZXRSZXN1bHRzKCkgYXMgJHJlc3VsdCkgewogICAgICAgICAgICAgICAgYXJyYXlfcHVzaCgkYXJyV2l0aEFsbFJlc3VsdHMsICRyZXN1bHQpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBDYXJnYSB0b2RvcyBsb3MgcmVzdWx0YWRvcyAsIGVzdG8gbm8gbG8gcXVlcmVtb3MgYWhvcmEuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIEBzZWUgICAgaHR0cHM6Ly9naXRodWIuY29tL2Rvb2ZpbmRlci9waHAtZG9vZmluZGVyCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnRlZ2VyICRudW1QYWdlSXRlbXMgUmVzdWx0YWRvcyBwb3IgcGFnaW5hIGFrYSBycHAuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnRlZ2VyICRwYWdlIEVsIG7Dum1lcm8gZGUgcGFnaW5hY2lvbi4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9wdXNoKCRhcnJXaXRoQWxsUmVzdWx0cywgJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyV2l0aEFsbFJlc3VsdHMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgKiBDYXJnYSB0b2RvcyBsb3MgcmVzdWx0YWRvcyAsIGVzdG8gbm8gbG8gcXVlcmVtb3MgYWhvcmEuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIG8gcGFyYW1ldHJpemFyIGVzIGFxdWkgZG9uZGUgc2UgaGEgZGUgaGFjZXIgLgo=</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFNpIGh1YmllcmEgcXVlIGluY2x1aXIgZmlsdHJvcyBvYnRlbmVyIGZhY2V0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBhcnJheV9wdXNoKCRhcnJXaXRoQWxsUmVzdWx0cywgJHJlc3VsdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
