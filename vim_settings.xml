@@ -83,7 +83,7 @@
         <mark key="^" line="1341" column="45" />
         <mark key="." line="1341" column="45" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/AppSearchDoofinderCommand.php" timestamp="1504028764373">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/AppSearchDoofinderCommand.php" timestamp="1504044719695">
         <mark key="[" line="56" column="51" />
         <mark key="]" line="56" column="56" />
         <mark key="." line="56" column="56" />
@@ -175,8 +175,10 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504038900885">
+      <file name="/Dummy.txt" timestamp="1504045861428">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1504042751205">
         <mark key="[" line="62" column="0" />
@@ -202,11 +204,11 @@
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1504036687863">
-        <mark key="[" line="101" column="1" />
-        <mark key="]" line="102" column="7" />
-        <mark key="." line="102" column="7" />
-        <mark key="^" line="102" column="7" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1504045848307">
+        <mark key="[" line="148" column="65" />
+        <mark key="]" line="149" column="32" />
+        <mark key="." line="149" column="32" />
+        <mark key="^" line="149" column="32" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet-pccom.html.twig" timestamp="1500283156981">
         <mark key="[" line="291" column="72" />
@@ -214,12 +216,11 @@
         <mark key="." line="291" column="72" />
         <mark key="^" line="291" column="72" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" timestamp="1504039268957">
-        <mark key="'" line="367" column="0" />
-        <mark key="[" line="87" column="38" />
-        <mark key="]" line="126" column="11" />
-        <mark key="^" line="126" column="11" />
-        <mark key="." line="126" column="11" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" timestamp="1504044194289">
+        <mark key="'" line="361" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
@@ -336,47 +337,47 @@
       <jump line="55" column="36" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdwY2N2YWxpZGF0b3InKS0+Z2V0KCdBcnRpY3VsbzpTZWFyY2hBcnRpY2xlcycpLT52YWxpZGF0ZUdldE1lbnUoKTsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5cGFzdGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGF0aCA9IHNlbGY6OlBDQ19BUElfUk9VVEVfT1JJR0lOQUw7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IG5ldyAgQXBwU2VhcmNoRG9vZmluZGVyQ29tbWFuZCgKICAgICAgICAgICAgICAgICRxdWVyeSwKICAgICAgICAgICAgICAgICRyZXF1ZXN0LT5nZXRMb2NhbGUoKSwKICAgICAgICAgICAgICAgIHNlbGY6OkZJUlNUX1BBR0UsCiAgICAgICAgICAgICAgICBzZWxmOjpOVU1fUEFHRV9JVEVNUwogICAgICAgICAgICAp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdwY2N2YWxpZGF0b3InKS0+Z2V0KCdBcnRpY3VsbzpTZWFyY2hBcnRpY2xlcycpLT52YWxpZGF0ZUdldE1lbnUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdwY2N2YWxpZGF0b3InKS0+Z2V0KCdBcnRpY3VsbzpTZWFyY2hBcnRpY2xlcycpLT52YWxpZGF0ZUdldEFydGljbGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFydGljbGVzRGF0YS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGY6Ok5VTV9QQUdFX0lURU1TCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
