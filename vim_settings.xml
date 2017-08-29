@@ -122,6 +122,7 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Services/Search/Engines/ElasticSearch/MenuElasticSearchEngine.php" timestamp="1504000709426" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Articles/SearchArticlesManager.php" timestamp="1504039322964" />
       <file name="$USER_HOME$/src/web/xml/feed/doofinderPT/script/controller.php" timestamp="1499759915546">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="16" />
@@ -174,14 +175,14 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504036738356">
+      <file name="/Dummy.txt" timestamp="1504038900885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1504028983356">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="68" column="71" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1504039455849">
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="62" column="51" />
+        <mark key="." line="62" column="51" />
+        <mark key="^" line="62" column="51" />
       </file>
       <file name="/fragment.php" timestamp="1500318098302">
         <mark key="[" line="0" column="0" />
@@ -213,12 +214,12 @@
         <mark key="." line="291" column="72" />
         <mark key="^" line="291" column="72" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" timestamp="1504036611528">
-        <mark key="'" line="366" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="109" column="14" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" timestamp="1504039268957">
+        <mark key="'" line="367" column="0" />
+        <mark key="[" line="87" column="38" />
+        <mark key="]" line="126" column="11" />
+        <mark key="^" line="126" column="11" />
+        <mark key="." line="126" column="11" />
       </file>
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
@@ -335,47 +336,47 @@
       <jump line="55" column="36" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>ROUTE_ORIGINAL</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>ROUTE_ORIGINAL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5cGFzdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkYXJySWRzU3VwZXJQYXJlbnQyRmlsdGVyID0gJHJlcXVlc3QtPmdldCgnaWRGYW1pbGllcycsIFtdKQo=</text>
+        <text encoding="base64">ICAgICAgICAkcGF0aCA9IHNlbGY6OlBDQ19BUElfUk9VVEVfT1JJR0lOQUw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAkcmVxdWVzdC0+Z2V0KCdpZFRyYWRlbWFya3MnLCBbXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
