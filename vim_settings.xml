@@ -29,10 +29,11 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1504029526789">
-        <mark key="[" line="125" column="17" />
-        <mark key="]" line="125" column="18" />
-        <mark key="." line="125" column="18" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1504030751940">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="147" column="105" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Services/Search/Engines/ElasticSearch/MenuElasticSearchEngine.php" timestamp="1504000709426" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" timestamp="1504009667844">
@@ -126,7 +127,7 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504029212828">
+      <file name="/Dummy.txt" timestamp="1504030694238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -196,7 +197,7 @@
         <mark key="." line="291" column="72" />
         <mark key="^" line="291" column="72" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" timestamp="1504024973941">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" timestamp="1504030185120">
         <mark key="'" line="364" column="0" />
         <mark key="[" line="233" column="0" />
         <mark key="]" line="233" column="13" />
@@ -336,13 +337,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>dump</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>dump</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5cGFzdGVcPg==</text>
@@ -351,32 +352,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnRlZ2VyICRudW1QYWdlSXRlbXMgUmVzdWx0YWRvcyBwb3IgcMOhZ2luYS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKGhvbGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGFycklkU3VwZXJQYXJlbnQyRmlsdGVyIFJlc3VsdGFkb3MgcG9yIHDDoWdpbmEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+X251bVBhZ2VJdGVtcyA9ICRudW1QYWdlSXRlbXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvY2FsZSA9ICdlcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPT4gJGNtZC0+Z2V0QXJySWRzVHJhZGVtYXJrMkZpbHRlcigpLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PT0gKCRsb2NhbGUpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgID0+ICRjbWQtPmdldEFycklkc1N1cGVyUGFyZW50MkZpbHRlcigpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJySWRTdXBlcnBhcmVudDJGaWx0ZXIgPSAkcmVxdWVzdC0+Z2V0KCAnYXJySWRTdXBlcnBhcmVudDJGaWx0ZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>eliminado parametro idfamily2filter , y se deja solo el superparent y 
-el de las marcas.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gIiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
