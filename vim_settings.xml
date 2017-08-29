@@ -29,11 +29,11 @@
         <mark key="." line="81" column="2" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Services/Search/Engines/ElasticSearch/MenuElasticSearchEngine.php" timestamp="1504000709426" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" timestamp="1504000260755">
-        <mark key="[" line="123" column="7" />
-        <mark key="]" line="123" column="79" />
-        <mark key="^" line="123" column="79" />
-        <mark key="." line="123" column="79" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" timestamp="1504004069363">
+        <mark key="[" line="204" column="31" />
+        <mark key="]" line="204" column="35" />
+        <mark key="^" line="204" column="35" />
+        <mark key="." line="204" column="35" />
       </file>
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
@@ -120,10 +120,8 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503952314762">
+      <file name="/Dummy.txt" timestamp="1504004080903">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/script/generatecache.php" timestamp="1499764246579">
         <mark key="[" line="22" column="16" />
@@ -320,45 +318,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vuelve los resultados de la busqueda de $needle del searchClient
-     * de doofinder.</text>
+        <text>]</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>php</text>
+        <text encoding="base64">XDxjb3B5cGFzdGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0SWRUcmFkZW1hcmsoNjkpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IAogICAgICAgIGlmICghaXNzZXQoJGl0ZW1bJ2lkX2JyYW5kJ10pKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KCiA=</text>
       </register>
-      <register name="1" type="4">
-        <text>vuelve los resultados de la busqueda de $needle del searchClient
-     * de doofinder.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIFBIUFNUT1JNX01FVEFcdHlwZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIFBIUFNUT1JNX01FVEFcbWFwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,15 +364,14 @@
       </register>
     </registers>
     <search>
-      <last-search>php</last-search>
+      <last-search encoding="base64">XDxjb3B5cGFzdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>php</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjb3B5cGFzdGVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apica</entry>
         <entry>bask</entry>
         <entry>resum</entry>
         <entry>usuarios</entry>
@@ -396,6 +391,7 @@
         <entry>IVA</entry>
         <entry>private</entry>
         <entry>php</entry>
+        <entry encoding="base64">XDxjb3B5cGFzdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
