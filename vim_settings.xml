@@ -76,8 +76,8 @@
       <file name="$USER_HOME$/src/pccapi/docker/local/docker-compose.yml" timestamp="1499851849673">
         <mark key="[" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1502912610500">
-        <mark key="'" line="2136" column="50" />
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1504100860557">
+        <mark key="'" line="1382" column="42" />
         <mark key="[" line="1341" column="26" />
         <mark key="]" line="1341" column="45" />
         <mark key="^" line="1341" column="45" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="55" column="5" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="212" column="71" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="210" column="21" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
@@ -335,6 +334,7 @@
       <jump line="113" column="5" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
       <jump line="146" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
       <jump line="55" column="36" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
+      <jump line="1382" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -347,7 +347,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3B5cGFzdGVcPg==</text>
+        <text>select</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkYXJySWRTdXBlclBhcmVudDJGaWx0ZXIgSWRzIGRlIFN1cGVycGFkcmVzIHBhcmEgYXBsaWNhciBlbiBlbCBmaWx0cm8uCg==</text>
@@ -384,15 +384,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3B5cGFzdGVcPg==</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3B5cGFzdGVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>select</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bask</entry>
         <entry>resum</entry>
         <entry>usuarios</entry>
         <entry>load</entry>
@@ -412,6 +411,7 @@
         <entry>private</entry>
         <entry>php</entry>
         <entry encoding="base64">XDxjb3B5cGFzdGVcPg==</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
