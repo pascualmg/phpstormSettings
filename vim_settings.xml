@@ -10,17 +10,28 @@
         <mark key="^" line="36" column="89" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" timestamp="1504048261785">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" timestamp="1504210628130">
         <mark key="'" line="56" column="36" />
-        <mark key="[" line="54" column="36" />
-        <mark key="]" line="54" column="46" />
-        <mark key="^" line="54" column="46" />
-        <mark key="." line="54" column="46" />
+        <mark key="[" line="126" column="35" />
+        <mark key="]" line="126" column="34" />
+        <mark key="^" line="126" column="34" />
+        <mark key="." line="126" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1504048719830">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" timestamp="1504115617697">
         <mark key="[" line="67" column="58" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1504042751205">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="1" />
+        <mark key="." line="62" column="1" />
+        <mark key="^" line="62" column="1" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1504031471955">
         <mark key="[" line="156" column="0" />
@@ -34,34 +45,11 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="/Dummy.jql" timestamp="1500286487261">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1501021176776">
-        <mark key="'" line="42" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1499438660015">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1503607007727">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
-        <mark key="[" line="23" column="49" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1504048719830">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1504042751205">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="1" />
-        <mark key="." line="62" column="1" />
-        <mark key="^" line="62" column="1" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/docker-compose.yml" timestamp="1499851849673">
         <mark key="[" line="15" column="45" />
+      </file>
+      <file name="/Dummy.jql" timestamp="1500286487261">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1503947772590">
         <mark key="'" line="11" column="9" />
@@ -74,6 +62,15 @@
         <mark key="]" line="149" column="32" />
         <mark key="." line="149" column="32" />
         <mark key="^" line="149" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1501021176776">
+        <mark key="'" line="42" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1499438660015">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1503607007727">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" timestamp="1504048504149">
         <mark key="'" line="363" column="0" />
@@ -92,6 +89,9 @@
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1501022813104">
         <mark key="'" line="445" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
+        <mark key="[" line="23" column="49" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
@@ -200,14 +200,14 @@
       <jump line="1382" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cn0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAkblBhcmNoZUZlb0NvbW9FbEN1bG9MaW5rQ2FyY2FzYXNQZXJzb25hbGl6YWRhc0FmYWx0YURlUXVlRGVuRGVBbHRhRWxTbHVnRW5MYXNUYWJsYXM=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
