@@ -39,6 +39,9 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
+      <file name="/Dummy.jql" timestamp="1500286487261">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticlesIntoPaginationDataCmd.php" timestamp="1504227740546">
         <mark key="[" line="105" column="35" />
         <mark key="]" line="105" column="83" />
@@ -47,6 +50,12 @@
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/baskets/routing_private_baskets.yml" timestamp="1501021176776">
         <mark key="'" line="42" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1499438660015">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1504552374989">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleList.php" timestamp="1504219324566">
         <mark key="[" line="20" column="3" />
@@ -59,6 +68,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="73" column="3" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
+        <mark key="[" line="23" column="49" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleListCmd.php" timestamp="1504227412066">
         <mark key="'" line="47" column="0" />
@@ -78,8 +90,20 @@
         <mark key="." line="62" column="1" />
         <mark key="^" line="62" column="1" />
       </file>
+      <file name="$USER_HOME$/Downloads/decorator.php" timestamp="1504551931770">
+        <mark key="[" line="72" column="21" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="72" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/docker/local/docker-compose.yml" timestamp="1499851849673">
+        <mark key="[" line="15" column="45" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1503947772590">
         <mark key="'" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
+        <mark key="[" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1504045848307">
         <mark key="[" line="149" column="65" />
@@ -116,8 +140,14 @@
         <mark key="." line="22" column="62" />
         <mark key="^" line="22" column="62" />
       </file>
+      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
+        <mark key="[" line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1501022813104">
         <mark key="'" line="445" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
+        <mark key="[" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -223,14 +253,14 @@
       <jump line="74" column="67" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/AppSearchDoofinder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>exclaimTitle</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>exclaimTitle</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
@@ -239,13 +269,13 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0QXJySWRBcnRpY3VsbygkYXJySWRBcnRpY3Vsbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -254,16 +284,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFBhcnNlSWRzQXJ0aWNsZXNJbnRvUGFnaW5hdGlvbkRhdGFBcHAgY29uc3RydWN0b3IuCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIFBhcnNlSWRzQXJ0aWNsZXNJbnRvUGFnaW5hdGlvbkRhdGFBcHAgY29uc3RydWN0b3IuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
