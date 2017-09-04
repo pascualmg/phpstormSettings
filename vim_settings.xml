@@ -111,6 +111,13 @@
         <mark key="." line="150" column="32" />
         <mark key="^" line="150" column="32" />
       </file>
+      <file name="$USER_HOME$/src/patterns/decorator.php" timestamp="1504555861146">
+        <mark key="'" line="39" column="39" />
+        <mark key="[" line="116" column="11" />
+        <mark key="]" line="116" column="33" />
+        <mark key="." line="116" column="33" />
+        <mark key="^" line="116" column="33" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/AppSearchDoofinder.php" timestamp="1504227590223">
         <mark key="[" line="80" column="39" />
         <mark key="]" line="81" column="28" />
@@ -151,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="21" filename="$USER_HOME$/src/web/xml/feed/doofinderPT/class/PccomFeederDoofinderPT.class.php" />
       <jump line="74" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
       <jump line="259" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
       <jump line="546" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
@@ -251,49 +257,50 @@
       <jump line="1382" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="30" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleListCmd.php" />
       <jump line="74" column="67" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/AppSearchDoofinder.php" />
+      <jump line="40" column="39" filename="$USER_HOME$/src/patterns/decorator.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exclaimTitle</text>
+        <text>reset</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>exclaimTitle</text>
+        <text>reset</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0QXJySWRBcnRpY3VsbygkYXJySWRBcnRpY3Vsbyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IAogIHdyaXRlbG4oJ3Nob3dpbmcgdGl0bGUgYWZ0ZXIgcmVzZXQ6ICcpOwogIHdyaXRlbG4oJGRlY29yYXRvci0+cmVzZXRUaXRsZSgpKTsKICB3cml0ZWxuKCRkZWNvcmF0b3ItPnNob3dUaXRsZSgpKTsKICB3cml0ZWxuKCcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YnRkLT50aXRsZSA9IGRkZGRkZGhoaCgnKicsICRyZXBsYWNlLCAkc3ViamVjdCknb3N0aWEgcHV0YSBxdWUgbG9jdXJhIGRlIHBhdHJvbmVzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogRXN0YSBjbGFzZSBFUyBlbCBERUNPUkFUT1IsIHNlcsOhIGRlIGxhIHF1ZSBsdWVnbyBleHRpZW5kYW4gCiAqIGxhcyBkZW3DoXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogREVDT1JBVE9SIHBhdHRlcm4gLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vZG9pbmcgdGhpcyBzbyBvcmlnaW5hbCBvYmplY3QgaXMgbm90IGFsdGVyZWQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAvKiogQHZhciBCb29rVGl0bGVFeGNsYWltRGVjb3JhdG9yICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIFBhcnNlSWRzQXJ0aWNsZXNJbnRvUGFnaW5hdGlvbkRhdGFBcHAgY29uc3RydWN0b3IuCg==</text>
+        <text encoding="base64">ICAkZXhjbGFpbURlY29yYXRvci0+ZXhjbGFpbVRpdGxlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
