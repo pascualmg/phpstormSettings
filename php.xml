@@ -7,7 +7,7 @@
   <component name="PhpAutoImport" auto_import_from_global_scope="true" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/opt/phpcs.phar" />
+      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/opt/phpcs.phar" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
@@ -800,7 +800,7 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="memory_limit" value="-1" />
             <configuration_option name="mssql.allow_persistent" value="1" />
             <configuration_option name="mssql.batchsize" value="0" />
             <configuration_option name="mssql.charset" value="" />
