@@ -35,6 +35,12 @@
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesManagoContactUpsertInterface.php" timestamp="1505579695769">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="53" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticlesIntoPaginationDataCmd.php" timestamp="1504227740546">
         <mark key="[" line="105" column="35" />
         <mark key="]" line="105" column="83" />
@@ -85,8 +91,11 @@
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/SalesManagoContactUpsert.php" timestamp="1505557868833">
-        <mark key="[" line="27" column="35" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/SalesManagoContactUpsert.php" timestamp="1505579772502">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="66" />
+        <mark key="." line="18" column="66" />
+        <mark key="^" line="11" column="82" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleListCmd.php" timestamp="1504227412066">
         <mark key="'" line="48" column="0" />
@@ -103,12 +112,12 @@
         <mark key="." line="62" column="1" />
         <mark key="^" line="62" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" timestamp="1505559296511">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" timestamp="1505579936526">
         <mark key="'" line="114" column="1" />
-        <mark key="[" line="129" column="5" />
-        <mark key="]" line="130" column="7" />
-        <mark key="." line="130" column="7" />
-        <mark key="^" line="130" column="7" />
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/decorator.php" timestamp="1504551931770">
         <mark key="[" line="72" column="21" />
@@ -145,11 +154,11 @@
         <mark key="." line="56" column="56" />
         <mark key="^" line="56" column="56" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/GetSmClientIdAfterUpdateWithUpsertApp.php" timestamp="1505555171606">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/User/GetSmClientIdAfterUpdateWithUpsertApp.php" timestamp="1505579830867">
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="65" column="40" />
-        <mark key="." line="12" column="0" />
+        <mark key="]" line="12" column="82" />
+        <mark key="^" line="12" column="82" />
+        <mark key="." line="12" column="82" />
       </file>
       <file name="restClient/response28.json" timestamp="1505529269832" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleListApp.php" timestamp="1504222619350">
@@ -268,14 +277,14 @@
       <jump line="114" column="1" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
@@ -284,13 +293,13 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIFNldHRlYSBsYSByZXNwb25zZSBlbXVsYWRhIHF1ZSBzZSByZWNpYmUgZGUgbnVlc3RyYSBBcGkKICAgICAqIHNpIHNlIGhhY2UgbGEgcGV0aWNpw7NuIGNvbiB1biBtYWlsIG51bG8gbyB1biBtYWlsIHZhY2lvLgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldEVtdWxhdGVkUmVzcG9uc2VXaGVuTm9NYWlsSXNTcGVjaWZpZWQoKQogICAgewogICAgICAgICAkdGhpcy0+ZW11bGF0ZWRSZXNwb25zZUZyb21QY2NBcGlTYWxlc21hbmFnb0NvbnRhY3RVcHNlcnQgPSBbCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiBqc29uX2VuY29kZShbInN1Y2Nlc3MiID0+IGZhbHNlLCAibWVzc2FnZSIgPT4gWyJObyBlbWFpbCBzcGVjaWZpZWQiXSwgImNvbnRhY3RJZCIgPT4gIm51bGwiXSkKICAgICAgICBdOwogICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CiAgICAvKioKICAgICAqIE5hbWVkQ29uc3RydWN0b3IKICAgICAqIEByZXR1cm4gJHRoaXMKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiB3aGVuTm9NYWlsU3BlY2lmaWVkKCkKICAgIHsKICAgICAgIHJldHVybiAobmV3IHNlbGYpLT5zZXRFbXVsYXRlZFJlc3BvbnNlV2hlbk5vTWFpbElzU3BlY2lmaWVkKCk7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXFNhbGVzTWFuYWdvQ29udGFjdFVwc2VydEludGVyZmFjZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlZGRqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIFBjY1xJbmZyYXN0cnVjdHVyZVxTYWxlc01hbmFnb1xDb250YWN0VXBzZXJ0Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
