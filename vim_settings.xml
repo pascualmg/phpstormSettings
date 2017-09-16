@@ -40,11 +40,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/GetSmClientIdAfterUpdateWithUpsertAppTest.php" timestamp="1505507141918">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="60" column="24" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/GetSmClientIdAfterUpdateWithUpsertAppTest.php" timestamp="1505507803164">
+        <mark key="[" line="65" column="27" />
+        <mark key="]" line="65" column="40" />
+        <mark key="." line="65" column="40" />
+        <mark key="^" line="65" column="40" />
       </file>
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
@@ -77,7 +77,7 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505504217906">
+      <file name="/Dummy.txt" timestamp="1505507873649">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -239,35 +239,35 @@
       <jump line="115" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/SearchDoofinderApp.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$arr</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>$cuandoXXX</text>
+        <text>$arr</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
       </register>
       <register name="0" type="4">
-        <text>{</text>
+        <text>9c03822a-155b-11e7-8402-0cc47a6bceb8}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAganNvbl9lbmNvZGUoJ21lc3NhZ2UnID0+IFsic3VjY2VzcyIgPT4gZmFsc2UsIm1lc3NhZ2UiID0+IFsiTm8gZW1haWwgc3BlY2lmaWVkIl0sImNvbnRhY3RJZCIgPT4gbnVsbF0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgcmV0dXJuICRjdWFuZG9YWFg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VhbmRvWFhYID0gJ3sibWVzc2FnZSI6ICJ7XCJzdWNjZXNzXCI6ZmFsc2UsXCJtZXNzYWdlXCI6W1wiTm8gZW1haWwgc3BlY2lmaWVkXCJdLFwiY29udGFjdElkXCI6bnVsbH0ifSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgcmV0dXJuICRjdWFuZG9YWFg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VhbmRvWFhYID0gampqamoK</text>
+        <text encoding="base64">ICAgICAgICAkY3VhbmRvWFhYID0gJ3sibWVzc2FnZSI6ICJ7XCJzdWNjZXNzXCI6ZmFsc2UsXCJtZXNzYWdlXCI6W1wiTm8gZW1haWwgc3BlY2lmaWVkXCJdLFwiY29udGFjdElkXCI6bnVsbH0ifSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY3VhbmRvWFhYID0gampqamoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -279,7 +279,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZXhwb3J0KCRyZXNwdWVzdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
