@@ -35,12 +35,19 @@
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesManagoContactUpsertInterface.php" timestamp="1505757914047">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="9" column="53" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" timestamp="1505759184500">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="5" />
+        <mark key="." line="48" column="5" />
+        <mark key="^" line="48" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesManagoContactUpsertInterface.php" timestamp="1505759154104">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticlesIntoPaginationDataCmd.php" timestamp="1504227740546">
         <mark key="[" line="105" column="35" />
@@ -104,6 +111,12 @@
         <mark key="." line="18" column="66" />
         <mark key="^" line="11" column="82" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/setCookieApp.php" timestamp="1505760523897">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="2" column="61" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleListCmd.php" timestamp="1504227412066">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="24" column="33" />
@@ -112,7 +125,9 @@
         <mark key="^" line="24" column="33" />
       </file>
       <file name="restClient/response15.html" timestamp="1505526069796" />
-      <file name="/Dummy.txt" timestamp="1505557223641" />
+      <file name="/Dummy.txt" timestamp="1505760551099">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1504042751205">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="1" />
@@ -137,6 +152,12 @@
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/Cookier.php" timestamp="1505761343919">
+        <mark key="[" line="15" column="69" />
+        <mark key="]" line="15" column="68" />
+        <mark key="." line="15" column="68" />
+        <mark key="^" line="15" column="68" />
       </file>
       <file name="$USER_HOME$/src/patterns/decorator.php" timestamp="1504563921590">
         <mark key="'" line="39" column="39" />
@@ -178,12 +199,12 @@
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1505759342805" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/appRestoreCartAfterMailSalesManago.php" />
       <jump line="223" column="50" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
       <jump line="71" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/appRestoreCartAfterMailSalesManago.php" />
       <jump line="26" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
@@ -283,34 +304,35 @@
       <jump line="28" column="5" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" />
       <jump line="50" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
       <jump line="34" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/SalesManagoContactUpsert.php" />
+      <jump line="46" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>rInterface</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>rInterface</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>salesman</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIFNldHRlYSBsYSByZXNwb25zZSBlbXVsYWRhIHF1ZSBzZSByZWNpYmUgZGUgbnVlc3RyYSBBcGkKICAgICAqIHNpIHNlIGhhY2UgbGEgcGV0aWNpw7NuIGNvbiB1biBtYWlsIG51bG8gbyB1biBtYWlsIHZhY2lvLgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldEVtdWxhdGVkUmVzcG9uc2VXaGVuTm9NYWlsSXNTcGVjaWZpZWQoKQogICAgewogICAgICAgICAkdGhpcy0+ZW11bGF0ZWRSZXNwb25zZUZyb21QY2NBcGlTYWxlc21hbmFnb0NvbnRhY3RVcHNlcnQgPSBbCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiBqc29uX2VuY29kZShbInN1Y2Nlc3MiID0+IGZhbHNlLCAibWVzc2FnZSIgPT4gWyJObyBlbWFpbCBzcGVjaWZpZWQiXSwgImNvbnRhY3RJZCIgPT4gIm51bGwiXSkKICAgICAgICBdOwogICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CiAgICAvKioKICAgICAqIE5hbWVkQ29uc3RydWN0b3IKICAgICAqIEByZXR1cm4gJHRoaXMKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiB3aGVuTm9NYWlsU3BlY2lmaWVkKCkKICAgIHsKICAgICAgIHJldHVybiAobmV3IHNlbGYpLT5zZXRFbXVsYXRlZFJlc3BvbnNlV2hlbk5vTWFpbElzU3BlY2lmaWVkKCk7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXFNhbGVzTWFuYWdvQ29udGFjdFVwc2VydEludGVyZmFjZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlZGRqCg==</text>
+        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVc2VyXFNhbGVzTWFuYWdvQ29udGFjdFVwc2VydEludGVyZmFjZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFBjY1xJbmZyYXN0cnVjdHVyZVxTYWxlc01hbmFnb1xDb250YWN0VXBzZXJ0Owo=</text>
+        <text encoding="base64">dXNlZGRqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIFBjY1xJbmZyYXN0cnVjdHVyZVxTYWxlc01hbmFnb1xDb250YWN0VXBzZXJ0Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -332,9 +354,9 @@
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search>salesman</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>salesman</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resum</entry>
         <entry>usuarios</entry>
         <entry>load</entry>
         <entry>come</entry>
@@ -362,6 +383,7 @@
         <entry>php</entry>
         <entry encoding="base64">XDxjb3B5cGFzdGVcPg==</entry>
         <entry>select</entry>
+        <entry>salesman</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
