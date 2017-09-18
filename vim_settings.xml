@@ -82,11 +82,11 @@
       <file name="/PHP Console" timestamp="1505526641241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" timestamp="1505770900147">
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="47" column="6" />
-        <mark key="." line="47" column="6" />
-        <mark key="^" line="47" column="6" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" timestamp="1505771600734">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
+        <mark key="^" line="52" column="24" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" timestamp="1505757919425">
         <mark key="'" line="28" column="5" />
@@ -329,7 +329,7 @@
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>dump</text>
+        <text>arr_cookies</text>
       </register>
       <register name="/" type="4">
         <text>has</text>
@@ -341,28 +341,28 @@
         <text encoding="base64">ICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICB2YXJfZXhwb3J0KCRhcnJfY29va2llcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgIGlmIChpc3NldCgkYXJyX2Nvb2tpZXNbJGNvb2tpZU5hbWVdKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGZvcmVhY2ggKCRhcnJfY29va2llcyBhcyAkY29va2llKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICB2YXJfZXhwb3J0KCRhcnJfY29va2llcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICRpc0xvYWNhdGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgIGZvcmVhY2ggKCRhcnJfY29va2llcyBhcyAkY29va2llKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGlmIChpbl9hcnJheSgkY29va2llTmFtZSwgJGFycl9jb29raWVzKSkgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICRpc0xvYWNhdGVkID0gZmFsc2U7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIH0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICRpc0xvYWNhdGVkID0gdHJ1ZTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIGlmIChpbl9hcnJheSgkY29va2llTmFtZSwgJGFycl9jb29raWVzKSkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICB2YXJfZHVtcCgkY29va2llKTsK</text>
+        <text encoding="base64">ICAgICAgICRpc0xvYWNhdGVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>n</text>
