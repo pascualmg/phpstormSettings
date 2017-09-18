@@ -82,11 +82,10 @@
       <file name="/PHP Console" timestamp="1505526641241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" timestamp="1505768040457">
-        <mark key="'" line="39" column="39" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" timestamp="1505770128662">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" timestamp="1505757919425">
         <mark key="'" line="28" column="5" />
@@ -130,8 +129,12 @@
         <mark key="^" line="24" column="33" />
       </file>
       <file name="restClient/response15.html" timestamp="1505526069796" />
+      <file name="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Cookie.php" timestamp="1505770067203" />
       <file name="/Dummy.txt" timestamp="1505764590002">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" timestamp="1505770201491">
+        <mark key="'" line="282" column="44" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinder.php" timestamp="1504042751205">
         <mark key="[" line="62" column="0" />
@@ -216,11 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/appRestoreCartAfterMailSalesManago.php" />
-      <jump line="26" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
-      <jump line="394" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
-      <jump line="351" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
-      <jump line="102" column="13" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
       <jump line="440" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
       <jump line="368" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
       <jump line="425" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" />
@@ -316,58 +314,63 @@
       <jump line="34" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/SalesManagoContactUpsert.php" />
       <jump line="46" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
       <jump line="40" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" />
+      <jump line="43" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" />
+      <jump line="206" column="25" filename="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" />
+      <jump line="104" column="43" filename="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" />
+      <jump line="131" column="20" filename="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" />
+      <jump line="282" column="44" filename="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICRjb29raWVzLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAkY29va2llY29va2llOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>actual</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>salesman</text>
+        <text>has</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICRleHBldGVkID0gJGNvb2tpZVZhbHVlID0gJzExMzM0NjU1MzUnOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICRjb29raWVzID0gJHJlc3BvbnNlLT5oZWFkZXJzLT5nZXRDb29raWVzKCRjb29raWVOYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICRjb29raWVzLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAkY29va2llY29va2llOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBDb29raWUgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0Q29va2llSW5SZXNwb25zZSgpIG1ldGhvZC5pCg==</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9kdW1wOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY29va2llVmFsdWUgPSAnMTEzMzQ2NTUzNSc7Cg==</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGludGxjYWxfZ2V0X2FjdHVhbF9tYXhpbXVtOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY29va2llVmFsdWUgPSAnMTEzMzQ2NTUzNSc7Cg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEJyb3dzZXJLaXRcQ29va2llOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFNlc3Npb25cU2Vzc2lvbjsK</text>
+        <text encoding="base64">ICAgICAgICAkZXhwZXRlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmhlYWRlcnMtPnNldCgkY29va2llTmFtZSwgJGNvb2tpZVZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY29va2llcyA9ICRyZXNwb25zZS0+aGVhZGVycy0+Z2V0Q29va2llcygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lc3BhY2UgUGNjXEluZnJhc3RydWN0dXJlXFNhbGVzTWFuYWdvXENvbnRhY3RVcHNlcnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAvKiogQHZhciBDb29raWUgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lc3BhY2UgUGNjXEluZnJhc3RydWN0dXJlXFNhbGVzTWFuYWdvXENvbnRhY3RVcHNlcnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAvKiogQHZhciBDb29raWUgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>n</text>
       </register>
     </registers>
     <search>
-      <last-search>salesman</last-search>
+      <last-search>has</last-search>
       <last-offset />
-      <last-pattern>salesman</last-pattern>
+      <last-pattern>has</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -375,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>usuarios</entry>
         <entry>load</entry>
         <entry>come</entry>
         <entry>dump</entry>
@@ -395,6 +397,7 @@
         <entry encoding="base64">XDxjb3B5cGFzdGVcPg==</entry>
         <entry>select</entry>
         <entry>salesman</entry>
+        <entry>has</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
