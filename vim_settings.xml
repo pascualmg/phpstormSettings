@@ -89,11 +89,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityApp.php" timestamp="1506101653950">
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="39" column="7" />
-        <mark key="^" line="39" column="7" />
-        <mark key="." line="39" column="7" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityApp.php" timestamp="1506107144685">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleListCmd.php" timestamp="1504227412066">
         <mark key="'" line="48" column="0" />
@@ -105,7 +105,7 @@
       <file name="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" timestamp="1505770201491">
         <mark key="'" line="282" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506100094200">
+      <file name="/Dummy.txt" timestamp="1506106671509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" timestamp="1505579936526">
@@ -130,11 +130,12 @@
         <mark key="." line="22" column="77" />
         <mark key="^" line="22" column="77" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Resources/config/routing.yml" timestamp="1506102856688">
-        <mark key="[" line="346" column="0" />
-        <mark key="]" line="346" column="0" />
-        <mark key="^" line="345" column="16" />
-        <mark key="." line="346" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/Article/Builder/Detail/Availability/Availability.php" timestamp="1506104677257" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Resources/config/routing.yml" timestamp="1506105496483">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="^" line="367" column="20" />
+        <mark key="." line="367" column="0" />
       </file>
       <file name="$USER_HOME$/src/patterns/decorator.php" timestamp="1504563921590">
         <mark key="'" line="39" column="39" />
@@ -159,12 +160,11 @@
         <mark key="^" line="12" column="82" />
         <mark key="." line="12" column="82" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1506103314490">
-        <mark key="'" line="305" column="20" />
-        <mark key="[" line="349" column="31" />
-        <mark key="]" line="326" column="35" />
-        <mark key="^" line="326" column="35" />
-        <mark key="." line="326" column="35" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1506106611037">
+        <mark key="[" line="331" column="43" />
+        <mark key="]" line="331" column="42" />
+        <mark key="." line="331" column="42" />
+        <mark key="^" line="331" column="42" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticlesAvailiabilityApp.php" timestamp="1506101331894">
         <mark key="[" line="11" column="20" />
@@ -184,11 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="50" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="1988" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="2119" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="2094" column="8" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="2157" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2189" column="4" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="882" column="5" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1472" column="4" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -284,16 +279,21 @@
       <jump line="295" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="301" column="44" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="303" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="343" column="27" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="5" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="341" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="342" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$confirmator($articles2Confirm));</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>$confirmator($articles2Confirm));</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Avai</text>
@@ -305,28 +305,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkY29uZmlybWF0b3IoJEFydGljbGVzMkNvbmZpcm1DbWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkQXJ0aWNsZTogIFxkKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVtZW50czoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGg6ICAgICAgLy5pZEFydGljbGV9L2F2YWlsYWJpbGl0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoICgwIDwgJGNvZGUpIDwgNCkgewogICAgICAgICAgICRpc0F2YWlsaWFibGUgPSB0cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
