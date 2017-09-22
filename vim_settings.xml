@@ -50,9 +50,6 @@
         <mark key="^" line="56" column="69" />
         <mark key="." line="56" column="69" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" timestamp="1505757911337">
-        <mark key="'" line="262" column="62" />
-      </file>
       <file name="/a.sql" timestamp="1499438660015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,10 +72,11 @@
         <mark key="^" line="123" column="29" />
         <mark key="." line="123" column="29" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityAppTest.php" timestamp="1506113810921">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityAppTest.php" timestamp="1506114039928">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+        <mark key="^" line="24" column="1" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
@@ -108,9 +106,6 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" timestamp="1505770201491">
-        <mark key="'" line="282" column="44" />
-      </file>
       <file name="/Dummy.txt" timestamp="1506113427913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -122,6 +117,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/composer.json" timestamp="1506114728855">
+        <mark key="'" line="60" column="36" />
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="65" column="41" />
       </file>
       <file name="/fragment.php" timestamp="1505777522633">
         <mark key="[" line="0" column="0" />
@@ -192,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2189" column="4" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="882" column="5" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1472" column="4" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1446" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -292,34 +293,35 @@
       <jump line="5" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="341" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="342" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="60" column="36" filename="$USER_HOME$/src/pccapi/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFxQSFBVbml0X0ZyYW1ld29ya19UZXN0Q2FzZQ==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Avai</text>
+        <text>phpuni</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogTcOpdG9kbyBxdWUgZGV2dWVsdmUgbGEgZGlzcG9uaWJsaWRhZCBkZSB1biBhcnTDrWN1bG8KICAgICAqCiAgICAgKiBAcGFyYW0gXFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlcXVlc3QgJHJlcXVlc3QgSWQgZGVsIGFydMOtY3VsbwogICAgICoKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqIEB0aHJvd3MgXFBjY1xCdW5kbGVcQ29tbW9uQnVuZGxlXEV4Y2VwdGlvbnNcUGNjSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uCiAgICAgKgogICAgICogQEFwaURvYygKICAgICAqICAgICAgZGVzY3JpcHRpb24gPSAiT2J0aWVuZSBlbCBkZXRhbGxlIGRlIHVuIGFydMOtY3VsbyBhIHBhcnRpciBkZSBzdSBpZCIsCiAgICAgKiAgICAgIHNlY3Rpb24gPSAiQXJ0w61jdWxvcyIsCiAgICAgKiAgICAgIHJlcXVpcmVtZW50cyA9IHsKICAgICAqICAgICAgICAgIHsKICAgICAqICAgICAgICAgICAgICAibmFtZSIgPSAiaWRBcnRpY2xlIiwKICAgICAqICAgICAgICAgICAgICAiZGF0YVR5cGUiID0gImludGVnZXIiLAogICAgICogICAgICAgICAgICAgICJyZXF1aXJlbWVudCIgPSAiXGQrIiwKICAgICAqICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iID0gIklkIGRlbCBhcnTDrWN1bG8iCiAgICAgKiAgICAgICAgICB9CiAgICAgKiAgICAgIH0KICAgICAqICkKICAgICAqCiAgICAgKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAicGhwdW5pdC9waHB1bml0IjogIl42LjMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgQ29uZmlybUFydGljbGVBdmFpbGlhYmlsaXR5QXBwVGVzdCBleHRlbmRzIFxQSFBVbml0X0ZyYW1ld29ya19UZXN0Q2FzZQo=</text>
+        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICAgICB0b2RvOiBjb21wbGV0YXIgZG9jdW1lbnRhY2nDs24gbmVsbWlvLgo=</text>
+        <text encoding="base64">Y2xhc3MgQ29uZmlybUFydGljbGVBdmFpbGlhYmlsaXR5QXBwVGVzdCBleHRlbmRzIFxQSFBVbml0X0ZyYW1ld29ya19UZXN0Q2FzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqICAgICB0b2RvOiBjb21wbGV0YXIgZG9jdW1lbnRhY2nDs24gbmVsbWlvLgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -328,22 +330,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIE3DqXRvZG8gcXVlIGRldnVlbHZlIGxhIGRpc3BvbmlibGlkYWQgZGUgdW4gYXJ0w61jdWxvCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0IEwK</text>
+        <text encoding="base64">ICAgICAqIE3DqXRvZG8gcXVlIGRldnVlbHZlIGxhIGRpc3BvbmlibGlkYWQgZGUgdW4gYXJ0w61jdWxvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Avai</last-search>
+      <last-search>phpuni</last-search>
       <last-offset />
-      <last-pattern>Avai</last-pattern>
+      <last-pattern>phpuni</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -351,7 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZlw+</entry>
         <entry>canon</entry>
         <entry>Prepare</entry>
         <entry>prepare</entry>
@@ -371,16 +372,17 @@
         <entry>avail</entry>
         <entry>lity</entry>
         <entry>Avai</entry>
+        <entry>phpuni</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>bn</entry>
         <entry>reg</entry>
-        <entry>w</entry>
         <entry encoding="base64">YiBuIA==</entry>
         <entry>b</entry>
         <entry>n</entry>
         <entry>q!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
