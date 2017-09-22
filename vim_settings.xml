@@ -89,11 +89,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityApp.php" timestamp="1506107144685">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="14" column="2" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityApp.php" timestamp="1506112485004">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleListCmd.php" timestamp="1504227412066">
         <mark key="'" line="48" column="0" />
@@ -105,8 +105,10 @@
       <file name="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" timestamp="1505770201491">
         <mark key="'" line="282" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506108681594">
+      <file name="/Dummy.txt" timestamp="1506112827553">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" timestamp="1505579936526">
         <mark key="'" line="114" column="1" />
@@ -159,6 +161,12 @@
         <mark key="]" line="12" column="82" />
         <mark key="^" line="12" column="82" />
         <mark key="." line="12" column="82" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1506112881516">
+        <mark key="[" line="353" column="5" />
+        <mark key="]" line="340" column="0" />
+        <mark key="." line="340" column="0" />
+        <mark key="^" line="376" column="58" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticlesAvailiabilityApp.php" timestamp="1506101331894">
         <mark key="[" line="11" column="20" />
@@ -281,13 +289,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>on</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>on</text>
       </register>
       <register name="/" type="4">
         <text>Avai</text>
@@ -296,31 +304,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogTcOpdG9kbyBxdWUgZGV2dWVsdmUgbGEgZGlzcG9uaWJsaWRhZCBkZSB1biBhcnTDrWN1bG8KICAgICAqCiAgICAgKiBAcGFyYW0gXFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlcXVlc3QgJHJlcXVlc3QgSWQgZGVsIGFydMOtY3VsbwogICAgICoKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqIEB0aHJvd3MgXFBjY1xCdW5kbGVcQ29tbW9uQnVuZGxlXEV4Y2VwdGlvbnNcUGNjSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uCiAgICAgKgogICAgICogQEFwaURvYygKICAgICAqICAgICAgZGVzY3JpcHRpb24gPSAiT2J0aWVuZSBlbCBkZXRhbGxlIGRlIHVuIGFydMOtY3VsbyBhIHBhcnRpciBkZSBzdSBpZCIsCiAgICAgKiAgICAgIHNlY3Rpb24gPSAiQXJ0w61jdWxvcyIsCiAgICAgKiAgICAgIHJlcXVpcmVtZW50cyA9IHsKICAgICAqICAgICAgICAgIHsKICAgICAqICAgICAgICAgICAgICAibmFtZSIgPSAiaWRBcnRpY2xlIiwKICAgICAqICAgICAgICAgICAgICAiZGF0YVR5cGUiID0gImludGVnZXIiLAogICAgICogICAgICAgICAgICAgICJyZXF1aXJlbWVudCIgPSAiXGQrIiwKICAgICAqICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iID0gIklkIGRlbCBhcnTDrWN1bG8iCiAgICAgKiAgICAgICAgICB9CiAgICAgKiAgICAgIH0KICAgICAqICkKICAgICAqCiAgICAgKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFBjY1xCdW5kbGVcQ29tbW9uQnVuZGxlXEV4Y2VwdGlvbnNcUGNjSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAqICAgICB0b2RvOiBjb21wbGV0YXIgZG9jdW1lbnRhY2nDs24gbmVsbWlvLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gSnNvblJlc3BvbnNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgLyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIE3DqXRvZG8gcXVlIGRldnVlbHZlIGxhIGRpc3BvbmlibGlkYWQgZGUgdW4gYXJ0w61jdWxvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0IEwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFBjY1xCdW5kbGVcQ29tbW9uQnVuZGxlXEV4Y2VwdGlvbnNcUGNjSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
