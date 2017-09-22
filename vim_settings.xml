@@ -130,6 +130,12 @@
         <mark key="." line="22" column="77" />
         <mark key="^" line="22" column="77" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Resources/config/routing.yml" timestamp="1506102856688">
+        <mark key="[" line="346" column="0" />
+        <mark key="]" line="346" column="0" />
+        <mark key="^" line="345" column="16" />
+        <mark key="." line="346" column="0" />
+      </file>
       <file name="$USER_HOME$/src/patterns/decorator.php" timestamp="1504563921590">
         <mark key="'" line="39" column="39" />
         <mark key="[" line="104" column="0" />
@@ -153,12 +159,12 @@
         <mark key="^" line="12" column="82" />
         <mark key="." line="12" column="82" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1506101319346">
-        <mark key="'" line="316" column="42" />
-        <mark key="[" line="5" column="56" />
-        <mark key="]" line="5" column="56" />
-        <mark key="." line="5" column="56" />
-        <mark key="^" line="5" column="73" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1506103314490">
+        <mark key="'" line="305" column="20" />
+        <mark key="[" line="349" column="31" />
+        <mark key="]" line="326" column="35" />
+        <mark key="^" line="326" column="35" />
+        <mark key="." line="326" column="35" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticlesAvailiabilityApp.php" timestamp="1506101331894">
         <mark key="[" line="11" column="20" />
@@ -178,12 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="642" column="36" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="645" column="9" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="649" column="27" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="859" column="28" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="2066" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="103" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="597" column="50" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1988" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2119" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -278,58 +278,64 @@
       <jump line="62" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/SetCookieCmd.php" />
       <jump line="313" column="11" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="316" column="42" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="17" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="139" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="288" column="23" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="295" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="301" column="44" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="303" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>$confirmator($articles2Confirm));</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>$confirmator($articles2Confirm));</text>
       </register>
       <register name="/" type="4">
-        <text>lity</text>
+        <text>Avai</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBEYXRldGltZSAkZXhwaXJlICAgICAgQ3VhbmRvIGNhZHVjYSBsYSBjb29raWUuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoJGNvbmZpcm1hdG9yKCRhcnRpY2xlczJDb25maXJtKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2ludm9rZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmhhbmRsZSgpOwogICAgfQ==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19pbnZva2UoKSBtZXRob2QuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuZXcgQ29uZmlybUFydGljbGVBdmFpbGlhYmlsaXR5QXBwKCkgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkY29uZmlybWF0b3IoJEFydGljbGVzMkNvbmZpcm1DbWQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkQXJ0aWNsZTogIFxkKwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmVtZW50czoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhdGg6ICAgICAgLy5pZEFydGljbGV9L2F2YWlsYWJpbGl0eQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaWRzQXJ0aWNsZXMyQ29uZmlybUF2YWlsaWFiaWxpdHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsaWRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>lity</last-search>
+      <last-search>Avai</last-search>
       <last-offset />
-      <last-pattern>lity</last-pattern>
+      <last-pattern>Avai</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -355,8 +361,8 @@
         <entry>smData</entry>
         <entry>pcc_salesmanago_contact</entry>
         <entry>avail</entry>
-        <entry>Avai</entry>
         <entry>lity</entry>
+        <entry>Avai</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
