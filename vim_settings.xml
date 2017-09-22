@@ -105,7 +105,7 @@
       <file name="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" timestamp="1505770201491">
         <mark key="'" line="282" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505950493023">
+      <file name="/Dummy.txt" timestamp="1506094200959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" timestamp="1505579936526">
@@ -152,6 +152,12 @@
         <mark key="]" line="12" column="82" />
         <mark key="^" line="12" column="82" />
         <mark key="." line="12" column="82" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1506094514261">
+        <mark key="[" line="313" column="62" />
+        <mark key="]" line="313" column="62" />
+        <mark key="^" line="313" column="62" />
+        <mark key="." line="313" column="62" />
       </file>
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
@@ -268,17 +274,17 @@
       <jump line="62" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/SetCookieCmd.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>sieteDias</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>pcc_salesmanago_contact</text>
+        <text>lity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBEYXRldGltZSAkZXhwaXJlICAgICAgQ3VhbmRvIGNhZHVjYSBsYSBjb29raWUuCg==</text>
@@ -315,9 +321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pcc_salesmanago_contact</last-search>
+      <last-search>lity</last-search>
       <last-offset />
-      <last-pattern>pcc_salesmanago_contact</last-pattern>
+      <last-pattern>lity</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -325,9 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry encoding="base64">XDxFcnJvclw+</entry>
-        <entry>logg</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry>canon</entry>
         <entry>Prepare</entry>
@@ -345,6 +348,9 @@
         <entry>smda</entry>
         <entry>smData</entry>
         <entry>pcc_salesmanago_contact</entry>
+        <entry>avail</entry>
+        <entry>Avai</entry>
+        <entry>lity</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
