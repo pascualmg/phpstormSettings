@@ -45,6 +45,12 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ArticleAvailiabilityDataTransformer.php" timestamp="1506266040163">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="15" column="30" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/SetCookieCmd.php" timestamp="1505948844407">
         <mark key="'" line="62" column="53" />
         <mark key="[" line="122" column="55" />
@@ -121,11 +127,17 @@
         <mark key="^" line="361" column="7" />
         <mark key="." line="361" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityByIdApp.php" timestamp="1506244326045">
-        <mark key="[" line="69" column="7" />
-        <mark key="]" line="71" column="7" />
-        <mark key="." line="71" column="7" />
-        <mark key="^" line="71" column="7" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Filters/GetArticleFiltersDataTransformer.php" timestamp="1506265454085">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityByIdApp.php" timestamp="1506266028587">
+        <mark key="[" line="71" column="39" />
+        <mark key="]" line="71" column="39" />
+        <mark key="." line="71" column="39" />
+        <mark key="^" line="71" column="39" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
@@ -164,13 +176,19 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506243720555">
+      <file name="/Dummy.txt" timestamp="1506263637939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
       <file name="/fragment.php" timestamp="1505777522633">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ArticleAvailiabilityBoolDataTransformer.php" timestamp="1506265964889">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="75" />
+        <mark key="." line="21" column="75" />
+        <mark key="^" line="21" column="75" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
@@ -317,47 +335,47 @@
       <jump line="60" column="36" filename="$USER_HOME$/src/pccapi/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>availability</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>availability</text>
       </register>
       <register name="/" type="4">
         <text>phpuni</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoJ2FycmF5IGlkc0FydGljbGUsIGlzIG5vdCB2YWxpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaWRBcnRpY2xlID0gJGNtZC0+SWRBcnRpY2xlMkNvbmZpcm1BdmFpbGlhYmlsaXR5KCk7CiAgICAgICAgJG1hbmFnZXIgPSAkdGhpcy0+YXJ0aWNsZUJ1aWxkZXItPmJ1aWxkKCRpZEFydGljbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHlvdUNhbkJ1eSA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFuYWdlciA9ICRidWlsZGVyLT5idWlsZCgkaWRBcnRpY2xlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHlvdUNhbkJ1eSA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYXZhaWxpYWJpbGl0aTJUcmFuc2Zvcm1JbmJvb2w7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
