@@ -121,11 +121,11 @@
         <mark key="." line="25" column="6" />
         <mark key="^" line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1506275774230">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1506281531333">
         <mark key="[" line="355" column="44" />
-        <mark key="]" line="357" column="7" />
-        <mark key="^" line="357" column="7" />
-        <mark key="." line="357" column="7" />
+        <mark key="]" line="356" column="7" />
+        <mark key="^" line="356" column="7" />
+        <mark key="." line="356" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Filters/GetArticleFiltersDataTransformer.php" timestamp="1506265454085">
         <mark key="[" line="8" column="1" />
@@ -171,18 +171,18 @@
       <file name="/JavaScript Console" timestamp="1505777770332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" timestamp="1506278116932">
-        <mark key="[" line="1040" column="40" />
-        <mark key="]" line="1041" column="7" />
-        <mark key="^" line="1041" column="7" />
-        <mark key="." line="1041" column="7" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" timestamp="1506283877615">
+        <mark key="[" line="1062" column="61" />
+        <mark key="]" line="1062" column="61" />
+        <mark key="^" line="1062" column="54" />
+        <mark key="." line="1062" column="61" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/setCookieApp.php" timestamp="1505807264349">
         <mark key="[" line="20" column="7" />
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506275867850">
+      <file name="/Dummy.txt" timestamp="1506279734003">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -205,7 +205,7 @@
         <mark key="." line="22" column="77" />
         <mark key="^" line="22" column="77" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Resources/config/routing.yml" timestamp="1506277859913">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Resources/config/routing.yml" timestamp="1506279296252">
         <mark key="[" line="342" column="0" />
         <mark key="]" line="342" column="0" />
         <mark key="^" line="367" column="20" />
@@ -232,11 +232,11 @@
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_ajax_nc.yml" timestamp="1506277715454">
-        <mark key="[" line="159" column="28" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_ajax_nc.yml" timestamp="1506284013695">
+        <mark key="[" line="166" column="51" />
+        <mark key="]" line="165" column="45" />
+        <mark key="." line="165" column="45" />
+        <mark key="^" line="165" column="45" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/setCookieCmd.php" timestamp="1505807499133">
         <mark key="[" line="17" column="7" />
@@ -349,46 +349,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>31045</text>
+        <text>ajaxConfirmArticlesAvailiability</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>ajaxConfirmArticlesAvailiability</text>
       </register>
       <register name="/" type="4">
         <text>Apicaller</text>
       </register>
       <register name="0" type="4">
-        <text>31045</text>
+        <text encoding="base64">ICAgcHVibGljIGZ1bmN0aW9uIGFqYXhDb25maXJtQXJ0aWNsZXNBdmFpbGlhYmlsaXR5QWN0aW9uKFJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZSgnZW50cmFuZG8nKTsKICAgICAgICBkaWU7CiAgICAgICAgJGFycmF5T2ZJZHNBcnRpY2xlMkNvbmZpcm0gPSAkcmVxdWVzdC0+cmVxdWVzdC0+Z2V0KCdpZEFydGljbGUnKTsKICAgICAgICBkdW1wKCRhcnJheU9mSWRzQXJ0aWNsZTJDb25maXJtKTsKICAgICAgICBkaWU7CiAgICAgICAgJGFwaWNhbGxlciA9ICBuZXcgQXBpQ2FsbGVyKCk7CgogICAgICAgICRhcnJJZHNBcnRpY2xlID0gWzMxMDQ1LCAzMTA0Nl07CgogICAgICAgICRyZXNwb25zZSA9ICRhcGljYWxsZXItPmNyZWF0ZVJlcXVlc3RCdWlsZGVyKCkKICAgICAgICAgICAgLT5zZXRVcmkoJ2FydGljbGVzL2NvbmZpcm0vYXZhaWxhYmlsaXR5JykKICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ2lkQXJ0aWNsZXMnLCAkYXJySWRzQXJ0aWNsZSkKICAgICAgICAgICAgLT5nZXRSZXF1ZXN0KCkKICAgICAgICAgICAgLT5zZW5kUG9zdCgpCiAgICAgICAgICAgIC0+Z2V0UmVzdWx0KCk7CiAgICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoJHJlc3BvbnNlKTsKCiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpY2FsbGVyLT5jcmVhdGVSZXF1ZXN0QnVpbGRlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aXNWYWxpZFBvc3RhbGNvZGVBY3Rpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aXNWYWxpZFBvc3RhbGNvZGVBY3Rpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGNjX2NvbmZpcm1fYXJ0aWNsZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlKCdlbnRyYW5kbyBlbiBQb3N0Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlOiAiCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgSnNvblJlc3BvbnNlKCRjb25maXJtZWRJZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5nZXRSZXN1bHQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8vLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZW5kUG9zdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8vLyAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5nZXRSZXF1ZXN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8vLyAgICAgICAgICAgICAgICAkY29uZmlybWVkSWRzW10gPSAkaWRBcnRpY2xlMlZhbGlkYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ2lkQXJ0aWNsZXMnLCAkYXJySWRzQXJ0aWNsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
