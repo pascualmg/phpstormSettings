@@ -133,11 +133,10 @@
         <mark key="^" line="356" column="7" />
         <mark key="." line="356" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_articles.yml" timestamp="1506289624679">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="97" column="21" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_articles.yml" timestamp="1506321616511">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Filters/GetArticleFiltersDataTransformer.php" timestamp="1506265454085">
         <mark key="[" line="8" column="1" />
@@ -234,10 +233,11 @@
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_ajax_nc.yml" timestamp="1506286481258">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_ajax_nc.yml" timestamp="1506321788140">
+        <mark key="[" line="162" column="15" />
+        <mark key="]" line="162" column="14" />
+        <mark key="." line="162" column="14" />
+        <mark key="^" line="162" column="14" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Main/MainManager.php" timestamp="1506276932576" />
     </filemarks>
@@ -344,14 +344,14 @@
       <jump line="362" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>//no se como inyectar esto .</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Apicaller</text>
@@ -359,32 +359,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBDb25maXJtQXJ0aWNsZUF2YWlsaWFiaWxpdHlCeUlkQ21kICRjbWQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnBjY19hcnRpY2xlX2NvbmZpcm1fYXZhaWxpYWJpbGl0eToKICAgIHBhdGg6ICAgICAvYWpheF9uYy9jb25maXJtL2F2YWlsaWFiaWxpdHkKICAgIGRlZmF1bHRzOiB7IF9jb250cm9sbGVyOiBQY2NXZWJCdW5kbGU6QXJ0aWNsZXM6YWpheENvbmZpcm1BcnRpY2xlc0F2YWlsaWFiaWxpdHkgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDb25maXJtQXJ0aWNsZUF2YWlsaWFiaWxpdHlCeUlkQ21kICRjbWQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBDb25maXJtQXJ0aWNsZUF2YWlsaWFiaWxpdHlCeUlkQ21kICRjbWQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIGNvbmZpcm1BcnRpY2xlQXZhaWxpYWJpbGl0eUFwcCBjb25zdHJ1Y3Rvci4K</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
