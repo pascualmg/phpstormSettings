@@ -26,11 +26,11 @@
         <mark key="." line="122" column="37" />
         <mark key="^" line="122" column="37" />
       </file>
-      <file name="$USER_HOME$/src/patterns/personaDecorator.php" timestamp="1506635222586">
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/src/patterns/personaDecorator.php" timestamp="1506637602720">
+        <mark key="[" line="91" column="5" />
+        <mark key="]" line="92" column="26" />
+        <mark key="." line="92" column="26" />
+        <mark key="^" line="92" column="26" />
       </file>
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
@@ -344,13 +344,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V4bygpIG1ldGhvZC4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Hombre</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Apicaller</text>
@@ -359,33 +359,31 @@
         <text encoding="base64">IAogICAgcHVibGljIGZ1bmN0aW9uIG5vbWJyZSgpIAogICAgewogICAgICAgcmV0dXJuICR0aGlzLT5ub21icmU7CiAgICB9CiAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V4bygpIG1ldGhvZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXhvKCkgOiBTZXhvOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmFic3RyYWN0IGNsYXNzIFNleG8vL2VudW0gZW11bGF0ZWQgaW4gcGhwLgp7CiAgICBjb25zdCBob21icmUgPSAnaG9tYnJlJzsKICAgIGNvbnN0IG11amVyID0gJ211amVyJzsKfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgSG9tYnJlIGV4dGVuZHMgUGVyc29uYSB7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwcmVzZW50YXJzZSgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>class Hombre extends Persona {
-    
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm1lc3NhZ2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX190b1N0cmluZygpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
