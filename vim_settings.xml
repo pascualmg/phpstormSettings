@@ -133,11 +133,6 @@
         <mark key="^" line="356" column="7" />
         <mark key="." line="356" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_articles.yml" timestamp="1506321616511">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Filters/GetArticleFiltersDataTransformer.php" timestamp="1506265454085">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="10" column="19" />
@@ -182,13 +177,13 @@
       <file name="/JavaScript Console" timestamp="1505777770332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" timestamp="1506291559669">
-        <mark key="[" line="1056" column="41" />
-        <mark key="]" line="1056" column="65" />
-        <mark key="^" line="1056" column="65" />
-        <mark key="." line="1056" column="65" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" timestamp="1506322479729">
+        <mark key="'" line="1009" column="16" />
+        <mark key="]" line="1053" column="7" />
+        <mark key="^" line="1053" column="7" />
+        <mark key="." line="1053" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506320563731">
+      <file name="/Dummy.txt" timestamp="1506322488262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -242,7 +237,6 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Main/MainManager.php" timestamp="1506276932576" />
     </filemarks>
     <jumps>
-      <jump line="1446" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1434" column="13" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2196" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1075" column="59" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -342,16 +336,17 @@
       <jump line="60" column="36" filename="$USER_HOME$/src/pccapi/composer.json" />
       <jump line="359" column="32" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="362" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
+      <jump line="1009" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>La Cookie smclient caducará a los 7 dias de crearse.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>La Cookie smclient caducará a los 7 dias de crearse.</text>
       </register>
       <register name="/" type="4">
         <text>Apicaller</text>
