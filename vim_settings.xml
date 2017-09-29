@@ -26,11 +26,12 @@
         <mark key="." line="122" column="37" />
         <mark key="^" line="122" column="37" />
       </file>
-      <file name="$USER_HOME$/src/patterns/personaDecorator.php" timestamp="1506639226305">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="56" column="41" />
-        <mark key="^" line="56" column="41" />
+      <file name="$USER_HOME$/src/patterns/personaDecorator.php" timestamp="1506641708914">
+        <mark key="'" line="81" column="26" />
+        <mark key="[" line="135" column="37" />
+        <mark key="]" line="135" column="46" />
+        <mark key="." line="135" column="46" />
+        <mark key="^" line="135" column="46" />
       </file>
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
@@ -128,7 +129,7 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506322488262">
+      <file name="/Dummy.txt" timestamp="1506640465048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -241,9 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1434" column="13" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="2196" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="1075" column="59" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1045" column="12" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1078" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2176" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -341,58 +339,61 @@
       <jump line="359" column="32" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="362" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="1009" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
+      <jump line="99" column="0" filename="$USER_HOME$/src/patterns/personaDecorator.php" />
+      <jump line="56" column="14" filename="$USER_HOME$/src/patterns/personaDecorator.php" />
+      <jump line="81" column="26" filename="$USER_HOME$/src/patterns/personaDecorator.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Persona</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZSgneXl5eS9tbS9kZCcsICR0aGlzLT5mZWNoYU5hY2ltaWVudG8oKWspIC4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Persona</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Apicaller</text>
+        <text>así</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IAogICAgcHVibGljIGZ1bmN0aW9uIG5vbWJyZSgpIAogICAgewogICAgICAgcmV0dXJuICR0aGlzLT5ub21icmU7CiAgICB9CiAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZSgneXl5eS9tbS9kZCcsICR0aGlzLT5mZWNoYU5hY2ltaWVudG8oKWspIC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V4bygpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICRleGNlcHRpb24tPmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
+        <text encoding="base64">ICAgayAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXhvKCkgOiBTZXhvOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmFic3RyYWN0IGNsYXNzIFNleG8vL2VudW0gZW11bGF0ZWQgaW4gcGhwLgp7CiAgICBjb25zdCBob21icmUgPSAnaG9tYnJlJzsKICAgIGNvbnN0IG11amVyID0gJ211amVyJzsKfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">JGhpam8gPSAkbWFub2xvLT5yZXByb2R1Y2lyc2UoJG1hcmlhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW51bVNleG86Om1hY2hvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwcmVzZW50YXJzZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAoaHVtYW5vKSRwYXJlamE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFyZWphLT5ubwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm1lc3NhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbWF0YXIoKSBtZXRob2QuZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Apicaller</last-search>
+      <last-search>así</last-search>
       <last-offset />
-      <last-pattern>Apicaller</last-pattern>
+      <last-pattern>así</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prepare</entry>
-        <entry>bind_para</entry>
         <entry>1.21</entry>
         <entry>IVA</entry>
         <entry>private</entry>
@@ -420,6 +419,8 @@
         <entry>phpuni</entry>
         <entry>getAvaili</entry>
         <entry>Apicaller</entry>
+        <entry>El humano</entry>
+        <entry>así</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
