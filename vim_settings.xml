@@ -82,12 +82,6 @@
       <file name="/JavaScript Console" timestamp="1505777770332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" timestamp="1506322479729">
-        <mark key="'" line="1009" column="16" />
-        <mark key="]" line="1053" column="7" />
-        <mark key="^" line="1053" column="7" />
-        <mark key="." line="1053" column="7" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LoginController.php" timestamp="1506951281355">
         <mark key="[" line="209" column="1" />
       </file>
@@ -112,7 +106,7 @@
         <mark key="^" line="65" column="52" />
         <mark key="." line="65" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507013639390">
+      <file name="/Dummy.txt" timestamp="1507035663995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -122,6 +116,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/composer.json" timestamp="1507035682583">
+        <mark key="'" line="18" column="25" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="64" column="36" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1506289287437">
         <mark key="[" line="0" column="0" />
@@ -221,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2176" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2122" column="0" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="73" column="16" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="747" column="81" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -321,10 +321,11 @@
       <jump line="81" column="26" filename="$USER_HOME$/src/patterns/personaDecorator.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/app/config/config.yml" />
       <jump line="318" column="0" filename="$USER_HOME$/src/pccapi/app/config/config.yml" />
+      <jump line="18" column="25" filename="$USER_HOME$/src/pccapi/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFBjY1xEb21haW5cTW9kZWxcRG9tYWluRXZlbnRcRG9tYWluRXZlbnRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAicGFzY3VhbG1nL2FwaWdhdG9yIjogImRldiIK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -333,46 +334,46 @@
         <text>domainEventRepository</text>
       </register>
       <register name="/" type="4">
-        <text>así</text>
+        <text>5.3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBFdmVudExpc3RlbmVyUHVibGlzaGVyOjppbnN0YW5jZSgpLT5hZGQobmV3IFBlcnNpc3RBbGxFdmVudHMoJGRvbWFpbkV2ZW50UmVwbykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFBjY1xEb21haW5cTW9kZWxcRG9tYWluRXZlbnRcRG9tYWluRXZlbnRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAicGFzY3VhbG1nL2FwaWdhdG9yIjogImRldiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFxQY2NcQnVuZGxlXEVudGl0eUJ1bmRsZVxFbnRpdHlcV2ViXEV2ZW50XERvbWFpbkV2ZW50IGFzIERvbWFpbkV2ZW50RW50aXR5Owo=</text>
+        <text encoding="base64">dXNlIFBjY1xEb21haW5cTW9kZWxcRG9tYWluRXZlbnRcRG9tYWluRXZlbnRSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZG9tYWluRXZlbnRSZXBvc2l0b3J5LT5hZGQoJGRvbWFpbkV2ZW50KTsK</text>
+        <text encoding="base64">dXNlIFxQY2NcQnVuZGxlXEVudGl0eUJ1bmRsZVxFbnRpdHlcV2ViXEV2ZW50XERvbWFpbkV2ZW50IGFzIERvbWFpbkV2ZW50RW50aXR5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZG9tYWluRXZlbnRSZXBvc2l0b3J5LT5hZGQoJGRvbWFpbkV2ZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZG9tYWluRXZlbnQtPnNldE5hbWUoZ2V0X2NsYXNzKCRldmVudCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZG9tYWluRXZlbnQtPnNldFBheWxvYWQoanNvbl9lbmNvZGUoJGV2ZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZG9tYWluRXZlbnQtPnNldE5hbWUoZ2V0X2NsYXNzKCRldmVudCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZG9tYWluRXZlbnQtPnNldE9jY3VycmVkT24oJGV2ZW50LT5vY2N1cnJlZE9uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZG9tYWluRXZlbnQtPnNldFBheWxvYWQoanNvbl9lbmNvZGUoJGV2ZW50KSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZG9tYWluRXZlbnQgPSBuZXcgRG9tYWluRXZlbnRFbnRpdHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZG9tYWluRXZlbnQtPnNldE9jY3VycmVkT24oJGV2ZW50LT5vY2N1cnJlZE9uKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZG9tYWluRXZlbnRSZXBvc2l0b3J5ID0gJGRvbWFpbkV2ZW50UmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAkZG9tYWluRXZlbnQgPSBuZXcgRG9tYWluRXZlbnRFbnRpdHkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>así</last-search>
+      <last-search>5.3</last-search>
       <last-offset />
-      <last-pattern>así</last-pattern>
+      <last-pattern>5.3</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -380,7 +381,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1.21</entry>
         <entry>IVA</entry>
         <entry>private</entry>
         <entry>php</entry>
@@ -400,6 +400,7 @@
         <entry>Apicaller</entry>
         <entry>El humano</entry>
         <entry>así</entry>
+        <entry>5.3</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
