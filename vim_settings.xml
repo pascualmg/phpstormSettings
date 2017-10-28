@@ -107,11 +107,11 @@
       <file name="$USER_HOME$/src/pccapi/docker/local/docker-compose.yml" timestamp="1499851849673">
         <mark key="[" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/RegisterCurrentStatus.php" timestamp="1509212606364">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="14" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/RegisterCurrentStatus.php" timestamp="1509213364728">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="35" column="32" />
+        <mark key="^" line="35" column="32" />
+        <mark key="." line="35" column="32" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Comment/CreateCommentCommand.php" timestamp="1509210965339" />
       <file name="restClient/response16.txt" timestamp="1505526512431">
@@ -148,6 +148,7 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/User/DiscountCode/AddDiscountCode.php" timestamp="1509212840138" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/DomainEventListener.php" timestamp="1506943352590">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -344,14 +345,14 @@
       <jump line="1725" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzaXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>status</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>sitory</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>5.3</text>
@@ -360,31 +361,31 @@
         <text encoding="base64">ICAgICAgICAkY21kLT5zZXJ2aWNlTmFtZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+UmVnaXN0ZXJJbnRvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmV4aXN0KCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBAcGFyYW0gUmVnaXN0ZXJDdXJyZW50U3RhdHVzQ21kICRjbWQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZWdpc3RlckN1cnJlbnRTdGF0dXNDbWQgJGNtZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y21kID0gJGNtZDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY21kLT5pc0FjdGl2ZSgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY21kLT5zZXJ2aWNlTmFtZSgpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwZXJzaXN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KiBAcGFyYW0gUmVnaXN0ZXJDdXJyZW50U3RhdHVzQ21kICRjbWQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZWdpc3RlckN1cnJlbnRTdGF0dXNDbWQgJGNtZAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y21kID0gJGNtZDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAkY21kLT5pc0FjdGl2ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
