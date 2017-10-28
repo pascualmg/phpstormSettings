@@ -116,6 +116,11 @@
         <mark key="." line="34" column="68" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Comment/CreateCommentCommand.php" timestamp="1509210965339" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/UpdateCurrentStatus.php" timestamp="1509234111587">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+      </file>
       <file name="restClient/response16.txt" timestamp="1505526512431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -354,19 +359,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>UpdateCurrentStatus</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>UpdateCurrentStatus</text>
       </register>
       <register name="/" type="4">
         <text>5.3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VydmljZU5hbWUgPSAkcmVxdWVzdC0+Z2V0KCdzZXJ2aWNlTmFtZScgLCBudWxsKTsK</text>
+        <text encoding="base64">Y2xhc3MgVXBkYXRlQ3VycmVudFN0YXR1cwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgUmVnaXN0ZXJDdXJyZW50U3RhdHVzKGssICRlbnRpdHlNYW5hZ2VyKQo=</text>
