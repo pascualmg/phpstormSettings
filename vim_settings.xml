@@ -69,6 +69,7 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Resources/config/doctrine/ThirdPartyServicesStatus.orm.yml" timestamp="1509214485618" />
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
@@ -83,6 +84,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ApiOauthCustomerController.php" timestamp="1509214181107">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/composer.json" timestamp="1507035682583">
         <mark key="'" line="18" column="25" />
@@ -107,11 +113,11 @@
       <file name="$USER_HOME$/src/pccapi/docker/local/docker-compose.yml" timestamp="1499851849673">
         <mark key="[" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/RegisterCurrentStatus.php" timestamp="1509213364728">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="35" column="32" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/RegisterCurrentStatus.php" timestamp="1509213836651">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="40" />
         <mark key="^" line="35" column="32" />
-        <mark key="." line="35" column="32" />
+        <mark key="." line="35" column="40" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Comment/CreateCommentCommand.php" timestamp="1509210965339" />
       <file name="restClient/response16.txt" timestamp="1505526512431">
@@ -176,6 +182,12 @@
       </file>
       <file name="/JavaScript Console" timestamp="1505777770332">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" timestamp="1509213988481">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1509210711432">
         <mark key="[" line="0" column="0" />
@@ -345,8 +357,8 @@
       <jump line="1725" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>status</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0RG9jdHJpbmUoKS0+Z2V0UmVwb3NpdG9yeQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -358,34 +370,34 @@
         <text>5.3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY21kLT5zZXJ2aWNlTmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmJvb2xlYW4oJHN0YXR1cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+UmVnaXN0ZXJJbnRvCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0RG9jdHJpbmUoKS0+Z2V0UmVwb3NpdG9yeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmV4aXN0KCkpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0U2VydmljZU5hbWUoJHNlcnZpY2VOYW1lKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+UmVnaXN0ZXJJbnRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmV4aXN0KCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBAcGFyYW0gUmVnaXN0ZXJDdXJyZW50U3RhdHVzQ21kICRjbWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZWdpc3RlckN1cnJlbnRTdGF0dXNDbWQgJGNtZAo=</text>
+        <text encoding="base64">ICAgICAgICBwZXJzaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y21kID0gJGNtZDsK</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY21kLT5pc0FjdGl2ZSgpOwo=</text>
+        <text encoding="base64">KiBAcGFyYW0gUmVnaXN0ZXJDdXJyZW50U3RhdHVzQ21kICRjbWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
