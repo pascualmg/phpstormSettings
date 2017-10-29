@@ -137,11 +137,11 @@
         <mark key="." line="25" column="6" />
         <mark key="^" line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/UpdateThirdPartyServiceStatus.php" timestamp="1509238492641">
-        <mark key="[" line="56" column="5" />
-        <mark key="]" line="57" column="3" />
-        <mark key="^" line="57" column="3" />
-        <mark key="." line="57" column="3" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/UpdateThirdPartyServiceStatus.php" timestamp="1509281720047">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="74" />
+        <mark key="." line="29" column="74" />
+        <mark key="^" line="29" column="74" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Filters/GetArticleFiltersDataTransformer.php" timestamp="1506265454085">
         <mark key="[" line="8" column="1" />
@@ -378,14 +378,14 @@
       <jump line="1725" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
+      <register name="&quot;" type="4">
+        <text>ThirdPartyServicesStatusRepositoryInterface</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>partyServicesStatus</text>
+        <text>ThirdPartyServicesStatusRepositoryInterface</text>
       </register>
       <register name="/" type="4">
         <text>5.3</text>
@@ -394,31 +394,31 @@
         <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImJvb2xlYW4iLCBuYW1lPSJpc19hY3RpdmUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcRW50aXR5QnVuZGxlXEVudGl0eVxUaGlyZFBhcnR5U2VydmljZXNTdGF0dXNSZXBvc2l0b3J5SW50ZXJmYWNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFBjY1xEb21haW5cVGhpcmRQYXJ0eVNlcnZpY2VzXFRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1czsK</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcRW50aXR5QnVuZGxlXEVudGl0eVxUaGlyZFBhcnR5U2VydmljZXNTdGF0dXNSZXBvc2l0b3J5SW50ZXJmYWNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">dXNlIFBjY1xEb21haW5cVGhpcmRQYXJ0eVNlcnZpY2VzXFRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1c3BkYXRlKFRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1cyAkcGFydHlTZXJ2aWNlc1N0YXR1cykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vdG9kbzogaGFjZXIgZWwgbWV0b2RvIGFkZC4K</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0RW50aXR5TWFuYWdlcigpLT5wZXJzaXN0KCRwYXJ0eVNlcnZpY2VzU3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1c3BkYXRlKFRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1cyAkcGFydHlTZXJ2aWNlc1N0YXR1cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFBjY1xEb21haW5cCg==</text>
+        <text encoding="base64">ICAgIC8vdG9kbzogaGFjZXIgZWwgbWV0b2RvIGFkZC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcRW50aXR5QnVuZGxlXEVudGl0eVxUaGlyZFBhcnR5U2VydmljZXNTdGF0dXNSZXBvc2l0b3J5SW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0RW50aXR5TWFuYWdlcigpLT5wZXJzaXN0KCRwYXJ0eVNlcnZpY2VzU3RhdHVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
