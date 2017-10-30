@@ -40,11 +40,20 @@
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1509390399354">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/PccDomainEventPublisher.php" timestamp="1506942708150">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
         <mark key="^" line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/User/DiscountCode/AddDiscountCodeTest.php" timestamp="1509389976995">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/pccDomainEvent.php" timestamp="1506943864478">
         <mark key="[" line="12" column="1" />
@@ -99,6 +108,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/composer.json" timestamp="1509390566829">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1506289287437">
         <mark key="[" line="0" column="0" />
@@ -299,12 +311,14 @@
         <mark key="]" line="35" column="6" />
         <mark key="." line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" timestamp="1509389619518">
-        <mark key="[" line="12" column="1" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" timestamp="1509390071959">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1340" column="30" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2028" column="12" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2082" column="81" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2091" column="57" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -404,22 +418,23 @@
       <jump line="1725" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1" column="15" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Resources/config/routing_3p_services.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Resources/config/routing_3p_services.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ntidad</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>ntidad</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>5.3</text>
+        <text>phpuni</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0IExhIFJlcXVlc3QgY29uIGxvcyBkYXRvcyBkZWwgc2VydmljaW8gZGUgdGVyY2Vyb3MgYSBsb2dnZWFyLgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGlyZWN0b3J5Pi4vdGVzdHM8L2RpcmVjdG9yeT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICogZGQK</text>
@@ -453,9 +468,9 @@
       </register>
     </registers>
     <search>
-      <last-search>5.3</last-search>
+      <last-search>phpuni</last-search>
       <last-offset />
-      <last-pattern>5.3</last-pattern>
+      <last-pattern>phpuni</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -477,12 +492,12 @@
         <entry>avail</entry>
         <entry>lity</entry>
         <entry>Avai</entry>
-        <entry>phpuni</entry>
         <entry>getAvaili</entry>
         <entry>Apicaller</entry>
         <entry>El humano</entry>
         <entry>así</entry>
         <entry>5.3</entry>
+        <entry>phpuni</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
