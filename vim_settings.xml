@@ -46,7 +46,6 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1509296227819" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/pccDomainEvent.php" timestamp="1506943864478">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="11" column="9" />
@@ -71,7 +70,6 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Resources/config/routing_doofinfer.yml" timestamp="1509266121124" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogCurrentThirdPartyServiceStatus.php" timestamp="1509305461741">
         <mark key="[" line="35" column="39" />
         <mark key="]" line="35" column="6" />
@@ -87,7 +85,6 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Resources/config/doctrine/ThirdPartyServicesStatus.orm.yml" timestamp="1509214485618" />
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
@@ -103,7 +100,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="47" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/app/config/parameters.yml" timestamp="1509209495256" />
       <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1506289287437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="27" column="3" />
@@ -131,7 +127,6 @@
         <mark key="^" line="34" column="68" />
         <mark key="." line="34" column="68" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Comment/CreateCommentCommand.php" timestamp="1509210965339" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/UpdateCurrentStatusCmd.php" timestamp="1509305369391">
         <mark key="[" line="35" column="7" />
         <mark key="]" line="35" column="7" />
@@ -152,7 +147,6 @@
         <mark key="." line="25" column="6" />
         <mark key="^" line="25" column="6" />
       </file>
-      <file name="src:table:/3fd478a3/4efac583-56e2-4c80-9326-442b677536ce/web.api_third_party_services_status" timestamp="1509304269697" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/UpdateThirdPartyServiceStatus.php" timestamp="1509305496614">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="59" column="7" />
@@ -171,7 +165,6 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Resources/config/doctrine/ThirdPartyServicesStatus.orm.yml.old" timestamp="1509265589755" />
       <file name="$USER_HOME$/src/pccapi/app/config/routing.yml" timestamp="1509266727227">
         <mark key="[" line="239" column="14" />
         <mark key="]" line="239" column="14" />
@@ -193,7 +186,6 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/User/DiscountCode/AddDiscountCode.php" timestamp="1509212840138" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/DomainEventListener.php" timestamp="1506943352590">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -281,8 +273,6 @@
         <mark key="^" line="367" column="20" />
         <mark key="." line="342" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Admin/Article/DropShipping/AddArticleDropShipping.php" timestamp="1509220040331" />
-      <file name="$USER_HOME$/src/pccapi/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/AbstractPlatform.php" timestamp="1509302980430" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/SetCookieAppTest.php" timestamp="1505946443221">
         <mark key="[" line="87" column="20" />
         <mark key="]" line="87" column="24" />
@@ -308,6 +298,9 @@
         <mark key="[" line="35" column="6" />
         <mark key="]" line="35" column="6" />
         <mark key="." line="35" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" timestamp="1509389619518">
+        <mark key="[" line="12" column="1" />
       </file>
     </filemarks>
     <jumps>
