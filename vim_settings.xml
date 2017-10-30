@@ -114,10 +114,10 @@
         <mark key="^" line="37" column="38" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogThirdPartyServiceStatus.php" timestamp="1509312272075">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="79" column="1" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="81" column="1" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/RegisterCurrentStatus.php" timestamp="1509224651527">
         <mark key="[" line="33" column="56" />
@@ -166,9 +166,9 @@
         <mark key="." line="239" column="14" />
         <mark key="^" line="239" column="40" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/ThirdPartyServices/ThirdPartyServicesStatusRepositoryInterface.php" timestamp="1509315112094">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="38" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/ThirdPartyServices/ThirdPartyServicesStatusRepositoryInterface.php" timestamp="1509395966082">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="7" />
         <mark key="." line="29" column="38" />
         <mark key="^" line="29" column="38" />
       </file>
@@ -207,13 +207,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogCurrentThirdPartyServiceStatusCmd.php" timestamp="1509394140965">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogCurrentThirdPartyServiceStatusCmd.php" timestamp="1509396215859">
         <mark key="[" line="85" column="27" />
-        <mark key="]" line="85" column="27" />
-        <mark key="^" line="82" column="6" />
-        <mark key="." line="85" column="27" />
+        <mark key="]" line="97" column="40" />
+        <mark key="^" line="97" column="40" />
+        <mark key="." line="97" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509395186274">
+      <file name="/Dummy.txt" timestamp="1509395366043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -253,11 +253,11 @@
         <mark key="^" line="367" column="20" />
         <mark key="." line="342" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" timestamp="1509393053779">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="41" column="54" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" timestamp="1509396143384">
+        <mark key="[" line="47" column="80" />
+        <mark key="]" line="47" column="80" />
+        <mark key="^" line="47" column="80" />
+        <mark key="." line="47" column="80" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatusRepository.php" timestamp="1509392629739">
         <mark key="[" line="19" column="26" />
@@ -288,11 +288,11 @@
         <mark key="]" line="35" column="6" />
         <mark key="." line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" timestamp="1509395299906">
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" timestamp="1509395626187">
         <mark key="[" line="22" column="61" />
-        <mark key="]" line="22" column="61" />
-        <mark key="^" line="24" column="20" />
-        <mark key="." line="22" column="61" />
+        <mark key="]" line="28" column="16" />
+        <mark key="^" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -399,19 +399,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Null</text>
+        <text>DelVicio</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Null</text>
+        <text>DelVicio</text>
       </register>
       <register name="/" type="4">
         <text>phpuni</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgICRzZXJ2aWNlTmFtZSBFbCBub21icmUgZGVsIHNlcnZpY2lvLgogICAgICogQHBhcmFtIGJvb2xlYW4gJGlzQWN0aXZlICAgIEluZGljYSBzaSBlbCBzZXJ2aWNpbyBlc3TDoSBhY3Rpdm8gbyBuby4KIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
