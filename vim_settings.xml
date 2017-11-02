@@ -237,13 +237,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogCurrentThirdPartyServiceStatusCmd.php" timestamp="1509407979660">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogCurrentThirdPartyServiceStatusCmd.php" timestamp="1509435301043">
         <mark key="[" line="61" column="39" />
-        <mark key="]" line="52" column="73" />
-        <mark key="^" line="52" column="73" />
-        <mark key="." line="52" column="73" />
+        <mark key="]" line="52" column="42" />
+        <mark key="^" line="52" column="42" />
+        <mark key="." line="52" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509409640281">
+      <file name="/Dummy.txt" timestamp="1509435303569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -286,11 +286,12 @@
         <mark key="^" line="367" column="20" />
         <mark key="." line="342" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" timestamp="1509396143384">
-        <mark key="[" line="47" column="80" />
-        <mark key="]" line="47" column="80" />
-        <mark key="^" line="47" column="80" />
-        <mark key="." line="47" column="80" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" timestamp="1509435241513">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatusRepository.php" timestamp="1509392629739">
         <mark key="[" line="19" column="26" />
@@ -324,17 +325,15 @@
         <mark key="]" line="35" column="6" />
         <mark key="." line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" timestamp="1509410311382">
-        <mark key="[" line="33" column="21" />
-        <mark key="]" line="33" column="21" />
-        <mark key="^" line="10" column="59" />
-        <mark key="." line="33" column="21" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" timestamp="1509434559034">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+        <mark key="." line="25" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2028" column="12" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="2082" column="81" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="2091" column="57" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2134" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="2135" column="50" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="94" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Util/Containerizable.php" />
@@ -432,6 +431,9 @@
       <jump line="1" column="15" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Resources/config/routing_3p_services.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Resources/config/routing_3p_services.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/composer.json" />
+      <jump line="37" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" />
+      <jump line="47" column="1" filename="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
