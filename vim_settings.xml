@@ -248,7 +248,7 @@
         <mark key="^" line="52" column="42" />
         <mark key="." line="52" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509667389561">
+      <file name="/Dummy.txt" timestamp="1509671074988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1509308319967">
@@ -317,12 +317,12 @@
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ThirdPartyStatusController.php" timestamp="1509669570772">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ThirdPartyStatusController.php" timestamp="1509671026550">
         <mark key="'" line="61" column="11" />
-        <mark key="[" line="96" column="9" />
-        <mark key="]" line="97" column="24" />
-        <mark key="." line="97" column="24" />
-        <mark key="^" line="97" column="24" />
+        <mark key="[" line="60" column="86" />
+        <mark key="]" line="60" column="5" />
+        <mark key="." line="60" column="5" />
+        <mark key="^" line="60" column="5" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/RegisterCurrentStatusCmd.php" timestamp="1509224888544">
         <mark key="[" line="35" column="6" />
@@ -440,47 +440,47 @@
       <jump line="2571" column="0" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmFsbEtleUV4aXN0cygkc2VydmljZXMsICdzZXJ2aWNlcycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmFsbEtleUV4aXN0cygkc2VydmljZXMsICdzZXJ2aWNlc05hbWUnKTsK</text>
+      <register name="0" type="4">
+        <text>Pcc\Application\thirdPartyServices\Status\LogCurrentThirdPartyServiceStatusCmd;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmFsbEtleUV4aXN0cygkc2VydmljZXMsICdzZXJ2aWNlcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0xvZycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmFsbEtleUV4aXN0cygkc2VydmljZXMsICdpc0FjdGl2ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dDdXJyZW50VGhpcmRQYXJ0eVNlcnZpY2VTdGF0dXNDbWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1RoaXJkUGFydHlTZXJ2aWNlc1N0YXR1cycK</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8gOiBoYWNlciBxdWUgZXN0ZSBhc3NlcnQgc2UgY3VtcGxhLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFycmF5T2ZUaGlyZFBhcnR5U2VydmljZXNTdGF0dXNJbmZvLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmFsbElzSW5zdGFuY2VPZigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlzQWN0aXZlID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBbJ0VzdGEgUmVxdWVzdCBubyBsbGV2YSB1biBhcnJheSBkZSBzZXJ2aWNpb3MnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlcnZpY2VOYW1lID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PT0gJHNlcnZpY2VzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJGlzQWN0aXZlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJHNlcnZpY2VOYW1lLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
