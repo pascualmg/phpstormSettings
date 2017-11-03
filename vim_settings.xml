@@ -157,6 +157,12 @@
       <file name="restClient/response16.txt" timestamp="1505526512431">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatus.php" timestamp="1509672307757">
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityCmd.php" timestamp="1506238713598">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="25" column="6" />
@@ -440,14 +446,14 @@
       <jump line="2571" column="0" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>iceStatus</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -456,31 +462,31 @@
         <text>Pcc\Application\thirdPartyServices\Status\LogCurrentThirdPartyServiceStatusCmd;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0xvZycK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dDdXJyZW50VGhpcmRQYXJ0eVNlcnZpY2VTdGF0dXNDbWQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHN1Y2Nlc3NNZXNzYWdlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8gOiBoYWNlciBxdWUgZXN0ZSBhc3NlcnQgc2UgY3VtcGxhLgo=</text>
+        <text encoding="base64">ICAgICAgICAkc3VjY2Vzc01lc3NhZ2UgPSAnc3VjY2VzcyAnIC4gJGNtZC0+c2VydmljZU5hbWUoKSAuICcgaXNBY3RpdmUgJyAuICR0cnVlT3JGYWxzZVN0cmluZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHJ1ZU9yRmFsc2VTdHJpbmcgPSAoJGNtZC0+aXNBY3RpdmUoKSk/J3RydWUnOidmYWxzZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlzQWN0aXZlID0gCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc3VjY2Vzc01lc3NhZ2UoTG9nQ3VycmVudFRoaXJkUGFydHlTZXJ2aWNlU3RhdHVzQ21kICRjbWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNlcnZpY2VOYW1lID0gCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJGlzQWN0aXZlCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gc3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJHNlcnZpY2VOYW1lLAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBMb2dDdXJyZW50VGhpcmRQYXJ0eVNlcnZpY2VTdGF0dXNDbWQgJGNtZCBMYSBpbmZvIGRlbCBzZXJ2aWNpbyB5IHN1IGVzdGFkbyBhIGxvZ2dlYXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
