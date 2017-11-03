@@ -245,6 +245,9 @@
         <mark key="^" line="52" column="42" />
         <mark key="." line="52" column="42" />
       </file>
+      <file name="/Dummy.txt" timestamp="1509667389561">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.php" timestamp="1509308319967">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="42" />
@@ -311,12 +314,12 @@
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1499365484112">
         <mark key="[" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ThirdPartyStatusController.php" timestamp="1509666842822">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="81" column="42" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="72" column="14" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ThirdPartyStatusController.php" timestamp="1509668429950">
+        <mark key="'" line="61" column="11" />
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+        <mark key="^" line="60" column="37" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/RegisterCurrentStatusCmd.php" timestamp="1509224888544">
         <mark key="[" line="35" column="6" />
@@ -332,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" />
       <jump line="369" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" />
       <jump line="345" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" />
       <jump line="82" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SearchArticlesController.php" />
@@ -432,58 +434,59 @@
       <jump line="2" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" />
       <jump line="35" column="8" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" />
       <jump line="55" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ThirdPartyStatusController.php" />
+      <jump line="61" column="11" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ThirdPartyStatusController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RvZG9zIGxvcyBlbGVtZW50b3MgZGVsIGFycmF5IGRlYmVuIHNlciBUaGlyCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>messages</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwqXD4=</text>
+        <text>isof</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIExvZ0N1cnJlbnRUaGlyZFBhcnR5U2VydmljZVN0YXR1c0NtZCAkY21kIExhIGluZm8gZGVsIHNlcnZpY2lvIHkgc3UgZXN0YWRvIGEgbG9nZ2Vhci4KICAgICAqIEByZXR1cm4gVGhpcmRQYXJ0eVNlcnZpY2VzU3RhdHVzCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gY3JlYXRlVGhpcmRQYXJ0eVNlcnZpY2VTdGF0dXNmcm9tQ21kKExvZ0N1cnJlbnRUaGlyZFBhcnR5U2VydmljZVN0YXR1c0NtZCAkY21kKQogICAgewogICAgICAgICR0aGlyZFBhcnR5U2VydmljZXNTdGF0dXMgPSBuZXcgVGhpcmRQYXJ0eVNlcnZpY2VzU3RhdHVzKCk7CgogICAgICAgICR0aGlyZFBhcnR5U2VydmljZXNTdGF0dXMtPnNldFNlcnZpY2VOYW1lKCRjbWQtPnNlcnZpY2VOYW1lKCkpOwogICAgICAgICR0aGlyZFBhcnR5U2VydmljZXNTdGF0dXMtPnNldElzQWN0aXZlKCRjbWQtPmlzQWN0aXZlKCkpOwoKICAgICAgICByZXR1cm4gJHRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1czsKICAgIH0KCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkb3V0cHV0LCAyMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RvZG9zIGxvcyBlbGVtZW50b3MgZGVsIGFycmF5IGRlYmVuIHNlciBUaGlyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmlzQXJyYXkoJHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb246Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcTGlzdEJ1bmRsZVxNb2RlbFxDb21tZW50XFJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhpcmRQYXJ0eVNlcnZpY2VzU3RhdHVzOjpjbGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQ29tbW9uQnVuZGxlXFV0aWxcSnNvbkRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vIHRvZG9zIHNvbiBhcnJheXMgZGUnICwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxVdGlsXFBjY0Fzc2VydGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFycmF5T2ZUaGlyZFBhcnR5U2VydmljZXNTdGF0dXNJbmZvLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGpzb25fZGVjb2RlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwqXD4=</last-search>
+      <last-search>isof</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwqXD4=</last-pattern>
+      <last-pattern>isof</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -491,7 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>private</entry>
         <entry>php</entry>
         <entry encoding="base64">XDxjb3B5cGFzdGVcPg==</entry>
         <entry>select</entry>
@@ -511,6 +513,7 @@
         <entry>5.3</entry>
         <entry>phpuni</entry>
         <entry encoding="base64">XDwqXD4=</entry>
+        <entry>isof</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
