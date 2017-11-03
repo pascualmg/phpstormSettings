@@ -160,11 +160,11 @@
         <mark key="." line="25" column="6" />
         <mark key="^" line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1509737656460">
-        <mark key="[" line="352" column="70" />
-        <mark key="]" line="353" column="65" />
-        <mark key="^" line="353" column="65" />
-        <mark key="." line="353" column="65" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1509741238841">
+        <mark key="[" line="377" column="6" />
+        <mark key="]" line="378" column="38" />
+        <mark key="^" line="378" column="38" />
+        <mark key="." line="378" column="38" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/UpdateThirdPartyServiceStatus.php" timestamp="1509305496614">
         <mark key="[" line="17" column="6" />
@@ -286,11 +286,11 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Resources/config/routing.yml" timestamp="1506279296252">
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="^" line="367" column="20" />
-        <mark key="." line="342" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Resources/config/routing.yml" timestamp="1509741706168">
+        <mark key="[" line="349" column="56" />
+        <mark key="]" line="349" column="70" />
+        <mark key="^" line="349" column="70" />
+        <mark key="." line="349" column="70" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" timestamp="1509435241513">
         <mark key="'" line="53" column="0" />
@@ -445,19 +445,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xxxxx</text>
+        <text>confirmAvailability</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>xxxxx</text>
+        <text>confirmAvailability</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgJGRlbGl2ZXJ5RGF0ZUZvclRoZUtpbmdPZlRoZUZyb250LT5nZXRNaW5EZWxpdmVyeURhdGUoKSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cGNjX2FydGljbGVfY29uZmlybV9hdmFpbGFiaWxpdHk6CiAgICBwYXRoOiAgICAgIC9jb25maXJtL2F2YWlsYWJpbGl0eQogICAgZGVmYXVsdHM6ICB7IF9jb250cm9sbGVyOiBQY2NBcnRpY3Vsb0J1bmRsZTpBcnRpY2xlOmNvbmZpcm1BdmFpbGFiaWxpdHl9CiAgICBtZXRob2RzOiBbUE9TVF0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9kZWNvZGUoanNvbl9lbmNvZGUoJGRlbGl2ZXJ5RGF0ZUZvclRoZUtpbmdPZlRoZUZyb250KSwgdHJ1ZSk7Cg==</text>
