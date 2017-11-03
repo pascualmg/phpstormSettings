@@ -21,7 +21,6 @@
         <mark key="." line="364" column="86" />
         <mark key="^" line="364" column="86" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/vendor/composer/ClassLoader.php" timestamp="1509394234581" />
       <file name="/a.dummy" timestamp="1509210660132">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,7 +210,6 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/DataCollector/DumpDataCollector.php" timestamp="1509665741211" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleCurrentThirdPartyServiceStatusCmd.php" timestamp="1509717652937">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -223,6 +221,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ArticleAvailabilityArrayWithPriceDataTransformer.php" timestamp="1509735402776">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityByIdCmd.php" timestamp="1506320681581">
         <mark key="[" line="26" column="20" />
@@ -453,13 +456,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAgZXhjZXBjacOzbiBpbnRlcm5hbWVudGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>null|string null si no a ocurrido ningún error , un string con los errores si se produce cualquier</text>
+        <text>expression</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -468,31 +471,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZnJvbVJlcXVlc3QoUmVxdWVzdCAkcmVxdWVzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAgZXhjZXBjacOzbiBpbnRlcm5hbWVudGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsYXNzTmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc2VyaWFsaXplZEFydGljbGVNYW5hZ2VyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblx0aGlyZFBhcnR5U2VydmljZXNcU3RhdHVzXExvZ1RoaXJkUGFydHlTZXJ2aWNlU3RhdHVzOwo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAgZXhjZXBjacOzbiBpbnRlcm5hbWVudGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNsYXNzTmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgcmV0dXJuICRtZXNzYWdlczsK</text>
+        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblx0aGlyZFBhcnR5U2VydmljZXNcU3RhdHVzXExvZ1RoaXJkUGFydHlTZXJ2aWNlU3RhdHVzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkYXJyYXlPZlRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1c0NtZCBhcyAkdGhpcmRQYXJ0eVNlcnZpY2VzU3RhdHVzQ21kKSB7CiAgICAgICAgICAgICRtZXNzYWdlc1tdID0gJGNyZWF0ZUxvZy0+aGFuZGxlKCR0aGlyZFBhcnR5U2VydmljZXNTdGF0dXNDbWQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAkbWVzc2FnZXMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgcmV0dXJuICRtZXNzYWdlczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiAoJGFycmF5T2ZUaGlyZFBhcnR5U2VydmljZXNTdGF0dXNDbWQsICRjcmVhdGVMb2cpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkYXJyYXlPZlRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1c0NtZCBhcyAkdGhpcmRQYXJ0eVNlcnZpY2VzU3RhdHVzQ21kKSB7CiAgICAgICAgICAgICRtZXNzYWdlc1tdID0gJGNyZWF0ZUxvZy0+aGFuZGxlKCR0aGlyZFBhcnR5U2VydmljZXNTdGF0dXNDbWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBMb2dUaGlyZFBhcnR5U2VydmljZVN0YXR1cyAkY3JlYXRlTG9nCiAgICAgKiBAcmV0dXJuIGFycmF5Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAkbWVzc2FnZXMgPSBbXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
