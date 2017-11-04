@@ -205,8 +205,8 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleCurrentThirdPartyServiceStatusCmd.php" timestamp="1509717652937">
-        <mark key="[" line="77" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleCurrentThirdPartyServiceStatusCmd.php" timestamp="1509826875938">
+        <mark key="[" line="65" column="44" />
         <mark key="]" line="77" column="0" />
         <mark key="^" line="78" column="43" />
         <mark key="." line="77" column="0" />
@@ -221,6 +221,12 @@
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatusTest.php" timestamp="1509827354449">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityByIdCmd.php" timestamp="1506320681581">
         <mark key="[" line="26" column="20" />
@@ -256,7 +262,7 @@
         <mark key="^" line="52" column="42" />
         <mark key="." line="52" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509743447077">
+      <file name="/Dummy.txt" timestamp="1509825914912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/newUserCreatedEvent.php" timestamp="1507011192803">
@@ -342,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" />
       <jump line="23" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" />
       <jump line="37" column="51" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" />
       <jump line="55" column="60" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" />
@@ -442,49 +447,50 @@
       <jump line="2558" column="76" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="1033" column="6" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="2571" column="0" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
+      <jump line="46" column="12" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatusTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>confirmAvailability</text>
+        <text>j</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>confirmAvailability</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cGNjX2FydGljbGVfY29uZmlybV9hdmFpbGFiaWxpdHk6CiAgICBwYXRoOiAgICAgIC9jb25maXJtL2F2YWlsYWJpbGl0eQogICAgZGVmYXVsdHM6ICB7IF9jb250cm9sbGVyOiBQY2NBcnRpY3Vsb0J1bmRsZTpBcnRpY2xlOmNvbmZpcm1BdmFpbGFiaWxpdHl9CiAgICBtZXRob2RzOiBbUE9TVF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3NlcnZpY2VOYW1lJyA9PiAnc2VydmljZTAxJywKICAgICAgICAgICAgICAgICdpc0FjdGl2ZScgPT4gJ3RydWUnCiAgICAgICAgICAgIF0s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9kZWNvZGUoanNvbl9lbmNvZGUoJGRlbGl2ZXJ5RGF0ZUZvclRoZUtpbmdPZlRoZUZyb250KSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IG5ldyBSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRkZWxpdmVyeURhdGVGb3JUaGVLaW5nT2ZUaGVGcm9udCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9lbmNvZGUoJGRlbGl2ZXJ5RGF0ZUZvclRoZUtpbmdPZlRoZUZyb250KTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUmVxdWVzdChudWxsLG51bGwsbnVsbCwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFRlc3RzXFJlcXVlc3RUZXN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFJlcXVlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXBwYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
