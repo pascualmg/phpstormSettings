@@ -40,7 +40,12 @@
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1509912098225" />
+      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1509913236707">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="44" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/PccDomainEventPublisher.php" timestamp="1506942708150">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -263,7 +268,7 @@
         <mark key="^" line="52" column="42" />
         <mark key="." line="52" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509910969236">
+      <file name="/Dummy.txt" timestamp="1509912926458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/newUserCreatedEvent.php" timestamp="1507011192803">
@@ -452,47 +457,47 @@
       <jump line="46" column="12" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatusTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>testWhenITryToGetFromRequestAndDontHaveServicesArrayThenIgetInfoMessage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgeHNpOm5vTmFtZXNwYWNlU2NoZW1hTG9jYXRpb249Imh0dHBzOi8vc2NoZW1hLnBocHVuaXQuZGUvNi4zL3BocHVuaXQueHNkIgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>testWhenITryToGetFromRequestAndDontHaveServicesArrayThenIgetInfoMessage</text>
+        <text>http</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKiBAZXhwZWN0ZWRFeGNlcHRpb24gSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0V2hlbklUcnlUb0dldEZyb21SZXF1ZXN0QW5kRG9udEhhdmVTZXJ2aWNlc0FycmF5VGhlbklnZXRJbmZvTWVzc2FnZSgpCiAgICB7CiAgICAgICAgJGxvZ1RoaXJkUGFydHlTZXJ2aWNlU3RhdHVzID0gbmV3IExvZ1RoaXJkUGFydHlTZXJ2aWNlU3RhdHVzKCR0aGlzLT5tb2tlZFJlcG8pOwoKICAgICAgICAkYXBwID0gbmV3IExvZ0J1bmRsZVRoaXJkUGFydHlTZXJ2aWNlU3RhdHVzKCRsb2dUaGlyZFBhcnR5U2VydmljZVN0YXR1cyk7CiAgICAgICAgJGRhdGEgPSBbCiAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnc2VydmljZU5hbWUnID0+ICdzZXJ2aWNlMDEnLAogICAgICAgICAgICAgICAgJ2lzQWN0aXZlJyA9PiAndHJ1ZScKICAgICAgICAgICAgXSwgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnc2VydmljZU5hbWUnID0+ICdzZXJ2aWNlMDInLAogICAgICAgICAgICAgICAgJ2lzQWN0aXZlJyA9PiAndHJ1ZScKICAgICAgICAgICAgXSwgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnc2VydmljZU5hbWUnID0+ICdzZXJ2aWNlMDMnLAogICAgICAgICAgICAgICAgJ2lzQWN0aXZlJyA9PiAndHJ1ZScKICAgICAgICAgICAgXSwgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdzZXJ2aWNlTmFtZScgPT4gJ3NlcnZpY2UwNCcsCiAgICAgICAgICAgICAgICAnaXNBY3RpdmUnID0+ICd0cnVlJwogICAgICAgICAgICBdLAogICAgICAgIF07CgogICAgICAgICRyZXF1ZXN0ID0gUmVxdWVzdDo6Y3JlYXRlKCd0ZXN0Jyk7CiAgICAgICAgJHJlcXVlc3QtPnF1ZXJ5LT5zZXQoJ3NlcnZpY2VzJywgJGRhdGEpOwoKICAgICAgICAkY21kID0gTG9nQnVuZGxlQ3VycmVudFRoaXJkUGFydHlTZXJ2aWNlU3RhdHVzQ21kOjpmcm9tUmVxdWVzdCgkcmVxdWVzdCk7CgoKICAgICAgICAkbWVzc2FnZSA9ICRhcHAtPmhhbmRsZSgkY21kKTsKCgogICAgICAgc2VsZjo6YXNzZXJ0VHJ1ZSgkbWVzc2FnZVswXSA9PT0gJ3N1Y2Nlc3Mgc2VydmljZTAxIGlzQWN0aXZlIHRydWUnKTsKCgoKICAgIH0K</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgPCEtLXhzaTpub05hbWVzcGFjZVNjaGVtYUxvY2F0aW9uPSJodHRwOi8vc2NoZW1hLnBocHVuaXQuZGUvNC44L3BocHVuaXQueHNkIi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgeHNpOm5vTmFtZXNwYWNlU2NoZW1hTG9jYXRpb249Imh0dHBzOi8vc2NoZW1hLnBocHVuaXQuZGUvNi4zL3BocHVuaXQueHNkIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvVXNlcnMvcGFzc2gvc3JjL3BjY2FwaS9hcHAvcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvVXNlcnMvcGFzc2gvc3JjL3BjY2FwaS9hcHAvcCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRFcXVhbHMoMSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgeHNpOm5vTmFtZXNwYWNlU2NoZW1hTG9jYXRpb249InBocHVuaXQuIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICB4c2k6bm9OYW1lc3BhY2VTY2hlbWFMb2NhdGlvbj0iaHR0cDovL3NjaGVtYS5waHB1bml0LmRlLzQuOC9waHB1bml0LnhzZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0QWxsd2Fpc1RydWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGlyZWN0b3J5Pi9Vc2Vycy9wYXNzaC9zcmMvcGNjYXBpL2FwcC90ZXN0PC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEB0ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
