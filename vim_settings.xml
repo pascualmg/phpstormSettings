@@ -45,11 +45,11 @@
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1510684613041">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1510702554043">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/PccDomainEventPublisher.php" timestamp="1506942708150">
         <mark key="[" line="70" column="0" />
@@ -464,8 +464,8 @@
       <jump line="626" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGQta2IwMXNkCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -477,34 +477,34 @@
         <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+cXVlcnktPnNldCgnc2VydmljZU5hbWUnLCAkc2VydmljZU5hbWUyVGVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvUGNjL0RvbWFpbjwvZGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGQta2IwMXNkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvUGNjL0luZnJhZXN0cnVjdHVyZTwvZGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvd2hpdGVMaXN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvUGNjL0RvbWFpbjwvZGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGlyZWN0b3J5Pi4uPC9kaXJlY3Rvcnk+Cg==</text>
+        <text encoding="base64">cGQta2IwMXNkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx3aGl0ZUxpc3Q+Cg==</text>
+        <text encoding="base64">ICAgIDwvd2hpdGVMaXN0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEF2YWlsYWJpbGl0eSgkZG9jdHJpbmUsICRhcnRpY2xlTWFuYWdlcikK</text>
+        <text encoding="base64">ICAgICAgICA8ZGlyZWN0b3J5Pi4uPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIDx3aGl0ZUxpc3Q+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gQXZhaWxhYmlsaXR5CiAgICAgKiB0b2RvOiBzdHViIGNyZWFkbyBwYXJhIHF1ZSBjdW1wbGEgY29uIGxhIGludGVyZmF6LCBkZXZvbHZlcmEgbnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXZhaWxhYmlsaXR5KCkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEF2YWlsYWJpbGl0eSgkZG9jdHJpbmUsICRhcnRpY2xlTWFuYWdlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRBdmFpbGFiaWxpdHkoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gQXZhaWxhYmlsaXR5CiAgICAgKiB0b2RvOiBzdHViIGNyZWFkbyBwYXJhIHF1ZSBjdW1wbGEgY29uIGxhIGludGVyZmF6LCBkZXZvbHZlcmEgbnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXZhaWxhYmlsaXR5KCkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
