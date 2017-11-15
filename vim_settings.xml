@@ -45,11 +45,11 @@
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1510702554043">
+      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1510703160144">
         <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="24" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/PccDomainEventPublisher.php" timestamp="1506942708150">
         <mark key="[" line="70" column="0" />
@@ -149,6 +149,7 @@
         <mark key="^" line="34" column="68" />
         <mark key="." line="34" column="68" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Infrastructure/Domain/Model/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" timestamp="1510706567086" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/UpdateCurrentStatusCmd.php" timestamp="1509305369391">
         <mark key="[" line="35" column="7" />
         <mark key="]" line="35" column="7" />
@@ -259,6 +260,12 @@
       <file name="/JavaScript Console" timestamp="1505777770332">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/ThirdPartyStatus/Get/GetCurrentThirdPartyServicesStatusTest.php" timestamp="1510706879693">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="33" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" timestamp="1509664165027">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="35" column="17" />
@@ -277,8 +284,10 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509984616296">
+      <file name="/Dummy.txt" timestamp="1510707093504">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/newUserCreatedEvent.php" timestamp="1507011192803">
         <mark key="[" line="11" column="22" />
@@ -465,46 +474,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Creados un par de DataTransformers para la Query ,
+1 fake que devuelve el mismo objeto y otro que transforma en bools.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvUGNjL0RvbWFpbjwvZGlyZWN0b3J5Pgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHRlc3QKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIFdoZW5JR2V0QWxsU2VydmljZXNTdGF0dXNBbmRGaW5kQWxsQW5kVXNlSW50b1NhbWVPYmplY3REYXRhVHJhbnNmb3JtZXJJR2V0QW5BcnJheU9mQm9vbHMoKQogICAgewogICAgICAgICRkYXRhVHJhbnNmb3JtZXIgPSBuZXcgR2V0Q3VycmVudFRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1c0RhdGFUcmFuc2Zvcm1lckludG9TYW1lT2JqZWN0KCk7CiAgICAgICAgJHF1ZXJ5SGFuZGxlciA9IG5ldyBHZXRDdXJyZW50VGhpcmRQYXJ0eVNlcnZpY2VzU3RhdHVzKAogICAgICAgICAgICBuZXcgTW9ja2VkVGhpcmRQYXJ0eVN0YXR1c1JlcG9zaXRvcnkoKSwKICAgICAgICAgICAgJGRhdGFUcmFuc2Zvcm1lcgogICAgICAgICk7CgogICAgICAgICRxdWVyeSA9IG5ldyBHZXRDdXJyZW50VGhpcmRQYXJ0eVNlcnZpY2VzU3RhdHVzUXVlcnkobnVsbCk7CgoKICAgICAgICAkcmVzdWx0ID0gJHF1ZXJ5SGFuZGxlci0+aGFuZGxlKCRxdWVyeSk7CgogICAgICAgIGZvcmVhY2ggKCRyZXN1bHQgYXMgJGl0ZW0pCiAgICAgICAgewogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihUaGlyZFBhcnR5U3RhdHVzOjpjbGFzcywgJGl0ZW0pOwogICAgICAgIH0KCiAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvUGNjL0luZnJhZXN0cnVjdHVyZTwvZGlyZWN0b3J5Pgo=</text>
+      <register name="1" type="4">
+        <text>Creados un par de DataTransformers para la Query ,
+1 fake que devuelve el mismo objeto y otro que transforma en bools.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvUGNjL0RvbWFpbjwvZGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9leHBvcnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGQta2IwMXNkCg==</text>
+        <text encoding="base64">dXNlIFBIUFVuaXRfRnJhbWV3b3JrX0NvbnN0cmFpbnQ7ZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvd2hpdGVMaXN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGl0ZW0tPmdldFNlcnZpY2VOYW1lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGlyZWN0b3J5Pi4uPC9kaXJlY3Rvcnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hc3Nlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx3aGl0ZUxpc3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGl0ZW0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEF2YWlsYWJpbGl0eSgkZG9jdHJpbmUsICRhcnRpY2xlTWFuYWdlcikK</text>
+        <text encoding="base64">Ly8gICAgICAgICRkYXRhVHJhbnNmb3JtZXIgPSBuZXcgR2V0Q3VycmVudFRoaXJkUGFydHlTZXJ2aWNlc1N0YXR1c0RhdGFUcmFuc2Zvcm1lckludG9Cb29sKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2V4cG9ydCgkaXRlbSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gQXZhaWxhYmlsaXR5CiAgICAgKiB0b2RvOiBzdHViIGNyZWFkbyBwYXJhIHF1ZSBjdW1wbGEgY29uIGxhIGludGVyZmF6LCBkZXZvbHZlcmEgbnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXZhaWxhYmlsaXR5KCkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoaXNfYm9vbCgkaXRlbSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
