@@ -29,6 +29,12 @@
       <file name="/a.dummy" timestamp="1509740396116">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/untitled/src/ApiClient.js" timestamp="1511126339658">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Shopping/Cart/ArticleWasAdded.php" timestamp="1507014938593">
         <mark key="[" line="65" column="29" />
         <mark key="]" line="66" column="3" />
@@ -334,10 +340,11 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/src/untitled/src/index.js" timestamp="1511115589833">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/src/untitled/src/index.js" timestamp="1511126489550">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatusRepository.php" timestamp="1509392629739">
         <mark key="[" line="19" column="26" />
@@ -484,46 +491,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZldGNoKCkK</text>
+        <text encoding="base64">bGV0IGMgPSBuZXcgcGNjQXBpQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5zZXRSZXF1ZXN0SGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIik7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDo2MDgwLzNwLXNlcnZpY2VzL2N1cnJlbnQtc3RhdHVzP2FjY2Vzc190b2tlbj1aamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZldGNoKCkK</text>
+        <text encoding="base64">bGV0IGMgPSBuZXcgcGNjQXBpQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNsaWVudC5zZXRSZXF1ZXN0SGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIik7Cg==</text>
+        <text encoding="base64">cGNjQXBpVXJsIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YS5xdWVyeSgnRScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Z2V0T25lU2VydmljZVN0YXR1c0J5TmFtZSgpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgdXJpID0gdGhpcy51cmwgKyBBcGlDbGllbnQub3IocGF0aCwgJycpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIGxldCB1cmkgPSBBcGlDbGllbnQub3IodXJsLCApIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAvKgogICAgICogU2kgcG9zc2libGV1bmRlZmluZWRzdHJpbmcgZXMgJ3VuZGVmaW5lZCcgLCBkZXZ1ZWx2ZSBlbCB2YWxvciBkZWZhdWx0dmFsdWUuCiAgICAgKi8KICAgIHN0YXRpYyBvcihwb3NzaWJsZVVuZGVmaW5lZFN0cmluZywgZGVmYXVsdFZhbHVlKQogICAgewogICAgICAgIHJldHVybiAodHlwZW9mKHBvc3NpYmxlVW5kZWZpbmVkU3RyaW5nKSA9PT0gJ3VuZGVmaW5lZCcpP2RlZmF1bHRWYWx1ZTpwb3NzaWJsZVVuZGVmaW5lZFN0cmluZzsKICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdXJpID0gdGhpcy51cmwgKyBBcGlDbGllbnQub3IocGF0aCwgJycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
