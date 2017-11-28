@@ -86,11 +86,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/swogo/swogo.html.twig" timestamp="1511886777250">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="75" />
-        <mark key="^" line="3" column="75" />
-        <mark key="." line="3" column="75" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/swogo/swogo.html.twig" timestamp="1511891412181">
+        <mark key="[" line="3" column="67" />
+        <mark key="]" line="3" column="67" />
+        <mark key="^" line="3" column="66" />
+        <mark key="." line="3" column="67" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" timestamp="1505805463696">
         <mark key="[" line="23" column="15" />
@@ -261,7 +261,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1510391542633">
         <mark key="[" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" timestamp="1511888423038">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" timestamp="1511889826122">
         <mark key="'" line="172" column="71" />
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
@@ -514,50 +514,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>creado endpoint /ajax_nc/confirm/availiability que recibe por get un string 
-con ids de articulos separados por comas a verificar y devuelve un array con 
-los artículos válidos para la compra.</text>
+        <text>{#cuarentena, con una tinta no reacon es false#}</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{#cuarentena, con una tinta no reacon es false#}</text>
       </register>
       <register name="/" type="4">
         <text>swogo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2Fycml0b05vU2VFc3RhTW9kaWZpY2FuZG8g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHt7IGR1bXAoJ2NhcmdhbmRvIGNod29nbycpIH19Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3sgZHVtcChhcnRpY2xlLnR5cGUpIH19Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHt7IGR1bXAoJ2NhcmdhbmRvIGNod29nbycpIH19Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>creado endpoint /ajax_nc/confirm/availiability que recibe por get un string 
 con ids de articulos separados por comas a verificar y devuelve un array con 
 los artículos válidos para la compra.</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB7eyBkdW1wKGNhcnRJc05vdE1vZGlmaW5nKSB9fQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB7IyBzd29nbyBERVMtMTUyNSN9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHsjIHN3b2dvIERFUy0xNTI1I30K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBkdW1wKGJhc2UudXNlci5pZE1vZGlmaWVyKSB9fQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBkdW1wKGJhc2UudXNlci5pZE1vZGlmaWVyKSB9fQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">eyNkZXNhY3RpdmEgc3dvZ28gc2kgZWwgYXJ0aWN1bG8gZXMgdW4gcmVhY29uZGljaW9uYWRvI30K</text>
+        <text encoding="base64">ICAgICAgICB7eyBkdW1wKGJhc2UudXNlci5pZE1vZGlmaWVyKSB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
