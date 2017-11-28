@@ -177,6 +177,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1511881065898">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="restClient/response16.txt" timestamp="1505526512431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -400,7 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/AppSearchDoofinderCommand.php" />
       <jump line="58" column="54" filename="$USER_HOME$/src/pccfront/composer.json" />
       <jump line="38" column="17" filename="$USER_HOME$/src/pccfront/composer.json" />
       <jump line="52" column="13" filename="$USER_HOME$/src/pccfront/composer.json" />
@@ -500,6 +502,7 @@
       <jump line="27" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatus.php" />
       <jump line="626" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="56" column="35" filename="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/ThirdPartyStatus/Get/GetCurrentThirdPartyServicesStatusTest.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -512,7 +515,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>inben</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDo2MDgwLzNwLXNlcnZpY2VzL2N1cnJlbnQtc3RhdHVzP2FjY2Vzc190b2tlbj1aamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUSc7Cg==</text>
@@ -549,9 +552,9 @@
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>inben</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>inben</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -559,7 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5cGFzdGVcPg==</entry>
         <entry>select</entry>
         <entry>salesman</entry>
         <entry>has</entry>
@@ -579,6 +581,7 @@
         <entry encoding="base64">XDwqXD4=</entry>
         <entry>isof</entry>
         <entry>index</entry>
+        <entry>inben</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
