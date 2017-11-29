@@ -69,6 +69,12 @@
         <mark key="]" line="381" column="0" />
         <mark key="." line="381" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/DefaultDoofinderDataTransformer.php" timestamp="1511952994386">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/pccDomainEvent.php" timestamp="1506943864478">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="11" column="9" />
@@ -196,10 +202,6 @@
         <mark key="." line="25" column="6" />
         <mark key="^" line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" timestamp="1510684057000">
-        <mark key="'" line="556" column="0" />
-        <mark key="^" line="377" column="38" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/UpdateThirdPartyServiceStatus.php" timestamp="1509305496614">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="59" column="7" />
@@ -297,6 +299,12 @@
         <mark key="." line="72" column="21" />
         <mark key="^" line="47" column="19" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/SearchDoofinderApp.php" timestamp="1511953225568">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="95" column="14" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" timestamp="1509664165027">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="35" column="17" />
@@ -310,6 +318,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/DoofinderDataTransformer.php" timestamp="1511952847575">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="38" />
+      </file>
       <file name="/dummy.sql" timestamp="1511951093958">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,7 +332,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511887991961">
+      <file name="/Dummy.txt" timestamp="1511952864189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -356,6 +370,12 @@
         <mark key="]" line="349" column="70" />
         <mark key="^" line="349" column="70" />
         <mark key="." line="349" column="70" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1511953648736">
+        <mark key="[" line="207" column="32" />
+        <mark key="]" line="208" column="48" />
+        <mark key="^" line="208" column="48" />
+        <mark key="." line="208" column="48" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" timestamp="1509435241513">
         <mark key="'" line="53" column="0" />
@@ -515,48 +535,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{#cuarentena, con una tinta no reacon es false#}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>{#cuarentena, con una tinta no reacon es false#}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>swogo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHt7IGR1bXAoJ2NhcmdhbmRvIGNod29nbycpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nZ2VyID0gJGxvZ2dlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZHVtcChhcnRpY2xlLnR5cGUpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHBhZ2luYXRvcjsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdHJhbnNmb3JtKCkgbWV0aG9kLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3sgZHVtcChhcnRpY2xlLnR5cGUpIH19Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHt7IGR1bXAoJ2NhcmdhbmRvIGNod29nbycpIH19Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>creado endpoint /ajax_nc/confirm/availiability que recibe por get un string 
 con ids de articulos separados por comas a verificar y devuelve un array con 
 los artículos válidos para la compra.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBkdW1wKGNhcnRJc05vdE1vZGlmaW5nKSB9fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7IyBzd29nbyBERVMtMTUyNSN9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHsjIHN3b2dvIERFUy0xNTI1I30K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBkdW1wKGJhc2UudXNlci5pZE1vZGlmaWVyKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICB7eyBkdW1wKGNhcnRJc05vdE1vZGlmaW5nKSB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
