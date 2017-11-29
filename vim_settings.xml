@@ -69,11 +69,11 @@
         <mark key="]" line="381" column="0" />
         <mark key="." line="381" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/DefaultDoofinderDataTransformer.php" timestamp="1511952994386">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/DefaultDoofinderDataTransformer.php" timestamp="1511955133797">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/pccDomainEvent.php" timestamp="1506943864478">
         <mark key="[" line="12" column="1" />
@@ -332,7 +332,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511952864189">
+      <file name="/Dummy.txt" timestamp="1511954872365">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -371,11 +371,11 @@
         <mark key="^" line="349" column="70" />
         <mark key="." line="349" column="70" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1511953648736">
-        <mark key="[" line="207" column="32" />
-        <mark key="]" line="208" column="48" />
-        <mark key="^" line="208" column="48" />
-        <mark key="." line="208" column="48" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1511953964064">
+        <mark key="[" line="203" column="8" />
+        <mark key="]" line="203" column="9" />
+        <mark key="^" line="203" column="9" />
+        <mark key="." line="203" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" timestamp="1509435241513">
         <mark key="'" line="53" column="0" />
@@ -534,14 +534,14 @@
       <jump line="172" column="71" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tener dependencia de la Request.</text>
       </register>
       <register name="/" type="4">
         <text>swogo</text>
@@ -550,33 +550,32 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nZ2VyID0gJGxvZ2dlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHBhZ2luYXRvcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdHJhbnNmb3JtKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>test del queryHandler con los 2 datatransformers , default / intoBool con findAll
+test con la Query setteada</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZHVtcChhcnRpY2xlLnR5cGUpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHBhZ2luYXRvcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7IGR1bXAoJ2NhcmdhbmRvIGNod29nbycpIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>creado endpoint /ajax_nc/confirm/availiability que recibe por get un string 
-con ids de articulos separados por comas a verificar y devuelve un array con 
-los artículos válidos para la compra.</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBkdW1wKGNhcnRJc05vdE1vZGlmaW5nKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdHJhbnNmb3JtKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
