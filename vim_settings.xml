@@ -199,9 +199,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1511881065898">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="restClient/response16.txt" timestamp="1505526512431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -301,6 +298,12 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Article/Search/ExternalSearchApi.php" timestamp="1512077939611">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="36" />
+        <mark key="^" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityByIdCmd.php" timestamp="1506320681581">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="21" />
@@ -383,11 +386,11 @@
         <mark key="^" line="349" column="70" />
         <mark key="." line="349" column="70" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1512074173013">
-        <mark key="[" line="283" column="73" />
-        <mark key="]" line="283" column="71" />
-        <mark key="." line="283" column="71" />
-        <mark key="^" line="283" column="71" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1512077412772">
+        <mark key="[" line="232" column="40" />
+        <mark key="]" line="232" column="39" />
+        <mark key="." line="232" column="39" />
+        <mark key="^" line="232" column="39" />
       </file>
       <file name="$USER_HOME$/src/untitled/src/index.js" timestamp="1511197419844">
         <mark key="[" line="27" column="19" />
@@ -400,6 +403,12 @@
         <mark key="]" line="19" column="91" />
         <mark key="^" line="19" column="91" />
         <mark key="." line="19" column="91" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Domain/Model/Catalog/Search/DoofinderExternalSearchApi.php" timestamp="1512078544018">
+        <mark key="[" line="78" column="64" />
+        <mark key="]" line="79" column="7" />
+        <mark key="^" line="79" column="7" />
+        <mark key="." line="79" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/SetCookieAppTest.php" timestamp="1505946443221">
         <mark key="[" line="87" column="20" />
@@ -543,13 +552,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gImV1MS0xMDA4MTFlMGY1NDUyNjk2MzE5MzY4MzU0OWI5NjgyODc4YTgzZDM1IjsK</text>
+        <text encoding="base64">ICAgICAgICRyZXN1bHRzLT4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Y</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>allis</text>
@@ -558,31 +567,31 @@
         <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gImV1MS0xMDA4MTFlMGY1NDUyNjk2MzE5MzY4MzU0OWI5NjgyODc4YTgzZDM1IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXF1ZXN0LT5nZXRMb2NhbGUoKT09PSdwdCc/JGhhc2hJZFBUOiRoYXNoSWRFUwo=</text>
+        <text encoding="base64">ICAgICAgICRyZXN1bHRzLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkOWM3NTI1MjYyODY4MzdlY2Q5M2VlMjBmZjE4MjQ5ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0TWVudU9mKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJldTEtMTAwODExZTBmNTQ1MjY5NjMxOTM2ODM1NDliOTY4Mjg3OGE4M2QzNSIK</text>
+        <text encoding="base64">ICAgICAgICAkZG9vZmluZGVyRXh0ZXJuYWxBcGktPmdldFJlc3VsdHMoJG5lZWRsZSwgJHBhZ2UsICRudW1QYWdlSXRlbXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERvb0ZpbmRlclNlYXJjaENsaWVudDo6SEFTSF9JRF9QUk9EVUNDSU9OX0VTCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcGlLZXkgPSAiZXUxLTEwMDgxMWUwZjU0NTI2OTYzMTkzNjgzNTQ5Yjk2ODI4NzhhODNkMzUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaGFzaElkUFQgPSAnayc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENsaWVudCgkaGFzaGlkLCAkYXBpX2tleSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHNlYXJjaERvb2ZpbmRlckNtZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXF1ZXN0LT5nZXRMb2NhbGUoKT09PSdwdCc/JGhhc2hJZFBUOiRoYXNoSWRFUwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkOWM3NTI1MjYyODY4MzdlY2Q5M2VlMjBmZjE4MjQ5ZScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFycklkc1RyYWRlTWFyazJGaWx0ZXIgPSAkcmVxdWVzdC0+Z2V0KCdpZFRyYWRlbWFya3MnLCBbXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJldTEtMTAwODExZTBmNTQ1MjY5NjMxOTM2ODM1NDliOTY4Mjg3OGE4M2QzNSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
