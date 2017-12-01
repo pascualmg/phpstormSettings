@@ -50,11 +50,11 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" timestamp="1512085524558">
-        <mark key="[" line="243" column="53" />
-        <mark key="]" line="243" column="52" />
-        <mark key="." line="243" column="52" />
-        <mark key="^" line="243" column="52" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" timestamp="1512120370513">
+        <mark key="'" line="147" column="4" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="/Dummy.jql" timestamp="1500286487261">
         <mark key="[" line="0" column="0" />
@@ -348,7 +348,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512119771215">
+      <file name="/Dummy.txt" timestamp="1512119834530">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -395,11 +395,12 @@
         <mark key="^" line="349" column="70" />
         <mark key="." line="349" column="70" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1512086150944">
-        <mark key="[" line="236" column="22" />
-        <mark key="]" line="236" column="22" />
-        <mark key="." line="236" column="22" />
-        <mark key="^" line="236" column="22" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1512120058162">
+        <mark key="'" line="236" column="22" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="270" column="52" />
       </file>
       <file name="$USER_HOME$/src/untitled/src/index.js" timestamp="1511197419844">
         <mark key="[" line="27" column="19" />
@@ -463,12 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
-      <jump line="55" column="36" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Util/DooFinderSearchClient.php" />
-      <jump line="1382" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/Parse/ParseIdsArticleIntoArticleListCmd.php" />
-      <jump line="74" column="67" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/AppSearchDoofinder.php" />
-      <jump line="40" column="39" filename="$USER_HOME$/src/patterns/decorator.php" />
       <jump line="28" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/SearchDoofinderApp.php" />
       <jump line="129" column="30" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" />
       <jump line="115" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/SearchDoofinderApp.php" />
@@ -563,16 +558,22 @@
       <jump line="347" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
       <jump line="273" column="32" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
       <jump line="294" column="34" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
+      <jump line="236" column="22" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
+      <jump line="50" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
+      <jump line="81" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
+      <jump line="147" column="4" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>getArrayOfFa</text>
@@ -581,31 +582,31 @@
         <text encoding="base64">ICAgICAgICAkYXJyQnJhbmRzTmFtZSA9ICR0aGlzLT5nZXRBcnJheU9mRmFjZXRGcm9tUmVzdWx0cygnYnJhbmQnLCAkcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcU2VydmljZXNcU2VhcmNoXE1hcHBpbmdcTWVudVxNZW51U2VhcmNoOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IERvb0ZpbmRlclNlYXJjaENsaWVudCgkbG9jYWxlRnJvbVJlcXVlc3QpLAo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gTWVudVNlYXJjaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gTWVudVNlYXJjaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyRmFtaWxpZXNOYW1lID0gJHRoaXMtPmdldEFycmF5T2ZGYWNldEZyb21SZXN1bHRzKCdmYW1pbHknLCAkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXN1bHRzICRyZXN1bHRzIEVsIG9iamV0byBxdWUgcmV0b3JuYSBkb29kaW5kZXIgYWwgaGFjZXIgdW5hIGJ1c3F1ZWRhLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyQnJhbmRzTmFtZSA9ICRicmFuZEFuZEZhbWlseVsnYnJhbmQnXTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkYnJhbmRBbmRGYW1pbHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyQnJhbmRzTmFtZSA9ICR0aGlzLT5nZXRBcnJheU9mRmFjZXRGcm9tUmVzdWx0cygnYnJhbmQnLCAkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL0RlIGRvb2ZpbmRlciBvYnRlbmVtb3MgdW4gYXJyYXkgY29uIGxvcyBub21icmVzIGRlIGxhcyBtYXJjYXMuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNlYXJjaEFwaS0+Z2V0RmFtaWxpZXNBbmRUcmFkZU1hcmtzTmFtZXMoJGNtZC0+Z2V0TmVlZGxlKCkpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
