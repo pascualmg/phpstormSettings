@@ -143,12 +143,12 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" timestamp="1512121707914">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="33" column="74" />
-        <mark key="]" line="33" column="74" />
-        <mark key="^" line="33" column="46" />
-        <mark key="." line="33" column="74" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" timestamp="1512220749748">
+        <mark key="'" line="109" column="31" />
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="59" column="27" />
+        <mark key="^" line="59" column="27" />
+        <mark key="." line="59" column="27" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
@@ -361,7 +361,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512120491449">
+      <file name="/Dummy.txt" timestamp="1512219428754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -479,7 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/SearchDoofinderApp.php" />
       <jump line="16" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" />
       <jump line="43" column="5" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" />
       <jump line="114" column="1" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" />
@@ -579,16 +578,17 @@
       <jump line="147" column="4" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
       <jump line="76" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" />
       <jump line="40" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Domain/Model/Catalog/Search/SearchApiDoofinder.php" />
+      <jump line="108" column="31" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>getNeedle</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>getNeedle</text>
       </register>
       <register name="/" type="4">
         <text>getArrayOfFa</text>
