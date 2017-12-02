@@ -143,12 +143,12 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" timestamp="1512220749748">
-        <mark key="'" line="109" column="31" />
-        <mark key="[" line="58" column="23" />
-        <mark key="]" line="59" column="27" />
-        <mark key="^" line="59" column="27" />
-        <mark key="." line="59" column="27" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" timestamp="1512233136528">
+        <mark key="'" line="108" column="31" />
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+        <mark key="^" line="70" column="11" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
@@ -170,6 +170,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesExternalApiCommand.php" timestamp="1512236778184">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="90" column="4" />
+        <mark key="." line="90" column="4" />
+        <mark key="^" line="90" column="4" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1506289287437">
         <mark key="[" line="0" column="0" />
@@ -479,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" />
       <jump line="43" column="5" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" />
       <jump line="114" column="1" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/SalesManago/ContactUpsert/SalesmanagoContactUpsertMock.php" />
       <jump line="262" column="62" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Basket/BasketController.php" />
@@ -579,58 +585,59 @@
       <jump line="76" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" />
       <jump line="40" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Domain/Model/Catalog/Search/SearchApiDoofinder.php" />
       <jump line="108" column="31" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" />
+      <jump line="159" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesExternalApiCommand.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getNeedle</text>
+        <text>I</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>getNeedle</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
-        <text>getArrayOfFa</text>
+        <text>Or</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYXJyQnJhbmRzTmFtZSA9ICR0aGlzLT5nZXRBcnJheU9mRmFjZXRGcm9tUmVzdWx0cygnYnJhbmQnLCAkcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHV1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQXJ0aWNsZUxpc3RcQXJ0aWNsZUxpc3RCdWlsZGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG51bVBhZ2VJdGVtcywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSAkY21kLT5uZWVkbGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gTWVudVNlYXJjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gTWVudVNlYXJjaAo=</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQXJ0aWNsZUxpc3RcQXJ0aWNsZUxpc3RCdWlsZGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXN1bHRzICRyZXN1bHRzIEVsIG9iamV0byBxdWUgcmV0b3JuYSBkb29kaW5kZXIgYWwgaGFjZXIgdW5hIGJ1c3F1ZWRhLgo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkYnJhbmRBbmRGYW1pbHkK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getArrayOfFa</last-search>
+      <last-search>Or</last-search>
       <last-offset />
-      <last-pattern>getArrayOfFa</last-pattern>
+      <last-pattern>Or</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -638,8 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>smda</entry>
-        <entry>smData</entry>
         <entry>pcc_salesmanago_contact</entry>
         <entry>avail</entry>
         <entry>lity</entry>
@@ -658,6 +663,8 @@
         <entry>allisarra</entry>
         <entry>allis</entry>
         <entry>getArrayOfFa</entry>
+        <entry>setAr</entry>
+        <entry>Or</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
