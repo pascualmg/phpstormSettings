@@ -143,12 +143,12 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" timestamp="1512233136528">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesInExternalApi.php" timestamp="1512237174790">
         <mark key="'" line="108" column="31" />
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="11" />
+        <mark key="[" line="70" column="71" />
+        <mark key="]" line="77" column="73" />
+        <mark key="." line="77" column="73" />
+        <mark key="^" line="77" column="73" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
@@ -368,7 +368,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512219428754">
+      <file name="/Dummy.txt" timestamp="1512236801549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -589,13 +589,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>I</text>
+        <text>numPageItems</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>numPageItems</text>
       </register>
       <register name="/" type="4">
         <text>Or</text>
@@ -604,31 +604,31 @@
         <text encoding="base64">ICAgICAgICAkYXJyQnJhbmRzTmFtZSA9ICR0aGlzLT5nZXRBcnJheU9mRmFjZXRGcm9tUmVzdWx0cygnYnJhbmQnLCAkcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHV1Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG51bVBhZ2VJdGVtcywK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSAkY21kLT5uZWVkbGUoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkYXJySWRUcmFkZU1hcmsyRmlsdGVyID0gCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkYXJySWRTdXBlclBhcmVudDJGaWx0ZXIgPSAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkYXJySWRGYW1pbHkyRmlsdGVyID0gJGNtZC0+aWRzRmFtaWx5MkZpbHRlcigpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkb3JkZXIgPSAkY21kLT5vcmRlcigpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQXJ0aWNsZUxpc3RcQXJ0aWNsZUxpc3RCdWlsZGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbnVtUGFnZUl0ZW1zID0gJGNtZC0+bnVtUGFnZUl0ZW1zKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFnZSA9ICRjbWQtPnBhZ2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFycklkVHJhZGVNYXJrMkZpbHRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
