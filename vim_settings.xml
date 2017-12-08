@@ -66,9 +66,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1512434839574">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/PccDomainEventPublisher.php" timestamp="1506942708150">
         <mark key="[" line="70" column="0" />
@@ -110,6 +110,12 @@
         <mark key="]" line="3" column="67" />
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" timestamp="1512683611124">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" timestamp="1505805463696">
         <mark key="[" line="23" column="15" />
@@ -229,7 +235,7 @@
         <mark key="^" line="35" column="5" />
         <mark key="." line="35" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" timestamp="1512682358791">
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" timestamp="1512682925619">
         <mark key="'" line="36" column="27" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -621,14 +627,14 @@
       <jump line="134" column="67" filename="$USER_HOME$/src/pccapi/humbuglog.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdWRlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>testGivenAQueryWhenFinArticlesInSearchApiAndUseDefaultDataTransformerThenIGetResults</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>testGivenAQueryWhenFinArticlesInSearchApiAndUseDefaultDataTransformerThenIGetResults</text>
       </register>
       <register name="/" type="4">
         <text>Availi</text>
