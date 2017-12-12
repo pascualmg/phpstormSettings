@@ -411,10 +411,10 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512433910767">
+      <file name="/Dummy.txt" timestamp="1513098290702">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="72" />
-        <mark key="." line="11" column="72" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/newUserCreatedEvent.php" timestamp="1507011192803">
         <mark key="[" line="11" column="22" />
@@ -628,13 +628,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testGivenAQueryWhenFinArticlesInSearchApiAndUseDefaultDataTransformerThenIGetResults</text>
+        <text encoding="base64">CkFsIGludGVudGFyIGhhY2VyIGVsIHByaW1lciB0ZXN0IHNlIGRldGVjdGEgbGEgaW50ZXN0ZWFiaWxpZGFkIGRlIAp1bmEgZGVwZW5kZW5jaWEgaW55ZWN0YWRhIGFsIGNhc28gZGUgdXNvIC4gRGljaGEgZGVwZW5kZW5jaWEgYWRlbcOhcyAKbm8gZXMgbmVjZXNhcmlhIHBhcmEgcXVlIGVsIGNhc28gZGUgdXNvIGZ1bmNpb25lICwgcG9yIGxvIHF1ZSAKc2UgZXh0cmFlIGRlbCBjYXNvIGRlIHVzbyB5IHNlIGNvbG9jYSBlbiBlbCBkYXRhdHJhbnNmb3JtZXIuCkVsIGNhc28gZGUgdXNvIHBhc2EgYSBsbGFtYXJzZSBGaW5kQXJ0aWNsZXNJblNlYXJjaEFwaSB5IHRvZGFzIGxhcyBjbGFzZXMgCgpTZSBjcmVhIHVuIG9iamV0byBkZSB2YWxvciBxdWUgY29udGllbmUgbG9zIHJlc3VsdGFkb3MgZGUgbGFzIGFwaXMgZGUgYnVzcXVlZGEgCmNvbnRpZW5lIGxvcyBpZHMgZGUgYXJ0aWN1bG9zIHkgZWwgdG90YWwgcG9yIGVsIG1vbWVudG8uIEZpbkFydGljbGVzSW5TZWFyY2hBcGlSZXN1bHRzIC4KYSBQYWdpbmF0aW9uRGF0YSBxdWUgc2UgdXNhIGVuIGVsIGJhY2tlbmQgZGVsIGZyb250LgpTZSBpbmNsdXllbiBlbiBsb3MgU2VhcmNoQXBpUmVzdWx0cyBsb3MgbnVtcGFnZUl0ZW1zIHkgZWwgcGFnZSAsIHlhIHF1ZSBjb252aWVuZSBxdWUgc2llbXByZSBlc3TDqW4gZGlzcG9uaWJsZXMsIGF1bnF1ZSBubyAKZXJhbiAxMDAlIG5lY2VzYXJpb3MgbWVyZWNlIGxhIHBlbmEgeWEgcXVlIGVzIG11Y2hvIG3DoXMgdmVyc2F0aWwuClNlIGltcGxlbWVudGFuIGRlc2RlIGxvcyBuYXRpdm9zIGRlIA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>testGivenAQueryWhenFinArticlesInSearchApiAndUseDefaultDataTransformerThenIGetResults</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Availi</text>
@@ -642,32 +642,32 @@
       <register name="0" type="2">
         <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxDYXRhbG9nXEFydGljbGVcU2VhcmNoXEZpbmRBcnRpY2xlc0luU2VhcmNoQXBpUmVzdWx0czsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdWRlPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CkFsIGludGVudGFyIGhhY2VyIGVsIHByaW1lciB0ZXN0IHNlIGRldGVjdGEgbGEgaW50ZXN0ZWFiaWxpZGFkIGRlIAp1bmEgZGVwZW5kZW5jaWEgaW55ZWN0YWRhIGFsIGNhc28gZGUgdXNvIC4gRGljaGEgZGVwZW5kZW5jaWEgYWRlbcOhcyAKbm8gZXMgbmVjZXNhcmlhIHBhcmEgcXVlIGVsIGNhc28gZGUgdXNvIGZ1bmNpb25lICwgcG9yIGxvIHF1ZSAKc2UgZXh0cmFlIGRlbCBjYXNvIGRlIHVzbyB5IHNlIGNvbG9jYSBlbiBlbCBkYXRhdHJhbnNmb3JtZXIuCkVsIGNhc28gZGUgdXNvIHBhc2EgYSBsbGFtYXJzZSBGaW5kQXJ0aWNsZXNJblNlYXJjaEFwaSB5IHRvZGFzIGxhcyBjbGFzZXMgCgpTZSBjcmVhIHVuIG9iamV0byBkZSB2YWxvciBxdWUgY29udGllbmUgbG9zIHJlc3VsdGFkb3MgZGUgbGFzIGFwaXMgZGUgYnVzcXVlZGEgCmNvbnRpZW5lIGxvcyBpZHMgZGUgYXJ0aWN1bG9zIHkgZWwgdG90YWwgcG9yIGVsIG1vbWVudG8uIEZpbkFydGljbGVzSW5TZWFyY2hBcGlSZXN1bHRzIC4KYSBQYWdpbmF0aW9uRGF0YSBxdWUgc2UgdXNhIGVuIGVsIGJhY2tlbmQgZGVsIGZyb250LgpTZSBpbmNsdXllbiBlbiBsb3MgU2VhcmNoQXBpUmVzdWx0cyBsb3MgbnVtcGFnZUl0ZW1zIHkgZWwgcGFnZSAsIHlhIHF1ZSBjb252aWVuZSBxdWUgc2llbXByZSBlc3TDqW4gZGlzcG9uaWJsZXMsIGF1bnF1ZSBubyAKZXJhbiAxMDAlIG5lY2VzYXJpb3MgbWVyZWNlIGxhIHBlbmEgeWEgcXVlIGVzIG11Y2hvIG3DoXMgdmVyc2F0aWwuClNlIGltcGxlbWVudGFuIGRlc2RlIGxvcyBuYXRpdm9zIGRlIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovQnVuZGxlLypCdW5kbGUvVGVzdHM8L2RpcmVjdG9yeT4K</text>
+        <text encoding="base64">eSBhbGd1bmEgY29zaWxsYSBtw6FzLiB0ZXN0IGFsIDEwMCUgZXhjZXB0byBlbiBlbCBEYXRhdHJhbnNmb3JtZXIgcXVlIHBhcnNlYSBkZSBpZHMgZGUgYXJ0aWN1bG8gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovQnVuZGxlLypCdW5kbGUvUmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdWRlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovKkJ1bmRsZS9UZXN0czwvZGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovQnVuZGxlLypCdW5kbGUvVGVzdHM8L2RpcmVjdG9yeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovKkJ1bmRsZS9SZXNvdXJjZXM8L2RpcmVjdG9yeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovQnVuZGxlLypCdW5kbGUvUmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLypCdW5kbGUvVGVzdHM8L2RpcmVjdG9yeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovKkJ1bmRsZS9UZXN0czwvZGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLypCdW5kbGUvUmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovKkJ1bmRsZS9SZXNvdXJjZXM8L2RpcmVjdG9yeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1ZGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLypCdW5kbGUvVGVzdHM8L2RpcmVjdG9yeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLypCdW5kbGUvUmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
