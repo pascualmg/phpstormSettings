@@ -91,12 +91,6 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatus.php" timestamp="1509919684623">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityCmd.php" timestamp="1506238713598">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="25" column="6" />
@@ -262,23 +256,11 @@
         <mark key="." line="66" column="3" />
         <mark key="^" line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" timestamp="1511960721330">
-        <mark key="'" line="21" column="6" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/FindArticlesInSearchApiDatatransformerIntoPaginationData.php" timestamp="1512328603235">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="^" line="43" column="34" />
         <mark key="." line="47" column="5" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" timestamp="1512120370513">
-        <mark key="'" line="147" column="4" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1512434839574">
         <mark key="[" line="33" column="0" />
@@ -380,6 +362,9 @@
         <mark key="]" line="90" column="4" />
         <mark key="." line="90" column="4" />
         <mark key="^" line="90" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/composer.json" timestamp="1513103599142">
+        <mark key="'" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/DomainEventPublisher.php" timestamp="1506948944612">
         <mark key="[" line="36" column="28" />
@@ -531,7 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="5" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" />
       <jump line="50" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/User/AppRestoreCartInfoAfterMail.php" />
       <jump line="34" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/SalesManagoContactUpsert.php" />
       <jump line="46" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" />
@@ -631,6 +615,7 @@
       <jump line="57" column="12" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Domain/Model/Catalog/Search/SearchApiDoofinder.php" />
       <jump line="53" column="5" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/ArticleList/ArticleListBuilder.php" />
       <jump line="134" column="67" filename="$USER_HOME$/src/pccapi/humbuglog.txt" />
+      <jump line="45" column="0" filename="$USER_HOME$/src/pccapi/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -643,7 +628,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Availi</text>
+        <text>phpunit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvblxDYXRhbG9nXEFydGljbGVcU2VhcmNoXEZpbmRBcnRpY2xlc0luU2VhcmNoQXBpUmVzdWx0czsK</text>
@@ -680,9 +665,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Availi</last-search>
+      <last-search>phpunit</last-search>
       <last-offset />
-      <last-pattern>Availi</last-pattern>
+      <last-pattern>phpunit</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -690,7 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lity</entry>
         <entry>Avai</entry>
         <entry>getAvaili</entry>
         <entry>Apicaller</entry>
@@ -710,6 +694,7 @@
         <entry>Or</entry>
         <entry>confirmAva</entry>
         <entry>Availi</entry>
+        <entry>phpunit</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
