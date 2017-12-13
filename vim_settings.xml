@@ -290,11 +290,11 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" timestamp="1513119193870">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="25" />
-        <mark key="^" line="21" column="25" />
-        <mark key="." line="21" column="25" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" timestamp="1513123529587">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="75" column="53" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Navigator/setCookieAppTest.php" timestamp="1505805463696">
         <mark key="[" line="23" column="15" />
@@ -492,11 +492,11 @@
         <mark key="." line="269" column="36" />
         <mark key="^" line="278" column="11" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" timestamp="1513119901713">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" timestamp="1513120941485">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="33" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Domain/Model/Catalog/Search/DoofinderExternalSearchApi.php" timestamp="1512085796470">
         <mark key="[" line="15" column="6" />
@@ -633,47 +633,47 @@
       <jump line="45" column="0" filename="$USER_HOME$/src/pccapi/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stubData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRFcXVhbHMoMCwgJHJlc3VsdHMtPnBhZ2UoKSk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>stubData</text>
+        <text>24</text>
       </register>
       <register name="/" type="4">
         <text>phpunit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBGaW5kQXJ0aWNsZXNJblNlYXJjaEFwaVJlc3VsdHMgJHJlc3VsdCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRFcXVhbHMoMCwgJHJlc3VsdHMtPnBhZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1va2VkU2VhcmNoQXBpKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRFcXVhbHMoMCwgJHJlc3VsdHMtPnBhZ2UoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0ZWRJZHNBcnRpY2xlc0luUmVzdWx0cyA9IFsxMTMzNCwgNjU1MzUsIDEwMV07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFBjY1xEb21haW5cQXJ0aWNsZVxTZWFyY2hcU2VhcmNoQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0ZWRJZHNBcnRpY2xlc0luUmVzdWx0cyA9IFsxMTMzNCwgNjU1MzUsIDEwMV07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFBjY1xUZXN0c1xBcHBsaWNhdGlvblxDYXRhbG9nXEFydGljbGVcU2VhcmNoXE1va2VkU2VhcmNoQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsxMTMzNCwgNjU1MzUsIDEwMV0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFBjY1xEb21haW5cQXJ0aWNsZVxTZWFyY2hcU2VhcmNoQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlICRleHBlY3RlZFBhZ2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1va2VkU2VhcmNoQXBpKCksCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGV4cGVjdGVkUGFnZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UGNjL01vY2tzL01va2VkU2VhcmNoQXBpLnBocAo=</text>
+        <text encoding="base64">ICAgICAvKiogQHZhciAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAgICRhcnJJZHNGYW1pbHkyRmlsdGVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
