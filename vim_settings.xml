@@ -33,6 +33,12 @@
       <file name="vm:409" timestamp="1513198879131">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" timestamp="1513279245023">
+        <mark key="[" line="76" column="87" />
+        <mark key="]" line="76" column="87" />
+        <mark key="." line="76" column="87" />
+        <mark key="^" line="76" column="87" />
+      </file>
       <file name="/a.sql" timestamp="1509304014234">
         <mark key="[" line="0" column="0" />
       </file>
@@ -223,13 +229,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>());</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>());</text>
       </register>
       <register name="/" type="4">
         <text>201</text>
@@ -238,31 +244,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGgyPkhhYml0YWNpb25lcyBjdWV2YSwgY29jaW5hIGRlIGxlw7FhIG5hdHVyYWwsIGJhcmJhY29hLCBwaXNjaW5hLCBob3JubyBkZSBsZcOxYSwgcmVjaWVuIHJlZm9ybWFkYS4hLTwvaDI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLWh0dHA6Ly9waHAubmV0L21hbnVhbC9lcy9mdW5jdGlvbi5oZWFkZXIucGhwLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0cy0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+UG9sYXJpcyBXb3JsZDwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBGaW5kQXJ0aWNsZXNJblNlYXJjaEFwaVJlc3VsdHMgJHJlc3VsdCAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29tZW50YWRvIHNjcmlwdCBkZWwgZmFjZSAuIHBldGFiYSB5IG5vIHJ1bGEgYmllbiAuCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0cy0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8IS0tPHNjcmlwdCBzcmM9ImpzL0ZhY2VCb29rU2NyaXB0cy5qcyI+PC9zY3JpcHQ+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBGaW5kQXJ0aWNsZXNJblNlYXJjaEFwaVJlc3VsdHMgJHJlc3VsdCAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVsZXRlZCBuZXRiZWFucyBjb25maWcK</text>
+        <text encoding="base64">PCEtLWh0dHA6Ly9waHAubmV0L21hbnVhbC9lcy9mdW5jdGlvbi5oZWFkZXIucGhwLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+UG9sYXJpcyBXb3JsZDwvYT48L2xpPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEvd2ViU2VydmVycy54bWwK</text>
+        <text encoding="base64">Y29tZW50YWRvIHNjcmlwdCBkZWwgZmFjZSAuIHBldGFiYSB5IG5vIHJ1bGEgYmllbiAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmlkZWEvbW9kdWxlcy54bWwK</text>
+        <text encoding="base64">CQk8IS0tPHNjcmlwdCBzcmM9ImpzL0ZhY2VCb29rU2NyaXB0cy5qcyI+PC9zY3JpcHQ+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmlkZWEvbGFjdWV2YWRlbGdyaWxsbzMuMC5pbWwK</text>
+        <text encoding="base64">ZGVsZXRlZCBuZXRiZWFucyBjb25maWcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
