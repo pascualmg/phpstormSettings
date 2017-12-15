@@ -94,6 +94,12 @@
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/autofoto/autofoto.js" timestamp="1513375459848">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" timestamp="1513288912651">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="32" />
@@ -103,12 +109,12 @@
       <file name="restClient/response16.txt" timestamp="1505526512431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513374748025">
-        <mark key="'" line="25" column="10" />
-        <mark key="[" line="84" column="94" />
-        <mark key="]" line="84" column="109" />
-        <mark key="^" line="84" column="109" />
-        <mark key="." line="84" column="109" />
+      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513376392481">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="83" column="109" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/FindArticlesInSearchApi.php" timestamp="1513284341148" />
       <file name="chrome-extension://eadndfjplgieldjbigjakmdgkmoaaaoc/content.js" timestamp="1513198793174">
@@ -230,7 +236,6 @@
       <jump line="21" column="6" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
       <jump line="27" column="12" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
       <jump line="13" column="28" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
-      <jump line="14" column="41" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
       <jump line="0" column="14" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
       <jump line="124" column="26" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
       <jump line="70" column="40" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
@@ -243,10 +248,11 @@
       <jump line="42" column="41" filename="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" />
       <jump line="13" column="24" filename="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS08c2NyaXB0IHNyYz0ianMvRmFjZUJvb2tTY3JpcHRzLmpzIj48L3NjcmlwdD4tLT4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -255,46 +261,46 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>201</text>
+        <text>autofoto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmlzQXJyYXkoJHRoaXMtPmlkc1RyYWRlTWFyazJGaWx0ZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkZmFrZVJlc3VsdHMgPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgIDwhLS08c2NyaXB0IHNyYz0ianMvRmFjZUJvb2tTY3JpcHRzLmpzIj48L3NjcmlwdD4tLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICR0aGlzLT5mYWtlUmVzdWx0cyA9ICRmYWtlUmVzdWx0czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0ZWRJZHNBcnRpY2xlc0luUmVzdWx0cyA9IFsxMTMzNCwgNjU1MzUsIDEwMV07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQuYWpheAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGV4cGVjdGVkUGFnZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkZmFrZVJlc3VsdHMgPSBudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAvKiogQHZhciAqLwo=</text>
+        <text encoding="base64">ICAgICAgICR0aGlzLT5mYWtlUmVzdWx0cyA9ICRmYWtlUmVzdWx0czsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0ZWRJZHNBcnRpY2xlc0luUmVzdWx0cyA9IFsxMTMzNCwgNjU1MzUsIDEwMV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGV4cGVjdGVkTnVtUGFnZUl0ZW1zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>201</last-search>
+      <last-search>autofoto</last-search>
       <last-offset />
-      <last-pattern>201</last-pattern>
+      <last-pattern>autofoto</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -302,7 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>swogo</entry>
         <entry>allisarra</entry>
         <entry>allis</entry>
         <entry>getArrayOfFa</entry>
@@ -322,6 +327,7 @@
         <entry>escapa</entry>
         <entry>Escap</entry>
         <entry>201</entry>
+        <entry>autofoto</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
