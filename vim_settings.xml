@@ -73,6 +73,9 @@
       <file name="/dummy.sql" timestamp="1511951093958">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1513381587666">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="vm:358" timestamp="1513198771700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,11 +97,11 @@
       <file name="$USER_HOME$/src/pccapi/docker/app-fpm/Dockerfile" timestamp="1500277152663">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/autofoto/autofoto.js" timestamp="1513377797128">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/autofoto/autofoto.js" timestamp="1513380777072">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" timestamp="1513288912651">
         <mark key="'" line="0" column="0" />
@@ -109,12 +112,12 @@
       <file name="restClient/response16.txt" timestamp="1505526512431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513379363981">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="159" column="68" />
-        <mark key="]" line="159" column="67" />
-        <mark key="^" line="159" column="67" />
-        <mark key="." line="159" column="67" />
+      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513381575671">
+        <mark key="'" line="162" column="15" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="51" />
+        <mark key="^" line="160" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/FindArticlesInSearchApi.php" timestamp="1513284341148" />
       <file name="chrome-extension://eadndfjplgieldjbigjakmdgkmoaaaoc/content.js" timestamp="1513198793174">
@@ -149,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
-      <jump line="325" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="379" column="50" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="1207" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="1254" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
@@ -249,58 +250,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" />
       <jump line="13" column="24" filename="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" />
       <jump line="14" column="0" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
+      <jump line="79" column="0" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
+      <jump line="162" column="15" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tZGF0YS1zaGFyZT0idHJ1ZSItLT4K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9hdXRvZm90by9hdXRvZm90by5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>pascual</text>
       </register>
       <register name="/" type="4">
-        <text>autofoto</text>
+        <text>pascual</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmlzQXJyYXkoJHRoaXMtPmlkc1RyYWRlTWFyazJGaWx0ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNhdXRvZm90bycpLnByZXBlbmQoJzxpbWcgc3R5bGU9ImFsaWduLWNvbnRlbnQ6IGNlbnRlciIgaWQ9IicgKyBmaWxlbmFtZSArICciIHNyYz0iJysgZmlsZW5hbWUgKyciPjxicj4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tZGF0YS1zaGFyZT0idHJ1ZSItLT4K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9hdXRvZm90by9hdXRvZm90by5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tY2xhc3M9ImZiLWxpa2UiLS0+Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLTxkaXYtLT4K</text>
+        <text encoding="base64">PGRpdiBpZD0iYXV0b2ZvdG8iIHN0eWxlPSJob3Jpei1hbGlnbjogY2VudGVyO3ZlcnRpY2FsLWFsaWduOiBjZW50ZXI7b2JqZWN0LWZpdDogc2NhbGUtZG93biI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS08c2NyaXB0IHNyYz0ianMvRmFjZUJvb2tTY3JpcHRzLmpzIj48L3NjcmlwdD4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyA8cD5QcmVtaW8gbWVqb3IgQ2FzYSBSdXJhbCBSZWdpw7NuIGRlIE11cmNpYTwvcD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICQuYWpheAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPGltZyBzdHlsZT0iYWxpZ24tY29udGVudDogY2VudGVyIiBpZD0iJyArIGZpbGVuYW1lICsgJyIgc3JjPSInKyBmaWxlbmFtZSArJyI+PGJyPicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkZmFrZVJlc3VsdHMgPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPGltZyBzdHlsZT0iYWxpZ24tY29udGVudDogY2VudGVyIiBpZD0iJyArIGZpbGVuYW1lICsgJyIgc3JjPSInKyBmaWxlbmFtZSArJyI+PGJyPicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>autofoto</last-search>
+      <last-search>pascual</last-search>
       <last-offset />
-      <last-pattern>autofoto</last-pattern>
+      <last-pattern>pascual</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -308,8 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry>allisarra</entry>
-        <entry>allis</entry>
         <entry>getArrayOfFa</entry>
         <entry>setAr</entry>
         <entry>Or</entry>
@@ -328,6 +329,8 @@
         <entry>Escap</entry>
         <entry>201</entry>
         <entry>autofoto</entry>
+        <entry>Herena</entry>
+        <entry>pascual</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
