@@ -65,7 +65,7 @@
       <file name="/PHP Console" timestamp="1512261291885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1513199154201">
+      <file name="/JavaScript Console" timestamp="1513385658555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/inject.js" timestamp="1513198766525">
@@ -78,6 +78,9 @@
         <mark key="[" line="23" column="49" />
       </file>
       <file name="/dummy.sql" timestamp="1511951093958">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513384752043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="vm:358" timestamp="1513198771700">
@@ -116,12 +119,15 @@
       <file name="restClient/response16.txt" timestamp="1505526512431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513382813407">
-        <mark key="'" line="214" column="16" />
-        <mark key="[" line="200" column="77" />
-        <mark key="]" line="200" column="80" />
-        <mark key="^" line="200" column="80" />
-        <mark key="." line="200" column="80" />
+      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513388657988">
+        <mark key="'" line="96" column="20" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="109" />
+        <mark key="^" line="88" column="17" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="www.lacuevadelgrillo.com" timestamp="1513385581304">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/FindArticlesInSearchApi.php" timestamp="1513284341148" />
       <file name="chrome-extension://eadndfjplgieldjbigjakmdgkmoaaaoc/content.js" timestamp="1513198793174">
@@ -145,6 +151,11 @@
       <file name="vm:371" timestamp="1513198784704">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/mensajes/mensaje_fotos_generator.js" timestamp="1513388598709">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
       </file>
@@ -156,10 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/SetCookieCmd.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/SetCookieCmd.php" />
-      <jump line="62" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Navigator/SetCookieCmd.php" />
-      <jump line="313" column="11" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="316" column="42" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="17" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="139" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
@@ -256,58 +263,62 @@
       <jump line="137" column="20" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/css/style.css" />
       <jump line="144" column="16" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/css/style.css" />
       <jump line="118" column="16" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/css/style.css" />
+      <jump line="209" column="13" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
+      <jump line="0" column="0" filename="www.lacuevadelgrillo.com" />
+      <jump line="87" column="21" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
+      <jump line="96" column="20" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9lY21hc2NyaXB0IiBzcmM9ImpzL21lbnNhamVzL21lbnNhamVfZm90b3NfZ2VuZXJhdG9yLmpzIj4gPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>mensaje</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQliYWNrZ3JvdW5kOiAjMzMzMzMzIHVybCgiLi4vaW1hZ2VzL3ZpZWphL3ZhbGxhZG92aXN0YXMuZ2lmIikgbm8tcmVwZWF0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9lY21hc2NyaXB0IiBzcmM9ImpzL21lbnNhamVzL21lbnNhamVfZm90b3NfZ2VuZXJhdG9yLmpzIj4gPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">fSAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgdmFyIGRhdGVPYmogPSBuZXcgRGF0ZSgpOwogICAgICAgICAgICAgICAgdmFyIG1vbnRoID0gZGF0ZU9iai5nZXRVVENNb250aCgpICsgMTsgLy9tb250aHMgZnJvbSAxLTEyCiAgICAgICAgICAgICAgICB2YXIgZGF5ID0gZGF0ZU9iai5nZXRVVENEYXRlKCk7CiAgICAgICAgICAgICAgICB2YXIgeWVhciA9IGRhdGVPYmouZ2V0VVRDRnVsbFllYXIoKTsKCiAgICAgICAgICAgICAgICB2YXIgdGVybWluYW5kb0FuaW8gPSAoMjAxNyA9PSB5ZWFyKT8iw7psdGltYXMiOiJwcmltZXJhcyI7CgogICAgICAgICAgICAgICAgJCgnI21lbnNhamVfZm90b3MnKS5wcmVwZW5kKAogICAgICAgICAgICAgICAgICAgICc8aDI+QXF1w60gZXN0w6FuIGxhcyAnICsKICAgICAgICAgICAgICAgICAgICAgICAgdGVybWluYW5kb0FuaW8gKwogICAgICAgICAgICAgICAgICAgICcgZm90b3MgZGUgJyArCiAgICAgICAgICAgICAgICAgICAgeWVhciArCiAgICAgICAgICAgICAgICAgICAgJyB0cmFzIGxhcyDDumx0aW1hcyByZWZvcm1hcyAsIGVzcGVyYW1vcyBxdWUgb3MgZ3VzdGVuIScgKwogICAgICAgICAgICAgICAgICAgICc8L2gyPicKICAgICAgICAgICAgICAgICk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRlT2JqID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgICAgIHZhciBtb250aCA9IGRhdGVPYmouZ2V0VVRDTW9udGgoKSArIDE7IC8vbW9udGhzIGZyb20gMS0xMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHllYXIgPSAyMDE4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKGl0ZXJhdGlvbiwgZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoMjAxNyA9PSB5ZWFyKT8idWx0aW1hcyI6InByaW1lcmFzIiArCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGZ1bmN0aW9uKGksZmlsZW5hbWUpIHsKICAgICAgICAgICAgICAgICQoJyNhdXRvc2VjdGlvbicpLnByZXBlbmQoICc8c2VjdGlvbiBjbGFzcz0iNHUiPicgKwogICAgICAgICAgICAgICAgICAgICc8YSBocmVmPSInKyBmaWxlbmFtZSArJyIgY2xhc3M9ImltYWdlIGZlYXR1cmUiPjxpbWcgc3JjPSInICsgZmlsZW5hbWUgKyAnIiBhbHQ9IiI+PC9hPicgKwogICAgICAgICAgICAgICAnPC9zZWN0aW9uPicKICAgICAgICAgICAgICAgICk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb250aCArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlamVjdXRhbmRvIGFqYXgnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9hdXRvZm90by9hdXRvZm90by5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>mensaje</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>mensaje</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -315,9 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Or</entry>
-        <entry>confirmAva</entry>
-        <entry>Availi</entry>
         <entry>phpunit</entry>
         <entry>face</entry>
         <entry>facebook</entry>
@@ -335,6 +343,9 @@
         <entry>pascual</entry>
         <entry>emai</entry>
         <entry>mail</entry>
+        <entry>fotos</entry>
+        <entry>mensaje_fo</entry>
+        <entry>mensaje</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
