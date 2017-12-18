@@ -89,8 +89,10 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513627162051">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1513627227916">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesExternalApi.php" timestamp="1512079397040">
         <mark key="[" line="24" column="20" />
@@ -119,12 +121,12 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513627150260">
-        <mark key="'" line="32" column="14" />
-        <mark key="[" line="72" column="70" />
-        <mark key="]" line="72" column="69" />
-        <mark key="." line="72" column="69" />
-        <mark key="^" line="72" column="69" />
+      <file name="$USER_HOME$/PhpstormProjects/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513634422249">
+        <mark key="'" line="117" column="12" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="16" column="49" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
@@ -163,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="379" column="50" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="1207" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="1254" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
@@ -263,59 +264,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" />
       <jump line="13" column="24" filename="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" />
       <jump line="32" column="14" filename="$USER_HOME$/PhpstormProjects/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
+      <jump line="117" column="12" filename="$USER_HOME$/PhpstormProjects/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rmación</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS08c2NyaXB0IHNyYz0ianMvRmFjZUJvb2tTY3JpcHRzLmpzIj48L3NjcmlwdD4tLT4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>rmación</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>787</text>
+        <text>body</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmlzQXJyYXkoJHRoaXMtPmlkc1RyYWRlTWFyazJGaWx0ZXIpOwo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy90ZXN0LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08c2NyaXB0IHNyYz0ianMvRmFjZUJvb2tTY3JpcHRzLmpzIj48L3NjcmlwdD4tLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">PHNjcmlwdD4K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>use pcc\ApigatorBundle\ApiGat
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGVjaG8ganNvbl9lbmNvZGUoWyRleGNlcHRpb25dKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICRyZXF1ZXN0ID0gbmV3IEFwaUdhdG9yKCk7CiAgICBlY2hvICJzZSBjYXJnbyBhcGlnYXRvciI7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICC6ICAgICAgICAgICAgICAgICAgILoK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICRyZXF1ZXN0LT5zZXRVcmkoZHMpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICRyZXF1ZXN0LT5zZXRVcmkoZHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>787</last-search>
+      <last-search>body</last-search>
       <last-offset />
-      <last-pattern>787</last-pattern>
+      <last-pattern>body</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -323,7 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>allisarra</entry>
         <entry>allis</entry>
         <entry>getArrayOfFa</entry>
         <entry>setAr</entry>
@@ -343,6 +344,7 @@
         <entry>Escap</entry>
         <entry>201</entry>
         <entry>787</entry>
+        <entry>body</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
