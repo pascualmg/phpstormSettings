@@ -89,7 +89,7 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513209593431">
+      <file name="/Dummy.txt" timestamp="1513611599860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesExternalApi.php" timestamp="1512079397040">
@@ -119,6 +119,12 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" timestamp="1513611574675">
+        <mark key="'" line="32" column="14" />
+        <mark key="[" line="72" column="70" />
+        <mark key="]" line="72" column="70" />
+        <mark key="." line="72" column="70" />
+      </file>
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
@@ -133,6 +139,11 @@
       </file>
       <file name="vm:376" timestamp="1513198789714">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/autofoto/getImagesFilename.php" timestamp="1513611502336">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="vm:373" timestamp="1513198787380">
         <mark key="[" line="0" column="0" />
@@ -151,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="325" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="379" column="50" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="1207" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
@@ -251,60 +261,60 @@
       <jump line="42" column="41" filename="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/MokedSearchApi.php" />
       <jump line="13" column="24" filename="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" />
+      <jump line="32" column="14" filename="$USER_HOME$/PhpstormProjects/lacuevadelgrillo3.0/lacuevadelgrillo3.0/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>use pcc\ApigatorBundle\ApiGat
-}</text>
+        <text>n</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>201</text>
+        <text>787</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmlzQXJyYXkoJHRoaXMtPmlkc1RyYWRlTWFyazJGaWx0ZXIpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>use pcc\ApigatorBundle\ApiGat
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGVjaG8ganNvbl9lbmNvZGUoWyRleGNlcHRpb25dKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICRyZXF1ZXN0ID0gbmV3IEFwaUdhdG9yKCk7CiAgICBlY2hvICJzZSBjYXJnbyBhcGlnYXRvciI7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICC6ICAgICAgICAgICAgICAgICAgILoK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICRyZXF1ZXN0LT5zZXRVcmkoZHMpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkZmFrZVJlc3VsdHMgPSBudWxsKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICR0aGlzLT5mYWtlUmVzdWx0cyA9ICRmYWtlUmVzdWx0czsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0ZWRJZHNBcnRpY2xlc0luUmVzdWx0cyA9IFsxMTMzNCwgNjU1MzUsIDEwMV07Cg==</text>
+        <text encoding="base64">ICAgICAgICR0aGlzLT5mYWtlUmVzdWx0cyA9ICRmYWtlUmVzdWx0czsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>201</last-search>
+      <last-search>787</last-search>
       <last-offset />
-      <last-pattern>201</last-pattern>
+      <last-pattern>787</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>swogo</entry>
         <entry>allisarra</entry>
         <entry>allis</entry>
         <entry>getArrayOfFa</entry>
@@ -332,6 +341,7 @@
         <entry>escapa</entry>
         <entry>Escap</entry>
         <entry>201</entry>
+        <entry>787</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
