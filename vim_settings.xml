@@ -40,6 +40,7 @@
       <file name="vm:409" timestamp="1513198879131">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/filterMenu/GetFacetsFromSearchApi.php" timestamp="1515537024304" />
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Search/FindArticlesInSearchApiTest.php" timestamp="1513289502899">
         <mark key="'" line="13" column="24" />
         <mark key="[" line="23" column="0" />
@@ -65,11 +66,11 @@
       <file name="$USER_HOME$/src/pccapi/docker/local/docker-compose.yml" timestamp="1499851849673">
         <mark key="[" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/src/lacueva/lacuevadelgrillo3.0/js/autofoto/autofoto.js" timestamp="1515535495636">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="35" />
+      <file name="$USER_HOME$/src/lacueva/lacuevadelgrillo3.0/js/autofoto/autofoto.js" timestamp="1515536662825">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="35" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="restClient/response16.txt" timestamp="1505526512431">
         <mark key="[" line="0" column="0" />
@@ -160,10 +161,10 @@
       <file name="/dummy.sql" timestamp="1511951093958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515418516300">
+      <file name="/Dummy.txt" timestamp="1515536060388">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="vm:377" timestamp="1513198790681">
         <mark key="[" line="0" column="0" />
@@ -326,14 +327,14 @@
       <jump line="34" column="25" filename="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/operator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGRkUCA9IG5ldyByb21pc2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>tras el viernes de repaso</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>tras el viernes de repaso</text>
       </register>
       <register name="/" type="4">
         <text>reformas</text>
@@ -342,31 +343,31 @@
         <text encoding="base64">IAogY29uc3QgUmVkdWNlZENvbElubXV0YWJsZUluUzUgPSBjb2wucmVkdWNlKAogICBmdW5jdGlvbihhY2MsIGN1cnIpICB7CiAgICAgICAvL2VzNSAtIGlubXV0YWJsZS4KICAgICAgIGNvbnN0IGVsZW1lbnRvID0ge307CiAgICAgICBlbGVtZW50b1tjdXJyLmlkXTogY3Vyci5vdHJhczsKICAgICAgIGNvbnN0IG9iaiA9IE9iamVjdC5hc3NpZ24oe30sIGFjYywgY3Vycik7CiAgICAgICByZXR1cm4gb2JqOwogICB9CiAgICx7fQopOwog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGRkUCA9IG5ldyByb21pc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkLmVhY2goZGF0YSwgcmVuZGVyU2VjdGlvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRkUCA9IG5ldyByb21pc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIC8vZXM1IC0gaW5tdXRhYmxlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBvYmo7Cg==</text>
+        <text encoding="base64">ICAgICAgIC8vZXM1IC0gaW5tdXRhYmxlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnN0IG9iaiA9IE9iamVjdC5hc3NpZ24oe30sIGFjYywgY3Vycik7Cg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBvYmo7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGVsZW1lbnRvW2N1cnIuaWRdOiBjdXJyLm90cmFzOwo=</text>
+        <text encoding="base64">ICAgICAgIGNvbnN0IG9iaiA9IE9iamVjdC5hc3NpZ24oe30sIGFjYywgY3Vycik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnN0IGVsZW1lbnRvID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgIGVsZW1lbnRvW2N1cnIuaWRdOiBjdXJyLm90cmFzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgIGNvbnN0IGVsZW1lbnRvID0ge307Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
