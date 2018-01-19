@@ -73,11 +73,11 @@
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/minimalObservable.js" timestamp="1515162009914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/rx/js/ejercicios.js" timestamp="1516285099123">
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="42" />
-        <mark key="." line="48" column="42" />
-        <mark key="^" line="48" column="42" />
+      <file name="$USER_HOME$/src/rx/js/ejercicios.js" timestamp="1516287391236">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="52" />
+        <mark key="." line="58" column="52" />
+        <mark key="^" line="58" column="52" />
       </file>
       <file name="$USER_HOME$/src/lacueva/index.html" timestamp="1516102724121">
         <mark key="[" line="255" column="7" />
@@ -160,7 +160,7 @@
       <file name="/PHP Console" timestamp="1512261291885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1516284948588">
+      <file name="/JavaScript Console" timestamp="1516286582576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/autofoto/getImagesFilename.php" timestamp="1513421914914">
@@ -175,6 +175,11 @@
         <mark key="[" line="170" column="27" />
         <mark key="]" line="170" column="27" />
         <mark key="." line="170" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/rx/index.html" timestamp="1516286560076">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="89" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1516102857176">
         <mark key="[" line="0" column="0" />
@@ -222,6 +227,9 @@
         <mark key="]" line="88" column="109" />
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="17" />
+      </file>
+      <file name="module.js" timestamp="1516286025684">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="vm:375" timestamp="1513198788689">
         <mark key="[" line="0" column="0" />
@@ -349,46 +357,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>Observable</text>
       </register>
       <register name="/" type="4">
         <text>reformas</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IAogY29uc3QgUmVkdWNlZENvbElubXV0YWJsZUluUzUgPSBjb2wucmVkdWNlKAogICBmdW5jdGlvbihhY2MsIGN1cnIpICB7CiAgICAgICAvL2VzNSAtIGlubXV0YWJsZS4KICAgICAgIGNvbnN0IGVsZW1lbnRvID0ge307CiAgICAgICBlbGVtZW50b1tjdXJyLmlkXTogY3Vyci5vdHJhczsKICAgICAgIGNvbnN0IG9iaiA9IE9iamVjdC5hc3NpZ24oe30sIGFjYywgY3Vycik7CiAgICAgICByZXR1cm4gb2JqOwogICB9CiAgICx7fQopOwog</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQk8c2NyaXB0IHNyYz0ianMvZWplcmNpY2lvcy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm5zIHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZSh2YWx1ZSA9ID4gY29uc29sZS5sb2codmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgIFJ4Lk9ic2VydmFibGUoKSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQkCg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9AcmVhY3RpdmV4L3J4anNANS4wLjMvZGlzdC9nbG9iYWwvUnguanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAzMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXNpIG1lIGd1c3RhIG1hcwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiBvdXRwdXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
