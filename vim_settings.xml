@@ -15,7 +15,7 @@
       <file name="vm:368" timestamp="1513198781681">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1516902427403">
+      <file name="/fragment.js" timestamp="1516989782325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Catalog/Article/Search/SearchArticlesExternalApi.php" timestamp="1512079397040">
@@ -90,12 +90,12 @@
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/minimalObservable.js" timestamp="1515162009914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/rx/js/ejercicios.js" timestamp="1516989077736">
-        <mark key="'" line="292" column="0" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="253" column="36" />
-        <mark key="." line="253" column="36" />
-        <mark key="^" line="253" column="36" />
+      <file name="$USER_HOME$/src/rx/js/ejercicios.js" timestamp="1516992724864">
+        <mark key="'" line="231" column="40" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="247" column="26" />
       </file>
       <file name="$USER_HOME$/src/lacueva/index.html" timestamp="1516102724121">
         <mark key="[" line="255" column="7" />
@@ -129,6 +129,9 @@
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/appRestoreCartAfterMailSalesManago.php" timestamp="1500320451534">
         <mark key="[" line="15" column="0" />
+      </file>
+      <file name="vm:392" timestamp="1516991617467">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/learnx/concatAllQueryTree.js" timestamp="1515161197025">
         <mark key="[" line="32" column="19" />
@@ -178,7 +181,7 @@
       <file name="/PHP Console" timestamp="1512261291885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1516989114480">
+      <file name="/JavaScript Console" timestamp="1516992604564">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/rx/js/main.js" timestamp="1516987093316">
@@ -202,8 +205,10 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516987449267">
+      <file name="/Dummy.txt" timestamp="1516992726838">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1516976169617">
         <mark key="[" line="35" column="40" />
@@ -289,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="32" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="362" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="1009" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="99" column="0" filename="$USER_HOME$/src/patterns/personaDecorator.php" />
@@ -389,58 +393,59 @@
       <jump line="137" column="28" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
       <jump line="178" column="9" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
       <jump line="292" column="0" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
+      <jump line="231" column="40" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGhlaWdodCk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>ready.fixed fixed index</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>debug</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGhlaWdodFRleHRFbGVtLnZhbHVlKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAuc3Vic2NyaWJlKAogICAgICAgICAgICAgICAgICAgICAgICAobmV4dEhlaWdodCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgd2VpZ2h0ID0gTnVtYmVyKHdlaWdodFRleHRFbGVtLmlubmVySFRNTCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvYnNlcnZlci5uZXh0KGNhbGN1bGF0ZUJvZHlNYXNzSW5kZXgobmV4dEhlaWdodCwgd2VpZ2h0KSkKICAgICAgICAgICAgICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGhlaWdodCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBoZWlnaHQgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgYWhpdmEgPSAgKGlzTmFuKHJlc3VsdCkpPydCYXROYWFhTic6IHJlc3VsdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9ic2VydmVyLm5leHQoY2FsY3VsYXRlQm9keU1hc3NJbmRleCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjtkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gJ0JhdE1hbiEhJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdWJzY3JpcHRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -448,7 +453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Escapate</entry>
         <entry>left-sidebar</entry>
         <entry>wrapper</entry>
         <entry>Disfruta</entry>
@@ -468,6 +472,7 @@
         <entry>reformas</entry>
         <entry>apiwe</entry>
         <entry>console.log</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
