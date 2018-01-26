@@ -90,12 +90,12 @@
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/minimalObservable.js" timestamp="1515162009914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/rx/js/ejercicios.js" timestamp="1516987880822">
-        <mark key="'" line="137" column="28" />
-        <mark key="[" line="243" column="6" />
-        <mark key="]" line="209" column="45" />
-        <mark key="." line="211" column="0" />
-        <mark key="^" line="184" column="15" />
+      <file name="$USER_HOME$/src/rx/js/ejercicios.js" timestamp="1516989077736">
+        <mark key="'" line="292" column="0" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="253" column="36" />
+        <mark key="." line="253" column="36" />
+        <mark key="^" line="253" column="36" />
       </file>
       <file name="$USER_HOME$/src/lacueva/index.html" timestamp="1516102724121">
         <mark key="[" line="255" column="7" />
@@ -178,7 +178,7 @@
       <file name="/PHP Console" timestamp="1512261291885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1516987159067">
+      <file name="/JavaScript Console" timestamp="1516989114480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/rx/js/main.js" timestamp="1516987093316">
@@ -289,8 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
-      <jump line="60" column="36" filename="$USER_HOME$/src/pccapi/composer.json" />
       <jump line="359" column="32" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="362" column="56" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
       <jump line="1009" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
@@ -389,49 +387,51 @@
       <jump line="108" column="23" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
       <jump line="130" column="20" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
       <jump line="137" column="28" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
+      <jump line="178" column="9" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
+      <jump line="292" column="0" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgV2VpZ2h0OiA8c3BhbiBpZD0id2VpZ2h0LXRleHQiPjwvc3Bhbj5rZwogICAgICAgICAgICA8aW5wdXQgaWQ9IndlaWdodC1zbGlkZXIiIHR5cGU9InJhbmdlIiBtaW49IjQwIiBtYXg9IjEyMCIgc3RlcD0iMSIgdmFsdWU9IjcwIj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgSGVpZ2h0OiA8c3BhbiBpZD0iaGVpZ2h0LXRleHQiPjwvc3Bhbj5jbQogICAgICAgICAgICA8aW5wdXQgaWQ9ImhlaWdodC1zbGlkZXIiIHR5cGU9InJhbmdlIiBtaW49IjE0MCIgbWF4PSIyMTAiIHZhbHVlPSIxNzAiPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICBIZWlnaHQgKGNtKTogPGlucHV0IGlkPSJoZWlnaHQtZWRpdC10ZXh0IiB0eXBlPSJ0ZXh0IiB2YWx1ZT0iMTcwIj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGgyPkJNSSBpcyA8c3BhbiBpZD0iYm1pLXRleHQiPjwvaDI+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGhlaWdodFRleHRFbGVtLnZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBoZWlnaHQgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgaWQ9IndlaWdodC1zbGlkZXIiIHR5cGU9InJhbmdlIiBtaW49IjQwIiBtYXg9IjEyMCIgc3RlcD0iMSIgdmFsdWU9IjcwIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9ic2VydmVyLm5leHQoY2FsY3VsYXRlQm9keU1hc3NJbmRleCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBXZWlnaHQ6IDxzcGFuIGlkPSJ3ZWlnaHQtdGV4dCI+PC9zcGFuPmtnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
