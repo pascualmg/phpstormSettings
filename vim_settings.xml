@@ -66,6 +66,12 @@
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
+      <file name="$USER_HOME$/src/rx/js/ydkjs/You-Dont-Know-JS/this &amp; object prototypes/ch2.md" timestamp="1517266833200">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="135" column="1" />
+        <mark key="^" line="135" column="1" />
+        <mark key="." line="135" column="1" />
+      </file>
       <file name="vm:358" timestamp="1513198771700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,7 +177,9 @@
       <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1510391542633">
         <mark key="[" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/src/rx/js/ydkjs/You-Dont-Know-JS/this &amp; object prototypes/ch1.md" timestamp="1517265178960" />
+      <file name="$USER_HOME$/src/rx/js/ydkjs/You-Dont-Know-JS/this &amp; object prototypes/ch1.md" timestamp="1517267218055">
+        <mark key="[" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/.env" timestamp="1517245119248">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
@@ -421,8 +429,11 @@
       <jump line="14" column="47" filename="$USER_HOME$/src/rx/js/ydkjs/1.pag50.module_pattern.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2kgPScsIGkpOy8vVE9ETzogYm9ycmFtZS4K</text>
+      <register name="&quot;" type="4">
+        <text>```sql
+INSERT INTO 
+
+```</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -431,46 +442,49 @@
         <text>,1000)</text>
       </register>
       <register name="/" type="4">
-        <text>apica</text>
+        <text>closure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2kgPScsIGkpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>```sql
+INSERT INTO 
+
+```</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKCkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnVuY3Rpb24gKCkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>apica</last-search>
+      <last-search>closure</last-search>
       <last-offset />
-      <last-pattern>apica</last-pattern>
+      <last-pattern>closure</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>select</last-substitute>
       <last-dir>1</last-dir>
@@ -478,8 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>escapa</entry>
-        <entry>Escap</entry>
         <entry>201</entry>
         <entry>autofoto</entry>
         <entry>Herena</entry>
@@ -498,6 +510,8 @@
         <entry>:</entry>
         <entry>2008</entry>
         <entry>apica</entry>
+        <entry>loop</entry>
+        <entry>closure</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
