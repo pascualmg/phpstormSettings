@@ -119,13 +119,6 @@
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/minimalObservable.js" timestamp="1515162009914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/rx/js/ejercicios.js" timestamp="1517105211826">
-        <mark key="'" line="290" column="25" />
-        <mark key="[" line="440" column="26" />
-        <mark key="]" line="440" column="29" />
-        <mark key="." line="440" column="29" />
-        <mark key="^" line="440" column="29" />
-      </file>
       <file name="$USER_HOME$/src/lacueva/index.html" timestamp="1517175801778">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -274,12 +267,12 @@
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517336935271">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517337867706">
         <mark key="'" line="12" column="4" />
-        <mark key="[" line="59" column="36" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
+        <mark key="[" line="162" column="18" />
+        <mark key="]" line="162" column="56" />
+        <mark key="." line="162" column="56" />
+        <mark key="^" line="162" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
@@ -328,13 +321,6 @@
       </file>
       <file name="vm:371" timestamp="1513198784704">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/rx/js/ydkjs/1.pag50.module_pattern.js" timestamp="1517100571578">
-        <mark key="'" line="14" column="47" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/3.pag2.js" timestamp="1516905886786">
         <mark key="[" line="17" column="0" />
@@ -452,14 +438,14 @@
       <jump line="9" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL0dvb2dsZSBBbmFseXRpY3MgQVBJLgo=</text>
+      <register name="&quot;" type="4">
+        <text>sendGABulletinSubscriptionFromNewLogin</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>sendGABulletinSubscriptionFromNewLogin</text>
       </register>
       <register name="/" type="4">
         <text>closure</text>
@@ -468,31 +454,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2kgPScsIGkpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL0dvb2dsZSBBbmFseXRpY3MgQVBJLgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICogQHBhcmFtIGRhdGFMYXllcgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBnYUFwaSA9IGdhQXBpKCk7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgKiBERVMtMTUzNy1ldmVudG8tYWx0YS11c3VhcmlvLWJvbGV0aW4KICAgICAgICAgICAgICoKICAgICAgICAgICAgICogRW52aWEgaW5mb3JtYWNpb24gYSBhbmFseXRpY3MgY29uIHJlc3BlY3RvIGFsIGVzdGFkbyBkZSBsYSBzdWJzY3JpcGNpw7NuIGFsIGJvbGV0w61uICBjdWFuZG8gZWwgdXN1YXJpbwogICAgICAgICAgICAgKiBzZSByZWdpc3RyYSBwb3IgcHJpbWVyYSB2ZXogZW4gbGEgd2ViLgogICAgICAgICAgICAgKiBAcGFyYW0gZGF0YUxheWVyCiAgICAgICAgICAgICAqIEBwYXJhbSBpc0NoZWNrZWRXaGVuQ3JlYXRlTmV3TG9naW4KICAgICAgICAgICAgICovCiAgICAgICAgICAgIGZ1bmN0aW9uIHNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbU5ld0xvZ2luKGRhdGFMYXllciAsIGlzQ2hlY2tlZFdoZW5DcmVhdGVOZXdMb2dpbikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaWYgKGlzQ2hlY2tlZFdoZW5DcmVhdGVOZXdMb2dpbikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBnYUV2ZW50ID0gIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdnYUV2ZW50Q2F0ZWdvcnknOiAnQm9sZXRpbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZ2FFdmVudEFjdGlvbic6ICdTdXNjcmliaXJzZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZ2FFdmVudExhYmVsJzogJ1JlZ2lzdHJvLVVzdWFyaW8nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhRXZlbnRWYWx1ZSc6IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdnYUV2ZW50Tm9uSW50ZXJhY3Rpb24nOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgICAgICBkYXRhTGF5ZXIucHVzaChnYUV2ZW50KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL0dvb2dsZSBBbmFseXRpY3MgQVBJLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdhQXBpLmV2ZW50TmV3VXNlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
+        <text encoding="base64">ICAgIHZhciBnYUFwaSA9IGdhQXBpKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
