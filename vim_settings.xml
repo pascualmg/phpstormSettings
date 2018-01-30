@@ -59,6 +59,11 @@
       <file name="$USER_HOME$/src/pccapi/docker/local/fpm_apiweb/Dockerfile" timestamp="1517312760656">
         <mark key="[" line="27" column="26" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/docker/local/nginx_frontweb/nginx.conf" timestamp="1517321684331">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/inject.js" timestamp="1513198766525">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,11 +111,10 @@
       <file name="/" timestamp="1516450559731">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1517319456403">
-        <mark key="[" line="978" column="19" />
-        <mark key="]" line="978" column="19" />
-        <mark key="^" line="978" column="19" />
-        <mark key="." line="978" column="19" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1517320894248">
+        <mark key="[" line="978" column="0" />
+        <mark key="]" line="978" column="0" />
+        <mark key="." line="978" column="0" />
       </file>
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/minimalObservable.js" timestamp="1515162009914">
         <mark key="[" line="0" column="0" />
@@ -269,10 +273,6 @@
       </file>
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/rx/exercises.js" timestamp="1517103226042">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="303" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
@@ -446,7 +446,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uICgpe30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -461,34 +461,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2kgPScsIGkpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZhc3RfY2dpX3JlYWRfdGltZW91dCA9IDMwMDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZhc3RfY2dpX3JlYWRfdGltZW91dCA9IDMwMDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gcHJ1ZWJhKCl7fTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uICgpe30K</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>```sql
 INSERT INTO 
 
 ```</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKCkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
