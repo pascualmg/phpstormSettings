@@ -267,12 +267,12 @@
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517339083133">
-        <mark key="'" line="12" column="4" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="164" column="107" />
-        <mark key="." line="164" column="107" />
-        <mark key="^" line="164" column="107" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517339950918">
+        <mark key="'" line="60" column="17" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="344" column="44" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
@@ -336,15 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="0" filename="$USER_HOME$/src/pccapi/app/config/config.yml" />
-      <jump line="18" column="25" filename="$USER_HOME$/src/pccapi/composer.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/DomainEvent.php" />
-      <jump line="1725" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="1" column="15" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Resources/config/routing_3p_services.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Resources/config/routing_3p_services.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/composer.json" />
-      <jump line="37" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" />
-      <jump line="47" column="1" filename="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" />
       <jump line="53" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" />
       <jump line="2" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" />
       <jump line="35" column="8" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" />
@@ -436,58 +427,67 @@
       <jump line="127" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="19" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="9" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="176" column="44" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="315" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="375" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="166" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="307" column="32" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="351" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="28" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="76" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="60" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dataLayer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKGZhbHNlKTsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>dataLayer</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>closure</text>
+        <text>sendGABulletinSubscriptionFromNewLogin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2kgPScsIGkpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZEdBRXZlbnROZXdVc2VyKGZhbHNlLCB3aW5kb3cuZGF0YUxheWVyKTsgLy9nYSBuZXcgdXNlciBub3JtYWwuCg==</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKGZhbHNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvOiBhcnJlZ2xhbWUgYXF1aQo=</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyhmYWxzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogQHBhcmFtIGRhdGFMYXllcgo=</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyh0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgKiBERVMtMTUzNy1ldmVudG8tYWx0YS11c3VhcmlvLWJvbGV0aW4KICAgICAgICAgICAgICoKICAgICAgICAgICAgICogRW52aWEgaW5mb3JtYWNpb24gYSBhbmFseXRpY3MgY29uIHJlc3BlY3RvIGFsIGVzdGFkbyBkZSBsYSBzdWJzY3JpcGNpw7NuIGFsIGJvbGV0w61uICBjdWFuZG8gZWwgdXN1YXJpbwogICAgICAgICAgICAgKiBzZSByZWdpc3RyYSBwb3IgcHJpbWVyYSB2ZXogZW4gbGEgd2ViLgogICAgICAgICAgICAgKiBAcGFyYW0gZGF0YUxheWVyCiAgICAgICAgICAgICAqIEBwYXJhbSBpc0NoZWNrZWRXaGVuQ3JlYXRlTmV3TG9naW4KICAgICAgICAgICAgICovCiAgICAgICAgICAgIGZ1bmN0aW9uIHNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbU5ld0xvZ2luKGRhdGFMYXllciAsIGlzQ2hlY2tlZFdoZW5DcmVhdGVOZXdMb2dpbikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaWYgKGlzQ2hlY2tlZFdoZW5DcmVhdGVOZXdMb2dpbikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBnYUV2ZW50ID0gIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdnYUV2ZW50Q2F0ZWdvcnknOiAnQm9sZXRpbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZ2FFdmVudEFjdGlvbic6ICdTdXNjcmliaXJzZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZ2FFdmVudExhYmVsJzogJ1JlZ2lzdHJvLVVzdWFyaW8nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhRXZlbnRWYWx1ZSc6IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdnYUV2ZW50Tm9uSW50ZXJhY3Rpb24nOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgICAgICBkYXRhTGF5ZXIucHVzaChnYUV2ZW50KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL0dvb2dsZSBBbmFseXRpY3MgQVBJLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZW5kR0FFdmVudE5ld1VzZXIodHJ1ZSwgd2luZG93LmRhdGFMYXllcik7Ly9nYSBuZXcgdXNlciBFbXByZXNhLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZEdBRXZlbnROZXdVc2VyKGZhbHNlLCB3aW5kb3cuZGF0YUxheWVyKTsgLy9nYSBuZXcgdXNlciBub3JtYWwuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>closure</last-search>
+      <last-search>sendGABulletinSubscriptionFromNewLogin</last-search>
       <last-offset />
-      <last-pattern>closure</last-pattern>
+      <last-pattern>sendGABulletinSubscriptionFromNewLogin</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -495,9 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>201</entry>
-        <entry>autofoto</entry>
-        <entry>Herena</entry>
         <entry>pascual</entry>
         <entry>emai</entry>
         <entry>mail</entry>
@@ -515,6 +512,9 @@
         <entry>apica</entry>
         <entry>loop</entry>
         <entry>closure</entry>
+        <entry>sendGA</entry>
+        <entry>dataLayer.push</entry>
+        <entry>sendGABulletinSubscriptionFromNewLogin</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
