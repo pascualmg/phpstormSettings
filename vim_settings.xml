@@ -119,6 +119,13 @@
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/minimalObservable.js" timestamp="1515162009914">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/rx/js/ejercicios.js" timestamp="1517105211826">
+        <mark key="'" line="290" column="25" />
+        <mark key="[" line="440" column="26" />
+        <mark key="]" line="440" column="29" />
+        <mark key="." line="440" column="29" />
+        <mark key="^" line="440" column="29" />
+      </file>
       <file name="$USER_HOME$/src/lacueva/index.html" timestamp="1517175801778">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -267,12 +274,12 @@
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517332792886">
-        <mark key="'" line="128" column="12" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="56" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517336935271">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="59" column="36" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
@@ -322,6 +329,13 @@
       <file name="vm:371" timestamp="1513198784704">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/rx/js/ydkjs/1.pag50.module_pattern.js" timestamp="1517100571578">
+        <mark key="'" line="14" column="47" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/3.pag2.js" timestamp="1516905886786">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -336,8 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="26" filename="$USER_HOME$/src/patterns/personaDecorator.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/app/config/config.yml" />
       <jump line="318" column="0" filename="$USER_HOME$/src/pccapi/app/config/config.yml" />
       <jump line="18" column="25" filename="$USER_HOME$/src/pccapi/composer.json" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Util/EventListener/DomainEvent.php" />
@@ -436,16 +448,18 @@
       <jump line="290" column="25" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
       <jump line="14" column="47" filename="$USER_HOME$/src/rx/js/ydkjs/1.pag50.module_pattern.js" />
       <jump line="127" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="19" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="9" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvL0dvb2dsZSBBbmFseXRpY3MgQVBJLgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>bool</text>
       </register>
       <register name="/" type="4">
         <text>closure</text>
@@ -454,31 +468,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2kgPScsIGkpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvL0dvb2dsZSBBbmFseXRpY3MgQVBJLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBnYUFwaSA9IGdhQXBpKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOyAvL2dvb2dsZSBBbmFseXRpY3MgLgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOyAvL2dvb2dsZSBBbmFseXRpY3MgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdhQXBpLmV2ZW50TmV3VXNlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZhc3RfY2dpX3JlYWRfdGltZW91dCA9IDMwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
