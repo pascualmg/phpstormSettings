@@ -267,12 +267,12 @@
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517350418528">
-        <mark key="'" line="60" column="17" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="344" column="44" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517354673457">
+        <mark key="'" line="60" column="56" />
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="68" column="74" />
+        <mark key="." line="68" column="74" />
+        <mark key="^" line="68" column="74" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
@@ -435,50 +435,50 @@
       <jump line="351" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="28" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="76" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
-      <jump line="60" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="60" column="56" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKGZhbHNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>DatagaEvent</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>DatagaEvent</text>
       </register>
       <register name="/" type="4">
         <text>sendGABulletinSubscriptionFromNewLogin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2kgPScsIGkpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzQ2hlY2tlZEJ1bGxldGluU3Vic2NyaXB0aW9uID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignaW5wdXRbbmFtZT0idXNlclJlZ2lzdGVyW2J1bGxldGluXSJdJykuY2hlY2tlZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKGZhbHNlKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKHRydWUpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyhmYWxzZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyh0cnVlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQ2hlY2tlZFdoZW5DcmVhdGVOZXdMb2dpbikgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2FBcGkuc2VuZEdBQnVsbGV0aW5TdWJzY3JpcHRvaW5Gcm9tTmV3TG9naW4oaXNDaGVja2VkQnVsbGV0aW5TdWJzY3JpcHRpb24pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKGZhbHNlKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZW5kR0FFdmVudE5ld1VzZXIodHJ1ZSwgd2luZG93LmRhdGFMYXllcik7Ly9nYSBuZXcgdXNlciBFbXByZXNhLgo=</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKHRydWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyhmYWxzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZEdBRXZlbnROZXdVc2VyKGZhbHNlLCB3aW5kb3cuZGF0YUxheWVyKTsgLy9nYSBuZXcgdXNlciBub3JtYWwuCg==</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyh0cnVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
