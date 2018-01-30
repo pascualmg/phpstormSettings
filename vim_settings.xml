@@ -230,8 +230,10 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517106332928">
+      <file name="/Dummy.txt" timestamp="1517313539388">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1517244703804">
         <mark key="[" line="41" column="29" />
@@ -433,16 +435,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>```sql
-INSERT INTO 
-
-```</text>
+        <text>-2436 Crear endpoint en la API para activar/desactivar servicios</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>,1000)</text>
+        <text>-2436 Crear endpoint en la API para activar/desactivar servicios</text>
       </register>
       <register name="/" type="4">
         <text>closure</text>
