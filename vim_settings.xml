@@ -267,12 +267,11 @@
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517383130397">
-        <mark key="'" line="156" column="18" />
-        <mark key="[" line="68" column="35" />
-        <mark key="]" line="68" column="74" />
-        <mark key="." line="68" column="74" />
-        <mark key="^" line="68" column="74" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517384011798">
+        <mark key="'" line="280" column="21" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
@@ -336,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="3" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="2559" column="46" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="2556" column="50" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="2558" column="76" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
@@ -436,10 +434,11 @@
       <jump line="41" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="73" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="156" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="280" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DatagaEvent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2FBcGkuCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -448,46 +447,46 @@
         <text>DatagaEvent</text>
       </register>
       <register name="/" type="4">
-        <text>eventNewUser</text>
+        <text>dataLayer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzQ2hlY2tlZEJ1bGxldGluU3Vic2NyaXB0aW9uID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignaW5wdXRbbmFtZT0idXNlclJlZ2lzdGVyW2J1bGxldGluXSJdJykuY2hlY2tlZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2FBcGkuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQ2hlY2tlZFdoZW5DcmVhdGVOZXdMb2dpbikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQ2hlY2tlZFdoZW5DcmVhdGVOZXdMb2dpbikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2FBcGkuc2VuZEdBQnVsbGV0aW5TdWJzY3JpcHRvaW5Gcm9tTmV3TG9naW4oaXNDaGVja2VkQnVsbGV0aW5TdWJzY3JpcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2FBcGkuc2VuZEdBQnVsbGV0aW5TdWJzY3JpcHRvaW5Gcm9tTmV3TG9naW4oaXNDaGVja2VkQnVsbGV0aW5TdWJzY3JpcHRpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKGZhbHNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyhmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0b2luRnJvbU5ld0xvZ2luKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyh0cnVlKTsK</text>
+        <text encoding="base64">ICAgIC8vIGdhQXBpLmV2ZW50X0FsdGFfVXN1YXJpbyhmYWxzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>eventNewUser</last-search>
+      <last-search>dataLayer</last-search>
       <last-offset />
-      <last-pattern>eventNewUser</last-pattern>
+      <last-pattern>dataLayer</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -495,7 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emai</entry>
         <entry>mail</entry>
         <entry>fotos</entry>
         <entry>mensaje_fo</entry>
@@ -515,6 +513,7 @@
         <entry>dataLayer.push</entry>
         <entry>sendGABulletinSubscriptionFromNewLogin</entry>
         <entry>eventNewUser</entry>
+        <entry>dataLayer</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
