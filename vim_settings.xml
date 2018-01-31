@@ -267,8 +267,8 @@
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517354673457">
-        <mark key="'" line="60" column="56" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517383130397">
+        <mark key="'" line="156" column="18" />
         <mark key="[" line="68" column="35" />
         <mark key="]" line="68" column="74" />
         <mark key="." line="68" column="74" />
@@ -336,11 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Repository/ThirdPartyStatus/MockedThirdPartyStatusRepository.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" />
-      <jump line="35" column="8" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/ThirdPartyServicesStatus.php" />
-      <jump line="55" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ThirdPartyStatusController.php" />
-      <jump line="61" column="11" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/ThirdPartyStatusController.php" />
       <jump line="64" column="3" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="2559" column="46" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="2556" column="50" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
@@ -436,6 +431,11 @@
       <jump line="28" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="76" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="60" column="56" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="158" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="304" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="41" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="73" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="156" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -448,7 +448,7 @@
         <text>DatagaEvent</text>
       </register>
       <register name="/" type="4">
-        <text>sendGABulletinSubscriptionFromNewLogin</text>
+        <text>eventNewUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzQ2hlY2tlZEJ1bGxldGluU3Vic2NyaXB0aW9uID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignaW5wdXRbbmFtZT0idXNlclJlZ2lzdGVyW2J1bGxldGluXSJdJykuY2hlY2tlZDsK</text>
@@ -485,9 +485,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sendGABulletinSubscriptionFromNewLogin</last-search>
+      <last-search>eventNewUser</last-search>
       <last-offset />
-      <last-pattern>sendGABulletinSubscriptionFromNewLogin</last-pattern>
+      <last-pattern>eventNewUser</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -495,7 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pascual</entry>
         <entry>emai</entry>
         <entry>mail</entry>
         <entry>fotos</entry>
@@ -515,6 +514,7 @@
         <entry>sendGA</entry>
         <entry>dataLayer.push</entry>
         <entry>sendGABulletinSubscriptionFromNewLogin</entry>
+        <entry>eventNewUser</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
