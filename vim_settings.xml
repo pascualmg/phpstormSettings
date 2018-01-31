@@ -238,10 +238,10 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517338782791">
+      <file name="/Dummy.txt" timestamp="1517392353900">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1517319169687">
         <mark key="[" line="42" column="14" />
@@ -267,11 +267,12 @@
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517389911871">
-        <mark key="'" line="160" column="19" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517391922595">
+        <mark key="'" line="159" column="19" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="150" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
@@ -290,6 +291,11 @@
         <mark key="]" line="53" column="64" />
         <mark key="^" line="53" column="64" />
         <mark key="." line="53" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1517392298410">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="module.js" timestamp="1516286025684">
         <mark key="[" line="0" column="0" />
@@ -447,7 +453,7 @@
         <text>morning</text>
       </register>
       <register name="/" type="4">
-        <text>eventNewUser</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzQ2hlY2tlZEJ1bGxldGluU3Vic2NyaXB0aW9uID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignaW5wdXRbbmFtZT0idXNlclJlZ2lzdGVyW2J1bGxldGluXSJdJykuY2hlY2tlZDsK</text>
@@ -456,37 +462,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWNvbXBpbGFuZG8nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhaGkgdmFtb3MgY2FoaGhkc2xma2pkc2Fsa2Zqc2RvbiBsYSBhcGkgZmluYWwgdmVyc2lvbi4uLicpOy8vVE9ETzogYm9ycmFtZS4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">CkNyZWFkYSB2YXIgZ2FBcGkgLiAKUmVmYWN0b3IgZGUgbG9zIDIgZXZlbnRvcyBnYU5ld1VzZXIgLCB0YW50byBlbXByZXNhIGNvbW8gbm9ybWFsLiBpbmNsdWlkbyBlbiBsYSBnYUFwaS4gClJlZmFjdG9yIGRlIGRlbCBldmVudG8gZXZlbnRPcHRJbkJ1bGxldGluV2hlbkNyZWF0ZWROZXdVc2VyLiBJbmNsdWlkbyBlbiBsYSBnYUFwaS4KYWRkZWQgVE9ET1MgLCBjb25zdWx0YXIgY29uIHByb2R1Y3QgT3duZXIsIHJlZmFjdG9yIG8gZGVsZXRlIGxlZ2FjeSBjb2RlIGRlIEdvb2dsZSBBbmFseXRpY3MuIApBdW4gbm8gdGVuZ28gY2xhcm8gc2kgbGFzIHNwZWNzIGRlIGN1YW5kbyBzZSBsYW56YW4gbG9zIGV2ZW50b3MgY29uIDEwMCUgY29ycmVjdGFzLg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gaXNDaGVja2VkV2hlbkNyZWF0ZU5ld0xvZ2luCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBERVMtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3B1c2hlYW5kbyBhbCBEYXRhTGF5ZXInLCBHb29nbGVBbmFseXRpY3NEYXRhKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWNvbXBpbGFuZG8nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2FBcGkuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhaGkgdmFtb3MgY2FoaGhkc2xma2pkc2Fsa2Zqc2RvbiBsYSBhcGkgZmluYWwgdmVyc2lvbi4uLicpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>eventNewUser</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>eventNewUser</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -501,7 +507,6 @@
         <entry>refor</entry>
         <entry>reformas</entry>
         <entry>apiwe</entry>
-        <entry>console.log</entry>
         <entry>debug</entry>
         <entry>08</entry>
         <entry>:</entry>
@@ -514,6 +519,7 @@
         <entry>sendGABulletinSubscriptionFromNewLogin</entry>
         <entry>dataLayer</entry>
         <entry>eventNewUser</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
