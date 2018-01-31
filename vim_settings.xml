@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1517407237629">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1517409796595">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/You-Dont-Know-JS/this &amp; object prototypes/ch2.md" timestamp="1517266833200">
         <mark key="[" line="87" column="0" />
@@ -203,6 +203,10 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" timestamp="1517408629821">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="100" />
+      </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/3.pag006.js" timestamp="1516916096106">
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="40" />
@@ -236,10 +240,10 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/index-new-user.html.twig" timestamp="1517405856823">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/index-new-user.html.twig" timestamp="1517409999020">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="26" />
       </file>
       <file name="/dummy.sql" timestamp="1517322333268">
@@ -251,10 +255,10 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517404829736">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1517410005247">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1517319169687">
         <mark key="[" line="42" column="14" />
@@ -279,6 +283,12 @@
       </file>
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" timestamp="1517410123158">
+        <mark key="'" line="175" column="27" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
@@ -342,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1033" column="6" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="2571" column="0" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="46" column="12" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatusTest.php" />
       <jump line="88" column="4" filename="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" />
@@ -442,58 +451,59 @@
       <jump line="160" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="63" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="175" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2FBcGkuZXZlbnRPcHRJbkJ1bGxldGluV2hlbkNyZWF0ZWROZXdVc2VyCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>gaApi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnZ2FBcGkvZ2FBcGkuanMnKSB9fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHtmdW5jdGlvbn0gY29uZmlnLmN1c3RvbUNhbGxiYWNrIHwgRnVuY2lvbiBjYWxsYmFjayBwZXJzb25hbGl6YWRhIHBhcmEgY2FtYmlvcyBlc3BlY2lmaWNvcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2FBcGkuZXZlbnRPcHRJbkJ1bGxldGluV2hlbkNyZWF0ZWROZXdVc2VyCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGNyZWFkbyBmaWxlIGdhQXBpLmpzIC4gCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5jbHVpZGEgY2FyZ2Egc2NyaXB0IGVuIGluZGV4LW5ldy11c2VyLmh0bWwudHdpZw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnZ2FBcGkvZ2FBcGkuanMnKSB9fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndXNlci9uZXdfdXNlci5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZhc3RfY2dpX3JlYWRfdGltZW91dCA9IDMwMDsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAqICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdhQXBpLmV2ZW50TmV3VXNlcigpCg==</text>
+        <text encoding="base64">ICogQHJldHVybnMgeyAqICAgICAgICAgICAgICB7ZXZlbnROZXdVc2VyOiBldmVudE5ld1VzZXIsICogICAgICAgICAgICAgIGV2ZW50T3B0SW5CdWxsZXRpbldoZW5DcmVhdGVkTmV3VXNlcjogZXZlbnRPcHRJbkJ1bGxldGluV2hlbkNyZWF0ZWROZXdVc2VyICogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndXNlci9uZXdfdXNlci5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIE1vZHVsZSBQYXR0ZXJuLgo=</text>
+        <text encoding="base64">ICAgIGdhQXBpLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>gaApi</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>gaApi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -501,7 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
         <entry>fotos</entry>
         <entry>mensaje_fo</entry>
         <entry>mensaje</entry>
@@ -521,6 +530,7 @@
         <entry>dataLayer</entry>
         <entry>eventNewUser</entry>
         <entry>console.log</entry>
+        <entry>gaApi</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
