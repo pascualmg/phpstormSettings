@@ -203,11 +203,11 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/extractArticleOwner.js" timestamp="1517447076322">
-        <mark key="[" line="39" column="31" />
-        <mark key="]" line="39" column="31" />
-        <mark key="." line="39" column="31" />
-        <mark key="^" line="38" column="17" />
+      <file name="$USER_HOME$/src/pccfront/extractArticleOwner.js" timestamp="1517472677014">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" timestamp="1517408629821">
         <mark key="[" line="20" column="0" />
@@ -365,7 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2571" column="0" filename="$USER_HOME$/src/pccapi/vendor/beberlei/assert/lib/Assert/Assertion.php" />
       <jump line="46" column="12" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatusTest.php" />
       <jump line="88" column="4" filename="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" />
       <jump line="50" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatus.php" />
@@ -465,6 +464,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="63" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="175" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
+      <jump line="8" column="12" filename="$USER_HOME$/src/pccfront/extractArticleOwner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -477,46 +477,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>gaApi</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyIHNxbE93bmVycyA9ICJTRUxFQ1QgYS5pZF9hcnRpY3VsbywgY3Iubm9tYnJlIEZST00gd2ViLmFydGljdWxvcyBhIElOTkVSIEpPSU4gd2ViLmZhbWlsaWFzX3Jlc3BvbnNhYmxlcyBmciBPTiBhLmlkX2ZhbWlsaWEgPSBmci5pZF9mYW1pbGlhIElOTkVSIEpPSU4gd2ViLmNvbXByYXNfcmVzcG9uc2FibGVzIGNyIE9OIGZyLmlkX2NvbXByYXNfcmVzcG9uc2FibGVzID0gY3IuaWRfY29tcHJhc19yZXNwb25zYWJsZXMiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gdmFyIHNxbE93bmVycyA9ICJzZWxlY3QgYS5pZF9hcnRpY3VsbyAsIGNyLm5vbWJyZSBhcyBvd25lciBmcm9tIHdlYi5hcnRpY3Vsb3MgYSBpbm5lciBqb2luIHdlYi5mYW1pbGlhc19yZXNwb25zYWJsZXMgZnIgb24gYS5pZF9mYW1pbGlhPWZyLmlkX2ZhbWlsaWEgaW5uZXIgam9pbiB3ZWIuY29tcHJhc19yZXNwb25zYWJsZXMgY3Igb24gZnIuaWRfY29tcHJhc19yZXNwb25zYWJsZXM9Y3IuaWRfY29tcHJhc19yZXNwb25zYWJsZXMiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5jb3VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R1JPVVAgQlkgY3IuaWRfY29tcHJhc19yZXNwb25zYWJsZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiByb3dEYXRhUGFja2V0JDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>gaApi</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>gaApi</last-pattern>
+      <last-pattern>var</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -524,8 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fotos</entry>
-        <entry>mensaje_fo</entry>
         <entry>mensaje</entry>
         <entry>refor</entry>
         <entry>reformas</entry>
@@ -544,6 +542,8 @@
         <entry>eventNewUser</entry>
         <entry>console.log</entry>
         <entry>gaApi</entry>
+        <entry>const</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
