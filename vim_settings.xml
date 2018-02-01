@@ -91,12 +91,12 @@
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1517475730534">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1517511257372">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="26" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="44" column="26" />
+        <mark key="[" line="84" column="77" />
+        <mark key="]" line="56" column="53" />
+        <mark key="^" line="56" column="53" />
+        <mark key="." line="56" column="53" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1517496843060">
         <mark key="[" line="48" column="35" />
@@ -300,7 +300,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517508662571">
+      <file name="/Dummy.txt" timestamp="1517510074941">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -349,11 +349,10 @@
         <mark key="^" line="53" column="64" />
         <mark key="." line="53" column="64" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1517509168930">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1517511155093">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="module.js" timestamp="1516286025684">
         <mark key="[" line="0" column="0" />
@@ -404,14 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatusTest.php" />
-      <jump line="88" column="4" filename="$USER_HOME$/src/pccapi/tests/Pcc/Application/ThirdPartyServiceStatus/LogThirdPartyServiceStatusTest.php" />
-      <jump line="50" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatus.php" />
-      <jump line="27" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/thirdPartyServices/Status/LogBundleThirdPartyServiceStatus.php" />
-      <jump line="626" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/ArticleController.php" />
-      <jump line="56" column="35" filename="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/ThirdPartyStatus/Get/GetCurrentThirdPartyServicesStatusTest.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
-      <jump line="95" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" />
       <jump line="115" column="45" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" />
       <jump line="161" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" />
       <jump line="172" column="71" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" />
@@ -504,10 +495,18 @@
       <jump line="63" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="175" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
       <jump line="8" column="12" filename="$USER_HOME$/src/pccfront/extractArticleOwner.js" />
+      <jump line="13" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="34" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="61" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="686" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="10" column="54" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="11" column="58" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="21" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="23" column="13" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZW4gZXN0ZSB0aWNrZXQgaGF5IDIgZXZlbnRvcyBkaWZlcmVudGVzIGVuIGxhcyBzcGVjcyBxdWUgc2UgbGFuemFuIGVuIDIgc2l0aW9zIGRpZmVyZW50ZXMgIC4gRGViZXLDrWFuIGRlIHNlciAyIHRpY2tldHMgcGVybyBhc8OtIAplc3RhYmEuIEFob3JhIHF1ZSBlbiBlbCBuZXdfdXNlciB5YSBzZSB1c2EgbGEgUENDLmdhQXBpIGhheSBxdWUgaGFjZXJsZSAKcmVmYWN0b3IgYWwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbVBhbmVsID0gc2VuZEdBQnVsbGV0aW5TdWJzY3JpcHRpb25Gcm9tUGFuZWxHZW5lcmF0b3IodGhpcy5pbml0aWFsSXNOZXdzTGV0dGVyQ2hlY2tlZCk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -516,46 +515,46 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>apical</text>
+        <text>sendGA</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkaXRlbSk7Cg==</text>
+      <register name="0" type="4">
+        <text>sendGABulletinSubscriptionFromPanelGenerator</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZW4gZXN0ZSB0aWNrZXQgaGF5IDIgZXZlbnRvcyBkaWZlcmVudGVzIGVuIGxhcyBzcGVjcyBxdWUgc2UgbGFuemFuIGVuIDIgc2l0aW9zIGRpZmVyZW50ZXMgIC4gRGViZXLDrWFuIGRlIHNlciAyIHRpY2tldHMgcGVybyBhc8OtIAplc3RhYmEuIEFob3JhIHF1ZSBlbiBlbCBuZXdfdXNlciB5YSBzZSB1c2EgbGEgUENDLmdhQXBpIGhheSBxdWUgaGFjZXJsZSAKcmVmYWN0b3IgYWwg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbVBhbmVsID0gc2VuZEdBQnVsbGV0aW5TdWJzY3JpcHRpb25Gcm9tUGFuZWxHZW5lcmF0b3IodGhpcy5pbml0aWFsSXNOZXdzTGV0dGVyQ2hlY2tlZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZXZlbnRPcHRJbkJ1bGxldGluV2hlbkNyZWF0ZWROZXdVc2VyCiAgICAgICAg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBnYUFwaSA9IFBDQy5nYUFwaSgpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIERFUy0xNTM3LWV2ZW50by1hbHRhLXVzdWFyaW8tYm9sZXRpbgogICAgICogRGV2dWVsdmUgdW5hIGZ1bmNpb24gIHF1ZSBFbnZpYSBsb3MgZGF0b3MgZGVsIEJvbGV0aW4gYSBHb29nbGVBbmFseXRpY3MgeSBldml0YSBxdWUgc2UgZHVwbGlxdWVuIGN1YW5kbyBlbCB1c3VhcmlvCiAgICAgKiBwdWxzYSBkZSBmb3JtYSByZWl0ZXJhZGEgZWwgYm90b24gImd1YXJkYXIgY2FtYmlvcyIgLgogICAgICoKICAgICAqIEBwYXJhbSBpbml0aWFsSXNDaGVja2VkIEJvb2wgcXVlIGNvbnRpZW5lIGxhIGluZm8gZGVsIGNoZWNrIGN1YW5kbyBzZSBtdWVzdHJhIHBvciBwcmltZXJhIHZleiBsYSBwYWdpbmEuCiAgICAgKiBAcmV0dXJuIGZ1bmN0aW9uIHNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbVBhbmVsCiAgICAgKiB0b2RvOiBuYW1lcmVmYWN0b3IgLi4uTW9kdWxlIG5vIGdlbmVyYXRvci4KICAgICAqLwogICAgZnVuY3Rpb24gc2VuZEdBQnVsbGV0aW5TdWJzY3JpcHRpb25Gcm9tUGFuZWxHZW5lcmF0b3IoaW5pdGlhbElzQ2hlY2tlZCkgewogICAgICAgIHZhciBpbml0aWFsSXNDaGVrZWQgPSBpbml0aWFsSXNDaGVja2VkOwoKICAgICAgICAvKioqCiAgICAgICAgICogRW52aWEgaW5mb3JtYWNpb24gYSBhbmFseXRpY3MgY29uIHJlc3BlY3RvIGFsIGVzdGFkbyBkZSBsYSBzdWJzY3JpcGNpw7NuIGFsIGJvbGV0w61uICBjdWFuZG8gZWwgdXN1YXJpbwogICAgICAgICAqIE5vIHRlbmlhIHByZXZpYW1lbnRlIGxhIG9wY2lvbiBhY3RpdmEgeSBsbyBoYWNlIGRlc2RlIHN1IHBhbmVsLCBvIHZpY2V2ZXJzYS4gRXZpdGFuZG8gcXVlIHNpIGVsIGJvdMOzbgogICAgICAgICAqIGVzIHB1bHNhZG8gcmVpdGVyYWRhbWVudGUgcG9yIGVsIGxvb3NlciBubyBlbnbDrWUgZHVwbGljYWRvcy4KICAgICAgICAgKgogICAgICAgICAqIEBwYXJhbSBkYXRhTGF5ZXIgICAgICAgIEFycmF5IHN0b3JhZ2UgZGVsIGdvb2dsZSBBbmFseXRpY3MuCiAgICAgICAgICogQHBhcmFtIGlzQ2hlY2tlZCAgICAgICAgQm9vbCBxdWUgY29udGllbmUgbGEgaW5mbyBhY3R1YWwgZGVsIGNoZWNrIGRlIGxhIHN1YnNjcmlwdGlvbi4KICAgICAgICAgKi8KICAgICAgICBmdW5jdGlvbiBzZW5kR0FCdWxsZXRpblN1YnNjcmlwdGlvbkZyb21QYW5lbChkYXRhTGF5ZXIsIGlzQ2hlY2tlZCkgewogICAgICAgICAgICB2YXIgZ2FFdmVudE9wdEluID0gewogICAgICAgICAgICAgICAgJ2dhRXZlbnRDYXRlZ29yeSc6ICdCb2xldGluJywKICAgICAgICAgICAgICAgICdnYUV2ZW50QWN0aW9uJzogJ1N1c2NyaWJpcnNlJywKICAgICAgICAgICAgICAgICdnYUV2ZW50TGFiZWwnOiAnUGFuZWwtVXN1YXJpbycsCiAgICAgICAgICAgICAgICAnZ2FFdmVudFZhbHVlJzogdW5kZWZpbmVkLAogICAgICAgICAgICAgICAgJ2dhRXZlbnROb25JbnRlcmFjdGlvbic6IHRydWUKICAgICAgICAgICAgfQogICAgICAgICAgICB2YXIgZ2FFdmVudE9wdE91dCA9IHsKICAgICAgICAgICAgICAgICdnYUV2ZW50Q2F0ZWdvcnknOiAnQm9sZXRpbicsCiAgICAgICAgICAgICAgICAnZ2FFdmVudEFjdGlvbic6ICdEZXN1c2NyaWJpcnNlJywKICAgICAgICAgICAgICAgICdnYUV2ZW50TGFiZWwnOiAnUGFuZWwtVXN1YXJpbycsCiAgICAgICAgICAgICAgICAnZ2FFdmVudFZhbHVlJzogdW5kZWZpbmVkLAogICAgICAgICAgICAgICAgJ2dhRXZlbnROb25JbnRlcmFjdGlvbic6IHRydWUKICAgICAgICAgICAgfQoKCiAgICAgICAgICAgIGlmICghaW5pdGlhbElzQ2hlY2tlZCAmJiBpc0NoZWNrZWQpIHsKICAgICAgICAgICAgICAgIGRhdGFMYXllci5wdXNoKGdhRXZlbnRPcHRJbik7CiAgICAgICAgICAgICAgICBpbml0aWFsSXNDaGVja2VkID0gdHJ1ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKGluaXRpYWxJc0NoZWNrZWQgJiYgIWlzQ2hlY2tlZCkgewogICAgICAgICAgICAgICAgZGF0YUxheWVyLnB1c2goZ2FFdmVudE9wdE91dCk7CiAgICAgICAgICAgICAgICBpbml0aWFsSXNDaGVja2VkID0gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbVBhbmVsOwogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3duZXJzJyA9PiAkdGhpcy0+Z2V0T3duZXJzRnJvbU15c3FsTmF0aXZlKCksCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZW4gZXN0ZSB0aWNrZXQgaGF5IDIgZXZlbnRvcyBkaWZlcmVudGVzIGVuIGxhcyBzcGVjcyBxdWUgc2UgbGFuemFuIGVuIDIgc2l0aW9zIGRpZmVyZW50ZXMgIC4gRGViZXLDrWFuIGRlIHNlciAyIHRpY2tldHMgcGVybyBhc8OtIAplc3RhYmEuIEFob3JhIHF1ZSBlbiBlbCBuZXdfdXNlciB5YSBzZSB1c2EgbGEgUENDLmdhQXBpIGhheSBxdWUgaGFjZXJsZSAKcmVmYWN0b3IgYWwg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFyci5wdXNoKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFycltdID0gJGl0ZW1bJ2lkX2FydGljdWxvJ107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRhcnIpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBnYUFwaSA9IFBDQy5nYUFwaSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>apical</last-search>
+      <last-search>sendGA</last-search>
       <last-offset />
-      <last-pattern>apical</last-pattern>
+      <last-pattern>sendGA</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +572,6 @@
         <entry>apica</entry>
         <entry>loop</entry>
         <entry>closure</entry>
-        <entry>sendGA</entry>
         <entry>dataLayer.push</entry>
         <entry>sendGABulletinSubscriptionFromNewLogin</entry>
         <entry>dataLayer</entry>
@@ -583,6 +581,7 @@
         <entry>const</entry>
         <entry>var</entry>
         <entry>apical</entry>
+        <entry>sendGA</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
