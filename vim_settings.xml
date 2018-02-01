@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1517514467744">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1517519122017">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -137,9 +137,9 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" timestamp="1517475763405">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" timestamp="1517519096968">
         <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="66" />
+        <mark key="]" line="342" column="0" />
         <mark key="." line="342" column="0" />
       </file>
       <file name="internal/fs.js" timestamp="1516902940104">
@@ -349,12 +349,12 @@
         <mark key="^" line="53" column="64" />
         <mark key="." line="53" column="64" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1517512273182">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1517519869322">
         <mark key="'" line="10" column="58" />
-        <mark key="[" line="636" column="51" />
-        <mark key="]" line="636" column="50" />
-        <mark key="." line="636" column="50" />
-        <mark key="^" line="636" column="50" />
+        <mark key="[" line="643" column="0" />
+        <mark key="]" line="643" column="0" />
+        <mark key="." line="643" column="0" />
+        <mark key="^" line="644" column="17" />
       </file>
       <file name="module.js" timestamp="1516286025684">
         <mark key="[" line="0" column="0" />
@@ -508,46 +508,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Qm9vbCA=</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text>sendGA</text>
       </register>
-      <register name="0" type="4">
-        <text>sendGABulletinSubscriptionFromPanelGenerator</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtYWlsaW5nTGlzdEdlbmVyYWwnKS5jaGVja2VkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvIHJlZmFjdG9yIGZ1c2lvbmFyIGVzYXMgMiB2YXJzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICk7IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gZGF0YUxheWVyICAgICAgICBBcnJheSBzdG9yYWdlIGRlbCBnb29nbGUgQW5hbHl0aWNzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5kYXRhTGF5ZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIHN1YnNjcmliZShvYnNlcnZlcil7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbWUgaGFuIHJlZmFjdG9yaXphZG8nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9wdXNoSW50b0RhdGFMYXllcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
