@@ -59,10 +59,10 @@
       <file name="$USER_HOME$/src/pccapi/docker/local/fpm_apiweb/Dockerfile" timestamp="1517312760656">
         <mark key="[" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/docker/local/nginx_frontweb/nginx.conf" timestamp="1517404598094">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/pccfront/docker/local/nginx_frontweb/nginx.conf" timestamp="1517491692174">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/inject.js" timestamp="1513198766525">
         <mark key="[" line="0" column="0" />
@@ -85,6 +85,10 @@
         <mark key="]" line="44" column="26" />
         <mark key="^" line="44" column="26" />
         <mark key="." line="44" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/docker/nginx/nginx_app_dev.conf" timestamp="1517491850945">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/You-Dont-Know-JS/this &amp; object prototypes/ch2.md" timestamp="1517266833200">
         <mark key="[" line="87" column="0" />
@@ -278,7 +282,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517486958561">
+      <file name="/Dummy.txt" timestamp="1517491856058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -358,6 +362,11 @@
         <mark key="]" line="22" column="5" />
         <mark key="^" line="6" column="49" />
         <mark key="." line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/docker/local/nginx_frontweb/nginx_app_dev.conf" timestamp="1517492017727">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="vm:371" timestamp="1513198784704">
         <mark key="[" line="0" column="0" />
@@ -478,8 +487,8 @@
       <jump line="8" column="12" filename="$USER_HOME$/src/pccfront/extractArticleOwner.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZhc3QK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -491,34 +500,34 @@
         <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3duZXJzJyA9PiBleHRyYWN0T3duZXJzRnJvbU15c3FsKCksCg==</text>
+        <text encoding="base64">CSAgICBmYXN0Y2dpX3JlYWRfdGltZW91dCAzMDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3duZXJzJyA9PiBleHRyYWN0T3duZXJzRnJvbU15c3FsKCksCg==</text>
+        <text encoding="base64">ICAgIGZhc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3duZXJzJyA9PiBleHRyYWN0T3duZXJzRnJvbU15c3FsKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFzdGNnaV9yZWFkX3RpbWVvdXQ9NDAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnZ2FBcGkvZ2FBcGkuanMnIHwganNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">CWZhc3RjZ2lfcmVhZF90aW1lb3V0IDMwMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3duZXJzJyA9PiBleHRyYWN0T3duZXJzRnJvbU15c3FsKCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3duZXJzJyA9PiBleHRyYWN0T3duZXJzRnJvbU15c3FsKCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnZ2FBcGkvZ2FBcGkuanMnIHwganNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
