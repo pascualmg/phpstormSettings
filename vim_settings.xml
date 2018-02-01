@@ -99,10 +99,10 @@
         <mark key="." line="44" column="26" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1517496843060">
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="49" column="41" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="49" column="41" />
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="41" />
+        <mark key="." line="48" column="41" />
+        <mark key="^" line="48" column="41" />
       </file>
       <file name="$USER_HOME$/src/pccfront/docker/nginx/nginx_app_dev.conf" timestamp="1517494408558">
         <mark key="[" line="33" column="0" />
@@ -114,11 +114,11 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1517506255221">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="129" column="6" />
-        <mark key="." line="129" column="6" />
-        <mark key="^" line="129" column="6" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1517507594467">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="146" column="0" />
       </file>
       <file name="vm:358" timestamp="1513198771700">
         <mark key="[" line="0" column="0" />
@@ -285,10 +285,11 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1517496520540">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1517507634913">
+        <mark key="[" line="12" column="95" />
+        <mark key="]" line="12" column="108" />
+        <mark key="." line="12" column="108" />
+        <mark key="^" line="12" column="108" />
       </file>
       <file name="/dummy.sql" timestamp="1517322333268">
         <mark key="[" line="0" column="0" />
@@ -299,7 +300,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517495804882">
+      <file name="/Dummy.txt" timestamp="1517506913474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -351,6 +352,12 @@
         <mark key="]" line="53" column="64" />
         <mark key="^" line="53" column="64" />
         <mark key="." line="53" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1517507945697">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="module.js" timestamp="1516286025684">
         <mark key="[" line="0" column="0" />
@@ -504,13 +511,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFyci5wdXNoKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>apical</text>
@@ -519,31 +526,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkaXRlbSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFyci5wdXNoKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFycltdID0gJGl0ZW1bJ2lkX2FydGljdWxvJ107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRhcnIpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBnYUFwaSA9IFBDQy5nYUFwaSgpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFyclskaXRlbVsnaWRfYXJ0aWN1bG8nXV1bJGl0ZW1bJ25vbWJyZSddXTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3duZXJzJyA9PiAkdGhpcy0+Z2V0T3duZXJzRnJvbU15c3FsTmF0aXZlKCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFyci5wdXNoKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmR1bXBTbmFwc2hvdEFjdGlvbigkcmVxdWVzdCkgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFycltdID0gJGl0ZW1bJ2lkX2FydGljdWxvJ107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmR1bXBTbmFwc2hvdEFjdGlvbigkcmVxdWVzdCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRhcnIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhcnIgPSAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFyclskaXRlbVsnaWRfYXJ0aWN1bG8nXV1bJGl0ZW1bJ25vbWJyZSddXTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
