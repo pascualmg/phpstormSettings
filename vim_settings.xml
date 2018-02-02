@@ -91,12 +91,12 @@
       <file name="$USER_HOME$/src/web/xml/feed/salesmanago/script/generatecache.php" timestamp="1499841528446">
         <mark key="[" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1517573364070">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="35" column="7" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1517576893450">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="81" column="38" />
+        <mark key="]" line="81" column="39" />
+        <mark key="." line="81" column="39" />
+        <mark key="^" line="81" column="36" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1517496843060">
         <mark key="[" line="48" column="35" />
@@ -347,12 +347,12 @@
         <mark key="^" line="53" column="64" />
         <mark key="." line="53" column="64" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1517528333074">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1517576503255">
         <mark key="'" line="10" column="58" />
-        <mark key="[" line="636" column="0" />
-        <mark key="]" line="636" column="0" />
-        <mark key="." line="636" column="0" />
-        <mark key="^" line="639" column="12" />
+        <mark key="[" line="622" column="49" />
+        <mark key="]" line="622" column="49" />
+        <mark key="." line="622" column="49" />
+        <mark key="^" line="622" column="49" />
       </file>
       <file name="module.js" timestamp="1516286025684">
         <mark key="[" line="0" column="0" />
@@ -506,46 +506,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbml0aWFsSXNDaGVja2VkIEJvb2wgcXVlIGNvbnRpZW5lIGxhIGluZm8gZGVsIGNoZWNrIGN1YW5kbyBzZSBtdWVzdHJhIHBvciBwcmltZXJhIHZleiBsYSBwYWdpbmEuCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>nextEventOnClick</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sendGA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtYWlsaW5nTGlzdEdlbmVyYWwnKS5jaGVja2VkCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbml0aWFsSXNDaGVja2VkIEJvb2wgcXVlIGNvbnRpZW5lIGxhIGluZm8gZGVsIGNoZWNrIGN1YW5kbyBzZSBtdWVzdHJhIHBvciBwcmltZXJhIHZleiBsYSBwYWdpbmEuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbml0aWFsSXNDaGVja2VkIEJvb2wgcXVlIGNvbnRpZW5lIGxhIGluZm8gZGVsIGNoZWNrIGN1YW5kbyBzZSBtdWVzdHJhIHBvciBwcmltZXJhIHZleiBsYSBwYWdpbmEuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHV0Y2hlYW5kbycsIEdvb2dsZUFuYWx5dGljc0RhdGEpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsjPHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL0ByZWFjdGl2ZXgvcnhqc0A1LjAuMy9kaXN0L2dsb2JhbC9SeC5qcyI+PC9zY3JpcHQ+I30K</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICAgICAqIHB1bHNhIGRlIGZvcm1hIHJlaXRlcmFkYSBlbCBib3RvbiAiZ3VhcmRhciBjYW1iaW9zIiAuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC8vICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIHkgZXZpdGEgcXVlIHNlIGR1cGxpcXVlbiBjdWFuZG8gZWwgdXN1YXJpbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC8vICAgICBjb25zb2xlLmxvZygnbmV4dEV2ZW50T25jbGljaycsIG5leHRCb29sKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAqIFJldHVybnMgYSBmdW5jdGlvbiBxdWUgZW52w61hIGxvcyBkYXRvcyBkZWwgQm9sZXRpbiBhIEdvb2dsZSBBbmFsLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC8vICBmdW5jdGlvbiBuZXh0KG5leHRCb29sKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC8vICAgICAuc3Vic2NyaWJlKAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHV0Y2hlYW5kbycsIEdvb2dsZUFuYWx5dGljc0RhdGEpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC8vICAgICApCg==</text>
+        <text encoding="base64">ICAgIHsjPHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL0ByZWFjdGl2ZXgvcnhqc0A1LjAuMy9kaXN0L2dsb2JhbC9SeC5qcyI+PC9zY3JpcHQ+I30K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
