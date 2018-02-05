@@ -114,11 +114,11 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1517842728524">
-        <mark key="[" line="127" column="68" />
-        <mark key="]" line="128" column="6" />
-        <mark key="^" line="128" column="6" />
-        <mark key="." line="128" column="6" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1517851042313">
+        <mark key="[" line="130" column="49" />
+        <mark key="]" line="130" column="49" />
+        <mark key="^" line="124" column="55" />
+        <mark key="." line="130" column="49" />
       </file>
       <file name="vm:358" timestamp="1513198771700">
         <mark key="[" line="0" column="0" />
@@ -339,6 +339,11 @@
       <file name="vm:378" timestamp="1513198792098">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1517851286937">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511348987214">
         <mark key="[" line="0" column="6" />
       </file>
@@ -520,14 +525,14 @@
       <jump line="14" column="18" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIERFUy0zNDg2IHBvc3NpYmxlIGZpeCBtaWVudHJhcyBubyBzZSBvYnRpZW5lbiBkYXRvcyBkZSBSZWRpcy4K</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>(replica) el Owner correspondiente a cada</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>xges</text>
@@ -536,31 +541,31 @@
         <text encoding="base64">ICAgICAqIERFUy0zNDg2IHBvc3NpYmxlIGZpeCBtaWVudHJhcyBubyBzZSBvYnRpZW5lbiBkYXRvcyBkZSBSZWRpcy4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIG15c3FsaTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
+        <text encoding="base64">dXNlIG15c3FsaTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGRhdGVfbW9kaWZ5Owo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGRhdGVfbW9kaWZ5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbm47Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY29ubiA9IG5ldyBteXNxbGkoJGhvc3QsICR1c2VyLCAkcGFzc3dvcmQsICRkYm5hbWUpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbm47Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkY29ubiA9IG5ldyBteXNxbGkoJGhvc3QsICR1c2VyLCAkcGFzc3dvcmQsICRkYm5hbWUpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFzc3dvcmQgPSAiSWh0cUxnMjR2YkFpIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
