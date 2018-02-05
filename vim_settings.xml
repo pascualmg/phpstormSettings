@@ -97,12 +97,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1517825958783">
-        <mark key="'" line="51" column="11" />
-        <mark key="[" line="49" column="23" />
-        <mark key="]" line="49" column="23" />
-        <mark key="." line="49" column="23" />
-        <mark key="^" line="49" column="18" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1517832441031">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="35" column="74" />
+        <mark key="]" line="35" column="64" />
+        <mark key="." line="35" column="64" />
+        <mark key="^" line="35" column="64" />
       </file>
       <file name="$USER_HOME$/src/pccfront/docker/nginx/nginx_app_dev.conf" timestamp="1517494408558">
         <mark key="[" line="33" column="0" />
@@ -114,11 +114,11 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1517825431322">
-        <mark key="[" line="170" column="22" />
-        <mark key="]" line="171" column="11" />
-        <mark key="^" line="171" column="11" />
-        <mark key="." line="171" column="11" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1517832209010">
+        <mark key="[" line="162" column="45" />
+        <mark key="]" line="162" column="34" />
+        <mark key="." line="162" column="34" />
+        <mark key="^" line="162" column="34" />
       </file>
       <file name="vm:358" timestamp="1513198771700">
         <mark key="[" line="0" column="0" />
@@ -300,12 +300,13 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517817832934">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1517832300565">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1517495201463">
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1517832018278">
+        <mark key="'" line="14" column="18" />
         <mark key="[" line="42" column="44" />
         <mark key="]" line="42" column="47" />
         <mark key="." line="42" column="47" />
@@ -408,11 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" />
-      <jump line="347" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
-      <jump line="273" column="32" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
-      <jump line="294" column="34" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
-      <jump line="236" column="22" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" />
       <jump line="36" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
       <jump line="50" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
       <jump line="81" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
@@ -508,58 +504,63 @@
       <jump line="119" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="148" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="51" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" />
+      <jump line="44" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" />
+      <jump line="49" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" />
+      <jump line="35" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" />
+      <jump line="50" column="36" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="14" column="18" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>item</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyb3RhdGlvblR5cGUpOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>owners</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>xges</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbml0aWFsSXNDaGVja2VkIEJvb2wgcXVlIGNvbnRpZW5lIGxhIGluZm8gZGVsIGNoZWNrIGN1YW5kbyBzZSBtdWVzdHJhIHBvciBwcmltZXJhIHZleiBsYSBwYWdpbmEuCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRvd25lcnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyb3RhdGlvblR5cGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIGFydMOtY3Vsby4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElOTkVSIEpPSU4gY29tcHJhc19yZXNwb25zYWJsZXMgY3IgT04gZnIuaWRfY29tcHJhc19yZXNwb25zYWJsZXMgPSBjci5pZF9jb21wcmFzX3Jlc3BvbnNhYmxlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZST00gYXJ0aWN1bG9zIGEgSU5ORVIgSk9JTiBmYW1pbGlhc19yZXNwb25zYWJsZXMgZnIgT04gYS5pZF9mYW1pbGlhID0gZnIuaWRfZmFtaWxpYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7IH19Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRsb2NhdGVkKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIEh0dHBSZXNwb25zZTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9jYXRlZCA9ICR0aGlzLT5nZXRPd25lckJ5SWRBcnRpY2xlT3JFbXR5U3RpbmcoJG93bmVycywgNDIxMjApOwo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGxvY2FsZV9nZXRfYWxsX3ZhcmlhbnRzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>xges</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>xges</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -567,8 +568,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reformas</entry>
-        <entry>apiwe</entry>
         <entry>debug</entry>
         <entry>08</entry>
         <entry>:</entry>
@@ -587,6 +586,8 @@
         <entry>apical</entry>
         <entry>sendGA</entry>
         <entry>dump</entry>
+        <entry>owner</entry>
+        <entry>xges</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
