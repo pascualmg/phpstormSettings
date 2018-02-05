@@ -113,11 +113,12 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1517507594467">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="146" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1517820295506">
+        <mark key="'" line="148" column="12" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="104" column="4" />
       </file>
       <file name="vm:358" timestamp="1513198771700">
         <mark key="[" line="0" column="0" />
@@ -407,9 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" />
-      <jump line="172" column="71" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" />
-      <jump line="35" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/SearchDoofinderApp.php" />
       <jump line="203" column="15" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/SearchDoofinderApp.php" />
       <jump line="21" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/DoofinderController.php" />
       <jump line="347" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/Search/DooFinder/GetMenuSearchDoofinderApp.php" />
@@ -507,58 +505,61 @@
       <jump line="23" column="13" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="10" column="58" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="85" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
+      <jump line="119" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
+      <jump line="148" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlclN1YnNjcmlwdGlvbnMgPSAkdXNlclN1YnNjcmlwdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0T3duZXJzRnJvbU15c3FsTmF0aXZlKCk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>sendGA</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBpbml0aWFsSXNDaGVja2VkIEJvb2wgcXVlIGNvbnRpZW5lIGxhIGluZm8gZGVsIGNoZWNrIGN1YW5kbyBzZSBtdWVzdHJhIHBvciBwcmltZXJhIHZleiBsYSBwYWdpbmEuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlclN1YnNjcmlwdGlvbnMgPSAkdXNlclN1YnNjcmlwdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0T3duZXJzRnJvbU15c3FsTmF0aXZlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdHb29nbGUgQW5hbC4gYXBpIGluc3RhbGxlZCBoZXJlLicgLCBnYUFwaSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkYXJyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVzaGVhZG8gLi4uLicsIEdvb2dsZUFuYWx5dGljc0RhdGEpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlclN1YnNjcmlwdGlvbnMgPSAkdXNlclN1YnNjcmlwdGlvbnM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdHb29nbGUgQW5hbC4gYXBpIGluc3RhbGxlZCBoZXJlLicgLCBnYUFwaSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVzaGVhZG8gLi4uLicsIEdvb2dsZUFuYWx5dGljc0RhdGEpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbml0aWFsSXNDaGVja2VkIEJvb2wgcXVlIGNvbnRpZW5lIGxhIGluZm8gZGVsIGNoZWNrIGN1YW5kbyBzZSBtdWVzdHJhIHBvciBwcmltZXJhIHZleiBsYSBwYWdpbmEuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>sendGA</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>sendGA</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -566,7 +567,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refor</entry>
         <entry>reformas</entry>
         <entry>apiwe</entry>
         <entry>debug</entry>
@@ -586,6 +586,7 @@
         <entry>var</entry>
         <entry>apical</entry>
         <entry>sendGA</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
