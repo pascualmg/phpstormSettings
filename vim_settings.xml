@@ -236,10 +236,10 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/docker/local/.env" timestamp="1517237319990">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
+      <file name="$USER_HOME$/src/pccfront/docker/local/.env" timestamp="1518096756060">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
         <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/index-new-user.html.twig" timestamp="1517475744073">
@@ -260,11 +260,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1518096023617">
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1518096984344">
         <mark key="'" line="10" column="34" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="15" />
-        <mark key="." line="42" column="15" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1518090048831">
         <mark key="[" line="0" column="27" />
@@ -455,14 +456,14 @@
       <jump line="10" column="34" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFwaV9jYWxsZXJfaG9zdDogJ2h0dHA6Ly8xOTIuMTY4LjE4LjIwOTo2MDgwLycK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>192.168.13.37:8000</text>
       </register>
       <register name="/" type="4">
         <text>inben</text>
@@ -471,31 +472,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJGxvZ2dlci0+Y3JpdGljYWwoJ2Vycm9yIG9idGVuaWVuZG8gb3duZXJzJywgJGV4Y2VwdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmJlbnRhOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIGFwaV9jYWxsZXJfaG9zdDogJ2h0dHA6Ly8xOTIuMTY4LjE4LjIwOTo2MDgwLycK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbmJlbnRhOiBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmJlbnRhOiBmYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB7IyBBcXVpIHZhbiBsb3MgcmVzdWx0YWRvcyBhamF4IGRlIGxhIGJ1c3F1ZWRhICN9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB7IyBBcXVpIHZhbiBsb3MgcmVzdWx0YWRvcyBhamF4IGRlIGxhIGJ1c3F1ZWRhICN9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpZiBlbmFibGVkX3NlcnZpY2VzLmluYmVudGEgPT0gZmFsc2UgJX0K</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7I1NpIEludmVudGEgZXN0YSBkZXNhY3RpdmFkbyB0aXJhbW9zIGRlIGxvcyByZXN1bHRhZG9zIGRlIGxhcyBidXNxdWVkYXMgYW50aWd1b3MuI30K</text>
+        <text encoding="base64">ICAgICAgICB7JSBpZiBlbmFibGVkX3NlcnZpY2VzLmluYmVudGEgPT0gZmFsc2UgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICAgICAgICB7I1NpIEludmVudGEgZXN0YSBkZXNhY3RpdmFkbyB0aXJhbW9zIGRlIGxvcyByZXN1bHRhZG9zIGRlIGxhcyBidXNxdWVkYXMgYW50aWd1b3MuI30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgaWYgbm90IGVuYWJsZWRfc2VydmljZXMuaW5iZW50YSAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
