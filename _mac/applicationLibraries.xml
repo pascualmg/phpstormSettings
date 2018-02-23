@@ -4,6 +4,28 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="chai" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_chai_4.1.2_chai.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_chai_4.1.2_chai.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mocha" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_mochajs_mocha_2.2.5_mocha.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_mochajs_mocha_2.2.5_mocha.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="Rx" type="javaScript">
       <properties>
         <sourceFilesUrls>
