@@ -69,12 +69,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1519485592918">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1519488111498">
         <mark key="'" line="140" column="0" />
         <mark key="[" line="48" column="60" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="3" />
-        <mark key="." line="140" column="0" />
+        <mark key="]" line="85" column="47" />
+        <mark key="^" line="85" column="47" />
+        <mark key="." line="85" column="47" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1517903215426">
         <mark key="[" line="37" column="0" />
@@ -289,7 +289,7 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519487214730">
+      <file name="/Dummy.txt" timestamp="1519488491669">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -387,16 +387,15 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" timestamp="1519486596067">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="12" column="73" />
-        <mark key="^" line="12" column="73" />
-        <mark key="." line="12" column="73" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" timestamp="1519488447533">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="48" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="40" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
-      <jump line="194" column="9" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
       <jump line="290" column="25" filename="$USER_HOME$/src/rx/js/ejercicios.js" />
       <jump line="14" column="47" filename="$USER_HOME$/src/rx/js/ydkjs/1.pag50.module_pattern.js" />
       <jump line="127" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/new_user.js" />
@@ -495,58 +494,60 @@
       <jump line="85" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="140" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="29" column="35" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>todo: consultar con vic si esto se sube o no .</text>
+        <text>=============================== C</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>todo: consultar con vic si esto se sube o no .</text>
+        <text>=============================== C</text>
       </register>
       <register name="/" type="4">
-        <text>feed</text>
+        <text>function</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBpdCgnR0lWRU4gZXZlbnROZXdVc2VyKCkgJyArCiAgICAgICAgJ1dIRU4gaXNFbnRlcnByaXNlID0gdHJ1ZSAnICsKICAgICAgICAnVEhFTiBwdXNoIGNvcnJlY3QgZGF0YSBpbnRvIERhdGFMYXllcicsIGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">CiAgICBpdCgnR0lWRU4gZXZlbnROZXdVc2VyKCkgJyArCiAgICAgICAgJ1dIRU4gaXNFbnRlcnByaXNlID0gdHJ1ZSAnICsKICAgICAgICAnVEhFTiBwdXNoIGNvcnJlY3QgZGF0YSBpbnRvIERhdGFMYXllcicsIGZ1bmN0aW9uICgpIHsKCiAgICAgICAgdmFyIGV4cGVjdGVkID0gewogICAgICAgICAgICAnZ2FFdmVudENhdGVnb3J5JzogJ0FsdGEtVXN1YXJpbycsCiAgICAgICAgICAgICdnYUV2ZW50QWN0aW9uJzogJ0FsdGEnLAogICAgICAgICAgICAnZ2FFdmVudExhYmVsJzogJ1JlZ2lzdHJvLUVtcHJlc2EnLAogICAgICAgICAgICAnZ2FFdmVudFZhbHVlJzogdW5kZWZpbmVkLAogICAgICAgICAgICAnZ2FFdmVudE5vbkludGVyYWN0aW9uJzogdHJ1ZQogICAgICAgIH07CgogICAgICAgIGdhQXBpLmV2ZW50TmV3VXNlcih0cnVlKTsKCiAgICAgICAgYWN0dWFsID0gd2luZG93LmRhdGFMYXllci5wb3AoKTsKCiAgICAgICAgZXhwZWN0KGV4cGVjdGVkKS50by5kZWVwLmVxdWFsKAogICAgICAgICAgICBhY3R1YWwsCiAgICAgICAgICAgICdzb21lIGVycm9ycyBpbiBvYmplY3QgdG8gcHVzaCBpbnRvIGRhdGFsYXllcicpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0KCdwdXNoIGludG8gRGF0YWxheWVyIHdoZW4gZXZlbnROZXd1c2VyKGlzRW50ZXJwcmlzZSA9IGZhbHNlKSAnLCBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnROb25JbnRlcmFjdGlvbic6IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgncHVzaCBpbnRvIGRhdGFMYXllciBjb3JyZWN0IGRhdGEgd2hlbiBuZXcgVXNlciBub3QgRW50ZXJwcmlzZSBpcyBjcmVhdGVkJyArIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnRWYWx1ZSc6IHVuZGVmaW5lZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnRMYWJlbCc6ICdSZWdpc3Ryby1FbXByZXNhJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnRBY3Rpb24nOiAnQWx0YScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZ2FBcGkgPSBQQ0MuZ2FBcGkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnRDYXRlZ29yeSc6ICdBbHRhLVVzdWFyaW8nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgUENDID0gbm9kZU1vZHVsZS5QQ0M7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZXhwZWN0ZWQgPSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbm9kZU1vZHVsZSA9IHJlcXVpcmUoJy4uLy4uL3Jhdy9qcy9nYUFwaS9nYUFwaS5qcycpOwo=</text>
+        <text encoding="base64">dHJ1ZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgYXNzZXJ0LmVxdWFsKAogICAgICAgICAgICAnZnVuY3Rpb24nLAogICAgICAgICAgICB0eXBlb2YgZ2FBcGkuZXZlbnROZXdVc2VyLAogICAgICAgICAgICAnZ2FBcGkuZXZlbnROZXdVc2VyIGRlYmVyw61hIGRlIHNlciB1bmEgZnVuY2nDs24nCiAgICAgICAgKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAnV0hFTiBpc0VudGVycHJpc2UgPSB0cnVlICcgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>feed</last-search>
+      <last-search>function</last-search>
       <last-offset />
-      <last-pattern>feed</last-pattern>
+      <last-pattern>function</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -554,8 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>const</entry>
-        <entry>var</entry>
         <entry>apical</entry>
         <entry>sendGA</entry>
         <entry>dump</entry>
@@ -574,6 +573,8 @@
         <entry>inbenta</entry>
         <entry>inben</entry>
         <entry>feed</entry>
+        <entry>funcionales</entry>
+        <entry>function</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
