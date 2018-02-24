@@ -69,12 +69,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1519488111498">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1519488916649">
         <mark key="'" line="140" column="0" />
-        <mark key="[" line="48" column="60" />
-        <mark key="]" line="85" column="47" />
-        <mark key="^" line="85" column="47" />
-        <mark key="." line="85" column="47" />
+        <mark key="[" line="96" column="11" />
+        <mark key="]" line="109" column="14" />
+        <mark key="^" line="102" column="13" />
+        <mark key="." line="102" column="13" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1517903215426">
         <mark key="[" line="37" column="0" />
@@ -289,10 +289,10 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519488491669">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1519490174522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1516905982058">
         <mark key="[" line="5" column="1" />
@@ -387,12 +387,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" timestamp="1519488447533">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" timestamp="1519490387154">
         <mark key="'" line="116" column="0" />
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="48" column="20" />
+        <mark key="[" line="181" column="29" />
+        <mark key="]" line="187" column="30" />
+        <mark key="^" line="187" column="30" />
+        <mark key="." line="187" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -499,46 +499,56 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=============================== C</text>
+        <text>Out</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>=============================== C</text>
+        <text>Out</text>
       </register>
       <register name="/" type="4">
         <text>function</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBpdCgnR0lWRU4gZXZlbnROZXdVc2VyKCkgJyArCiAgICAgICAgJ1dIRU4gaXNFbnRlcnByaXNlID0gdHJ1ZSAnICsKICAgICAgICAnVEhFTiBwdXNoIGNvcnJlY3QgZGF0YSBpbnRvIERhdGFMYXllcicsIGZ1bmN0aW9uICgpIHsKCiAgICAgICAgdmFyIGV4cGVjdGVkID0gewogICAgICAgICAgICAnZ2FFdmVudENhdGVnb3J5JzogJ0FsdGEtVXN1YXJpbycsCiAgICAgICAgICAgICdnYUV2ZW50QWN0aW9uJzogJ0FsdGEnLAogICAgICAgICAgICAnZ2FFdmVudExhYmVsJzogJ1JlZ2lzdHJvLUVtcHJlc2EnLAogICAgICAgICAgICAnZ2FFdmVudFZhbHVlJzogdW5kZWZpbmVkLAogICAgICAgICAgICAnZ2FFdmVudE5vbkludGVyYWN0aW9uJzogdHJ1ZQogICAgICAgIH07CgogICAgICAgIGdhQXBpLmV2ZW50TmV3VXNlcih0cnVlKTsKCiAgICAgICAgYWN0dWFsID0gd2luZG93LmRhdGFMYXllci5wb3AoKTsKCiAgICAgICAgZXhwZWN0KGV4cGVjdGVkKS50by5kZWVwLmVxdWFsKAogICAgICAgICAgICBhY3R1YWwsCiAgICAgICAgICAgICdzb21lIGVycm9ycyBpbiBvYmplY3QgdG8gcHVzaCBpbnRvIGRhdGFsYXllcicpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdHSVZFTiBzZW5kR0FCdWxsZXRpblN1YnNjcmlwdGlvbkZyb21QYW5lbEdlbmVyYXRvcigpICcgKwogICAgICAgICdXSEVOIGluaXRpYWxJc0NoZWNrZWQgPSB0cnVlICcgKwogICAgICAgICdBTkQgc2VuZEdhQnVsbGV0aW5TdWJzY3JpcHRpb25Gcm9tUGFuZWwoZmFsc2UpJyArCiAgICAgICAgJ1RIRU4gcHVzaCBnYUV2ZW50T3B0T3V0IGludG8gRGF0YUxheWVyJywgZnVuY3Rpb24gKCkgewogICAgICAgIHZhciBnYUV2ZW50T3B0SW4gPSB7CiAgICAgICAgICAgICdnYUV2ZW50Q2F0ZWdvcnknOiAnQm9sZXRpbicsCiAgICAgICAgICAgICdnYUV2ZW50QWN0aW9uJzogJ1N1c2NyaWJpcnNlJywKICAgICAgICAgICAgJ2dhRXZlbnRMYWJlbCc6ICdQYW5lbC1Vc3VhcmlvJywKICAgICAgICAgICAgJ2dhRXZlbnRWYWx1ZSc6IHVuZGVmaW5lZCwKICAgICAgICAgICAgJ2dhRXZlbnROb25JbnRlcmFjdGlvbic6IHRydWUKICAgICAgICB9OwogICAgICAgIHZhciBnYUV2ZW50T3B0T3V0ID0gewogICAgICAgICAgICAnZ2FFdmVudENhdGVnb3J5JzogJ0JvbGV0aW4nLAogICAgICAgICAgICAnZ2FFdmVudEFjdGlvbic6ICdEZXN1c2NyaWJpcnNlJywKICAgICAgICAgICAgJ2dhRXZlbnRMYWJlbCc6ICdQYW5lbC1Vc3VhcmlvJywKICAgICAgICAgICAgJ2dhRXZlbnRWYWx1ZSc6IHVuZGVmaW5lZCwKICAgICAgICAgICAgJ2dhRXZlbnROb25JbnRlcmFjdGlvbic6IHRydWUKICAgICAgICB9OwogICAgICAgCiAgICAgICAgdmFyIGluaXRpYWxJc0NoZWNrZWQgPSB0cnVlOwogICAgICAgIHNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbVBhbmVsIAogICAgICAgICAgICA9IGdhQXBpLnNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbVBhbmVsR2VuZXJhdG9yKGluaXRpYWxJc0NoZWNrZWQpOwogICAgICAgIAoKICAgICAgICBzZW5kR0FCdWxsZXRpblN1YnNjcmlwdGlvbkZyb21QYW5lbChmYWxzZSk7CiAgICAgICAgZXhwZWN0ZWQgPSBnYUV2ZW50T3B0T3V0OwoKICAgICAgICBhY3R1YWwgPSB3aW5kb3cuZGF0YUxheWVyLnBvcCgpOwoKICAgICAgICBleHBlY3QoZXhwZWN0ZWQpLnRvLmRlZXAuZXF1YWwoCiAgICAgICAgICAgIGFjdHVhbCwKICAgICAgICAgICAgJ3NvbWUgZXJyb3JzIGluIG9iamVjdCB0byBwdXNoIGludG8gZGF0YWxheWVyJyk7CiAgICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnROb25JbnRlcmFjdGlvbic6IHRydWUK</text>
+      <register name="2" type="4">
+        <text>Coverage summary ===============================
+        Statements   : 61.54% ( 16/26 )
+        Branches     : 42.86% ( 6/14 )
+        Functions    : 66.67% ( 4/6 )
+        Lines        : 61.54% ( 16/26 )
+        ================================================================================</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnRWYWx1ZSc6IHVuZGVmaW5lZCwK</text>
+      <register name="3" type="4">
+        <text>Coverage summary ===============================
+        Statements   : 61.54% ( 16/26 )
+        Branches     : 42.86% ( 6/14 )
+        Functions    : 66.67% ( 4/6 )
+        Lines        : 61.54% ( 16/26 )
+        ================================================================================</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnRMYWJlbCc6ICdSZWdpc3Ryby1FbXByZXNhJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnRBY3Rpb24nOiAnQWx0YScsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWN0dWFsJywgYWN0dWFsKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dhRXZlbnRDYXRlZ29yeSc6ICdBbHRhLVVzdWFyaW8nLAo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZXhwZWN0ZWQgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnV0hFTiBpc0VudGVycHJpc2UgPSB0cnVlICcgKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
