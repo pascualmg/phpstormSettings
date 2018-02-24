@@ -69,9 +69,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1519484416432">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1519485592918">
         <mark key="'" line="140" column="0" />
-        <mark key="[" line="140" column="0" />
+        <mark key="[" line="48" column="60" />
         <mark key="]" line="140" column="0" />
         <mark key="^" line="140" column="3" />
         <mark key="." line="140" column="0" />
@@ -289,7 +289,7 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519477839211">
+      <file name="/Dummy.txt" timestamp="1519487214730">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -387,11 +387,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" timestamp="1519485373747">
-        <mark key="[" line="42" column="95" />
-        <mark key="]" line="42" column="93" />
-        <mark key="^" line="42" column="93" />
-        <mark key="." line="42" column="93" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" timestamp="1519486596067">
+        <mark key="[" line="11" column="51" />
+        <mark key="]" line="12" column="73" />
+        <mark key="^" line="12" column="73" />
+        <mark key="." line="12" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -497,47 +497,47 @@
       <jump line="140" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>todo: consultar con vic si esto se sube o no .</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>push into dataLayer correct data when new User not Enterprise is created' +</text>
+        <text>todo: consultar con vic si esto se sube o no .</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgncHVzaCBpbnRvIGRhdGFMYXllciBjb3JyZWN0IGRhdGEgd2hlbiBuZXcgVXNlciBub3QgRW50ZXJwcmlzZSBpcyBjcmVhdGVkJyArCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBpdCgnR0lWRU4gZXZlbnROZXdVc2VyKCkgJyArCiAgICAgICAgJ1dIRU4gaXNFbnRlcnByaXNlID0gdHJ1ZSAnICsKICAgICAgICAnVEhFTiBwdXNoIGNvcnJlY3QgZGF0YSBpbnRvIERhdGFMYXllcicsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdwdXNoIGludG8gRGF0YWxheWVyIHdoZW4gZXZlbnROZXd1c2VyKGlzRW50ZXJwcmlzZSA9IGZhbHNlKSAnLCBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgncHVzaCBpbnRvIGRhdGFMYXllciBjb3JyZWN0IGRhdGEgd2hlbiBuZXcgVXNlciBub3QgRW50ZXJwcmlzZSBpcyBjcmVhdGVkJyArIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdCgncHVzaCBpbnRvIGRhdGFMYXllciBjb3JyZWN0IGRhdGEgd2hlbiBuZXcgVXNlciBub3QgRW50ZXJwcmlzZSBpcyBjcmVhdGVkJyArIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZ2FBcGkgPSBQQ0MuZ2FBcGkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgUENDID0gbm9kZU1vZHVsZS5QQ0M7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZ2FBcGkgPSBQQ0MuZ2FBcGkoKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgUENDID0gbm9kZU1vZHVsZS5QQ0M7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgbm9kZU1vZHVsZSA9IHJlcXVpcmUoJy4uLy4uL3Jhdy9qcy9nYUFwaS9nYUFwaS5qcycpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgYXNzZXJ0LmVxdWFsKAogICAgICAgICAgICAnZnVuY3Rpb24nLAogICAgICAgICAgICB0eXBlb2YgZ2FBcGkuZXZlbnROZXdVc2VyLAogICAgICAgICAgICAnZ2FBcGkuZXZlbnROZXdVc2VyIGRlYmVyw61hIGRlIHNlciB1bmEgZnVuY2nDs24nCiAgICAgICAgKTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
