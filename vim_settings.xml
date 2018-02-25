@@ -69,12 +69,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1519488916649">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1519591222179">
         <mark key="'" line="140" column="0" />
-        <mark key="[" line="96" column="11" />
-        <mark key="]" line="109" column="14" />
-        <mark key="^" line="102" column="13" />
-        <mark key="." line="102" column="13" />
+        <mark key="[" line="139" column="32" />
+        <mark key="]" line="139" column="32" />
+        <mark key="^" line="141" column="13" />
+        <mark key="." line="139" column="32" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1517903215426">
         <mark key="[" line="37" column="0" />
@@ -289,10 +289,10 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519491530043">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1519592844327">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1516905982058">
         <mark key="[" line="5" column="1" />
@@ -363,11 +363,11 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.test.js" timestamp="1519477395510">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="43" column="6" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="13" column="8" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.test.js" timestamp="1519592825911">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1517818839195">
         <mark key="[" line="2093" column="33" />
@@ -387,12 +387,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" timestamp="1519491466226">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" timestamp="1519592784411">
         <mark key="'" line="193" column="26" />
-        <mark key="[" line="239" column="7" />
-        <mark key="]" line="240" column="3" />
-        <mark key="^" line="240" column="3" />
-        <mark key="." line="240" column="3" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="43" column="2" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -499,56 +499,73 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Coverage summary ===============================
-        Statements   : 61.54% ( 16/26 )
-        Branches     : 42.86% ( 6/14 )
-        Functions    : 66.67% ( 4/6 )
-        Lines        : 61.54% ( 16/26 )
-        ====================================================</text>
+        <text>describe de test funcionales movido de sitio. ( se pueden encadenar si se quiere)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>NOTHING</text>
+        <text>describe de test funcionales movido de sitio. ( se pueden encadenar si se quiere)</text>
       </register>
       <register name="/" type="4">
         <text>function</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnQU5EIHNlbmRHYUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbVBhbmVsKGZhbHNlKScgKwo=</text>
+      <register name="0" type="4">
+        <text>describe('gaApi, functional Integrity', function () {
+
+    it('PCC.gaApi is a function that returns the complete Google Anal. API ', function () {
+        assert.equal(
+            'function',
+            typeof PCC.gaApi,
+            'PCC.gaApi debería de ser una función (module pattern)'
+        );
+    });
+
+    it('has implemented the function eventNewUser', function () {
+        assert.equal(
+            'function',
+            typeof gaApi.eventNewUser,
+            'gaApi.eventNewUser debería de ser una función'
+        );
+    });
+
+    it('has implemented the function eventOptInBulletinWhenCreatedNewUser', function () {
+        assert.equal(
+            'function',
+            typeof gaApi.eventOptInBulletinWhenCreatedNewUser,
+            'gaApi.eventOptInBulletinWhenCreatedNewUser debería de ser una función'
+        );
+    });
+
+
+});</text>
       </register>
-      <register name="1" type="4">
-        <text>Coverage summary ===============================
-        Statements   : 61.54% ( 16/26 )
-        Branches     : 42.86% ( 6/14 )
-        Functions    : 66.67% ( 4/6 )
-        Lines        : 61.54% ( 16/26 )
-        ====================================================</text>
+      <register name="1" type="2">
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoZXhwZWN0ZWQpLnRvLmRlZXAuZXF1YWwoYWN0dWFsKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHNlbmRHQUJ1bGxldGluU3Vic2NyaXB0aW9uRnJvbVBhbmVsKHRydWUpOwoKICAgICAgICBleHBlY3RlZCA9IGdhRXZlbnRPcHRJbjsKICAgICAgICBhY3R1YWwgPSB3aW5kb3cuZGF0YUxheWVyLnBvcCgpOwoKICAgICAgICBleHBlY3QoZXhwZWN0ZWQpLnRvLmRlZXAuZXF1YWwoCiAgICAgICAgICAgIGFjdHVhbCwKICAgICAgICAgICAgJ3NvbWUgZXJyb3JzIGluIG9iamVjdCB0byBwdXNoIGludG8gZGF0YWxheWVyJyk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VuZGVmaW5lZCcsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZCA9IGdhRXZlbnRPcHRJbjsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhY3R1YWwgPSB3aW5kb3cuZGF0YUxheWVyLnBvcCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBnYUFwaS5ldmVudE5ld1VzZXIoZmFsc2UpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWN0dWFsJywgYWN0dWFsKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
