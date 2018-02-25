@@ -46,6 +46,18 @@
         <mark key="." line="640" column="0" />
         <mark key="^" line="640" column="13" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" timestamp="1519594353049">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="74" />
+        <mark key="^" line="112" column="3" />
+        <mark key="." line="279" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.browser.test.js" timestamp="1519594439759">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="3" />
+        <mark key="^" line="99" column="2" />
+        <mark key="." line="266" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/docker/local/nginx_frontweb/nginx.conf" timestamp="1517494662642">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="25" column="3" />
@@ -127,8 +139,8 @@
         <mark key="]" line="342" column="0" />
         <mark key="." line="342" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/test/gaApi.test.html.twig" timestamp="1519405604477">
-        <mark key="[" line="13" column="13" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/test/gaApi.test.html.twig" timestamp="1519593737003">
+        <mark key="[" line="13" column="55" />
         <mark key="]" line="13" column="66" />
         <mark key="^" line="13" column="66" />
         <mark key="." line="13" column="66" />
@@ -289,10 +301,10 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519592844327">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1519593884021">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1516905982058">
         <mark key="[" line="5" column="1" />
@@ -305,9 +317,6 @@
         <mark key="]" line="10" column="15" />
         <mark key="^" line="12" column="55" />
         <mark key="." line="10" column="15" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/config.yml" timestamp="1518083793812">
-        <mark key="]" line="72" column="22" />
       </file>
       <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1517851286937">
         <mark key="[" line="11" column="21" />
@@ -363,7 +372,7 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.test.js" timestamp="1519592825911">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.test.js" timestamp="1519593491941">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -498,71 +507,44 @@
       <jump line="193" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>describe de test funcionales movido de sitio. ( se pueden encadenar si se quiere)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>describe de test funcionales movido de sitio. ( se pueden encadenar si se quiere)</text>
+        <text encoding="base64">LHN1c3RpdHVpZG9zIG9yaWdpbmFsZXMgcG9yIGxvcyBkZSBub2RlICwgYWhvcmEgLHRvZG9zIGxvcyB0ZXN0IHNvbiBpZ3VhbGVzIHkgw7puaWNhbWVudGUgY2FtYmlhIGxhIGNvbmZpZ3VyYWNpw7NuIGluaWNpYWwgcGFyYSBlbCBicm93c2VyIG8gcGFyYSA=</text>
       </register>
       <register name="/" type="4">
         <text>function</text>
       </register>
-      <register name="0" type="4">
-        <text>describe('gaApi, functional Integrity', function () {
-
-    it('PCC.gaApi is a function that returns the complete Google Anal. API ', function () {
-        assert.equal(
-            'function',
-            typeof PCC.gaApi,
-            'PCC.gaApi debería de ser una función (module pattern)'
-        );
-    });
-
-    it('has implemented the function eventNewUser', function () {
-        assert.equal(
-            'function',
-            typeof gaApi.eventNewUser,
-            'gaApi.eventNewUser debería de ser una función'
-        );
-    });
-
-    it('has implemented the function eventOptInBulletinWhenCreatedNewUser', function () {
-        assert.equal(
-            'function',
-            typeof gaApi.eventOptInBulletinWhenCreatedNewUser,
-            'gaApi.eventOptInBulletinWhenCreatedNewUser debería de ser una función'
-        );
-    });
-
-
-});</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCdzZW5kR0FCdWxsZXRpblN1YnNjcmlwdGlvbkZyb21QYW5lbEdlbmVyYXRvcicsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoZXhwZWN0ZWQpLnRvLmRlZXAuZXF1YWwoYWN0dWFsKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhY3R1YWwgPSB3aW5kb3cuZGF0YUxheWVyLnBvcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoZXhwZWN0ZWQpLnRvLmRlZXAuZXF1YWwoYWN0dWFsKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnYUFwaS5ldmVudE5ld1VzZXIoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhY3R1YWwgPSB3aW5kb3cuZGF0YUxheWVyLnBvcCgpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
