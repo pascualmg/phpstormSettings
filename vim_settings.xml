@@ -16,11 +16,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/head.html.twig" timestamp="1519727922836">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_default_script.html.twig" timestamp="1516957961912">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="3" />
@@ -104,6 +99,12 @@
         <mark key="]" line="8" column="35" />
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/DealArticlesController.php" timestamp="1519730236941">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="16" />
+        <mark key="^" line="141" column="15" />
+        <mark key="." line="141" column="64" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml.dist" timestamp="1518090002138">
         <mark key="[" line="114" column="0" />
@@ -328,10 +329,10 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519727690224">
+      <file name="/Dummy.txt" timestamp="1519730608510">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Configurator/Configurator.php" timestamp="1519722959065" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1516905982058">
@@ -536,13 +537,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0JULTEyNgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IEVycm9yIGFsIG1vc3RyYXIgZXRpcXVldGEgdGl0bGUsIGFwYXJlY2UgdmFjw61h</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -551,25 +552,25 @@
         <text encoding="base64">eyUgZW5kYmxvY2sgY2VudHJhbFNsaWRlciAlfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0JULTEyNgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyUgZW5kYmxvY2sgdGl0bGUgJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgYmxvY2sgdGl0bGUgJX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">eyUgZW5kYmxvY2sgdGl0bGUgJX0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT50cnk8L3RpdGxlPgo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">eyUgYmxvY2sgdGl0bGUgJX0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">eyUgZW5kYmxvY2sgdGl0bGUgJX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDx0aXRsZT50cnk8L3RpdGxlPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgYmxvY2sgdGl0bGUgJX0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
