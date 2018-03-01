@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1519901014619">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/rx/minimalObservable.ts" timestamp="1515162689820">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="21" column="3" />
@@ -74,6 +77,11 @@
         <mark key="]" line="26" column="83" />
         <mark key="." line="26" column="83" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/.gitignore" timestamp="1519900712195">
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
+      </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/2.pag053.loopclosure.js" timestamp="1517262960348">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="32" />
@@ -125,6 +133,9 @@
         <mark key="]" line="233" column="39" />
         <mark key="^" line="233" column="39" />
         <mark key="." line="233" column="39" />
+      </file>
+      <file name="vm:1321" timestamp="1519900996415">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/lacueva/lacuevadelgrillo3.0/js/autofoto/autofoto.js" timestamp="1515536662825">
         <mark key="[" line="13" column="0" />
@@ -292,6 +303,9 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="/JavaScript Console" timestamp="1519899890545">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" timestamp="1519732361465">
         <mark key="[" line="760" column="28" />
         <mark key="]" line="760" column="49" />
@@ -324,10 +338,10 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-metas.html.twig" timestamp="1519892555746">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-metas.html.twig" timestamp="1519899846848">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="42" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1517995794264">
@@ -352,8 +366,8 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519892574349">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1519899851201">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -450,8 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
-      <jump line="686" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="11" column="58" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="21" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="23" column="13" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
@@ -550,16 +562,18 @@
       <jump line="127" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/configurator/Pcc.ConfiguratorActiveArticle.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="34" column="16" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="185" column="46" filename="$USER_HOME$/src/pccfront/.gitignore" />
+      <jump line="372" column="0" filename="$USER_HOME$/src/pccfront/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Error al mostrar etiqueta title, aparece vacía</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5pdF9wY2Nmcm9udC5hY2thZ2UtbG9jay5qc29uCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Error al mostrar etiqueta title, aparece vacía</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>un tes</text>
@@ -568,31 +582,31 @@
         <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9fdG90YWxQcmljZUVsZW1lbnQuaHRtbCh0aGlzLl9fZ2V0VG90YWxQcmljZSgpLnRvRml4ZWQoMikucmVwbGFjZSgnLicsICcsJykgKyAn4oKsJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZHVtcCgpfX0K</text>
+        <text encoding="base64">aW5pdF9wY2Nmcm9udC5hY2thZ2UtbG9jay5qc29uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9tb2RpZmljYWRvCg==</text>
+        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0TWF0Y2giOiBbICd0c19fLyoqLyouanM/KHgpJywgJyoqLz8oKi4pKHNwZWN8dGVzdCkuanM/KHgpJyBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0UGF0aElnbm9yZVBhdHRlcm5zIjogIigvX190ZXN0c19fLy4qfChcXC58LykodGVzdHxzcGVjKSlcXC5qc3g/JCIK</text>
+        <text encoding="base64">ICAgIHt7IGR1bXAoJ29qaWNvIHF1ZSB2ZW5nbyBkZWwgc2VvbWFuYWdlcicpIH19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgZHVtcCgpfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJtb2NoYSI6ICJeNS4wLjEiCg==</text>
+        <text encoding="base64">Ly9tb2RpZmljYWRvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJpc3RhbmJ1bCI6ICJeMC40LjUiLAo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0TWF0Y2giOiBbICd0c19fLyoqLyouanM/KHgpJywgJyoqLz8oKi4pKHNwZWN8dGVzdCkuanM/KHgpJyBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjaGFpIjogIl40LjEuMiIsCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0UGF0aElnbm9yZVBhdHRlcm5zIjogIigvX190ZXN0c19fLy4qfChcXC58LykodGVzdHxzcGVjKSlcXC5qc3g/JCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
