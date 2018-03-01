@@ -1,7 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Hack" />
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SCALE" value="1.25" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -15,6 +15,10 @@
   </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
