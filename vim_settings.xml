@@ -298,8 +298,10 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/src/reactor/src/App.js" timestamp="1520113242399">
-        <mark key="[" line="0" column="39" />
+      <file name="$USER_HOME$/src/reactor/src/App.js" timestamp="1520149943091">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_mocha.yml" timestamp="1519410324269">
         <mark key="[" line="0" column="4" />
@@ -590,14 +592,14 @@
       <jump line="272" column="60" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBSZWFjdERPTS5yZW5kZXIoCiAgICAgICAgICAgIDxHYW1lLz4sCiAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykKICAgICAgICApOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge1NhbHVkb30K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDx0cj4=</text>
+        <text>{Saludo}</text>
       </register>
       <register name="/" type="4">
         <text>repl</text>
@@ -605,32 +607,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge1NhbHVkb30K</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICBSZWFjdERPTS5yZW5kZXIoCiAgICAgICAgICAgIDxHYW1lLz4sCiAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykKICAgICAgICApOw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyVGFibGUoKSB7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
