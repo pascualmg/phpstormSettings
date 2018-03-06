@@ -198,11 +198,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" timestamp="1520344411955">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" timestamp="1520362551313">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1517320894248">
         <mark key="[" line="978" column="0" />
@@ -535,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" />
       <jump line="35" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" />
       <jump line="50" column="36" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="14" column="18" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
@@ -635,58 +635,59 @@
       <jump line="146" column="14" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag22.Everything-in-order.js" />
       <jump line="34" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
       <jump line="5" column="15" filename="$USER_HOME$/temp/rx-from-mysql/index.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKGRhdGEpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>callbacks</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>, data: {},</text>
+        <text>callbacks</text>
       </register>
       <register name="/" type="4">
-        <text>closure</text>
+        <text>try</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZW4nLCBzcWxGcm9tUGFyYW1ldGVyLmxlbmd0aCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2NhbGxiYWNrcyA9IGNhbGxiYWNrcyB8fCB7fTsvL29iamVjdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKGRhdGEpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kOiAnZ2V0JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVR5cGU6ICJqc29uIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyICQgPSBKUXVlcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90cnkgdHJ5Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vdHJ5IHRyeQogICAgICAgICAgICBjb25zb2xlLmxvZygnYWhpIHZhbW9zJyk7Ly9UT0RPOiBib3JyYW1lLgogICAgICAgICAgICB2YXIgY2xpZW50ID0gbmV3IEZPRi5odHRwQ2xpZW50KHJlcXVlc3QpOwogICAgICAgICAgICBjbGllbnQuc2hvdygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX29yaWdpbmFsUGV0aSA9IGFjdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV2ZW50OiAnZ2V0VXNlcicgLy9FdmVudG8gYSBEaXNwYXJhciBjdWFuZG8gc2UgY29tcGxldGUgbGEgbGxhbWFkYQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NsaWVudCcsIGNsaWVudCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>s</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>closure</last-search>
+      <last-search>try</last-search>
       <last-offset />
-      <last-pattern>closure</last-pattern>
+      <last-pattern>try</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -694,7 +695,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Connec</entry>
         <entry>die</entry>
         <entry>minde</entry>
         <entry>inbenta</entry>
@@ -714,6 +714,7 @@
         <entry>repl</entry>
         <entry>atta</entry>
         <entry>closure</entry>
+        <entry>try</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
@@ -725,9 +726,9 @@
         <entry>set wrap</entry>
         <entry>wq</entry>
         <entry>n</entry>
-        <entry>w</entry>
         <entry>q!</entry>
         <entry>s</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
