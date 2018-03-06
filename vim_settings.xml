@@ -198,12 +198,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" timestamp="1520362551313">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="2" column="63" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
+      <file name="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" timestamp="1520365215291">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+        <mark key="^" line="4" column="41" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1517320894248">
         <mark key="[" line="978" column="0" />
@@ -536,11 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" />
-      <jump line="50" column="36" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
-      <jump line="14" column="18" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
-      <jump line="147" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
-      <jump line="190" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="227" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="474" column="27" filename="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Shopping/Order/order-detail.js" />
       <jump line="1428" column="46" filename="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Shopping/Order/order-detail.js" />
@@ -636,40 +631,49 @@
       <jump line="34" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
       <jump line="5" column="15" filename="$USER_HOME$/temp/rx-from-mysql/index.js" />
       <jump line="110" column="0" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
+      <jump line="57" column="21" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
+      <jump line="119" column="29" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
+      <jump line="126" column="4" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>callbacks</text>
+        <text>proccess</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>callbacks</text>
+        <text>proccess</text>
       </register>
       <register name="/" type="4">
-        <text>try</text>
+        <text>contro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2NhbGxiYWNrcyA9IGNhbGxiYWNrcyB8fCB7fTsvL29iamVjdAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZHVtcCA9IGR1bXBNeVRoaXM7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>switch (action) {
+        case 'getHttpClient': {
+            return 'getHttpClientStub';
+        }
+    }</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90cnkgdHJ5Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vdHJ5IHRyeQogICAgICAgICAgICBjb25zb2xlLmxvZygnYWhpIHZhbW9zJyk7Ly9UT0RPOiBib3JyYW1lLgogICAgICAgICAgICB2YXIgY2xpZW50ID0gbmV3IEZPRi5odHRwQ2xpZW50KHJlcXVlc3QpOwogICAgICAgICAgICBjbGllbnQuc2hvdygpOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXIucHJvY2VzcygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX29yaWdpbmFsUGV0aSA9IGFjdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -678,16 +682,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NsaWVudCcsIGNsaWVudCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90cnkgdHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>try</last-search>
+      <last-search>contro</last-search>
       <last-offset />
-      <last-pattern>try</last-pattern>
+      <last-pattern>contro</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -695,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry>die</entry>
         <entry>minde</entry>
         <entry>inbenta</entry>
         <entry>inben</entry>
@@ -715,6 +718,7 @@
         <entry>atta</entry>
         <entry>closure</entry>
         <entry>try</entry>
+        <entry>contro</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
