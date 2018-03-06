@@ -198,6 +198,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" timestamp="1520333115710">
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="67" column="15" />
+        <mark key="^" line="67" column="15" />
+        <mark key="." line="67" column="15" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1517320894248">
         <mark key="[" line="978" column="0" />
         <mark key="]" line="978" column="0" />
@@ -631,32 +637,32 @@
       <jump line="5" column="15" filename="$USER_HOME$/temp/rx-from-mysql/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>ready</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>argv</text>
+        <text>ready</text>
       </register>
       <register name="/" type="4">
-        <text>atta</text>
+        <text>closure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZW4nLCBzcWxGcm9tUGFyYW1ldGVyLmxlbmd0aCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBhcmd2ID0gcHJvY2Vzcy5hcmd2Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZW4nLCBzcWxGcm9tUGFyYW1ldGVyLmxlbmd0aCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzcWwnLCBzcWxGcm9tUGFyYW1ldGVyKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgIGV2ZW50OiAnZ2V0VXNlcicgLy9FdmVudG8gYSBEaXNwYXJhciBjdWFuZG8gc2UgY29tcGxldGUgbGEgbGxhbWFkYQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -665,22 +671,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICJzZWxlY3QgKiBmcm9tIHdlYi5jbGllbnRlcyBjbGkgd2hlcmUgY2xpLmxvY2FsaWRhZCA9ICdBbGhhbWEgZGUgTXVyY2lhJyAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNxbEZyb21QYXJhbWV0ZXIubGVuZ3RoCg==</text>
+        <text encoding="base64">ICAgICAgICAvL0N1YW5kbyBzZSBwYXNlIHJlcXVlc3QgLCBwb3IgZGVmYXVsdCB2YWPDrWEuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
-      <last-search>atta</last-search>
+      <last-search>closure</last-search>
       <last-offset />
-      <last-pattern>atta</last-pattern>
+      <last-pattern>closure</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -688,7 +694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connec</entry>
         <entry>Connec</entry>
         <entry>die</entry>
         <entry>minde</entry>
@@ -708,6 +713,7 @@
         <entry>avai</entry>
         <entry>repl</entry>
         <entry>atta</entry>
+        <entry>closure</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
@@ -718,9 +724,10 @@
         <entry>q</entry>
         <entry>set wrap</entry>
         <entry>wq</entry>
-        <entry>q!</entry>
         <entry>n</entry>
         <entry>w</entry>
+        <entry>q!</entry>
+        <entry>s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
