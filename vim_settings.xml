@@ -37,6 +37,12 @@
         <mark key="." line="640" column="0" />
         <mark key="^" line="640" column="13" />
       </file>
+      <file name="$USER_HOME$/temp/app/clientes.js" timestamp="1520324184986">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="65" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/3.pag007.js" timestamp="1520098054796">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -309,7 +315,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/temp/rx-from-mysql/example.js" timestamp="1520301095742">
+      <file name="$USER_HOME$/temp/rx-from-mysql/example.js" timestamp="1520322066339">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
@@ -404,7 +410,7 @@
       <file name="/dummy.sql" timestamp="1519715922352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520300698487">
+      <file name="/Dummy.txt" timestamp="1520322727708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -508,6 +514,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/temp/rx-from-mysql/example2.js" timestamp="1520321917853">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/index.php" timestamp="1513206489400">
         <mark key="[" line="4" column="11" />
@@ -619,47 +631,47 @@
       <jump line="5" column="15" filename="$USER_HOME$/temp/rx-from-mysql/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yourSecretPassword</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>yourSecretPassword</text>
+        <text>argv</text>
       </register>
       <register name="/" type="4">
         <text>atta</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIG5leHQobmV4dFJvd0RhdGFQYWNrZXQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ25leHQnLCBuZXh0Um93RGF0YVBhY2tldCkKICAgICAgICB9LA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZW4nLCBzcWxGcm9tUGFyYW1ldGVyLmxlbmd0aCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwgcngtZnJvbS1teXNxbCAtLXNhdmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBhcmd2ID0gcHJvY2Vzcy5hcmd2Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q3JlYSB1biBPYnNlcnZhYmxlIGEgcGFydGlyIGRlIHVuYSBjb25zdWx0YSBhIHVuYSBEREJCIE15U1FMCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZW4nLCBzcWxGcm9tUGFyYW1ldGVyLmxlbmd0aCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzcWwnLCBzcWxGcm9tUGFyYW1ldGVyKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ago=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Z2V0Y29ubiBzZSBiYWphCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vICJzZWxlY3QgKiBmcm9tIHdlYi5jbGllbnRlcyBjbGkgd2hlcmUgY2xpLmxvY2FsaWRhZCA9ICdBbGhhbWEgZGUgTXVyY2lhJyAiLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNxbEZyb21QYXJhbWV0ZXIubGVuZ3RoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
