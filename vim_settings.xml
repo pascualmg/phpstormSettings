@@ -450,7 +450,9 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/_filter-item.html.twig" timestamp="1520501169704" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1520522766174">
+        <mark key="'" line="85" column="22" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/.env" timestamp="1517245119248">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
@@ -559,7 +561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="2" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Model/Cart/AbstractCartOrder.php" />
       <jump line="82" column="15" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Model/Cart/OrderModelAbstract.php" />
       <jump line="1299" column="5" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Model/Cart/OrderModelAbstract.php" />
       <jump line="102" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
@@ -659,6 +660,7 @@
       <jump line="376" column="57" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="17" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="24" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" />
+      <jump line="85" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -672,7 +674,7 @@ Controla si se hace o no request.</text>
         <text encoding="base64">aHR0cHM6Ly9qaXJhLnBjY29tcG9uZW50ZXMuY29tL2Jyb3dzZS9CVC05NT9mb2N1c2VkV29ya2xvZ0lkPTQzMjQ0JnBhZ2U9Y29tLmF0bGFzc2lhbi5qaXJhLnBsdWdpbi5zeXN0ZW0uaXNzdWV0YWJwYW5lbHMlM0F3b3JrbG9nLXRhYnBhbmVsI3dvcmtsb2ctNDMyNDQ=</text>
       </register>
       <register name="/" type="4">
-        <text>insuran</text>
+        <text>itemtype</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFzRmlsdGVyczoge3sgaGFzRmlsdGVycyB9fSAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IyBJbmRpY2Egc2kgc2UgaGEgc2V0dGVhZG8gYWxnw7puIGZpbHRybyBlbiBlbCBsaXN0YWRvIHkgcmV0b3JuYSBjYWRlbmEgKERlZmF1bHQ6J2ZhbHNlJykjfQo=</text>
@@ -710,9 +712,9 @@ Controla si se hace o no request.</text>
       </register>
     </registers>
     <search>
-      <last-search>insuran</last-search>
+      <last-search>itemtype</last-search>
       <last-offset />
-      <last-pattern>insuran</last-pattern>
+      <last-pattern>itemtype</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -720,8 +722,6 @@ Controla si se hace o no request.</text>
     </search>
     <history>
       <history-search>
-        <entry>__getTotalPrice</entry>
-        <entry>title</entry>
         <entry>book</entry>
         <entry>__priceDecimalContent</entry>
         <entry>test</entry>
@@ -740,6 +740,8 @@ Controla si se hace o no request.</text>
         <entry>params</entry>
         <entry>premium</entry>
         <entry>insuran</entry>
+        <entry>typeof</entry>
+        <entry>itemtype</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
