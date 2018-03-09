@@ -86,11 +86,11 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520603658176">
-        <mark key="[" line="205" column="60" />
-        <mark key="]" line="205" column="71" />
-        <mark key="^" line="205" column="71" />
-        <mark key="." line="205" column="71" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520636142094">
+        <mark key="'" line="207" column="35" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/src/FormacionOldFront/README.md" timestamp="1520328778744">
         <mark key="[" line="1" column="46" />
@@ -318,6 +318,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-metas-static-local-business.html.twig" timestamp="1520635542127" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" timestamp="1520501584888">
         <mark key="[" line="290" column="0" />
         <mark key="]" line="290" column="0" />
@@ -585,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="67" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="162" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="180" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
@@ -685,58 +685,59 @@
       <jump line="621" column="78" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="70" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="358" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
+      <jump line="207" column="35" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>€€€</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>€€€</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>schema</text>
+        <text>fiscal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1ldGEgaXRlbXByb3A9InByaWNlUmFuZ2UiIGNvbnRlbnQ9IuKCrOKCrOKCrCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmN1cnJlbnRJdGVtRGV0YWlsc1snZmFtaSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYXRlZ29yaWVzJywgY2F0ZWdvcmllcyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25maWcnLCBjb25maWcpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsZXRlTm9kZUJ5TmFtZSgkY3VycmVudEl0ZW0sICRub2RlTmFtZTJTZWFyY2gpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmN1cnJlbnRJdGVtRGV0YWlsc1snZmFtaSddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYXRlZ29yaWVzJywgY2F0ZWdvcmllcyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>schema</last-search>
+      <last-search>fiscal</last-search>
       <last-offset />
-      <last-pattern>schema</last-pattern>
+      <last-pattern>fiscal</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -744,7 +745,6 @@
     </search>
     <history>
       <history-search>
-        <entry>atta</entry>
         <entry>closure</entry>
         <entry>try</entry>
         <entry>contro</entry>
@@ -764,6 +764,7 @@
         <entry>SingleA</entry>
         <entry>prepare</entry>
         <entry>schema</entry>
+        <entry>fiscal</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
