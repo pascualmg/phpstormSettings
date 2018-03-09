@@ -86,6 +86,12 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520603658176">
+        <mark key="[" line="205" column="60" />
+        <mark key="]" line="205" column="71" />
+        <mark key="^" line="205" column="71" />
+        <mark key="." line="205" column="71" />
+      </file>
       <file name="$USER_HOME$/src/FormacionOldFront/README.md" timestamp="1520328778744">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="8" column="0" />
@@ -145,6 +151,13 @@
         <mark key="]" line="69" column="3" />
         <mark key="." line="69" column="3" />
         <mark key="^" line="69" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" timestamp="1520601235131">
+        <mark key="'" line="358" column="38" />
+        <mark key="[" line="23" column="95" />
+        <mark key="]" line="23" column="104" />
+        <mark key="." line="23" column="104" />
+        <mark key="^" line="23" column="104" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Domain/Model/Article/Search/MokedSearchApi.php" timestamp="1513293331852">
         <mark key="[" line="8" column="19" />
@@ -504,6 +517,7 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-metas.html.twig" timestamp="1520601773020" />
       <file name="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag27.binding-exceptions.js" timestamp="1520278217575">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="38" column="0" />
@@ -516,7 +530,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520595133739">
+      <file name="/Dummy.txt" timestamp="1520601773922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -571,7 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="145" column="67" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="162" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="180" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
@@ -671,22 +684,23 @@
       <jump line="257" column="27" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="621" column="78" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="70" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="358" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>€€€</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cHM6Ly9qaXJhLnBjY29tcG9uZW50ZXMuY29tL2Jyb3dzZS9CVC05NT9mb2N1c2VkV29ya2xvZ0lkPTQzMjQ0JnBhZ2U9Y29tLmF0bGFzc2lhbi5qaXJhLnBsdWdpbi5zeXN0ZW0uaXNzdWV0YWJwYW5lbHMlM0F3b3JrbG9nLXRhYnBhbmVsI3dvcmtsb2ctNDMyNDQ=</text>
+        <text>€€€</text>
       </register>
       <register name="/" type="4">
-        <text>prepare</text>
+        <text>schema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFzRmlsdGVyczoge3sgaGFzRmlsdGVycyB9fSAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IyBJbmRpY2Egc2kgc2UgaGEgc2V0dGVhZG8gYWxnw7puIGZpbHRybyBlbiBlbCBsaXN0YWRvIHkgcmV0b3JuYSBjYWRlbmEgKERlZmF1bHQ6J2ZhbHNlJykjfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1ldGEgaXRlbXByb3A9InByaWNlUmFuZ2UiIGNvbnRlbnQ9IuKCrOKCrOKCrCIvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -720,9 +734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>prepare</last-search>
+      <last-search>schema</last-search>
       <last-offset />
-      <last-pattern>prepare</last-pattern>
+      <last-pattern>schema</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -730,7 +744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>repl</entry>
         <entry>atta</entry>
         <entry>closure</entry>
         <entry>try</entry>
@@ -750,6 +763,7 @@
         <entry>name</entry>
         <entry>SingleA</entry>
         <entry>prepare</entry>
+        <entry>schema</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
