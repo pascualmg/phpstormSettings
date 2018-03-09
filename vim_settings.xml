@@ -86,11 +86,12 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520636142094">
-        <mark key="'" line="207" column="35" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520637435223">
+        <mark key="'" line="202" column="35" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="203" column="87" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/src/FormacionOldFront/README.md" timestamp="1520328778744">
         <mark key="[" line="1" column="46" />
@@ -115,6 +116,11 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-microdata-static-business.html.twig" timestamp="1520637473662">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag15.js" timestamp="1520100072240">
         <mark key="[" line="15" column="0" />
@@ -318,7 +324,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-metas-static-local-business.html.twig" timestamp="1520635542127" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" timestamp="1520501584888">
         <mark key="[" line="290" column="0" />
         <mark key="]" line="290" column="0" />
@@ -518,7 +523,11 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-metas.html.twig" timestamp="1520601773020" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/base/NormalLayout/footer.es.xlf" timestamp="1520636580950">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="90" column="16" />
+        <mark key="]" line="94" column="59" />
+      </file>
       <file name="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag27.binding-exceptions.js" timestamp="1520278217575">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="38" column="0" />
@@ -586,8 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
-      <jump line="180" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
       <jump line="233" column="81" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/support/index.html.twig" />
       <jump line="277" column="81" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/support/index.html.twig" />
@@ -686,66 +693,67 @@
       <jump line="70" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="358" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
       <jump line="207" column="35" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" />
+      <jump line="19" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/base/NormalLayout/footer.es.xlf" />
+      <jump line="0" column="84" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-microdata-static-business.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>icrodata</text>
       </register>
       <register name="/" type="4">
-        <text>fiscal</text>
+        <text encoding="base64">XDwuXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1ldGEgaXRlbXByb3A9InByaWNlUmFuZ2UiIGNvbnRlbnQ9IuKCrOKCrOKCrCIvPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">c2VvX21pY3JvZGF0YV9zdGF0aWNfYnVzaW5lc3NfZmlzY2FsIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZy5PSycpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzY3JpcHQgPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGVzdGluZyI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgYmxvY2sgc2VvX21pY3JvZGF0YV9zdGF0aWNfYnVzaW5lc3MgJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgYmxvY2sgc2VvX21pY3JvZGF0YV9zdGF0aWNfYnVzaW5lc3NfZmlzY2FsICV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmN1cnJlbnRJdGVtRGV0YWlsc1snZmFtaSddKQo=</text>
+        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYXRlZ29yaWVzJywgY2F0ZWdvcmllcyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CnslIGJsb2NrIHNlb19taWNyb2RhdGFfc3RhdGljX2J1c2luZXNzICV9CiAgICB7JSBibG9jayBzZW9fbWljcm9kYXRhICV9CnslIGVuZGJsb2NrICV9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fiscal</last-search>
+      <last-search encoding="base64">XDwuXD4=</last-search>
       <last-offset />
-      <last-pattern>fiscal</last-pattern>
+      <last-pattern encoding="base64">XDwuXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>closure</entry>
         <entry>try</entry>
         <entry>contro</entry>
         <entry>request</entry>
@@ -765,6 +773,7 @@
         <entry>prepare</entry>
         <entry>schema</entry>
         <entry>fiscal</entry>
+        <entry encoding="base64">XDwuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
