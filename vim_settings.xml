@@ -152,10 +152,10 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1520586678714">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/src/web/xml/feed/skel/class/feeder.php" timestamp="1520598177612">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/048ba936-5cfb-462f-acda-f1d4cb1f2a41/console_1.sql" timestamp="1519715702613">
         <mark key="[" line="0" column="0" />
@@ -421,8 +421,8 @@
         <mark key="]" line="978" column="0" />
         <mark key="." line="978" column="0" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1520583690410">
-        <mark key="'" line="621" column="78" />
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1520597634866">
+        <mark key="'" line="70" column="15" />
       </file>
       <file name="$USER_HOME$/src/pccapi/bin/humbug/humbuglog.txt" timestamp="1516103239379">
         <mark key="[" line="312" column="1" />
@@ -667,10 +667,10 @@
       <jump line="17" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="24" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" />
       <jump line="85" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
-      <jump line="70" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="148" column="29" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="257" column="27" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="621" column="78" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="70" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -683,7 +683,7 @@
         <text encoding="base64">aHR0cHM6Ly9qaXJhLnBjY29tcG9uZW50ZXMuY29tL2Jyb3dzZS9CVC05NT9mb2N1c2VkV29ya2xvZ0lkPTQzMjQ0JnBhZ2U9Y29tLmF0bGFzc2lhbi5qaXJhLnBsdWdpbi5zeXN0ZW0uaXNzdWV0YWJwYW5lbHMlM0F3b3JrbG9nLXRhYnBhbmVsI3dvcmtsb2ctNDMyNDQ=</text>
       </register>
       <register name="/" type="4">
-        <text>SingleA</text>
+        <text>prepare</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFzRmlsdGVyczoge3sgaGFzRmlsdGVycyB9fSAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IyBJbmRpY2Egc2kgc2UgaGEgc2V0dGVhZG8gYWxnw7puIGZpbHRybyBlbiBlbCBsaXN0YWRvIHkgcmV0b3JuYSBjYWRlbmEgKERlZmF1bHQ6J2ZhbHNlJykjfQo=</text>
@@ -692,37 +692,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmN1cnJlbnRJdGVtRGV0YWlsc1snZmFtaSddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYXRlZ29yaWVzJywgY2F0ZWdvcmllcyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmN1cnJlbnRJdGVtRGV0YWlsc1snZmFtaSddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25maWcnLCBjb25maWcpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYXRlZ29yaWVzJywgY2F0ZWdvcmllcyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsZXRlTm9kZUJ5TmFtZSgkY3VycmVudEl0ZW0sICRub2RlTmFtZTJTZWFyY2gpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25maWcnLCBjb25maWcpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsZXRlTm9kZUJ5TmFtZSgkY3VycmVudEl0ZW0sICRub2RlTmFtZTJTZWFyY2gpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SingleA</last-search>
+      <last-search>prepare</last-search>
       <last-offset />
-      <last-pattern>SingleA</last-pattern>
+      <last-pattern>prepare</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -730,7 +730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>avai</entry>
         <entry>repl</entry>
         <entry>atta</entry>
         <entry>closure</entry>
@@ -750,6 +749,7 @@
         <entry>changename</entry>
         <entry>name</entry>
         <entry>SingleA</entry>
+        <entry>prepare</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
