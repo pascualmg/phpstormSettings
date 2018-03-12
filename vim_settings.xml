@@ -86,7 +86,7 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520857241380">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520860289035">
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="0" />
         <mark key="." line="216" column="0" />
@@ -109,11 +109,11 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1520857710895">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
-        <mark key="^" line="230" column="1" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1520860639583">
+        <mark key="[" line="225" column="2" />
+        <mark key="]" line="225" column="2" />
+        <mark key="^" line="225" column="2" />
+        <mark key="." line="225" column="2" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/microdata-static-business.html.twig" timestamp="1520843380440">
         <mark key="[" line="20" column="32" />
@@ -169,12 +169,12 @@
         <mark key="." line="69" column="3" />
         <mark key="^" line="69" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" timestamp="1520601235131">
-        <mark key="'" line="358" column="38" />
-        <mark key="[" line="23" column="95" />
-        <mark key="]" line="23" column="104" />
-        <mark key="." line="23" column="104" />
-        <mark key="^" line="23" column="104" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" timestamp="1520861341911">
+        <mark key="'" line="21" column="123" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="21" column="104" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Domain/Model/Article/Search/MokedSearchApi.php" timestamp="1513293331852">
         <mark key="[" line="8" column="19" />
@@ -578,7 +578,8 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520852833880">
+      <file name="/Dummy.txt" timestamp="1520861527944">
+        <mark key="i" line="0" column="53" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -638,8 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/support/search.html.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/support/sidebar.html.twig" />
       <jump line="10" column="34" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
       <jump line="16" column="1" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/TestController.php" />
@@ -738,58 +737,60 @@
       <jump line="302" column="10" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="382" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="437" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
+      <jump line="290" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
+      <jump line="21" column="123" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Incluir microdatos en la página de productos</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>Product</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAic2FtZUFzIjogWwogICAgImh0dHBzOi8vd3d3LnBjY29tcG9uZW50ZXMucHQiCiAgXSw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIkBjb250ZXh0IjogImh0dHA6Ly9zY2hlbWEub3JnIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJy9Vc2Vycy9wYXNzaC9zcmMvcGNjZnJvbnQvc3JjL1BjYy9CdW5kbGUvV2ViQnVuZGxlL1Jlc291cmNlcy92aWV3cy9taWNyb2RhdGEvbWljcm9kYXRhLmh0bWwudHdpZycgJX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXRhIGl0ZW1wcm9wPSJhZGRyZXNzUmVnaW9uIiBjb250ZW50PSJNdXJjaWEiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXRhIGl0ZW1wcm9wPSJhZGRyZXNzTG9jYWxpdHkiIGNvbnRlbnQ9IkFsaGFtYSBkZSBNdXJjaWEiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgYmxvY2soJ21pY3JvZGF0YV9wb3N0YWxfYWRkcmVzcycpIH19Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXRhIGl0ZW1wcm9wPSJwb3N0YWxDb2RlIiBjb250ZW50PSIzMDg0MCIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvbWljcm9kYXRhL21pY3JvZGF0YS1sb2NhbC1idXNpbmVzcy5odG1sLnR3aWcnICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ9IkFWREEgRXVyb3BhLCBQYXJjZWxhIDItNSB5IDItNi4gUG9sw61nb25vIGluZHVzdHJpYWwgTGFzIFNhbGluYXMiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>Product</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>Product</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -797,7 +798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contro</entry>
         <entry>request</entry>
         <entry>spotfront</entry>
         <entry>spot</entry>
@@ -817,6 +817,7 @@
         <entry>fiscal</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry>console.log</entry>
+        <entry>Product</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
