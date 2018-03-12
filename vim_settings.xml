@@ -86,11 +86,11 @@
         <mark key="^" line="135" column="1" />
         <mark key="." line="135" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520848216349">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="^" line="221" column="21" />
-        <mark key="." line="221" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1520849394830">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="220" column="21" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/FormacionOldFront/README.md" timestamp="1520328778744">
         <mark key="[" line="1" column="46" />
@@ -291,11 +291,11 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/microdata/microdata-local-business.twig" timestamp="1520848009087">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/microdata/microdata-local-business.twig" timestamp="1520849384120">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users" timestamp="1520328894860">
         <mark key="[" line="1" column="0" />
@@ -568,10 +568,10 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520847827150">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1520849758599">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1516905982058">
         <mark key="[" line="5" column="1" />
@@ -730,14 +730,14 @@
       <jump line="437" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHslIGJsb2NrIG1pY3JvZGF0YSAlfQo=</text>
+      <register name="&quot;" type="4">
+        <text>cambian</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cambian</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -746,33 +746,31 @@
         <text encoding="base64">ICAgIHt7IGJsb2NrKCdzZW9fbWljcm9kYXRhX2xvY2FsX2J1c2luZXNzJykgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHslIGJsb2NrIG1pY3JvZGF0YSAlfQo=</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi9taWNyb2RhdGEvbWljcm9kYXRhLmh0bWwudHdpZycgJX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgZXh0ZW5kcyAnbWljcm9kYXRhLmh0bWwudHdpZycgJX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgeyUgaW5jbHVkZSAnQFBjY1dlYi9taWNyb2RhdGEvbWljcm9kYXRhLmh0bWwudHdpZycgJX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHt7IGJsb2NrKCdzZW9fbWljcm9kYXRhX2xvY2FsX2J1c2luZXNzJykgfX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">eyUgZW5kYmxvY2sgbWljcm9kYXRhICV9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHslIGJsb2NrIG1pY3JvZGF0YSAlfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ21pY3JvZGF0YS1sb2NhbC1idXNpbmVzcy50d2lnJyAlfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{% block microdata %}
-    {{ block('seo_microdata_local_business') }}
-{% endblock microdata %}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgeyUgaW5jbHVkZSAnQFBjY1dlYi9taWNyb2RhdGEvbWljcm9kYXRhLmh0bWwudHdpZycgJX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHt7IGJsb2NrKCdzZW9fbWljcm9kYXRhX2xvY2FsX2J1c2luZXNzJykgfX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">eyUgZW5kYmxvY2sgbWljcm9kYXRhICV9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHslIGJsb2NrIG1pY3JvZGF0YSAlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRibG9jayBtaWNyb2RhdGEgJX0K</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ21pY3JvZGF0YS1sb2NhbC1idXNpbmVzcy50d2lnJyAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
