@@ -75,12 +75,11 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" timestamp="1520883289618">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" timestamp="1520896652857">
         <mark key="'" line="186" column="0" />
-        <mark key="[" line="202" column="12" />
-        <mark key="]" line="202" column="20" />
-        <mark key="." line="202" column="20" />
-        <mark key="^" line="202" column="20" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/nginx_apiweb/config/nginx_app_dev.conf" timestamp="1517494603030">
         <mark key="[" line="19" column="0" />
@@ -152,7 +151,7 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/microdata/microdata-product.json-ld.twig" timestamp="1520883258504">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/microdata/microdata-product.json-ld.twig" timestamp="1520895848701">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
@@ -760,14 +759,14 @@
       <jump line="186" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>microdatos</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ21pY3JvZGEnICV9Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>microdatos</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
@@ -776,31 +775,31 @@
         <text encoding="base64">eyUgc2V0IGltYWdlX3NlcnZlciA9ICdodHRwczovL2ltZy5wY2NvbXBvbmVudGVzLmNvbS8nICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ21pY3JvZGEnICV9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC9Vc2Vycy9wYXNzaC9zcmMvcGNjZnJvbnQvZXMvdmlld3MvbWljcm9kYXRhL21pY3JvZGF0YS1wcm9kdWN0Lmpzb24tbGQudHdpZwo=</text>
+        <text encoding="base64">ICAgIHslICAlfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvYXJ0aWNsZS9taWNyb2RhdGEvbWljcm9kYXRhLXByb2R1Y3QuanNvbi1sZC50d2lnJyAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgZXdzL2FydGljbGUvZGV0YWlsL2hlYWRlci9hcnRpY2xlLWhlYWRlci5odG1sLnR3aWcK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC9Vc2Vycy9wYXNzaC9zcmMvcGNjZnJvbnQvZXMvdmlld3MvbWljcm9kYXRhL21pY3JvZGF0YS1wcm9kdWN0Lmpzb24tbGQudHdpZwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvYXJ0aWNsZS9taWNyb2RhdGEvbWljcm9kYXRhLXByb2R1Y3QuanNvbi1sZC50d2lnJyAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0ibWljcm9kYXRvcy1wcm9kdWN0Ij4K</text>
+        <text encoding="base64">ICAgZXdzL2FydGljbGUvZGV0YWlsL2hlYWRlci9hcnRpY2xlLWhlYWRlci5odG1sLnR3aWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsjRWwgc2NyaXB0I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvJyAlfQo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ibWljcm9kYXRvcy1wcm9kdWN0Ij4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
