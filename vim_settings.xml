@@ -75,12 +75,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" timestamp="1520882115198">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" timestamp="1520883289618">
         <mark key="'" line="186" column="0" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="204" column="14" />
-        <mark key="^" line="204" column="14" />
-        <mark key="." line="204" column="14" />
+        <mark key="[" line="202" column="12" />
+        <mark key="]" line="202" column="20" />
+        <mark key="." line="202" column="20" />
+        <mark key="^" line="202" column="20" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/nginx_apiweb/config/nginx_app_dev.conf" timestamp="1517494603030">
         <mark key="[" line="19" column="0" />
@@ -151,6 +151,12 @@
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/microdata/microdata-product.json-ld.twig" timestamp="1520883258504">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+        <mark key="^" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/src/lacuevadelgrillo3.0/lacuevadelgrillo3.0/js/mensajes/mensaje_fotos_generator.js" timestamp="1513508420505">
         <mark key="[" line="31" column="16" />
@@ -294,7 +300,6 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card-stars-rate.html.twig" timestamp="1520862185968" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" timestamp="1520511373856">
         <mark key="'" line="24" column="18" />
       </file>
@@ -517,6 +522,12 @@
         <mark key="]" line="17" column="39" />
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/microdata/microdata-product.json-ld.twig" timestamp="1520882442062">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/temp/extrator/.gitignore" timestamp="1520289560940">
         <mark key="[" line="0" column="12" />
@@ -749,14 +760,14 @@
       <jump line="186" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtZXRybyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>microdatos</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>microdatos</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
@@ -765,31 +776,31 @@
         <text encoding="base64">eyUgc2V0IGltYWdlX3NlcnZlciA9ICdodHRwczovL2ltZy5wY2NvbXBvbmVudGVzLmNvbS8nICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtZXRybyk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnslIHNldCBpbWFnZV9zZXJ2ZXIgPSAnaHR0cHM6Ly9pbWcucGNjb21wb25lbnRlcy5jb20vJyAlfQp7JSBzZXQgbWljcm9kYXRhX2ltYWdlID0gaW1hZ2Vfc2VydmVyIH4gYXJ0aWNsZS5tYWluSW1hZ2UgJX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC9Vc2Vycy9wYXNzaC9zcmMvcGNjZnJvbnQvZXMvdmlld3MvbWljcm9kYXRhL21pY3JvZGF0YS1wcm9kdWN0Lmpzb24tbGQudHdpZwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnslIHNldCBpbWFnZV9zZXJ2ZXIgPSAnaHR0cHM6Ly9pbWcucGNjb21wb25lbnRlcy5jb20vJyAlfQo=</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvYXJ0aWNsZS9taWNyb2RhdGEvbWljcm9kYXRhLXByb2R1Y3QuanNvbi1sZC50d2lnJyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgZXdzL2FydGljbGUvZGV0YWlsL2hlYWRlci9hcnRpY2xlLWhlYWRlci5odG1sLnR3aWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ibWljcm9kYXRvcy1wcm9kdWN0Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IH4ge3sgYXJ0aWNsZS5tYWluSW1hZ2UgfX0gJX0K</text>
+        <text encoding="base64">ICAgIHsjRWwgc2NyaXB0I30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHt7IHNlb09uUGFnZS5oMSB9fQo=</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvJyAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
