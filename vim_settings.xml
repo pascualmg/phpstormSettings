@@ -75,6 +75,13 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" timestamp="1520864657661">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="192" column="27" />
+        <mark key="]" line="192" column="26" />
+        <mark key="^" line="192" column="26" />
+        <mark key="." line="192" column="26" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/nginx_apiweb/config/nginx_app_dev.conf" timestamp="1517494603030">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -287,6 +294,7 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="12" column="34" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card-stars-rate.html.twig" timestamp="1520862185968" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" timestamp="1520511373856">
         <mark key="'" line="24" column="18" />
       </file>
@@ -578,7 +586,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520861527944">
+      <file name="/Dummy.txt" timestamp="1520862652064">
         <mark key="i" line="0" column="53" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -639,24 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="34" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
-      <jump line="16" column="1" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/TestController.php" />
-      <jump line="31" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/TestController.php" />
-      <jump line="85" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
-      <jump line="140" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
-      <jump line="29" column="35" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" />
-      <jump line="116" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" />
-      <jump line="193" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/withCoverageTry.js" />
-      <jump line="499" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
-      <jump line="563" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
-      <jump line="35" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/configurator/Pcc.Configurator.js" />
-      <jump line="31" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/configurator/Pcc.Configurator.js" />
-      <jump line="33" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/configurator/Pcc.Configurator.js" />
-      <jump line="1424" column="58" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
-      <jump line="1067" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
-      <jump line="1095" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1006" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1011" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1015" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
@@ -739,58 +729,76 @@
       <jump line="437" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="290" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
       <jump line="21" column="123" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
+      <jump line="113" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="130" column="47" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="134" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="135" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="136" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="137" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="138" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="7" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="170" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="8" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="32" column="35" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="33" column="25" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="45" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="50" column="57" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="111" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="27" column="62" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="192" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
+      <jump line="186" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>thump</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Incluir microdatos en la página de productos</text>
+        <text>thump</text>
       </register>
       <register name="/" type="4">
-        <text>Product</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIsCg==</text>
+        <text encoding="base64">ICAgICAgImltYWdlIjogImltYWdlbnRvZ3VhcGEiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImltYWdlIjogImltYWdlbnRvZ3VhcGEiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXRhIGl0ZW1wcm9wPSJhZGRyZXNzUmVnaW9uIiBjb250ZW50PSJNdXJjaWEiLz4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXRhIGl0ZW1wcm9wPSJhZGRyZXNzTG9jYWxpdHkiIGNvbnRlbnQ9IkFsaGFtYSBkZSBNdXJjaWEiLz4K</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXRhIGl0ZW1wcm9wPSJwb3N0YWxDb2RlIiBjb250ZW50PSIzMDg0MCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ9IkFWREEgRXVyb3BhLCBQYXJjZWxhIDItNSB5IDItNi4gUG9sw61nb25vIGluZHVzdHJpYWwgTGFzIFNhbGluYXMiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXRhIGl0ZW1wcm9wPSJhZGRyZXNzUmVnaW9uIiBjb250ZW50PSJNdXJjaWEiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Product</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>Product</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -798,9 +806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry>spotfront</entry>
-        <entry>spot</entry>
         <entry>filter</entry>
         <entry>dump</entry>
         <entry>params</entry>
@@ -818,6 +823,9 @@
         <entry encoding="base64">XDwuXD4=</entry>
         <entry>console.log</entry>
         <entry>Product</entry>
+        <entry>itemprop</entry>
+        <entry>itemprop=&quot;image&quot;</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
