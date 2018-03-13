@@ -39,11 +39,12 @@
         <mark key="." line="833" column="0" />
         <mark key="^" line="833" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Shopping/Order/OrderManager.php" timestamp="1517916694764">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="52" column="36" />
-        <mark key="." line="52" column="36" />
-        <mark key="^" line="52" column="36" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Shopping/Order/OrderManager.php" timestamp="1520950200773">
+        <mark key="'" line="25" column="41" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="12" />
       </file>
       <file name="$USER_HOME$/src/pccfront/.gitignore" timestamp="1519901524760">
         <mark key="[" line="374" column="0" />
@@ -304,6 +305,7 @@
         <mark key="^" line="20" column="113" />
         <mark key="." line="20" column="113" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" timestamp="1520950744140" />
       <file name="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users" timestamp="1520328894860">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="1" />
@@ -401,7 +403,6 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="47" />
       </file>
-      <file name="/article-header.html.twig" timestamp="1520940445077" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/amp/head/head-amp.html.twig" timestamp="1519727361141">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="8" column="35" />
@@ -463,6 +464,7 @@
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_shipping-layout.html.twig" timestamp="1520950559661" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1517320894248">
         <mark key="[" line="978" column="0" />
         <mark key="]" line="978" column="0" />
@@ -580,9 +582,9 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520948222293">
+      <file name="/Dummy.txt" timestamp="1520950713383">
         <mark key="i" line="0" column="53" />
-        <mark key="[" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -641,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1011" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1015" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1017" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1018" column="54" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
@@ -741,58 +742,59 @@
       <jump line="186" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
       <jump line="27" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
       <jump line="209" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="25" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Shopping/Order/OrderManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHJlZmFjdG9yIGRlIGxvcyBzY3JpcHRzIGVzdMOhdGljb3MgZGUgbG9jYWxidXNpbmVzcyB5IHdlYnNpdGUu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCdvcmRlcm1hbmFnZXInKTsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlZmFjdG9yIGRlIGxvcyBzY3JpcHRzIGVzdMOhdGljb3MgZGUgbG9jYWxidXNpbmVzcyB5IHdlYnNpdGUu</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>brand</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAicmF0aW5nVmFsdWUiOiAie3sgY29tbWVudC52YWxvcmF0aW9uIH19Igo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCdvcmRlcm1hbmFnZXInLCAkcmVzcG9uc2UtPmdldFJlc3VsdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCdvcmRlcm1hbmFnZXInKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIsCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IGRlbGV0ZWQgc29tZSBkZXByZWNhdGVkIGNvbW1lbnRzICAmCmluY2x1ZGVkIHNjcmlwdCBtaWNyb2RhdGEtcHJvZHVjdC5qc29uLWxkLnR3aWc=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">eyMgQlQtMTQzIG1pY3JvZGF0b3MgTG9jYWxCdXNpbmVzcyN9CjxzY3JpcHQgdHlwZT0nYXBwbGljYXRpb24vbGQranNvbic+CnsKICAiQGNvbnRleHQiOiAiaHR0cDovL3d3dy5zY2hlbWEub3JnIiwKICAiQHR5cGUiOiAiTG9jYWxCdXNpbmVzcyIsCiAgIm5hbWUiOiAiUEMgQ09NUE9ORU5URVMgWSBNVUxUSU1FRElBIFNMVSIsCiAgInVybCI6ICJodHRwczovL3d3dy5wY2NvbXBvbmVudGVzLmNvbSIsCiAgInNhbWVBcyI6IFsKICAgICJodHRwczovL3d3dy5wY2NvbXBvbmVudGVzLnB0IgogIF0sCiAgInRlbGVwaG9uZSI6ICIrMzQ5Njg5Nzc5NzciLAogICJwcmljZVJhbmdlIjogIuKCrOKCrOKCrCIsCiAgImxvZ28iOiAiaHR0cHM6Ly9jZG4ucGNjb21wb25lbnRlcy5jb20vaW1nL3Jyc3MvZ2VuZXJhbC5wbmdcIiIsCiAgImltYWdlIjogImh0dHBzOi8vY2RuLnBjY29tcG9uZW50ZXMuY29tL2ltZy9ycnNzL2dlbmVyYWwucG5nIiwKICAiZGVzY3JpcHRpb24iOiAiZGVzY3JpcHRpb24iLAogICJhZGRyZXNzIjogewogICAgIkB0eXBlIjogIlBvc3RhbEFkZHJlc3MiLAogICAgInN0cmVldEFkZHJlc3MiOiAiQVZEQSBFdXJvcGEsIFBhcmNlbGEgMi01IHkgMi02LiBQb2zDrWdvbm8gaW5kdXN0cmlhbCBMYXMgU2FsaW5hcyIsCiAgICAiYWRkcmVzc0xvY2FsaXR5IjogIkFsaGFtYSBkZSBNdXJjaWEiLAogICAgImFkZHJlc3NSZWdpb24iOiAiTXVyY2lhIiwKICAgICJwb3N0YWxDb2RlIjogIjMwODQwIiwKICAgICJhZGRyZXNzQ291bnRyeSI6ICJFc3Bhw7FhIgogIH0sCiAgImdlbyI6IHsKICAgICJAdHlwZSI6ICJHZW9Db29yZGluYXRlcyIsCiAgICAibGF0aXR1ZGUiOiAiMCIsCiAgICAibG9uZ2l0dWRlIjogIjAiCiAgfSwKICAiaGFzTWFwIjogIiIsCiAgIm9wZW5pbmdIb3VycyI6ICJNbywgVHUsIFdlLCBUaCwgRnIsIFNhIDA5OjAwLTIxOjAwIiwKICAiY29udGFjdFBvaW50IjogewogICAgIkB0eXBlIjogIkNvbnRhY3RQb2ludCIsCiAgICAiY29udGFjdFR5cGUiOiAiQ3VzdG9tZXIgQ2FyZSIsCiAgICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIKICB9Cn0KIDwvc2NyaXB0Pg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">eyMgQlQtMTQzIG1pY3JvZGF0b3MgTG9jYWxCdXNpbmVzcyN9CjxzY3JpcHQgdHlwZT0nYXBwbGljYXRpb24vbGQranNvbic+CnsKICAiQGNvbnRleHQiOiAiaHR0cDovL3d3dy5zY2hlbWEub3JnIiwKICAiQHR5cGUiOiAiTG9jYWxCdXNpbmVzcyIsCiAgIm5hbWUiOiAiUEMgQ09NUE9ORU5URVMgWSBNVUxUSU1FRElBIFNMVSIsCiAgInVybCI6ICJodHRwczovL3d3dy5wY2NvbXBvbmVudGVzLmNvbSIsCiAgInNhbWVBcyI6IFsKICAgICJodHRwczovL3d3dy5wY2NvbXBvbmVudGVzLnB0IgogIF0sCiAgInRlbGVwaG9uZSI6ICIrMzQ5Njg5Nzc5NzciLAogICJwcmljZVJhbmdlIjogIuKCrOKCrOKCrCIsCiAgImxvZ28iOiAiaHR0cHM6Ly9jZG4ucGNjb21wb25lbnRlcy5jb20vaW1nL3Jyc3MvZ2VuZXJhbC5wbmdcIiIsCiAgImltYWdlIjogImh0dHBzOi8vY2RuLnBjY29tcG9uZW50ZXMuY29tL2ltZy9ycnNzL2dlbmVyYWwucG5nIiwKICAiZGVzY3JpcHRpb24iOiAiZGVzY3JpcHRpb24iLAogICJhZGRyZXNzIjogewogICAgIkB0eXBlIjogIlBvc3RhbEFkZHJlc3MiLAogICAgInN0cmVldEFkZHJlc3MiOiAiQVZEQSBFdXJvcGEsIFBhcmNlbGEgMi01IHkgMi02LiBQb2zDrWdvbm8gaW5kdXN0cmlhbCBMYXMgU2FsaW5hcyIsCiAgICAiYWRkcmVzc0xvY2FsaXR5IjogIkFsaGFtYSBkZSBNdXJjaWEiLAogICAgImFkZHJlc3NSZWdpb24iOiAiTXVyY2lhIiwKICAgICJwb3N0YWxDb2RlIjogIjMwODQwIiwKICAgICJhZGRyZXNzQ291bnRyeSI6ICJFc3Bhw7FhIgogIH0sCiAgImdlbyI6IHsKICAgICJAdHlwZSI6ICJHZW9Db29yZGluYXRlcyIsCiAgICAibGF0aXR1ZGUiOiAiMCIsCiAgICAibG9uZ2l0dWRlIjogIjAiCiAgfSwKICAiaGFzTWFwIjogIiIsCiAgIm9wZW5pbmdIb3VycyI6ICJNbywgVHUsIFdlLCBUaCwgRnIsIFNhIDA5OjAwLTIxOjAwIiwKICAiY29udGFjdFBvaW50IjogewogICAgIkB0eXBlIjogIkNvbnRhY3RQb2ludCIsCiAgICAiY29udGFjdFR5cGUiOiAiQ3VzdG9tZXIgQ2FyZSIsCiAgICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIKICB9Cn0KIDwvc2NyaXB0Pg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">eyMgQlQtMTQzIG1pY3JvZGF0b3MgTG9jYWxCdXNpbmVzcyN9CjxzY3JpcHQgdHlwZT0nYXBwbGljYXRpb24vbGQranNvbic+CnsKICAiQGNvbnRleHQiOiAiaHR0cDovL3d3dy5zY2hlbWEub3JnIiwKICAiQHR5cGUiOiAiTG9jYWxCdXNpbmVzcyIsCiAgIm5hbWUiOiAiUEMgQ09NUE9ORU5URVMgWSBNVUxUSU1FRElBIFNMVSIsCiAgInVybCI6ICJodHRwczovL3d3dy5wY2NvbXBvbmVudGVzLmNvbSIsCiAgInNhbWVBcyI6IFsKICAgICJodHRwczovL3d3dy5wY2NvbXBvbmVudGVzLnB0IgogIF0sCiAgInRlbGVwaG9uZSI6ICIrMzQ5Njg5Nzc5NzciLAogICJwcmljZVJhbmdlIjogIuKCrOKCrOKCrCIsCiAgImxvZ28iOiAiaHR0cHM6Ly9jZG4ucGNjb21wb25lbnRlcy5jb20vaW1nL3Jyc3MvZ2VuZXJhbC5wbmdcIiIsCiAgImltYWdlIjogImh0dHBzOi8vY2RuLnBjY29tcG9uZW50ZXMuY29tL2ltZy9ycnNzL2dlbmVyYWwucG5nIiwKICAiZGVzY3JpcHRpb24iOiAiZGVzY3JpcHRpb24iLAogICJhZGRyZXNzIjogewogICAgIkB0eXBlIjogIlBvc3RhbEFkZHJlc3MiLAogICAgInN0cmVldEFkZHJlc3MiOiAiQVZEQSBFdXJvcGEsIFBhcmNlbGEgMi01IHkgMi02LiBQb2zDrWdvbm8gaW5kdXN0cmlhbCBMYXMgU2FsaW5hcyIsCiAgICAiYWRkcmVzc0xvY2FsaXR5IjogIkFsaGFtYSBkZSBNdXJjaWEiLAogICAgImFkZHJlc3NSZWdpb24iOiAiTXVyY2lhIiwKICAgICJwb3N0YWxDb2RlIjogIjMwODQwIiwKICAgICJhZGRyZXNzQ291bnRyeSI6ICJFc3Bhw7FhIgogIH0sCiAgImdlbyI6IHsKICAgICJAdHlwZSI6ICJHZW9Db29yZGluYXRlcyIsCiAgICAibGF0aXR1ZGUiOiAiMCIsCiAgICAibG9uZ2l0dWRlIjogIjAiCiAgfSwKICAiaGFzTWFwIjogIiIsCiAgIm9wZW5pbmdIb3VycyI6ICJNbywgVHUsIFdlLCBUaCwgRnIsIFNhIDA5OjAwLTIxOjAwIiwKICAiY29udGFjdFBvaW50IjogewogICAgIkB0eXBlIjogIkNvbnRhY3RQb2ludCIsCiAgICAiY29udGFjdFR5cGUiOiAiQ3VzdG9tZXIgQ2FyZSIsCiAgICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIKICB9Cn0KIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyNCVC0xNDMgbWljcm9kYXRvcyBXZWJTaXRlI30K</text>
+        <text encoding="base64">eyMgQlQtMTQzIG1pY3JvZGF0b3MgTG9jYWxCdXNpbmVzcyN9CjxzY3JpcHQgdHlwZT0nYXBwbGljYXRpb24vbGQranNvbic+CnsKICAiQGNvbnRleHQiOiAiaHR0cDovL3d3dy5zY2hlbWEub3JnIiwKICAiQHR5cGUiOiAiTG9jYWxCdXNpbmVzcyIsCiAgIm5hbWUiOiAiUEMgQ09NUE9ORU5URVMgWSBNVUxUSU1FRElBIFNMVSIsCiAgInVybCI6ICJodHRwczovL3d3dy5wY2NvbXBvbmVudGVzLmNvbSIsCiAgInNhbWVBcyI6IFsKICAgICJodHRwczovL3d3dy5wY2NvbXBvbmVudGVzLnB0IgogIF0sCiAgInRlbGVwaG9uZSI6ICIrMzQ5Njg5Nzc5NzciLAogICJwcmljZVJhbmdlIjogIuKCrOKCrOKCrCIsCiAgImxvZ28iOiAiaHR0cHM6Ly9jZG4ucGNjb21wb25lbnRlcy5jb20vaW1nL3Jyc3MvZ2VuZXJhbC5wbmdcIiIsCiAgImltYWdlIjogImh0dHBzOi8vY2RuLnBjY29tcG9uZW50ZXMuY29tL2ltZy9ycnNzL2dlbmVyYWwucG5nIiwKICAiZGVzY3JpcHRpb24iOiAiZGVzY3JpcHRpb24iLAogICJhZGRyZXNzIjogewogICAgIkB0eXBlIjogIlBvc3RhbEFkZHJlc3MiLAogICAgInN0cmVldEFkZHJlc3MiOiAiQVZEQSBFdXJvcGEsIFBhcmNlbGEgMi01IHkgMi02LiBQb2zDrWdvbm8gaW5kdXN0cmlhbCBMYXMgU2FsaW5hcyIsCiAgICAiYWRkcmVzc0xvY2FsaXR5IjogIkFsaGFtYSBkZSBNdXJjaWEiLAogICAgImFkZHJlc3NSZWdpb24iOiAiTXVyY2lhIiwKICAgICJwb3N0YWxDb2RlIjogIjMwODQwIiwKICAgICJhZGRyZXNzQ291bnRyeSI6ICJFc3Bhw7FhIgogIH0sCiAgImdlbyI6IHsKICAgICJAdHlwZSI6ICJHZW9Db29yZGluYXRlcyIsCiAgICAibGF0aXR1ZGUiOiAiMCIsCiAgICAibG9uZ2l0dWRlIjogIjAiCiAgfSwKICAiaGFzTWFwIjogIiIsCiAgIm9wZW5pbmdIb3VycyI6ICJNbywgVHUsIFdlLCBUaCwgRnIsIFNhIDA5OjAwLTIxOjAwIiwKICAiY29udGFjdFBvaW50IjogewogICAgIkB0eXBlIjogIkNvbnRhY3RQb2ludCIsCiAgICAiY29udGFjdFR5cGUiOiAiQ3VzdG9tZXIgQ2FyZSIsCiAgICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIKICB9Cn0KIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>brand</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>brand</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -800,7 +802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>params</entry>
         <entry>premium</entry>
         <entry>insuran</entry>
         <entry>typeof</entry>
@@ -820,6 +821,7 @@
         <entry>image</entry>
         <entry>avai</entry>
         <entry>brand</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
