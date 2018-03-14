@@ -272,8 +272,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.setGlobals.js" timestamp="1521024454410">
-        <mark key="[" line="0" column="7" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.setGlobals.js" timestamp="1521025624850">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="112" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/src/lacueva/js/autofoto/autofoto.js" timestamp="1515540669419">
         <mark key="[" line="10" column="15" />
@@ -528,10 +531,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1521024195213">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1521025649107">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/.env" timestamp="1517245119248">
         <mark key="[" line="2" column="16" />
@@ -659,10 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1020" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
-      <jump line="1021" column="50" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
-      <jump line="1025" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
-      <jump line="1041" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1056" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1061" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1066" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
@@ -759,58 +759,62 @@
       <jump line="66" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/delivery-options.html.twig" />
       <jump line="63" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/delivery-options.html.twig" />
       <jump line="73" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/delivery-options.html.twig" />
+      <jump line="20" column="3" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
+      <jump line="14" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
+      <jump line="15" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">eyUgYmxvY2sgdG9wZGF0YWxheWVyICV9Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>asset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzdG9ja0NsYXNzKSB9fQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbENvbnRleHQucmF0aW5nRmljaGEgPSAiT3t7IGNvbW1lbnRzLnRvdGFsIH19LVZ7eyByZXZpZXdzLnRvdGFsIH19LVFBe3sgcWFhLnF1ZXN0aW9ucy5udW1RdWVzdGlvbnMgfX0iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyUgYmxvY2sgdG9wZGF0YWxheWVyICV9Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzaGlwcGluZykgfX0KICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzdG9ja0NsYXNzKSB9fQogICAgICAgICAgICAgICAgICAgICAgICB7eyBkdW1wKGFydGljbGUuYXZhaWxhYmlsaXR5Q29kZSkgfX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">eyN7eyBkdW1wKCkgfX0jfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">d2luZG93LnRpcG9wYWdpbmEgPSAiZmljaGEtcHJvZHVjdG8iOwp3aW5kb3cucmF0aW5nRmljaGEgPSAiT3t7IGNvbW1lbnRzLnRvdGFsIH19LVZ7eyByZXZpZXdzLnRvdGFsIH19LVFBe3sgcWFhLnF1ZXN0aW9ucy5udW1RdWVzdGlvbnMgfX0iOwp3aW5kb3cucHVudG9zRmljaGEgPSAiUHt7IGFydGljbGUucG9pbnRzLm5vcm1hbCB9fS1QRXt7IGFydGljbGUucG9pbnRzLmRpcmVjdCB9fSI7CiA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzaGlwcGluZykgfX0K</text>
+        <text encoding="base64">Ly8gPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYuYy1hcnRpY2xlcy10by1zZW5kX19saXN0LWl0ZW1zX19pdGVtOm50aC1jaGlsZCgxMCkgPiBkaXY6bnRoLWNoaWxkKDQpCg==</text>
+        <text encoding="base64">Ly8gPHNjcmlwdCA+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcCgpIH19Cg==</text>
+        <text encoding="base64">eyUgYmxvY2sgdG9wZGF0YWxheWVyICV9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7IGR1bXAoc2hpcHBpbmcpIH19Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzaGlwcGluZykgfX0KICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzdG9ja0NsYXNzKSB9fQogICAgICAgICAgICAgICAgICAgICAgICB7eyBkdW1wKGFydGljbGUuYXZhaWxhYmlsaXR5Q29kZSkgfX0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChhcnRpY2xlKSB9fQo=</text>
+        <text encoding="base64">eyN7eyBkdW1wKCkgfX0jfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkdW1wKGZ1bGxEZXRhaWwpIH19Ly9ib3JyYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzaGlwcGluZykgfX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>asset</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>asset</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -818,7 +822,6 @@
     </search>
     <history>
       <history-search>
-        <entry>premium</entry>
         <entry>insuran</entry>
         <entry>typeof</entry>
         <entry>itemtype</entry>
@@ -838,6 +841,7 @@
         <entry>avai</entry>
         <entry>brand</entry>
         <entry>dump</entry>
+        <entry>asset</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
