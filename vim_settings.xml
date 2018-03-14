@@ -536,11 +536,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1521037445229">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1521043174650">
+        <mark key="'" line="58" column="0" />
         <mark key="k" line="65" column="17" />
-        <mark key="[" line="59" column="74" />
-        <mark key="]" line="59" column="74" />
-        <mark key="." line="59" column="74" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/.env" timestamp="1517245119248">
         <mark key="[" line="2" column="16" />
@@ -674,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1056" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1061" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1066" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="45" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/configurator/Pcc.ConfiguratorActiveArticle.js" />
@@ -774,10 +774,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
       <jump line="14" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
       <jump line="15" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
+      <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd3aW5kb3cuZGF0YWxheWVyJyx3aW5kb3cuZGF0YUxheWVyICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgIHsjPC9kaXY+I30K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -792,28 +793,28 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnYXJ0aWNsZS9kZXRhaWwvcGNjLkFydGljbGUuc2V0R2xvYmFscy5qcycgfCBqc19yZXYpIH19Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd3aW5kb3cuZGF0YWxheWVyJyx3aW5kb3cuZGF0YUxheWVyICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgIHsjPC9kaXY+I30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsjPGRpdiBpZD0iY2VudHJhbC1zbGlkZXItc2VjdGlvbiIgY2xhc3M9ImNvbC14cy0xMiI+PC9kaXY+I30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFrZURhdGFMYXllciwK</text>
+        <text encoding="base64">ICAgIHsjPGRpdiBjbGFzcz0icm93Ij4jfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsjeyUgaW5jbHVkZSAiQFBjY1dlYi9hcnRpY2xlL2RldGFpbC9jcm9zc3NlbGluZy9hcnRpY2xlLWNyb3NzLXZpYmV0cmFjZS5odG1sLnR3aWciIHdpdGggeydhcnRpY2xlTmFtZSc6IGFydGljbGUubmFtZSB9ICV9I30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZmFrZURhdGFMYXllciA9IFtdOwo=</text>
+        <text encoding="base64">ICAgIHsjeyUgaW5jbHVkZSAiQFBjY1dlYi9hcnRpY2xlL2RldGFpbC91cHNlbGxpbmcvYXJ0aWNsZS11cHNlbGxpbmctdmliZXRyYWNlLmh0bWwudHdpZyIgd2l0aCB7J2FydGljbGVOYW1lJzogYXJ0aWNsZS5uYW1lIH0gJX0jfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgdmFyIGZha2VEYXRhTGF5ZXIgPSBbXTsKICAgICAgICB3aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTsK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd3aW5kb3cuZGF0YWxheWVyJyx3aW5kb3cuZGF0YUxheWVyICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFrZURhdGFMYXllciwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
