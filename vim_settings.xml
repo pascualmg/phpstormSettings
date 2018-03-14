@@ -428,6 +428,11 @@
         <mark key="^" line="141" column="15" />
         <mark key="." line="141" column="64" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.event.impressions.js" timestamp="1521037656313">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml.dist" timestamp="1518090002138">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
@@ -531,12 +536,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1521030392093">
-        <mark key="[" line="66" column="8" />
-        <mark key="k" line="63" column="17" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="66" column="15" />
-        <mark key="^" line="66" column="15" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1521037445229">
+        <mark key="k" line="65" column="17" />
+        <mark key="[" line="59" column="74" />
+        <mark key="]" line="59" column="74" />
+        <mark key="." line="59" column="74" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/.env" timestamp="1517245119248">
         <mark key="[" line="2" column="16" />
@@ -603,17 +607,17 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521029372409">
+      <file name="/Dummy.txt" timestamp="1521037486196">
         <mark key="i" line="0" column="53" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.event.impressionsPushed.js" timestamp="1521030094936">
-        <mark key="[" line="1" column="53" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-        <mark key="^" line="2" column="2" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.event.impressionsPushed.js" timestamp="1521037326735">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1516905982058">
         <mark key="[" line="5" column="1" />
@@ -772,47 +776,47 @@
       <jump line="15" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd3aW5kb3cuZGF0YWxheWVyJyx3aW5kb3cuZGF0YUxheWVyICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>asset</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgJ2lkJzogJ3t7IGFydGljbGUuaWRBcnRpY2xlIH19JywKICAgICAgICAgICAgICAgICAgICAgICAgJ25hbWUnOiAne3sgYXJ0aWNsZS5uYW1lfGUgfX0nLAogICAgICAgICAgICAgICAgICAgICAgICAncHJpY2UnOiAne3sgYXJ0aWNsZS5wcmljZS5wcmljZSB9fScsCiAgICAgICAgICAgICAgICAgICAgICAgICdicmFuZCc6ICd7eyBhcnRpY2xlLnRyYWRlTWFyay5uYW1lIH19JywKICAgICAgICAgICAgICAgICAgICAgICAgJ2NhdGVnb3J5JzogJ3t7IGFydGljbGUuZmFtaWx5Lm5hbWUgfX0nLAogICAgICAgICAgICAgICAgICAg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnYXJ0aWNsZS9kZXRhaWwvcGNjLkFydGljbGUuc2V0R2xvYmFscy5qcycgfCBqc19yZXYpIH19Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd3aW5kb3cuZGF0YWxheWVyJyx3aW5kb3cuZGF0YUxheWVyICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgYXJ0aSB9fSAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnYnVuZGxlcy9wY2N3ZWIvcmF3L2pzL2FydGljbGUvZGV0YWlsL3BjYy5BcnRpY2xlLmdhRXZlbnQnKSB9fSI+PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogUmVmYWN0b3IgZGVzZGUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmFrZURhdGFMYXllciwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgZmFrZURhdGFMYXllciA9IFtdOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgdmFyIGZha2VEYXRhTGF5ZXIgPSBbXTsKICAgICAgICB3aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">d2luZG93LmRhdGFMYXllciA9IHdpbmRvdy5kYXRhTGF5ZXIgfHwgW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQp3aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTsK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdGVzdEdsb2JhbCA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
