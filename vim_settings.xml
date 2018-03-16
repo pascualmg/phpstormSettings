@@ -304,11 +304,11 @@
         <mark key="^" line="20" column="113" />
         <mark key="." line="20" column="113" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" timestamp="1521014166574">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" timestamp="1521015620466">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="55" />
+        <mark key="." line="25" column="55" />
+        <mark key="^" line="25" column="55" />
       </file>
       <file name="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users" timestamp="1520328894860">
         <mark key="[" line="1" column="0" />
@@ -587,7 +587,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521013648749">
+      <file name="/Dummy.txt" timestamp="1521015837702">
         <mark key="i" line="0" column="53" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -750,47 +750,47 @@
       <jump line="73" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/delivery-options.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChhcnRpY2xlKSB9fQo=</text>
+      <register name="&quot;" type="4">
+        <text>stockClass</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>stockClass</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCdvcmRlcm1hbmFnZXInLCAkcmVzcG9uc2UtPmdldFJlc3VsdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzdG9ja0NsYXNzKSB9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChhcnRpY2xlKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChzaGlwcGluZykgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkdW1wKGZ1bGxEZXRhaWwpIH19Ly9ib3JyYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYuYy1hcnRpY2xlcy10by1zZW5kX19saXN0LWl0ZW1zX19pdGVtOm50aC1jaGlsZCgxMCkgPiBkaXY6bnRoLWNoaWxkKDQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHJlc3BvbnNlLT5nZXRSZXN1bHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcCgpIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvcnJhbWUK</text>
+        <text encoding="base64">ICAgIHt7IGR1bXAoc2hpcHBpbmcpIH19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChmdWxsRGV0YWlsKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChhcnRpY2xlKSB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkdW1wKGZ1bGxEZXRhaWwpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkdW1wKGZ1bGxEZXRhaWwpIH19Ly9ib3JyYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZHVtICV9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHJlc3BvbnNlLT5nZXRSZXN1bHQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCdvcmRlcm1hbmFnZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL2JvcnJhbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAidGVsZXBob25lIjogIiszNDk2ODk3Nzk3NyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChmdWxsRGV0YWlsKSB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
