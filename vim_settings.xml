@@ -384,11 +384,10 @@
         <mark key="^" line="141" column="15" />
         <mark key="." line="141" column="64" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.event.impressions.js" timestamp="1521300019285">
-        <mark key="[" line="41" column="3" />
-        <mark key="]" line="41" column="33" />
-        <mark key="." line="41" column="33" />
-        <mark key="^" line="41" column="33" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.event.impressions.js" timestamp="1521301109441">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/048ba936-5cfb-462f-acda-f1d4cb1f2a41/console.sql" timestamp="1519715637096">
         <mark key="[" line="0" column="45" />
@@ -700,8 +699,8 @@
       <jump line="105" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwdXRjaGVhbmRvJyAsIGRhdGEpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -715,7 +714,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZEFydGljbGUgPSBwYXJhbXMuaWRBcnRpY2xlIHx8ICcnOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwdXRjaGVhbmRvJyAsIGRhdGEpOy8vVE9ETzogYm9ycmFtZS4K</text>
+      </register>
+      <register name="2" type="4">
         <text>var data = {
         'event': 'impressionsPushed',
         'ecommerce': {
@@ -734,26 +736,23 @@
         'user': pccUserId
     })</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldEZyb21QYXJhbXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNldEZyb21QYXJhbXMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISFwYXJhbXMpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZEFydGljbGUgPSBwYXJhCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISFwYXJhbXMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZEFydGljbGUgPSBwYXJhCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
