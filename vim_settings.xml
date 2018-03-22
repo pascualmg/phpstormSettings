@@ -19,7 +19,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521727189317">
+      <file name="/Dummy.txt" timestamp="1521728262746">
         <mark key="i" line="0" column="53" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -35,19 +35,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.jql" timestamp="1521022359536">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_default_script.html.twig" timestamp="1521538582307">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_default_script.html.twig" timestamp="1521729414135">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info.twig" timestamp="1521726854495">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info.twig" timestamp="1521729194675">
         <mark key="[" line="36" column="62" />
         <mark key="]" line="36" column="62" />
-        <mark key="^" line="36" column="38" />
+        <mark key="^" line="36" column="60" />
         <mark key="." line="36" column="62" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_product_visited/cn_product_visited.html.twig" timestamp="1521551880924">
@@ -72,13 +69,20 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1521726914602">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1521728299372" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1521729925530">
         <mark key="j" line="163" column="78" />
-        <mark key="[" line="163" column="40" />
-        <mark key="]" line="163" column="40" />
-        <mark key="." line="163" column="40" />
-        <mark key="^" line="163" column="41" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="181" column="68" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1521728765686">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1521728592581" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1521553202652">
         <mark key="[" line="29" column="50" />
         <mark key="]" line="29" column="33" />
@@ -190,14 +194,14 @@
       <jump line="105" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>::getUserDetail(),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIHJldHVybiAkbWFpbkRhdGEtPmdldEJpcnRoZGF5KCk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>::getUserDetail(),</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>shipp</text>
@@ -206,36 +210,31 @@
         <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldFN0cENvZGUoKSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgc2V0IGlzU3Vic2NyaWJlZENvbm5lY3RpZlN0cmluZyA9ICd1bnN1YnNjcmliZWQnJX0K</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiAkbWFpbkRhdGEtPmdldEJpcnRoZGF5KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBzZXQgaXNTdWJzY3JpYmVkQ29ubmVjdGlmU3RyaW5nID0gJ3Vuc3Vic2NyaWJlZCclfQo=</text>
+        <text encoding="base64">ICAgIHIgICRtYWluRGF0YSA9ICRwbS0+Z2V0TWFpbkRhdGEoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGluY2x1ZGVkIG5ldyBmaWVsZHM6IG5pY2ssIF9lbWFpbFN0YXR1cywgdGVsZWZvbm8sIHRpcG8tdGFyaWZhLAplbnZpby1wcmVkZXQ6IHBhaXMgLCBwcm92aW5jaWEgLCBjaXVkYWQsIGNwIApmYWN0dXJhY2lvbi1wcmVkZXQ6IHBhaXMsIHByb3ZpbmNpYSAsIGNpdWRhZCwgY3A=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7IzwvZGl2PiN9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyM8c3BhbiBjbGFzcz0iZW1haWwiPnt7IExvY2F0ZWRFbWFpbCB9fTwvc3Bhbj4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgc2V0IGlzU3Vic2NyaWJlZENvbm5lY3RpZlN0cmluZyA9ICd1bnN1YnNjcmliZWQnJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7IzxkaXYgY2xhc3M9ImNuX25ld3NsZXR0ZXJfc3Vic2NyaWJlIiBzdHlsZT0iZGlzcGxheTpub25lIj4jfQo=</text>
+        <text encoding="base64">ICAgICAgICB7JSBzZXQgaXNTdWJzY3JpYmVkQ29ubmVjdGlmU3RyaW5nID0gJ3Vuc3Vic2NyaWJlZCclfQo=</text>
       </register>
       <register name="9" type="4">
-        <text>Included connectifUserData in both views. 
-defaultShippingAddress
-defaultBillingAddress
-isSubscribed
-rate
-TODO: replace mocked function isSubscribed(</text>
+        <text encoding="base64">IGluY2x1ZGVkIG5ldyBmaWVsZHM6IG5pY2ssIF9lbWFpbFN0YXR1cywgdGVsZWZvbm8sIHRpcG8tdGFyaWZhLAplbnZpby1wcmVkZXQ6IHBhaXMgLCBwcm92aW5jaWEgLCBjaXVkYWQsIGNwIApmYWN0dXJhY2lvbi1wcmVkZXQ6IHBhaXMsIHByb3ZpbmNpYSAsIGNpdWRhZCwgY3A=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
