@@ -35,6 +35,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" timestamp="1521826400320">
+        <mark key="'" line="357" column="7" />
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="16" />
+        <mark key="^" line="345" column="13" />
+        <mark key="." line="344" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_default_script.html.twig" timestamp="1521729414135">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="25" />
@@ -44,11 +51,12 @@
       <file name="$USER_HOME$/src/web/.htaccess" timestamp="1521799638880">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1521823128503">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="51" column="58" />
-        <mark key="." line="51" column="58" />
-        <mark key="^" line="51" column="58" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1521826990386">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="97" column="2" />
+        <mark key="." line="97" column="2" />
+        <mark key="^" line="97" column="2" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/headers/header-user-ajax.html.twig" timestamp="1521730557553">
         <mark key="[" line="58" column="0" />
@@ -94,9 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="1" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag21.new.Binding.js" />
-      <jump line="51" column="1" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag22.Everything-in-order.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag22.Everything-in-order.js" />
       <jump line="146" column="14" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag22.Everything-in-order.js" />
       <jump line="34" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
       <jump line="5" column="15" filename="$USER_HOME$/temp/rx-from-mysql/index.js" />
@@ -194,49 +199,54 @@
       <jump line="19" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
       <jump line="327" column="26" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
       <jump line="802" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="357" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" />
+      <jump line="33" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAiZG9uZSI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>if</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>birthdate included.</text>
+        <text>if</text>
       </register>
       <register name="/" type="4">
         <text>xmlgoogle</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldFN0cENvZGUoKSw=</text>
+        <text encoding="base64">UENDLmNvbm5lY3RpZiA9IHsKICAgIC8qIEF0cmlidXRvcyAqLwogICAgdXNlckVtYWlsIDogJycsCiAgICBuYW1lIDogJycsCiAgICBzdXJuYW1lIDogJycsCiAgICBlbWFpbFN0YXR1cyA6JycsCgogICAgLyoqCiAgICAgKiBAZGVzY3JpcHRpb246IEluaWNpYWxpemEgU3BvdEZyb250IGVuIGxhcyBwbGFudGlsbGFzIGVuIGxhcyBxdWUgc2Ugc29saWNpdGUKICAgICAqIEBwYXJhbSB7T2JqZWN0fSBhdHRyaWJ1dGVzCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gYXR0cmlidXRlcy51c2VyRW1haWwgfCBFbWFpbCBkZSB1c3VhcmlvIHF1ZSBlc3RhIHNpZW5kbyB0cmFja2VhZG8gcG9yIGxhIGhlcnJhbWllbnRhCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gYXR0cmlidXRlcy5uYW1lICB8IE5vbWJyZSBkZSB1c3VhcmlvIHF1ZSBlc3RhIHNpZW5kbyB0cmFja2VhZG8gcG9yIGxhIGhlcnJhbWllbnRhCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gYXR0cmlidXRlcy5zdXJuYW1lICB8IEFwZWxsaWRvIGRlIHVzdWFyaW8gcXVlIGVzdGEgc2llbmRvIHRyYWNrZWFkbyBwb3IgbGEgaGVycmFtaWVudGEKICAgICAqIEBwYXJhbSB7c3RyaW5nfSBhdHRyaWJ1dGVzLmVtYWlsU3RhdHVzIHwgRXN0YWRvIGRlIGxhIHN1YnNjcmlwY2lvbiBkZWwgY2xpZW50ZSBhbCBib2xldGluIHsgdW5zdWJzY3JpYmVkIG9yIGFjdGl2ZX0KICAgICAqLwogICAgaW5pdCA6IGZ1bmN0aW9uIChhdHRyaWJ1dGVzKSB7CiAgICAgICAgdGhpcy51c2VyRW1haWwgPSBhdHRyaWJ1dGVzLnVzZXJFbWFpbCB8fCAnJzsKICAgICAgICB0aGlzLm5hbWUgPSBhdHRyaWJ1dGVzLm5hbWUgfHwgJyc7CiAgICAgICAgdGhpcy5zdXJuYW1lID0gYXR0cmlidXRlcy5zdXJuYW1lIHx8ICcnOwogICAgICAgIHRoaXMuZW1haWxTdGF0dXMgPSBhdHRyaWJ1dGVzLmVtYWlsU3RhdHVzIHx8ICd1bnN1YnNjcmliZWQnOwogICAgfSwKCiAgICAvKlNldHRlcnMqLwogICAgc2V0RW1haWwgOiBmdW5jdGlvbih1c2VyRW1haWwpewogICAgICAgIHRoaXMudXNlckVtYWlsID0gdXNlckVtYWlsOwogICAgfSwKICAgIHNldE5hbWUgOiBmdW5jdGlvbiAodXNlck5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSB1c2VyTmFtZTsKICAgIH0sCiAgICBzZXRTdXJuYW1lIDogZnVuY3Rpb24gKHVzZXJTdXJuYW1lKSB7CiAgICAgICAgdGhpcy5zdXJuYW1lID0gdXNlclN1cm5hbWU7CiAgICB9LAogICAgc2V0RW1haWxTdGF0dXMgOiBmdW5jdGlvbih1c2VyRW1haWxTdGF0dXMpewogICAgICAgIHRoaXMuZW1haWxTdGF0dXMgPSB1c2VyRW1haWxTdGF0dXM7CiAgICB9LAoKICAgIC8qKgogICAgICogQGRlc2NyaXB0aW9uOiBBY3R1YWxpemEgbGEgc3Vic2NyaXBjaW9uIGRlbCB1c3VhcmlvIGFsIGJvbGV0aW4KICAgICAqLwogICAgdXBkYXRlVXNlclN1YnNjcmlwdGlvbjogZnVuY3Rpb24gKCkgewogICAgICAgIHJlcXVlc3QgPSB7CiAgICAgICAgICAgICJlbnRpdHlJbmZvIjogewogICAgICAgICAgICAgICAgInByaW1hcnlLZXkiOiB0aGlzLnVzZXJFbWFpbCwKICAgICAgICAgICAgICAgICJfbmFtZSI6IHRoaXMubmFtZSwKICAgICAgICAgICAgICAgICJfc3VybmFtZSI6IHRoaXMuc3VybmFtZSwKICAgICAgICAgICAgICAgICJfZW1haWxTdGF0dXMiOiB0aGlzLmVtYWlsU3RhdHVzCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJjYXJ0IjogewogICAgICAgICAgICAgICAgImNhcnRJZCI6ICJwY2MwMDA1YWI0ZGVkOWIzNDQ1MC4wNzExMTU4NCIsCiAgICAgICAgICAgICAgICAidG90YWxRdWFudGl0eSI6IDAsCiAgICAgICAgICAgICAgICAidG90YWxQcmljZSI6IDAsCiAgICAgICAgICAgICAgICAicHJvZHVjdHMiOiBbXQogICAgICAgICAgICB9LAogICAgICAgICAgICAicHVzaFN1YnNjcmlwdGlvbiI6IG51bGwsCiAgICAgICAgICAgICJldmVudHMiOiBbXSwKICAgICAgICAgICAgImJhbm5lclBsYWNlaG9sZGVycyI6IFtdCiAgICAgICAgfQogICAgICAgIGNvbnNvbGUubG9nKHJlcXVlc3QpOwogICAgICAgIGNvbm5lY3RpZi5zZW5kRGF0YShyZXF1ZXN0LCBvblJlc3BvbnNlKTsKCiAgICAgICAgZnVuY3Rpb24gb25SZXNwb25zZShyZXN1bHQsIHhocikgewogICAgICAgICAgICBjb25uZWN0aWYuc2V0KCdjbl90cmFja2VyJywgSlNPTi5zdHJpbmdpZnkoe2lkOiByZXN1bHQudHJhY2tlcklkfSkpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQudHJhY2tlcklkKTsKICAgICAgICB9CiAgICB9LAoKICAgIHVzZXJJbmZvOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgdmFyIHJlcXVlc3QgPSB7CiAgICAgICAgICAgIGVudGl0eUluZm86IHsKICAgICAgICAgICAgICAgICJwcmltYXJ5S2V5IjogdGhpcy51c2VyRW1haWwsCiAgICAgICAgICAgICAgICAiX25hbWUiOiB0aGlzLm5hbWUsCiAgICAgICAgICAgICAgICAiX3N1cm5hbWUiOiB0aGlzLnN1cm5hbWUsCiAgICAgICAgICAgICAgICAiX2VtYWlsU3RhdHVzIjogdGhpcy5lbWFpbFN0YXR1cwogICAgICAgICAgICB9LAogICAgICAgICAgICAvKmNhcnQ6IGNvbm5lY3RpZi5nZXRDYXJ0TW9kZWwoKSwqLwogICAgICAgICAgICAvKnB1c2hTdWJzY3JpcHRpb246IG51bGwsKi8KICAgICAgICAgICAgLypldmVudHM6IFtdLCovCiAgICAgICAgICAgIC8qYmFubmVyUGxhY2Vob2xkZXJzOiBjb25uZWN0aWYuZ2V0RW1iZWRkZWRCbG9ja1BsYWNlaG9sZGVySWRzKCkqLwogICAgICAgIH07CiAgICAgICAgY29uc29sZS5sb2coKHJlcXVlc3QpKTsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAiZG9uZSI7Cg==</text>
+        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>PCC.connectof = {
+    
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAge3sgZHVtcCgpIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNTdWJzY3JpYmVkMlNhbGVzTWFuYWdvID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ZWNobyAiZG9uZSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3sgZHVtcCgpIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXt7IGR1bXAoKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
