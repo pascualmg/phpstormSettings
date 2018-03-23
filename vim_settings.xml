@@ -42,7 +42,7 @@
         <mark key="." line="178" column="16" />
         <mark key="^" line="178" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1521803868432">
+      <file name="/dummy.sql" timestamp="1521807220112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/UserManager.php" timestamp="1521726975491" />
@@ -78,8 +78,12 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1521728299372" />
-      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1521800360316">
+      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1521807481663">
         <mark key="'" line="802" column="0" />
+        <mark key="[" line="804" column="11" />
+        <mark key="]" line="804" column="9" />
+        <mark key="^" line="804" column="9" />
+        <mark key="." line="804" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1521728765686">
         <mark key="[" line="105" column="0" />
@@ -89,10 +93,6 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/Manager/SalesManagoManager.php" timestamp="1521728592581" />
     </filemarks>
     <jumps>
-      <jump line="185" column="46" filename="$USER_HOME$/src/pccfront/.gitignore" />
-      <jump line="372" column="0" filename="$USER_HOME$/src/pccfront/.gitignore" />
-      <jump line="16" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/seo-metas.html.twig" />
-      <jump line="272" column="60" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="24" column="1" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag21.new.Binding.js" />
       <jump line="51" column="1" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag22.Everything-in-order.js" />
       <jump line="96" column="0" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag22.Everything-in-order.js" />
@@ -187,8 +187,12 @@
       <jump line="6" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.grupos.js" />
       <jump line="105" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
       <jump line="363" column="54" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
-      <jump line="802" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/web/.htaccess" />
+      <jump line="382" column="37" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="776" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="327" column="26" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
+      <jump line="802" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -201,7 +205,7 @@
         <text>birthdate included.</text>
       </register>
       <register name="/" type="4">
-        <text>goo</text>
+        <text>xmlgoogle</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Q29udGFpbmVyaXphYmxlOjpnZXRMb2dnZWRVc2VyKCktPmdldFN0cENvZGUoKSw=</text>
@@ -238,9 +242,9 @@
       </register>
     </registers>
     <search>
-      <last-search>goo</last-search>
+      <last-search>xmlgoogle</last-search>
       <last-offset />
-      <last-pattern>goo</last-pattern>
+      <last-pattern>xmlgoogle</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -248,7 +252,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SingleA</entry>
         <entry>prepare</entry>
         <entry>schema</entry>
         <entry>fiscal</entry>
@@ -268,6 +271,7 @@
         <entry>shipp</entry>
         <entry>xmlgo</entry>
         <entry>goo</entry>
+        <entry>xmlgoogle</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
