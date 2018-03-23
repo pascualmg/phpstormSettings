@@ -19,7 +19,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521818193032">
+      <file name="/Dummy.txt" timestamp="1521827648686">
         <mark key="i" line="0" column="53" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -30,10 +30,21 @@
         <mark key="]" line="118" column="44" />
         <mark key="." line="118" column="44" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/pccomAuthenticator.php" timestamp="1521830169377">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/init.sh" timestamp="1521724923185">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/getConnectifUserData.php" timestamp="1521829726525">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="22" column="39" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" timestamp="1521826400320">
         <mark key="'" line="357" column="7" />
@@ -79,17 +90,23 @@
         <mark key="^" line="637" column="11" />
         <mark key="." line="637" column="11" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/getConnectifUserData.php" timestamp="1521831978411">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+      </file>
       <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1521810355691">
         <mark key="'" line="802" column="0" />
         <mark key="[" line="802" column="0" />
         <mark key="]" line="802" column="0" />
         <mark key="." line="802" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1521793879079">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1521831939991">
         <mark key="j" line="163" column="78" />
-        <mark key="[" line="178" column="11" />
-        <mark key="]" line="178" column="16" />
-        <mark key="." line="178" column="16" />
+        <mark key="[" line="153" column="24" />
+        <mark key="]" line="153" column="24" />
+        <mark key="." line="153" column="24" />
         <mark key="^" line="178" column="16" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1521728765686">
@@ -100,10 +117,21 @@
       <file name="/dummy.sql" timestamp="1521810188221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/noTesteablePccomAuthenticator.php" timestamp="1521830226673">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="10" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/getConnectifUserDataQuery.php" timestamp="1521830382348">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="14" filename="$USER_HOME$/src/rx/js/ydkjs/3.cap2.pag22.Everything-in-order.js" />
-      <jump line="34" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
       <jump line="5" column="15" filename="$USER_HOME$/temp/rx-from-mysql/index.js" />
       <jump line="110" column="0" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="57" column="21" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
@@ -202,45 +230,45 @@
       <jump line="357" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" />
       <jump line="33" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
       <jump line="94" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
+      <jump line="35" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/getConnectifUserDataQuery.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/getConnectifUserDataQuery.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if</text>
+        <text encoding="base64">CmNsYXNzIGdldENvbm5lY3RpZlVzZXJEYXRhUXVlcnkKewogICAgcHJpdmF0ZSAkZW1haWw7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRlbWFpbCkKICAgIHsKICAgICAgICAkdGhpcy0+JGVtYWlsID0gJGVtYWlsOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBlbWFpbCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5lbWFpbDsKICAgIH0KfQ==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>xmlgoogle</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">UENDLmNvbm5lY3RpZiA9IHsKICAgIC8qIEF0cmlidXRvcyAqLwogICAgdXNlckVtYWlsIDogJycsCiAgICBuYW1lIDogJycsCiAgICBzdXJuYW1lIDogJycsCiAgICBlbWFpbFN0YXR1cyA6JycsCgogICAgLyoqCiAgICAgKiBAZGVzY3JpcHRpb246IEluaWNpYWxpemEgU3BvdEZyb250IGVuIGxhcyBwbGFudGlsbGFzIGVuIGxhcyBxdWUgc2Ugc29saWNpdGUKICAgICAqIEBwYXJhbSB7T2JqZWN0fSBhdHRyaWJ1dGVzCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gYXR0cmlidXRlcy51c2VyRW1haWwgfCBFbWFpbCBkZSB1c3VhcmlvIHF1ZSBlc3RhIHNpZW5kbyB0cmFja2VhZG8gcG9yIGxhIGhlcnJhbWllbnRhCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gYXR0cmlidXRlcy5uYW1lICB8IE5vbWJyZSBkZSB1c3VhcmlvIHF1ZSBlc3RhIHNpZW5kbyB0cmFja2VhZG8gcG9yIGxhIGhlcnJhbWllbnRhCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gYXR0cmlidXRlcy5zdXJuYW1lICB8IEFwZWxsaWRvIGRlIHVzdWFyaW8gcXVlIGVzdGEgc2llbmRvIHRyYWNrZWFkbyBwb3IgbGEgaGVycmFtaWVudGEKICAgICAqIEBwYXJhbSB7c3RyaW5nfSBhdHRyaWJ1dGVzLmVtYWlsU3RhdHVzIHwgRXN0YWRvIGRlIGxhIHN1YnNjcmlwY2lvbiBkZWwgY2xpZW50ZSBhbCBib2xldGluIHsgdW5zdWJzY3JpYmVkIG9yIGFjdGl2ZX0KICAgICAqLwogICAgaW5pdCA6IGZ1bmN0aW9uIChhdHRyaWJ1dGVzKSB7CiAgICAgICAgdGhpcy51c2VyRW1haWwgPSBhdHRyaWJ1dGVzLnVzZXJFbWFpbCB8fCAnJzsKICAgICAgICB0aGlzLm5hbWUgPSBhdHRyaWJ1dGVzLm5hbWUgfHwgJyc7CiAgICAgICAgdGhpcy5zdXJuYW1lID0gYXR0cmlidXRlcy5zdXJuYW1lIHx8ICcnOwogICAgICAgIHRoaXMuZW1haWxTdGF0dXMgPSBhdHRyaWJ1dGVzLmVtYWlsU3RhdHVzIHx8ICd1bnN1YnNjcmliZWQnOwogICAgfSwKCiAgICAvKlNldHRlcnMqLwogICAgc2V0RW1haWwgOiBmdW5jdGlvbih1c2VyRW1haWwpewogICAgICAgIHRoaXMudXNlckVtYWlsID0gdXNlckVtYWlsOwogICAgfSwKICAgIHNldE5hbWUgOiBmdW5jdGlvbiAodXNlck5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSB1c2VyTmFtZTsKICAgIH0sCiAgICBzZXRTdXJuYW1lIDogZnVuY3Rpb24gKHVzZXJTdXJuYW1lKSB7CiAgICAgICAgdGhpcy5zdXJuYW1lID0gdXNlclN1cm5hbWU7CiAgICB9LAogICAgc2V0RW1haWxTdGF0dXMgOiBmdW5jdGlvbih1c2VyRW1haWxTdGF0dXMpewogICAgICAgIHRoaXMuZW1haWxTdGF0dXMgPSB1c2VyRW1haWxTdGF0dXM7CiAgICB9LAoKICAgIC8qKgogICAgICogQGRlc2NyaXB0aW9uOiBBY3R1YWxpemEgbGEgc3Vic2NyaXBjaW9uIGRlbCB1c3VhcmlvIGFsIGJvbGV0aW4KICAgICAqLwogICAgdXBkYXRlVXNlclN1YnNjcmlwdGlvbjogZnVuY3Rpb24gKCkgewogICAgICAgIHJlcXVlc3QgPSB7CiAgICAgICAgICAgICJlbnRpdHlJbmZvIjogewogICAgICAgICAgICAgICAgInByaW1hcnlLZXkiOiB0aGlzLnVzZXJFbWFpbCwKICAgICAgICAgICAgICAgICJfbmFtZSI6IHRoaXMubmFtZSwKICAgICAgICAgICAgICAgICJfc3VybmFtZSI6IHRoaXMuc3VybmFtZSwKICAgICAgICAgICAgICAgICJfZW1haWxTdGF0dXMiOiB0aGlzLmVtYWlsU3RhdHVzCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJjYXJ0IjogewogICAgICAgICAgICAgICAgImNhcnRJZCI6ICJwY2MwMDA1YWI0ZGVkOWIzNDQ1MC4wNzExMTU4NCIsCiAgICAgICAgICAgICAgICAidG90YWxRdWFudGl0eSI6IDAsCiAgICAgICAgICAgICAgICAidG90YWxQcmljZSI6IDAsCiAgICAgICAgICAgICAgICAicHJvZHVjdHMiOiBbXQogICAgICAgICAgICB9LAogICAgICAgICAgICAicHVzaFN1YnNjcmlwdGlvbiI6IG51bGwsCiAgICAgICAgICAgICJldmVudHMiOiBbXSwKICAgICAgICAgICAgImJhbm5lclBsYWNlaG9sZGVycyI6IFtdCiAgICAgICAgfQogICAgICAgIGNvbnNvbGUubG9nKHJlcXVlc3QpOwogICAgICAgIGNvbm5lY3RpZi5zZW5kRGF0YShyZXF1ZXN0LCBvblJlc3BvbnNlKTsKCiAgICAgICAgZnVuY3Rpb24gb25SZXNwb25zZShyZXN1bHQsIHhocikgewogICAgICAgICAgICBjb25uZWN0aWYuc2V0KCdjbl90cmFja2VyJywgSlNPTi5zdHJpbmdpZnkoe2lkOiByZXN1bHQudHJhY2tlcklkfSkpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQudHJhY2tlcklkKTsKICAgICAgICB9CiAgICB9LAoKICAgIHVzZXJJbmZvOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgdmFyIHJlcXVlc3QgPSB7CiAgICAgICAgICAgIGVudGl0eUluZm86IHsKICAgICAgICAgICAgICAgICJwcmltYXJ5S2V5IjogdGhpcy51c2VyRW1haWwsCiAgICAgICAgICAgICAgICAiX25hbWUiOiB0aGlzLm5hbWUsCiAgICAgICAgICAgICAgICAiX3N1cm5hbWUiOiB0aGlzLnN1cm5hbWUsCiAgICAgICAgICAgICAgICAiX2VtYWlsU3RhdHVzIjogdGhpcy5lbWFpbFN0YXR1cwogICAgICAgICAgICB9LAogICAgICAgICAgICAvKmNhcnQ6IGNvbm5lY3RpZi5nZXRDYXJ0TW9kZWwoKSwqLwogICAgICAgICAgICAvKnB1c2hTdWJzY3JpcHRpb246IG51bGwsKi8KICAgICAgICAgICAgLypldmVudHM6IFtdLCovCiAgICAgICAgICAgIC8qYmFubmVyUGxhY2Vob2xkZXJzOiBjb25uZWN0aWYuZ2V0RW1iZWRkZWRCbG9ja1BsYWNlaG9sZGVySWRzKCkqLwogICAgICAgIH07CiAgICAgICAgY29uc29sZS5sb2coKHJlcXVlc3QpKTsKICAgIH0KfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlck1hbmFnZXIgPSAkdXNlck1hbmFnZXI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmNsYXNzIGdldENvbm5lY3RpZlVzZXJEYXRhUXVlcnkKewogICAgcHJpdmF0ZSAkZW1haWw7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRlbWFpbCkKICAgIHsKICAgICAgICAkdGhpcy0+JGVtYWlsID0gJGVtYWlsOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBlbWFpbCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5lbWFpbDsKICAgIH0KfQ==</text>
       </register>
-      <register name="2" type="4">
-        <text>PCC.connectof = {
-    
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogdmFyICR0aGlzLT51c2VyICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAge3sgZHVtcCgpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vdG9kbzogZXh0cmFlciBkZXBlbmRlbmNpYS4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvOiBleHRyYWVyIGRlcGVuZGVuY2lhLiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAiZG9uZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
