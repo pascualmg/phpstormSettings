@@ -50,12 +50,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1521826990386">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1522018511919">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="97" column="2" />
-        <mark key="." line="97" column="2" />
-        <mark key="^" line="97" column="2" />
+        <mark key="[" line="186" column="2" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="187" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/NoTesteablePccomAuthenticator.php" timestamp="1522007026202">
         <mark key="[" line="16" column="16" />
@@ -80,7 +80,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1522006982944">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1522017596431">
         <mark key="'" line="124" column="29" />
         <mark key="j" line="162" column="78" />
         <mark key="[" line="71" column="0" />
@@ -101,9 +101,9 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522016577264">
+      <file name="/Dummy.txt" timestamp="1522017948479">
         <mark key="i" line="0" column="53" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
@@ -113,12 +113,11 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" timestamp="1521826400320">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" timestamp="1522018067693">
         <mark key="'" line="357" column="7" />
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="16" />
-        <mark key="^" line="345" column="13" />
-        <mark key="." line="344" column="0" />
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="354" column="0" />
+        <mark key="." line="354" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" timestamp="1522007331753">
         <mark key="[" line="61" column="0" />
@@ -265,14 +264,14 @@
       <jump line="125" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGR1bXAoKSB9fQo=</text>
+      <register name="&quot;" type="4">
+        <text>{};</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>ShippingAddress</text>
+        <text>{};</text>
       </register>
       <register name="/" type="4">
         <text>xmlgoogle</text>
@@ -280,32 +279,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kaWYgLSV9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGR1bXAoKSB9fQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKCkgewogIAp9CgogICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGlmIGNvbm5lY3RpZlVzZXJEYXRhLmRlZmF1bHRTaGlwcGluZ0FkZHJlc3MgaXMgZGVmaW5lZCAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0aXBvLXRhcmlmYSI+e3sgY29ubmVjdGlmVXNlckRhdGEucmF0ZSB9fTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0ZWxlZm9ubyI+e3sgY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdEJpbGxpbmdBZGRyZXNzLmNlbGxQaG9uZSB8IGRlZmF1bHQoJ25vQ2VsbFBob25lJykgfX08L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB9fQo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RCdWlsZGVyOiBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+Z2V0KCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0aXBvLXRhcmlmYSI+e3sgY29ubmVjdGlmVXNlckRhdGEucmF0ZSB9fTwvc3Bhbj4K</text>
+      <register name="8" type="4">
+        <text>correcciones menores php , y enlace experimental con SalesManago
+para que en vez de un mock , tenga el dato real existente y se sincronicen.
+TODO: Esto es un experimento sin testear , hay que consultar y probar antes
+de subir este código , se queda así funcionando por que tengo que cambiar
+a la incidencia del merchant.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGR1bXAoKSB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
