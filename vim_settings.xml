@@ -50,12 +50,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1522018511919">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1522020858155">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="186" column="2" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-        <mark key="^" line="187" column="0" />
+        <mark key="[" line="122" column="33" />
+        <mark key="]" line="122" column="33" />
+        <mark key="." line="122" column="33" />
+        <mark key="^" line="122" column="33" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/NoTesteablePccomAuthenticator.php" timestamp="1522007026202">
         <mark key="[" line="16" column="16" />
@@ -113,11 +113,12 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" timestamp="1522018067693">
-        <mark key="'" line="357" column="7" />
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="0" />
-        <mark key="." line="354" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" timestamp="1522020279508">
+        <mark key="'" line="365" column="7" />
+        <mark key="[" line="358" column="44" />
+        <mark key="]" line="358" column="44" />
+        <mark key="." line="358" column="44" />
+        <mark key="^" line="360" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" timestamp="1522007331753">
         <mark key="[" line="61" column="0" />
@@ -265,50 +266,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{};</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>{};</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>xmlgoogle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kaWYgLSV9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jblJlcXVlc3QgPSAoZGF0YSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCkgewogIAp9CgogICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jblJlcXVlc3QgPSAoZGF0YSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIHRoaXMuY25SZXF1ZXN0ID0gKGRhdGEpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RCdWlsZGVyOiBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">fXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmIucHVzaEluZGQK</text>
       </register>
-      <register name="8" type="4">
-        <text>correcciones menores php , y enlace experimental con SalesManago
-para que en vez de un mock , tenga el dato real existente y se sincronicen.
-TODO: Esto es un experimento sin testear , hay que consultar y probar antes
-de subir este código , se queda así funcionando por que tengo que cambiar
-a la incidencia del merchant.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGR1bXAoKSB9fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
