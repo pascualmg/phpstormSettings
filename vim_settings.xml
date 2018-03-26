@@ -41,6 +41,13 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1522086852132">
+        <mark key="'" line="509" column="16" />
+        <mark key="[" line="490" column="46" />
+        <mark key="]" line="490" column="46" />
+        <mark key="^" line="490" column="46" />
+        <mark key="." line="490" column="46" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRate.php" timestamp="1522049514806">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="16" column="3" />
@@ -90,17 +97,17 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1522071230264">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="9" column="3" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522084812003">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522085565977">
         <mark key="'" line="225" column="4" />
-        <mark key="[" line="257" column="72" />
-        <mark key="]" line="263" column="19" />
-        <mark key="." line="263" column="19" />
-        <mark key="^" line="263" column="19" />
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
+        <mark key="^" line="247" column="10" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522082420001">
         <mark key="[" line="387" column="0" />
@@ -131,11 +138,11 @@
         <mark key="." line="77" column="72" />
         <mark key="^" line="77" column="72" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522061775433">
-        <mark key="[" line="56" column="2" />
-        <mark key="]" line="56" column="2" />
-        <mark key="." line="56" column="2" />
-        <mark key="^" line="37" column="3" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522086862210">
+        <mark key="[" line="57" column="75" />
+        <mark key="]" line="57" column="56" />
+        <mark key="." line="57" column="56" />
+        <mark key="^" line="57" column="56" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
         <mark key="[" line="15" column="0" />
@@ -166,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="16" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="55" column="20" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="64" column="30" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="75" column="11" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
@@ -266,59 +272,59 @@
       <jump line="142" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" />
       <jump line="84" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="225" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
+      <jump line="508" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7ZGQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>expression</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>getFilters</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICcwMScgPT4gJycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxUd2lnX1NpbXBsZUZpbHRlcignZGVsaXZlcnlTdHJpbmcnLCBbJHRoaXMsICdkZWxpdmVyeVN0cmluZyddLCBbJ2lzX3NhZmUnID0+IFsnYWxsJ11dKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICB7eyAgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGFydGljbGUtPmlkKTsK</text>
+        <text encoding="base64">eyUgaWYgZGF0YUZvckN1c3RvbUxhYmVsc0Zyb20wMHRvMDMgJX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICcwMScgPT4gJycsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICRjdXN0b21MYWJlbHMgPSBbCiAgICAgICAgICAgICcwMCcgPT4gWyRhcnRpY2xlLWlkXVskdGhpcy0+b2J0ZW5lckN1c3RvbUxhYmVsMCgkZGF0YUZvckN1c3RvbUxhYmVsc0Zyb20wMHRvMDMsICRpZEFydGljdWxvKV0KICAgICAgICBdOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBPYnRlbmRyw6kgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJ0aWNsZXMtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICd0NCc7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Migrar el feed de Merchant al sistema de Redis
-feed inicial a falta de customLabels y googleCategory</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>getFilters</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>getFilters</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -326,7 +332,6 @@ feed inicial a falta de customLabels y googleCategory</text>
     </search>
     <history>
       <history-search>
-        <entry>prepare</entry>
         <entry>schema</entry>
         <entry>fiscal</entry>
         <entry encoding="base64">XDwuXD4=</entry>
@@ -346,6 +351,7 @@ feed inicial a falta de customLabels y googleCategory</text>
         <entry>goo</entry>
         <entry>xmlgoogle</entry>
         <entry>dump</entry>
+        <entry>getFilters</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
