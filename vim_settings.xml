@@ -95,17 +95,21 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522081450181">
+      <file name="/Dummy.txt" timestamp="1522082598863">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522081447767">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522082616643">
         <mark key="'" line="225" column="4" />
-        <mark key="[" line="271" column="29" />
-        <mark key="]" line="271" column="80" />
-        <mark key="." line="271" column="80" />
-        <mark key="^" line="271" column="80" />
+        <mark key="[" line="270" column="60" />
+        <mark key="]" line="270" column="60" />
+        <mark key="." line="270" column="60" />
+        <mark key="^" line="270" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522082420001">
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="415" column="4" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/config.yml" timestamp="1522070381813">
         <mark key="[" line="86" column="47" />
@@ -269,47 +273,49 @@
       <jump line="225" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Migrar el feed de Merchant al sistema de Redis
+feed inicial a falta de customLabels y googleCategory</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gJ1NFTEVDVCAqIEZST00gd2ViLmFydGljdWxvc192ZW50YXNfbWFyZ2VuICc7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkZGF0YUN1c3RvbXMgZGF0b3MgbmVjZXNhcmlvcyBwYXJhIGhhY2VyIGVsIGPDoWxjdWxvIGRlIEVzdGEgbWlzdGVyaW9zYSBDdXN0b21MYWJlbC4KICAgICAqIEBwYXJhbSAkaWRBcnRpY3VsbyBFbCBpZCBkZWwgYXJ0w61jdWN1bG8gZGVsIGN1YWwgcXVlcmVtb3Mgc2FiZXIgcXVlIGN1c3RvbUxhYmVsMDAgdGllbmUuCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIG9idGVuZXJDdXN0b21MYWJlbDAoJGRhdGFDdXN0b21zLCAkaWRBcnRpY3VsbykKICAgIHsKICAgICAgICBpZiAoYXJyYXlfa2V5X2V4aXN0cygkaWRBcnRpY3VsbywgJGRhdGFDdXN0b21zKSkgewogICAgICAgICAgICBzd2l0Y2ggKCRwID0gJGRhdGFDdXN0b21zWyRpZEFydGljdWxvXVsncGVyY2VudGlsX3ZlbnRhcyddKSB7CiAgICAgICAgICAgICAgICBjYXNlICgkcCA+PSA2MSk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICd0MSc7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICgkcCA+PSA0MSk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICd0Mic7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICgkcCA+PSAzMSk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICd0Myc7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICgkcCA+PSAwKToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJ3Q0JzsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICd0NCc7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gJ3Q0JzsKICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+      <register name="1" type="4">
+        <text>Migrar el feed de Merchant al sistema de Redis
+feed inicial a falta de customLabels y googleCategory</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2V4cG9ydCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gJ2NvdW50ICgqKSBGUk9NIHdlYi5hcnRpY3Vsb3NfdmVudGFzX21hcmdlbiAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2V4cG9ydCgkcmVzdWx0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gJ2NvdW50ICgqKSBGUk9NIHdlYi5hcnRpY3Vsb3NfdmVudGFzX21hcmdlbiAnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjdXN0b21MYWJlbERhdGEwMHRvMDAzJyA9PiAkdGhpcy0+ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjdXN0b21MYWJlbERhdGEwMHRvMDAzJyA9PiAkdGhpcy0+ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
