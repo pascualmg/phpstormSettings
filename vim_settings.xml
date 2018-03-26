@@ -106,7 +106,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522053791108">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522056669584">
+        <mark key="'" line="84" column="9" />
         <mark key="[" line="82" column="16" />
         <mark key="]" line="82" column="24" />
         <mark key="^" line="82" column="24" />
@@ -137,11 +138,11 @@
         <mark key="." line="77" column="72" />
         <mark key="^" line="77" column="72" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522055022720">
-        <mark key="[" line="39" column="69" />
-        <mark key="]" line="39" column="13" />
-        <mark key="^" line="39" column="13" />
-        <mark key="." line="39" column="13" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522061268758">
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="66" />
+        <mark key="." line="39" column="66" />
+        <mark key="^" line="39" column="66" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
         <mark key="[" line="15" column="0" />
@@ -173,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="16" column="70" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="54" column="16" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="55" column="20" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
@@ -273,58 +273,59 @@
       <jump line="67" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" />
       <jump line="57" column="5" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" />
       <jump line="142" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" />
+      <jump line="84" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>default</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
-        <text>xmlgoogle</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ293bmVycycgPT4gbnVsbCwK</text>
+        <text encoding="base64">eyUgc2V0IGNvbmRpdGlvbiA9ICduZXcnICV9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8b3duZXI+e3sgb3duZXIgfX08L293bmVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cm90YXRpb24+e3sgcm90YXRpb24gfX08L3JvdGF0aW9uPgo=</text>
+        <text encoding="base64">ICAgIHslIGlmIGFydGljbGUudHlwZSA9PSAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aXNTU0Q+U1NEPC9pc1NTRD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpZiBpc1NTRCA9PSB0cnVlIC0lfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2ZpbHRlcnM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyUgZW5kZm9yICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgPC9maWx0ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVlcGxpbms+IHt7IHVybCgncGNjX3dlYl9yZWRpcmVjdCcsIHsncGF0aCc6YXJ0aWNsZS5zbHVnIHwgZGVmYXVsdCB9KSB9fSA8L2RlZXBsaW5rPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>xmlgoogle</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>xmlgoogle</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +344,6 @@
         <entry>image</entry>
         <entry>avai</entry>
         <entry>brand</entry>
-        <entry>dump</entry>
         <entry>asset</entry>
         <entry>userweb</entry>
         <entry>impress</entry>
@@ -352,6 +352,7 @@
         <entry>xmlgo</entry>
         <entry>goo</entry>
         <entry>xmlgoogle</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
