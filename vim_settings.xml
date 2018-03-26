@@ -24,9 +24,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1522001922382">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/getConnectifUserData.php" timestamp="1521829726525">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="22" column="39" />
@@ -87,9 +84,6 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1521810188221">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.event.impressions.js" timestamp="1521531283635">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="36" column="0" />
@@ -101,19 +95,23 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522049016573">
+      <file name="/Dummy.txt" timestamp="1522068342485">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522066671763">
-        <mark key="'" line="84" column="9" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="94" column="7" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522068432409">
+        <mark key="[" line="251" column="36" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
+        <mark key="^" line="247" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522066140511" />
+      <file name="$USER_HOME$/src/pccfront/app/config/config.yml" timestamp="1522068798036">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRateService.php" timestamp="1522001913926">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="7" />
@@ -167,6 +165,7 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="52" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/bin/doctrine.php" timestamp="1522068649390" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/noTesteablePccomAuthenticator.php" timestamp="1521997876972">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="14" />
@@ -278,46 +277,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgY29ubmVjdGlvbnM6Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>exception</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eyUgc2V0IGNvbmRpdGlvbiA9ICduZXcnICV9Cg==</text>
+      <register name="0" type="4">
+        <text>'SELECT * FROM articulos_ventas_margen')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgY29ubmVjdGlvbnM6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0X2Nvbm5lY3Rpb246IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VzdG9tTGFiZWxRdWVyeSA9ICRkYnctPnF1ZXJ5KCdTRUxFQ1QgKiBGUk9NIGFydGljdWxvc192ZW50YXNfbWFyZ2VuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZGJ3LT5xdWVyeSgpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSAnU0VMRUNUICogRlJPTSBhcnRpY3Vsb3NfdmVudGFzX21hcmdlbic7CiAgICAgICAgJHN0bXQgPSAkZGJ3LT5wcmVwYXJlKCRxdWVyeSk7CiAgICAgICAgJHN0bXQtPmV4ZWN1dGUoKTsKICAgICAgICAkcmVzdWx0ID0gJHN0bXQtPmZldGNoQWxsKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ3JvdGF0aW9ucycgPT4gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGN1c3RvbUxhYmVsUXVlcnkgPSAkZGJ3LT5xdWVyeSgnU0VMRUNUICogRlJPTSBhcnRpY3Vsb3NfdmVudGFzX21hcmdlbicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ293bmVycycgPT4gbnVsbCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdC0+Zm9yZWF0Y2goKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YUN1c3RvbXMgPSBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
