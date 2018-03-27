@@ -83,12 +83,12 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522152119787">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522156695098">
         <mark key="'" line="18" column="21" />
-        <mark key="[" line="267" column="21" />
-        <mark key="]" line="267" column="30" />
-        <mark key="." line="267" column="30" />
-        <mark key="^" line="267" column="30" />
+        <mark key="[" line="300" column="34" />
+        <mark key="]" line="292" column="100" />
+        <mark key="." line="292" column="100" />
+        <mark key="^" line="292" column="109" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522134675647">
         <mark key="'" line="283" column="4" />
@@ -244,13 +244,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>farrayGtaxon</text>
+        <text>: stdClass</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>farrayGtaxon</text>
+        <text>: stdClass</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -259,31 +259,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnRlZ2VyICRpZEFydGljdWxvICBBcnRpY3VsbyBkZWwgcXVlIG9idGVuZXIgbGEgY3VzdG9tTGFiZWwwMi4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqICAgKgo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaWRBcnRpY3Vsbwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZGF0YUN1c3RvbXMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB0b2RvOiBFbGltaW5hciBlc3RlIGZpbHRybyBjdWFuZG8gZXN0b3MgZGF0b3Mgc2UgY2FsY3VsZW5lbiBsYSBhcGkuICAgLyoqCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqICAgKgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaWRBcnRpY3Vsbwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZGF0YUN1c3RvbXMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbXBldGVuY3kgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAqIEB0b2RvOiBFbGltaW5hciBlc3RlIGZpbHRybyBjdWFuZG8gZXN0b3MgZGF0b3Mgc2UgY2FsY3VsZW5lbiBsYSBhcGkuICAgLyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
