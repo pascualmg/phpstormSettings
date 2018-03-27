@@ -83,12 +83,12 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522156695098">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="300" column="34" />
-        <mark key="]" line="292" column="100" />
-        <mark key="." line="292" column="100" />
-        <mark key="^" line="292" column="109" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522158245814">
+        <mark key="'" line="303" column="7" />
+        <mark key="[" line="294" column="15" />
+        <mark key="]" line="294" column="19" />
+        <mark key="." line="294" column="19" />
+        <mark key="^" line="294" column="19" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522134675647">
         <mark key="'" line="283" column="4" />
@@ -141,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="21" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="25" column="67" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="29" column="54" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/ArticlesListController.php" />
       <jump line="99" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/ArticlesListController.php" />
@@ -241,16 +240,17 @@
       <jump line="283" column="4" filename="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" />
       <jump line="254" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="18" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
+      <jump line="303" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: stdClass</text>
+        <text>mixed</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>: stdClass</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -259,31 +259,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnRlZ2VyICRpZEFydGljdWxvICBBcnRpY3VsbyBkZWwgcXVlIG9idGVuZXIgbGEgY3VzdG9tTGFiZWwwMi4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIFF1ZXJ5OjogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9leHBvcnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9kdW1wOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqICAgKgo=</text>
+        <text encoding="base64">dXNlIHN0ZENsYXNzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaWRBcnRpY3Vsbwo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGxvZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZGF0YUN1c3RvbXMK</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">dXNlIGNvbnN0IExPR19HQU1NQV9YX01BWF9WQUxVRTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0b2RvOiBFbGltaW5hciBlc3RlIGZpbHRybyBjdWFuZG8gZXN0b3MgZGF0b3Mgc2UgY2FsY3VsZW5lbiBsYSBhcGkuICAgLyoqCg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
