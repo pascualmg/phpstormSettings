@@ -24,6 +24,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3a8a9d6-52b4-4ecc-ab6d-6e551a78195c/console.sql" timestamp="1522107418358">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/getConnectifUserData.php" timestamp="1521829726525">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="22" column="39" />
@@ -107,15 +113,15 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522088148468">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522108817336">
         <mark key="'" line="225" column="4" />
-        <mark key="[" line="205" column="38" />
-        <mark key="]" line="205" column="39" />
-        <mark key="." line="205" column="39" />
-        <mark key="^" line="205" column="39" />
+        <mark key="[" line="303" column="36" />
+        <mark key="]" line="303" column="36" />
+        <mark key="." line="303" column="36" />
+        <mark key="^" line="321" column="12" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522105427988">
-        <mark key="'" line="336" column="43" />
+      <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522106614492">
+        <mark key="'" line="283" column="4" />
         <mark key="[" line="387" column="0" />
         <mark key="]" line="415" column="4" />
       </file>
@@ -144,10 +150,10 @@
         <mark key="." line="77" column="72" />
         <mark key="^" line="77" column="72" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522105837566">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522106358850">
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="23" />
+        <mark key="." line="63" column="23" />
         <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
@@ -179,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="165" column="15" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="22" column="13" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
       <jump line="23" column="21" filename="$USER_HOME$/src/FormacionOldFront/API/users/FOF.Users.js" />
@@ -279,58 +284,59 @@
       <jump line="581" column="25" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="66" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="755" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
+      <jump line="283" column="4" filename="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHslIHNldCBkYXRlID0gYXJ0aWNsZS5kYXRlICV9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Query04</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Query04</text>
       </register>
       <register name="/" type="4">
-        <text>getFilters</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFxUd2lnX1NpbXBsZUZpbHRlcignY3VzdG9tTGFiZWwwMCcsIFskdGhpcywgJ2N1c3RvbUxhYmVsMDAnXSwgWydpc19zYWZlJyA9PiBbJ2FsbCddXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHslIHNldCBkYXRlID0gYXJ0aWNsZS5kYXRlICV9Cg==</text>
+        <text encoding="base64">ICAgICAqICBEdW1wZWEgdW4gcGFyIGRlIGFydGljdWxvcyBkZWwgc25hcHNob3QgcGFyYSB2ZXIgc3VzIGNhbXBvcyAsIGZvcm1hdG8gLCBldGMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsjbWFjaGFjYW1vcyBlbCBhcnRpY2xlIGNvbiBlbCBhcnRpY2xlLmFydGljbGUgb2pvICN9Cg==</text>
+        <text encoding="base64">ICAgICAqIHRvZG86IGJvcnJhciBjdWFuZG8gbm8gaGFnYSBmYWx0YSBwYXJhIGRlc2Fycm9sbGFyIGZlZWRzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgc2V0IGFydGljbGUgPSBhcnRpY2xlLmFydGljbGUgJX0K</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KgogICAgICogQlQtMTk1LgogICAgICogQHRvZG86IEVsaW1pbmFyIGVzdGUgZmlsdHJvIGN1YW5kbyBlc3RvcyBkYXRvcyBzZSBjYWxjdWxlbmVuIGxhIGFwaS4KICAgICAqIEBwYXJhbSBhcnJheSAgICRpZEFydGljdWxvICBkYXRvcyBuZWNlc2FyaW9zIHBhcmEgaGFjZXIgZWwgY8OhbGN1bG8gZGUgRXN0YSBtaXN0ZXJpb3NhIEN1c3RvbUxhYmVsLgogICAgICogQHBhcmFtIGludGVnZXIgJGRhdGFDdXN0b21zIEVsIGlkIGRlbCBhcnTDrWN1Y3VsbyBkZWwgY3VhbCBxdWVyZW1vcyBzYWJlciBxdWUgY3VzdG9tTGFiZWwwMCB0aWVuZS4KICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjdXN0b21MYWJlbDAwKCRpZEFydGljdWxvLCAkZGF0YUN1c3RvbXMpIDogc3RyaW5nCiAgICB7CiAgICAgICAgaWYgKGFycmF5X2tleV9leGlzdHMoJGlkQXJ0aWN1bG8sICRkYXRhQ3VzdG9tcykpIHsKICAgICAgICAgICAgc3dpdGNoICgkcCA9ICRkYXRhQ3VzdG9tc1skaWRBcnRpY3Vsb11bJ3BlcmNlbnRpbF92ZW50YXMnXSkgewogICAgICAgICAgICAgICAgY2FzZSAoJHAgPj0gNjEpOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAndDEnOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAoJHAgPj0gNDEpOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAndDInOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAoJHAgPj0gMzEpOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAndDMnOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAoJHAgPj0gMCk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICd0NCc7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIHJldHVybiAndDQnOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuICd0NCc7CiAgICAgICAgfQogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbXBldGVuY3k7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxUd2lnX1NpbXBsZUZpbHRlcignY3VzdG9tTGFiZWwwMCcsIFskdGhpcywgJ2N1c3RvbUxhYmVsMDAnXSwgWydpc19zYWZlJyA9PiBbJ2FsbCddXSksCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGc6Y3VzdG9tX2xhYmVsXzM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getFilters</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>getFilters</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -338,8 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>schema</entry>
-        <entry>fiscal</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry>console.log</entry>
         <entry>Product</entry>
@@ -358,6 +362,8 @@
         <entry>xmlgoogle</entry>
         <entry>dump</entry>
         <entry>getFilters</entry>
+        <entry>getcompe</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
