@@ -47,12 +47,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1522235575025">
-        <mark key="'" line="791" column="0" />
-        <mark key="[" line="760" column="0" />
-        <mark key="]" line="761" column="58" />
-        <mark key="^" line="761" column="58" />
-        <mark key="." line="761" column="58" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1522238853000">
+        <mark key="'" line="770" column="0" />
+        <mark key="[" line="763" column="0" />
+        <mark key="]" line="763" column="0" />
+        <mark key="^" line="763" column="7" />
+        <mark key="." line="763" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRate.php" timestamp="1522049514806">
         <mark key="[" line="20" column="1" />
@@ -71,7 +71,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1522238170582">
+      <file name="/PHP Console" timestamp="1522239947713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/PccomAuthenticator.php" timestamp="1522049691151">
@@ -102,10 +102,10 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522230119646">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1522240498217">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522232136842">
         <mark key="'" line="303" column="7" />
@@ -114,7 +114,7 @@
         <mark key="." line="278" column="0" />
         <mark key="^" line="277" column="46" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522171142337">
+      <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522239289154">
         <mark key="'" line="282" column="4" />
         <mark key="[" line="180" column="0" />
         <mark key="]" line="180" column="0" />
@@ -126,7 +126,7 @@
         <mark key="." line="86" column="47" />
         <mark key="^" line="85" column="48" />
       </file>
-      <file name="/fragment.php" timestamp="1522231512307">
+      <file name="/fragment.php" timestamp="1522239135289">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRateService.php" timestamp="1522001913926">
@@ -185,10 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/ArticlesListController.php" />
-      <jump line="216" column="70" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/ArticlesListController.php" />
-      <jump line="289" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/index-generic-article-list.html.twig" />
-      <jump line="196" column="57" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/index-generic-article-list.html.twig" />
       <jump line="178" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/index-generic-article-list.html.twig" />
       <jump line="43" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="77" column="81" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
@@ -285,16 +281,20 @@
       <jump line="788" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="564" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="796" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
+      <jump line="763" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
+      <jump line="39" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
+      <jump line="770" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRndGF4b247Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1st try</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>idGoogleTaxonomy</text>
+        <text>1st try</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -303,31 +303,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgJ25vbWJyZScgPT4gJGl0ZW1bJ25vbWJyZSddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRndGF4b247Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRndGF4b247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2VuZCBvcmlnaW5hbCBjb2RlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaWRHb29nbGVUYXhvbm9teSA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2VuZCBvcmlnaW5hbCBjb2RlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaWRHb29nbGVUYXhvbm9teSA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICRmYW1pbGlhID0gJGdvb2dsZUZhbWlsaWVzWyRmYW1pbGlhXVsnc3ViZmFtaWxpYSddOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
