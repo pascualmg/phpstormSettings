@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-usuario-listado-direcciones.html.twig" timestamp="1521724880487">
@@ -153,11 +153,12 @@
         <mark key="]" line="560" column="0" />
         <mark key="." line="560" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522657999304">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="41" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522660144326">
+        <mark key="'" line="25" column="26" />
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="30" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="40" column="30" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
         <mark key="[" line="15" column="0" />
@@ -192,9 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="74" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
-      <jump line="370" column="65" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
-      <jump line="373" column="40" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="376" column="57" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="17" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="24" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" />
@@ -292,58 +290,61 @@
       <jump line="624" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="735" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="59" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
+      <jump line="50" column="88" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="64" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="25" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>P</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
-        <text>UTF</text>
+        <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBnb29nbGVfdGF4b25vbXlfZXMK</text>
+        <text encoding="base64">eyUgc2V0IEFUT00gPSAiWS1tLWRcVEg6aTpzUCIgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFzdEJ1aWxkRGF0ZT57eyBkYXRlKCkudGltZXN0YW1wIHwgZGF0ZSgpfX08L2xhc3RCdWlsZERhdGU+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cHViRGF0ZT57eyBkYXRlKCkudGltZXN0YW1wIHwgZGF0ZSgpfX08L3B1YkRhdGU+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRibG9jayBmZWVkX3RpdGxlIC0lfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsjMSA9PSAwIGFuZCN9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7IzxwdWJEYXRlPk1vbiwgMDggTWF5IDIwMTcgMTk6MDM6NDggKzAyMDA8L3B1YkRhdGU+I30K</text>
+        <text encoding="base64">ICAgICAgICA8bGFzdEJ1aWxkRGF0ZT57eyBkYXRlKCkudGltZXN0YW1wIHwgZGF0ZSgpfX08L2xhc3RCdWlsZERhdGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHViRGF0ZT57eyBkYXRlKCkudGltZXN0YW1wIHwgZGF0ZSgpfX08L3B1YkRhdGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRibG9jayBmZWVkX3RpdGxlIC0lfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGUuYXJ0aWNsZS5wcmljZS5wcmljZSA+IDEwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsjMSA9PSAwIGFuZCN9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICB7IzxwdWJEYXRlPk1vbiwgMDggTWF5IDIwMTcgMTk6MDM6NDggKzAyMDA8L3B1YkRhdGU+I30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>UTF</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>UTF</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -351,7 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
         <entry>Product</entry>
         <entry>itemprop</entry>
         <entry>itemprop=&quot;image&quot;</entry>
@@ -371,6 +371,7 @@
         <entry>getcompe</entry>
         <entry>get</entry>
         <entry>UTF</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
