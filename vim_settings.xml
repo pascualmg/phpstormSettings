@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-usuario-listado-direcciones.html.twig" timestamp="1521724880487">
@@ -92,11 +92,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1522656607768">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1522657969203">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.event.impressions.js" timestamp="1521531283635">
         <mark key="[" line="8" column="23" />
@@ -153,7 +153,7 @@
         <mark key="]" line="560" column="0" />
         <mark key="." line="560" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522656974689">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522657999304">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -294,8 +294,8 @@
       <jump line="59" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsjMSA9PSAwIGFuZCN9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -310,31 +310,31 @@
         <text encoding="base64">U0VMRUNUICogRlJPTSBnb29nbGVfdGF4b25vbXlfZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsjMSA9PSAwIGFuZCN9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGFzdEJ1aWxkRGF0ZT57eyBkYXRlKCkudGltZXN0YW1wIHwgZGF0ZSgpfX08L2xhc3RCdWlsZERhdGU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IzxwdWJEYXRlPk1vbiwgMDggTWF5IDIwMTcgMTk6MDM6NDggKzAyMDA8L3B1YkRhdGU+I30K</text>
+        <text encoding="base64">ICAgICAgICA8cHViRGF0ZT57eyBkYXRlKCkudGltZXN0YW1wIHwgZGF0ZSgpfX08L3B1YkRhdGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRibG9jayBmZWVkX3RpdGxlIC0lfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsjMSA9PSAwIGFuZCN9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGUuYXJ0aWNsZS5wcmljZS5wcmljZSA+IDEwCg==</text>
+        <text encoding="base64">ICAgICAgICB7IzxwdWJEYXRlPk1vbiwgMDggTWF5IDIwMTcgMTk6MDM6NDggKzAyMDA8L3B1YkRhdGU+I30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGUuYXJ0aWNsZS5wcmljZS5wcmljZSA+IDEwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAgICRnb29nbGVUYXhvbiBBcnJheSBxdWUgY29udGllbmUgbG9zIHRheG9uZXMgZGVsIGdvb2dsZS4K</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
