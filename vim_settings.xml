@@ -47,12 +47,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1522748751528">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1522751728994">
         <mark key="'" line="59" column="41" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="776" column="18" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="777" column="36" />
+        <mark key="]" line="778" column="3" />
+        <mark key="^" line="778" column="3" />
+        <mark key="." line="778" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRate.php" timestamp="1522049514806">
         <mark key="[" line="20" column="1" />
@@ -110,9 +110,9 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522749258097">
+      <file name="/Dummy.txt" timestamp="1522751738369">
         <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
+        <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522674864858">
@@ -154,12 +154,12 @@
         <mark key="]" line="560" column="0" />
         <mark key="." line="560" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522749332296">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522751615812">
         <mark key="'" line="63" column="9" />
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="4" />
-        <mark key="^" line="56" column="64" />
+        <mark key="[" line="64" column="37" />
+        <mark key="]" line="64" column="40" />
+        <mark key="." line="64" column="40" />
+        <mark key="^" line="66" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
         <mark key="[" line="15" column="0" />
@@ -297,13 +297,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>little patch for creationDate</text>
+        <text>availabilty_date  cambiada para que solo salga cuando el articulo
+está en stock . Uso la minFecha .</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>little patch for creationDate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>avai</text>
@@ -311,32 +312,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGc6cHJpY2U+e3sgYXJ0aWNsZS5vcmlnaW5hbFByaWNlLnByaWNlIHwgZGVmYXVsdCB9fSBFVVI8L2c6cHJpY2U+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9leHBvcnQ7Cg==</text>
+      <register name="1" type="4">
+        <text>availabilty_date  cambiada para que solo salga cuando el articulo
+está en stock . Uso la minFecha .</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9kdW1wOwo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9leHBvcnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGc6cHJpY2U+e3sgYXJ0aWNsZS5wcmljZS5wcmljZSB8IGRlZmF1bHQgfX0gRVVSPC9nOnByaWNlPgo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9kdW1wOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kZm9yICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvcHJvbW90aW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICAgICAgPGc6cHJpY2U+e3sgYXJ0aWNsZS5wcmljZS5wcmljZSB8IGRlZmF1bHQgfX0gRVVSPC9nOnByaWNlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2RhdGE+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kZm9yICV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
