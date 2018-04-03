@@ -47,12 +47,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1522746439974">
-        <mark key="'" line="61" column="41" />
-        <mark key="[" line="778" column="12" />
-        <mark key="]" line="778" column="18" />
-        <mark key="^" line="778" column="18" />
-        <mark key="." line="778" column="18" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1522748751528">
+        <mark key="'" line="59" column="41" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="776" column="18" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRate.php" timestamp="1522049514806">
         <mark key="[" line="20" column="1" />
@@ -92,6 +92,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" timestamp="1522747269565" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1522657969203">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="14" column="2" />
@@ -109,7 +110,7 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522744211022">
+      <file name="/Dummy.txt" timestamp="1522749258097">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -153,12 +154,12 @@
         <mark key="]" line="560" column="0" />
         <mark key="." line="560" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522746401631">
-        <mark key="'" line="25" column="26" />
-        <mark key="[" line="65" column="26" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="67" column="42" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522749332296">
+        <mark key="'" line="63" column="9" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="4" />
+        <mark key="^" line="56" column="64" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
         <mark key="[" line="15" column="0" />
@@ -193,9 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="57" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
-      <jump line="17" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
-      <jump line="24" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" />
       <jump line="85" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
       <jump line="148" column="29" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="257" column="27" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -293,58 +291,61 @@
       <jump line="50" column="88" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="64" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="25" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="67" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="79" column="100" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="63" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dump</text>
+        <text>little patch for creationDate</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>dump</text>
+        <text>little patch for creationDate</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>avai</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxUd2lnX1NpbXBsZUZpbHRlcignZ29vZ2xlVGF4b25NYXAnLCBbJHRoaXMsICdnb29nbGVUYXhvbk1hcCddLCBbJ2lzX3NhZmUnID0+IFsnYWxsJ11dKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGc6cHJpY2U+e3sgYXJ0aWNsZS5vcmlnaW5hbFByaWNlLnByaWNlIHwgZGVmYXVsdCB9fSBFVVI8L2c6cHJpY2U+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgJ2EnIHwga2lsbFJlbmRlciB9fQo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9leHBvcnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChwcm9tb3Rpb24uZGF0YSkgfX0K</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9kdW1wOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgJzAnIHwga2lsbFJlbmRlciB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpbmlzaGVkPnt7IHByb21vdGlvbi5kYXRhLmZpbmlzaGVkIH19PC9maW5pc2hlZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHslIHNldCBjcmVhdGlvbkRhdGUgPSAgJzIwMTgtMDQtMDEnIHwgZGF0ZSgnWS1tLWQnKSAlfQo=</text>
+        <text encoding="base64">ICAgICAgPGc6cHJpY2U+e3sgYXJ0aWNsZS5wcmljZS5wcmljZSB8IGRlZmF1bHQgfX0gRVVSPC9nOnByaWNlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kZm9yICV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvcHJvbW90aW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICB7JSBzZXQgZGF0ZSA9IGRhdGUoJzAwMDAtMDAtMDAnKSAlfQogICAgeyUgaWYgICV9CiAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2RhdGE+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>avai</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>avai</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -356,7 +357,6 @@
         <entry>itemprop</entry>
         <entry>itemprop=&quot;image&quot;</entry>
         <entry>image</entry>
-        <entry>avai</entry>
         <entry>brand</entry>
         <entry>asset</entry>
         <entry>userweb</entry>
@@ -372,6 +372,7 @@
         <entry>get</entry>
         <entry>UTF</entry>
         <entry>date</entry>
+        <entry>avai</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
