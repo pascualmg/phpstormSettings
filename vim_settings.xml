@@ -109,10 +109,10 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522736879527">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1522741501917">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1522674864858">
         <mark key="'" line="304" column="7" />
@@ -153,11 +153,11 @@
         <mark key="]" line="560" column="0" />
         <mark key="." line="560" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522736240802">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522741485505">
         <mark key="'" line="25" column="26" />
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="45" column="29" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
         <mark key="^" line="46" column="61" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
@@ -296,7 +296,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXBsYWNlZCBodHRwIHggaHR0cHMgaW4gPGxpbms+IGFuZCA8bW9iaWxlX2xpbms+</text>
+        <text>article.name se deja con las htmltags como en el original, se filtra 
+                              la descripción con cleanUTF8 .</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -308,34 +309,35 @@
         <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGxpbms+e3snaHR0cDovL3d3dy5wY2NvbXBvbmVudGVzLmNvbS8nIH4gYXJ0aWNsZS5jdXJyZW50U2x1ZyB8IGRlZmF1bHQoYXJ0aWNsZS5zbHVnKX19PC9saW5rPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGUuYXJ0aWNsZS50cmFkZW1hcmsuc2x1ZyAhPSAnb2VtJyBhbmQK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGJ1ZyBmaXhlZCB3aXRoIGFydGljbGUuaXMgZGVmaW5lZCAuIApMYSBwcmltZXJhIHZleiBxdWUgcGFzYSAuIApDdXJyZW50U2x1ZyBwYXJhIGdlbnJhciBzbHVnIHkgZml4IGRlIGJ1ZyBlbiAyIG8gNCBhcnRpY3Vsb3MgcXVlIGxlcyB2aWVuZSAKbnVsbCB0aXJhbmRvIGRlbCBhcnRpY2xlLnNsdWc=</text>
+        <text>article.name se deja con las htmltags como en el original, se filtra 
+                              la descripción con cleanUTF8 .</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgeyM8bW9iaWxlX2xpbms+e3snaHR0cDovL3d3dy5wY2NvbXBvbmVudGVzLmNvbS8nIH4gYXJ0aWNsZS5jdXJyZW50U2x1ZyB8IGRlZmF1bHQoYXJ0aWNsZS5zbHVnKX19PC9tb2JpbGVfbGluaz4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGUuYXJ0aWNsZS50cmFkZW1hcmsuc2x1ZyAhPSAnb2VtJyBhbmQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgeyM8bGluaz4ge3snaHR0cDovL3d3dy5wY2NvbXBvbmVudGVzLmNvbS8nIH4gYXJ0aWNsZS5jdXJyZW50U2x1ZyB9fSA8L2xpbms+I30K</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGJ1ZyBmaXhlZCB3aXRoIGFydGljbGUuaXMgZGVmaW5lZCAuIApMYSBwcmltZXJhIHZleiBxdWUgcGFzYSAuIApDdXJyZW50U2x1ZyBwYXJhIGdlbnJhciBzbHVnIHkgZml4IGRlIGJ1ZyBlbiAyIG8gNCBhcnRpY3Vsb3MgcXVlIGxlcyB2aWVuZSAKbnVsbCB0aXJhbmRvIGRlbCBhcnRpY2xlLnNsdWc=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgeyM8bW92aWxlX2xpbms+IHt7IHVybCgncGNjX3dlYl9yZWRpcmVjdCcsIHsncGF0aCc6YXJ0aWNsZS5zbHVnIHwgZGVmYXVsdCB9KSB9fSA8L21vdmlsZV9saW5rPiN9Cg==</text>
+        <text encoding="base64">ICAgICAgeyM8bW9iaWxlX2xpbms+e3snaHR0cDovL3d3dy5wY2NvbXBvbmVudGVzLmNvbS8nIH4gYXJ0aWNsZS5jdXJyZW50U2x1ZyB8IGRlZmF1bHQoYXJ0aWNsZS5zbHVnKX19PC9tb2JpbGVfbGluaz4jfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgeyM8bGluaz4ge3sgdXJsKCdwY2Nfd2ViX3JlZGlyZWN0JywgeydwYXRoJzphcnRpY2xlLmN1cnJlbnRTbHVnIHwgZGVmYXVsdCB9KSB9fSA8L2xpbms+I30K</text>
+        <text encoding="base64">ICAgICAgeyM8bGluaz4ge3snaHR0cDovL3d3dy5wY2NvbXBvbmVudGVzLmNvbS8nIH4gYXJ0aWNsZS5jdXJyZW50U2x1ZyB9fSA8L2xpbms+I30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHt7IGR1bXAoYXJ0aWNsZSkgfX0K</text>
+        <text encoding="base64">ICAgICAgeyM8bW92aWxlX2xpbms+IHt7IHVybCgncGNjX3dlYl9yZWRpcmVjdCcsIHsncGF0aCc6YXJ0aWNsZS5zbHVnIHwgZGVmYXVsdCB9KSB9fSA8L21vdmlsZV9saW5rPiN9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHslIHNldCBjdXJyZW50U2x1ZyA9IGFydGljbGUuY3VycmVudFNsdWcgJX0K</text>
+        <text encoding="base64">ICAgICAgeyM8bGluaz4ge3sgdXJsKCdwY2Nfd2ViX3JlZGlyZWN0JywgeydwYXRoJzphcnRpY2xlLmN1cnJlbnRTbHVnIHwgZGVmYXVsdCB9KSB9fSA8L2xpbms+I30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJ0aWNsZXMtPmN1cnJlbnQoKQo=</text>
+        <text encoding="base64">ICAgIHt7IGR1bXAoYXJ0aWNsZSkgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHslIHNldCBjdXJyZW50U2x1ZyA9IGFydGljbGUuY3VycmVudFNsdWcgJX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
