@@ -8,11 +8,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3a8a9d6-52b4-4ecc-ab6d-6e551a78195c/console.sql" timestamp="1522107418358">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3a8a9d6-52b4-4ecc-ab6d-6e551a78195c/console.sql" timestamp="1522846986914">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/botonico.js" timestamp="1522828353627">
         <mark key="[" line="2" column="14" />
@@ -130,10 +130,10 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522827542285">
+      <file name="/Dummy.txt" timestamp="1522847531228">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" timestamp="1522243913216">
         <mark key="'" line="282" column="4" />
@@ -179,11 +179,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1522840812946">
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1522846903207">
         <mark key="'" line="884" column="82" />
-        <mark key="[" line="638" column="12" />
-        <mark key="]" line="638" column="12" />
-        <mark key="." line="638" column="12" />
+        <mark key="[" line="641" column="0" />
+        <mark key="]" line="641" column="0" />
+        <mark key="." line="641" column="0" />
+        <mark key="^" line="641" column="30" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522760479353">
         <mark key="'" line="63" column="9" />
@@ -324,7 +325,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>lfc general afecta a todos los feeds. 
+Se incluye mejora en el cálculo del precio del artículo 
+cuando es un artículo de portugal con oferta PADE . 
+Ahora se calcula el iva real aplicado a dicho artículo 
+correctamente
+Sustituida getIvaSpainbyIdArticuloOrOne x 
+           getIvaSpainFromCurrentArticuloOrOne</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -338,32 +345,38 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEJvdG9uaWNvIGZyb20gIi4vQm90b25pY28iOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YGAK</text>
+      <register name="1" type="4">
+        <text>lfc general afecta a todos los feeds. 
+Se incluye mejora en el cálculo del precio del artículo 
+cuando es un artículo de portugal con oferta PADE . 
+Ahora se calcula el iva real aplicado a dicho artículo 
+correctamente
+Sustituida getIvaSpainbyIdArticuloOrOne x 
+           getIvaSpainFromCurrentArticuloOrOne</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGFzczogcGNjb21wb25lbnRlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgYAo=</text>
+        <text encoding="base64">VXNlcjogYW50b25pby5vcnRpekBwY2NvbXBvbmVudGVzLmNvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEFORCBhcnQuaWRfYXJ0aWN1bG8gTk9UIElOIChTRUxFQ1QgKiBGUk9NIGFwaV9nYW1hX2JsYW5jYV9hcnRpY3Vsb3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIEFORCBhcnQuaWRfYXJ0aWN1bG8gTk9UIElOIChTRUxFQ1QgKiBGUk9NIGFwaV9nYW1hX2JsYW5jYV9hcnRpY3Vsb3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgSGFzdGFnIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50ewo=</text>
+        <text encoding="base64">ICAgICAgICBxdWl0YWRhIGdhbWEgYmxhbmNhIGRlIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgIAlBTkQgYXJ0LmlkX2FydGljdWxvIE5PVCBJTiAoU0VMRUNUICogRlJPTSBhcGlfZ2FtYV9ibGFuY2FfYXJ0aWN1bG9zKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Qm90b25pY28vPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
