@@ -31,6 +31,7 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/src/web/xml/feed/doofinder/class/PccomFeederDoofinder.class.php" timestamp="1522839910513" />
       <file name="$USER_HOME$/src/pccfront/init.sh" timestamp="1521724923185">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -178,10 +179,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1522229252819">
-        <mark key="[" line="560" column="0" />
-        <mark key="]" line="560" column="0" />
-        <mark key="." line="560" column="0" />
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1522840812946">
+        <mark key="'" line="884" column="82" />
+        <mark key="[" line="638" column="12" />
+        <mark key="]" line="638" column="12" />
+        <mark key="." line="638" column="12" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1522760479353">
         <mark key="'" line="63" column="9" />
@@ -199,10 +201,6 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" timestamp="1522232317397">
-        <mark key="[" line="357" column="0" />
-        <mark key="]" line="357" column="258" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1521728765686">
         <mark key="[" line="105" column="0" />
@@ -223,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="27" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="621" column="78" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="70" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="358" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
@@ -323,19 +320,20 @@
       <jump line="788" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="52" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="797" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
+      <jump line="884" column="82" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YGAK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>avai</text>
+        <text>blanca</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEJvdG9uaWNvIGZyb20gIi4vQm90b25pY28iOwo=</text>
@@ -372,9 +370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>avai</last-search>
+      <last-search>blanca</last-search>
       <last-offset />
-      <last-pattern>avai</last-pattern>
+      <last-pattern>blanca</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -382,7 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Product</entry>
         <entry>itemprop</entry>
         <entry>itemprop=&quot;image&quot;</entry>
         <entry>image</entry>
@@ -402,6 +399,7 @@
         <entry>UTF</entry>
         <entry>date</entry>
         <entry>avai</entry>
+        <entry>blanca</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
