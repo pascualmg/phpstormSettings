@@ -27,13 +27,18 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/src/reactivo/src/PhotoGrid.js" timestamp="1522865021617">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1522820943151">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="9" />
         <mark key="^" line="29" column="9" />
         <mark key="." line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/src/reactivo/src/Foto.js" timestamp="1522862064703">
+      <file name="$USER_HOME$/src/reactivo/src/Foto.js" timestamp="1522862465187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/pccomAuthenticator.php" timestamp="1522049582551">
@@ -69,11 +74,20 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
+      <file name="/JavaScript Console" timestamp="1522864859439">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRateService.php" timestamp="1522001913926">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/reactivo/src/Photo.js" timestamp="1522863074748">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1522071230264">
         <mark key="[" line="8" column="4" />
@@ -145,7 +159,6 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/reactivo/public/index.html" timestamp="1522861840902" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3a8a9d6-52b4-4ecc-ab6d-6e551a78195c/console_1.sql" timestamp="1522243878409">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="14" />
@@ -163,7 +176,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/reactivo/src/App.js" timestamp="1522861824236" />
+      <file name="$USER_HOME$/src/reactivo/src/App.js" timestamp="1522864857162">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/noTesteablePccomAuthenticator.php" timestamp="1521997876972">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="14" />
@@ -296,13 +313,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>arr;</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>arr;</text>
       </register>
       <register name="/" type="4">
         <text>avai</text>
@@ -310,32 +327,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFxUd2lnX1NpbXBsZUZpbHRlcignZHVtcEFuZERpZScsIFskdGhpcywgJ2R1bXBBbmREaWUnXSwgWydpc19zYWZlJyA9PiBbJ2FsbCddXSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBbJ2FsZ28nLCdhbGdvJywnYWxnbycsJ2FsZ28nLCdhbGdvJywnYWxnbycsJ2FsZ28nLCdhbGdvJywnYWxnbycsJ2FsZ28nXTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YXB1bnRlcy50eHQK</text>
+      <register name="2" type="4">
+        <text encoding="base64">bWFwKAogICAgKGl0ZW0pID0+IDxzcGFuPmhvbGE8L3NwYW4+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgYXJ0aWNsZSB8IGR1bXBBbmREaWUgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxQaG90byAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpZiBhcnRpY2xlLmlkQXJ0aWNsZSA9PSAnMTU2NTQyJyAlfQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29tZW50YWRvIGNvZGlnbyBwYXJhIDxkZWxpdmVyeV9kYXRlPgpodHRwczovL2ppcmEucGNjb21wb25lbnRlcy5jb20vYnJvd3NlL0JULTE5NT9mb2N1c2VkQ29tbWVudElkPTc1NjY0JnBhZ2U9Y29tLmF0bGFzc2lhbi5qaXJhLnBsdWdpbi5zeXN0ZW0uaXNzdWV0YWJwYW5lbHM6Y29tbWVudC10YWJwYW5lbCNjb21tZW50LTc1NjY0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyN7JSBlbmRpZiAgJX0gLSN9Cg==</text>
+        <text encoding="base64">ICAgICAgPFBob3RvIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgeyM8ZzphdmFpbGFiaWxpdHlfZGF0ZT57eyBhcnRpY2xlLmRlbGl2ZXJ5RGF0ZS5taW5EZWxpdmVyeURhdGUgfCBkYXRlKEFUT00pIH19PC9nOmF2YWlsYWJpbGl0eV9kYXRlPiAtI30K</text>
+        <text encoding="base64">ICAgICAgPFBob3RvZGQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyN7JSBpZiBhcnRpY2xlLmRlbGl2ZXJ5RGF0ZSBpcyBkZWZpbmVkIGFuZCBhcnRpY2xlLmRlbGl2ZXJ5RGF0ZS5taW5EZWxpdmVyeURhdGUgaXMgZGVmaW5lZCAlfSAtI30K</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
