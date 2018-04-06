@@ -124,6 +124,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1523012773973" />
       <file name="$USER_HOME$/src/reactivo/package.json" timestamp="1522960119472">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="20" column="2" />
@@ -159,11 +160,10 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523011092013">
-        <mark key="e" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1523011803266">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/config.yml" timestamp="1522070381813">
         <mark key="[" line="86" column="47" />
@@ -358,8 +358,11 @@
       <jump line="13" column="36" filename="$USER_HOME$/src/reactivo/src/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Merge remote-tracking branch 'origin/feature/BT-176-.pt-ficha-de-usuario-sincronizada' into feature/BT-176-.pt-ficha-de-usuario-sincronizada
+
+# Conflicts:
+#	src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info.twig</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -368,47 +371,50 @@
         <text>Obtimized imports</text>
       </register>
       <register name="/" type="4">
-        <text>darwin</text>
+        <text>script</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJfYmlydGhkYXRlIj57eyBjb25uZWN0aWZVc2VyRGF0YS5iaXJ0aGRhdGUgfX08L3NwYW4+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>Merge remote-tracking branch 'origin/feature/BT-176-.pt-ficha-de-usuario-sincronizada' into feature/BT-176-.pt-ficha-de-usuario-sincronizada
+
+# Conflicts:
+#	src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info.twig</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0ZWxlZm9ubyI+e3sgY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdFNoaXBwaW5nQWRkcmVzcy5waG9uZSB8IGRlZmF1bHQoY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdEJpbGxpbmdBZGRyZXNzLkNlbGxQaG9uZSkgfCBkZWZhdWx0KCdub190ZWxlcGhvbmVfcmVnaXN0ZXJlZCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InRpcG8tdGFyaWZhIj57eyBjb25uZWN0aWZVc2VyRGF0YS5yYXRlIH19PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0ZWxlZm9ubyI+e3sgY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdFNoaXBwaW5nQWRkcmVzcy5waG9uZSB8IGRlZmF1bHQoY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdEJpbGxpbmdBZGRyZXNzLkNlbGxQaG9uZSkgfCBkZWZhdWx0KCdub190ZWxlcGhvbmVfcmVnaXN0ZXJlZCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InRpcG8tdGFyaWZhIj57eyBjb25uZWN0aWZVc2VyRGF0YS5yYXRlIH19PC9zcGFuPgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJfYmlydGhkYXRlIj57eyBjb25uZWN0aWZVc2VyRGF0YS5iaXJ0aGRhdGUgfX08L3NwYW4+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>obteniendo el teléfono del usuario desde shipping o billing 
 default addresse</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InRlbMOpZm9ubyI+e3sgY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdFNoaXBwaW5nQWRkcmVzcy5wb3N0YWxDb2RlIHwgZGVmYXVsdCB9fTwvc3Bhbj4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZWFjb25kaWNpb25hZG8nIG5vdCBpbiBhcnRpY2xlLmFydGljbGUubmFtZQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZWFjb25kaWNpb25hZG8nIG5vdCBpbiBhcnRpY2xlLmFydGljbGUubmFtZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>darwin</last-search>
+      <last-search>script</last-search>
       <last-offset />
-      <last-pattern>darwin</last-pattern>
+      <last-pattern>script</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -416,8 +422,6 @@ default addresse</text>
     </search>
     <history>
       <history-search>
-        <entry>itemprop</entry>
-        <entry>itemprop=&quot;image&quot;</entry>
         <entry>image</entry>
         <entry>brand</entry>
         <entry>asset</entry>
@@ -436,6 +440,8 @@ default addresse</text>
         <entry>date</entry>
         <entry>avai</entry>
         <entry>blanca</entry>
+        <entry>connec</entry>
+        <entry>script</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
