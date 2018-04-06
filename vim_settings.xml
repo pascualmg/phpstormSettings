@@ -64,6 +64,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info.twig" timestamp="1523008851077">
+        <mark key="[" line="39" column="121" />
+        <mark key="]" line="39" column="121" />
+        <mark key="." line="39" column="121" />
+        <mark key="^" line="39" column="121" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRate.php" timestamp="1522049514806">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="16" column="3" />
@@ -118,7 +124,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1523004214959" />
       <file name="$USER_HOME$/src/reactivo/package.json" timestamp="1522960119472">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="20" column="2" />
@@ -154,11 +159,11 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523005330361">
+      <file name="/Dummy.txt" timestamp="1523008971455">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/config.yml" timestamp="1522070381813">
         <mark key="[" line="86" column="47" />
@@ -354,46 +359,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>obteniendo el teléfono del usuario desde shipping o billing 
+default addresse</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>, optimiced imports.</text>
       </register>
       <register name="/" type="4">
         <text>darwin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgInRlc3QiOiAicmVhY3Qtc2NyaXB0cyB0ZXN0IC0tZW52PWpzZG9tIiwK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjbl9jbGllbnRfaW5mbyIgc3R5bGU9ImRpc3BsYXk6bm9uZSI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZWFjb25kaWNpb25hZG8nIG5vdCBpbiBhcnRpY2xlLmFydGljbGUubmFtZQo=</text>
+      <register name="1" type="4">
+        <text>obteniendo el teléfono del usuario desde shipping o billing 
+default addresse</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InRlbMOpZm9ubyI+e3sgY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdFNoaXBwaW5nQWRkcmVzcy5wb3N0YWxDb2RlIHwgZGVmYXVsdCB9fTwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZWFjb25kaWNpb25hZG8nIG5vdCBpbiBhcnRpY2xlLmFydGljbGUubmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJvb2xlQW5vID0gZG9jdW1lbnQuaGFzT3duUHJvcGVydHkuY2FsbChkb2N1bWVudCwgJ21pZXJkYWNvbnBhc3RhJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50Lm1pZXJkYWNvbnBhc3RhID0gJ2Fob3JhIHNpIG1lIGRlZmlubyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZW5nbyBtaWVyZGEgY29uIHBhc3RhJywgYm9vbGVBbm8pOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJvb2xlQW5vID0gZG9jdW1lbnQuaGFzT3duUHJvcGVydHkuY2FsbChkb2N1bWVudCwgJ21pZXJkYWNvbnBhc3RhJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
