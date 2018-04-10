@@ -66,10 +66,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523357392429">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523383740286">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="33" column="20" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/component/FunctionalTank.js" timestamp="1523308110156">
         <mark key="[" line="0" column="25" />
@@ -89,6 +90,12 @@
         <mark key="]" line="14" column="65" />
         <mark key="^" line="14" column="65" />
         <mark key="." line="14" column="65" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Authentication/PccomAuthenticator.php" timestamp="1523385409255">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/.jshintrc" timestamp="1522960688044">
         <mark key="[" line="1" column="13" />
@@ -125,11 +132,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/NewsLetter.php" timestamp="1523365107325" />
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Authentication/NoTesteablePccomAuthenticator.php" timestamp="1523381855110">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Authentication/NoTesteablePccomAuthenticator.php" timestamp="1523383826057">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetter.php" timestamp="1523361988045">
         <mark key="[" line="16" column="22" />
@@ -323,11 +329,11 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523382051134">
+      <file name="/Dummy.txt" timestamp="1523385413969">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
@@ -353,11 +359,10 @@
         <mark key="." line="14" column="56" />
         <mark key="^" line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" timestamp="1523269057669">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="130" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" timestamp="1523384233603">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Hastag.js" timestamp="1522834952031">
         <mark key="[" line="1" column="0" />
@@ -518,13 +523,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UGNjL0luZnJhc3RydWN0dXJlL0F1dGhlbnRpY2F0aW9uL05vVGVzdGVhYmxlUGNjb21BdXRoZW50aWNhdG9yLnBocAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Application</text>
+        <text>deleted original func</text>
       </register>
       <register name="/" type="4">
         <text>desco</text>
@@ -533,31 +538,31 @@
         <text encoding="base64">bmFtZXNwYWNlIFBjY1xEb21haW5cVHlwZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UGNjL0luZnJhc3RydWN0dXJlL0F1dGhlbnRpY2F0aW9uL05vVGVzdGVhYmxlUGNjb21BdXRoZW50aWNhdG9yLnBocAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHR5cGU7Cg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFNlc3Npb25cU2Vzc2lvbkluZGR0ZXJmYWNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxBbm5vdGF0aW9uc1xBbm5vdGF0aW9uXEVudW07Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0Q29ubmVjdGlmVXNlckRhdGEoJGVtYWlsKTogYXJyYXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFBjY1xBcHBsaWNhdGlvblxDb25uZWN0aWZcbmV3c2xldHRlcjsK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
