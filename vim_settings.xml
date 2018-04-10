@@ -59,11 +59,10 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523356600736">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="20" column="54" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523357392429">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/component/FunctionalTank.js" timestamp="1523308110156">
         <mark key="[" line="0" column="25" />
@@ -118,6 +117,12 @@
         <mark key="[" line="8" column="23" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetter.php" timestamp="1523357868979">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRateService.php" timestamp="1522001913926">
         <mark key="[" line="11" column="6" />
@@ -287,7 +292,7 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523355873031">
+      <file name="/Dummy.txt" timestamp="1523357652368">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -360,6 +365,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetterService.php" timestamp="1523357998477">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -466,13 +477,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>implements Executable</text>
+        <text>NewsLetter</text>
       </register>
       <register name="/" type="4">
         <text>desco</text>
@@ -481,31 +492,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdjb25uZWN0aWZVc2VyRGF0YScgPT4gJHRoaXMtPmdldCgncGNjLmFwcGxpY2F0aW9uLmNvbm5lY3RpZi5nZXRfY29ubmVjdGlmX3VzZXJfZGF0YV9zZXJ2aWNlJyktPmV4ZWN1dGUoJHVzZXItPmdldEVtYWlsKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBjb25zdCBORVdTTEVUVEVSX1RZUEUgPSAnbmV3c2xldHRlcic7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGdldFN0YXR1c0J5SWQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbm5lY3RpZlVzZXJEYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChBc3NlcnRpb25GYWlsZWRFeGNlcHRpb24gJGUpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBHZXRDb25uZWN0aWZVc2VyRGF0YVF1ZXJ5KCRlbWFpbCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbm5lY3RpZlVzZXJEYXRhOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSktPmhhbmRsZSgK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
