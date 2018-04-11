@@ -66,11 +66,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/SubscriptionRepository.php" timestamp="1523432118233">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="14" column="74" />
-        <mark key="^" line="14" column="74" />
-        <mark key="." line="14" column="74" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/SubscriptionRepository.php" timestamp="1523434161717">
+        <mark key="'" line="15" column="97" />
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="61" />
+        <mark key="^" line="16" column="61" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523383740286">
         <mark key="[" line="33" column="20" />
@@ -84,11 +85,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomApiSubscriptionRepository.php" timestamp="1523432023309">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="13" column="69" />
-        <mark key="^" line="13" column="69" />
-        <mark key="." line="13" column="69" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomApiSubscriptionRepository.php" timestamp="1523434207759">
+        <mark key="[" line="39" column="62" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/headers/header-user-ajax.html.twig" timestamp="1523279333942">
         <mark key="[" line="37" column="45" />
@@ -137,11 +138,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/NewsLetterSubscriptionService.php" timestamp="1523432252248">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="23" column="19" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="23" column="19" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/NewsLetterSubscriptionService.php" timestamp="1523432487857">
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="26" column="81" />
+        <mark key="^" line="26" column="81" />
+        <mark key="." line="26" column="81" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Authentication/NoTesteablePccomAuthenticator.php" timestamp="1523383826057">
         <mark key="[" line="17" column="47" />
@@ -402,7 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="437" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="290" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
       <jump line="21" column="123" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/ArticleLayout/layout.html.twig" />
@@ -502,49 +502,58 @@
       <jump line="66" column="62" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" />
       <jump line="174" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" />
       <jump line="12" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/SubscriptionType.php" />
+      <jump line="15" column="97" filename="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/SubscriptionRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">c2xkZmphbHNqZgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>desco</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0U3Vic2NyaXB0aW9uKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">c2xkZmphbHNqZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGlwCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAqIHsKICAgICAqIGVtYWlsOiB7c3RyaW5nIGVtYWlsfSwKICAgICAqIHN1c2NyaWJlZDoge3RydWV8ZmFsc2V9LAogICAgICogaXA6IHtzdHJpbmcgaXB9CiAgICAgKiB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBib29sICRpc1N1YnNjcmliZWQK</text>
+      <register name="5" type="4">
+        <text>/**
+         * /conditions/user/{email}/{type}
+         * {
+         * type:'newsletter',
+         * codType:1,
+         * date: {fecha },
+         * suscribed: {true|false},
+         * }
+         */</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGVtYWlsCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG86IGltcGxlbWVudGFyIGNvbiBlbCBhcGljYWxsZXIuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgJGlwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sICRpc1N1YnNjcmliZWQsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgJGVtYWlsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
