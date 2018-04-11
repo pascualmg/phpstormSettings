@@ -169,11 +169,11 @@
         <mark key="]" line="17" column="47" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1523445461076">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-        <mark key="^" line="39" column="18" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1523451075844">
+        <mark key="[" line="47" column="93" />
+        <mark key="]" line="47" column="92" />
+        <mark key="^" line="47" column="92" />
+        <mark key="." line="47" column="92" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetter.php" timestamp="1523361988045">
         <mark key="[" line="16" column="22" />
@@ -246,11 +246,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/PccomCheckNewsLetterSubscriptionService.php" timestamp="1523450066801">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/PccomCheckNewsLetterSubscriptionService.php" timestamp="1523451722011">
         <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="61" />
-        <mark key="." line="13" column="61" />
-        <mark key="^" line="13" column="61" />
+        <mark key="]" line="13" column="90" />
+        <mark key="^" line="13" column="90" />
+        <mark key="." line="13" column="90" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/botonico.js" timestamp="1522828353627">
         <mark key="[" line="2" column="14" />
@@ -367,7 +367,7 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523449260715">
+      <file name="/Dummy.txt" timestamp="1523450384156">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -477,11 +477,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/CheckNewsLetterSubscriptionService.php" timestamp="1523449811608">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="1" column="36" />
-        <mark key="^" line="1" column="36" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/CheckNewsLetterSubscriptionService.php" timestamp="1523451741899">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -588,13 +588,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eckNewsLetterSubscritionService</text>
+        <text>Infrastructure</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>eckNewsLetterSubscritionService</text>
+        <text>Infrastructure</text>
       </register>
       <register name="/" type="4">
         <text>anago</text>
@@ -603,31 +603,31 @@
         <text encoding="base64">ICAgICAgICAkY2hlY2tOZXdzTGV0dGVyU3Vic2NyaXB0aW9uU2VydmljZSA9IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFBjY1xJbmZyYXN0cnVjdHVyZVxTZXJ2aWNlXENoZWNrTmV3c0xldHRlclN1YnNjcmlwdGlvblNlcnZpY2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFBjY1xBcHBsaWNhdGlvbmAK</text>
+        <text encoding="base64">dXNlIFBjY1xJbmZyYXN0cnVjdHVyZVxTZXJ2aWNlXENoZWNrTmV3c0xldHRlclN1YnNjcmlwdGlvblNlcnZpY2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFBjY1xJbmZyYWVzdHJ1Y3R1cmVcUGVyc2lzdGVuY2VcQ2hlY2tOZXdzTGV0dGVyU3Vic2NyaXB0aW9uU2VydmljZTsK</text>
+        <text encoding="base64">dXNlIFBocFBhcnNlclxOb2RlXFN0bXRcVHJ5Q2F0Y2g7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcV2ViQnVuZGxlXE1vZGVsXFNhbGVzTWFuYWdvXE1hbmFnZXJcU2FsZXNNYW5hZ29NYW5hZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXQoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2hlY2tOZXdzTGV0dGVyU3Vic2NyaXB0aW9uU2VydmljZSA9IAogICAgICAgICAgICBuZXcgUGNjb21DaGVja05ld3NMZXR0ZXJTdWJzY3JpcHRpb25TZXJ2aWNlKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgJGNoZWNrTmV3c0xldHRlclN1YnNjcmlwdGlvblNlcnZpY2UgKi8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTdWJzY3JpcHRpb24gJHN1YnNjcmlwdGlvbiAqLwogICAgICAgICRzdWJzY3JpcHRpb24gPSAgJHRoaXMtPnJlcG8tPmZpbmRTdWJzY3JpcHRpb25Pck51bGwoJGNtZC0+ZW1haWwoKSwgJHRoaXMtPnN1YnNjcmlwdGlvblR5cGUpOwogICAgICAgICRpc1N1YnNjcmliZWQgPSAoaXNzZXQoJHN1YnNjcmlwdGlvbikgJiYgJHN1YnNjcmlwdGlvbi0+c3Vic2NyaWJlZCgpID09PSB0cnVlKTsKIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
