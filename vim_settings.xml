@@ -220,11 +220,11 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/NewsLetterSubscription.php" timestamp="1523377487874">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="15" column="30" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/NewsLetterSubscription.php" timestamp="1523428917214">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/init.sh" timestamp="1521724923185">
         <mark key="[" line="0" column="0" />
@@ -329,7 +329,7 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523385413969">
+      <file name="/Dummy.txt" timestamp="1523428922876">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -346,6 +346,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/NewsLetterSubscriptionRepository.php" timestamp="1523429360438">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/config.yml" timestamp="1522070381813">
         <mark key="[" line="86" column="47" />
@@ -529,7 +535,7 @@
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>deleted original func</text>
+        <text>SubscriptionType</text>
       </register>
       <register name="/" type="4">
         <text>desco</text>
@@ -541,28 +547,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFNlc3Npb25cU2Vzc2lvbkluZGR0ZXJmYWNlOwo=</text>
+        <text encoding="base64">dXNlIFBjY1xEb21haW5cVHlwZVxTdWJzY3JpcHRpb25UeXBlOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFNlc3Npb25cU2Vzc2lvbkluZGR0ZXJmYWNlOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0Q29ubmVjdGlmVXNlckRhdGEoJGVtYWlsKTogYXJyYXkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
