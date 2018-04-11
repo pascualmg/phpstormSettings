@@ -37,12 +37,8 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1523443980514">
+      <file name="/a.dummy" timestamp="1523444653005">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Type/deleteame.php" timestamp="1523364029341">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/services.yml" timestamp="1523350469062">
         <mark key="[" line="28" column="0" />
@@ -166,11 +162,11 @@
         <mark key="]" line="17" column="47" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1523444582563">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="59" />
-        <mark key="." line="28" column="59" />
-        <mark key="^" line="28" column="59" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1523445461076">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetter.php" timestamp="1523361988045">
         <mark key="[" line="16" column="22" />
@@ -228,6 +224,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/PccomCheckNewsLetterSubscriptionService.php" timestamp="1523445495143">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="32" column="14" />
+        <mark key="." line="28" column="19" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/botonico.js" timestamp="1522828353627">
         <mark key="[" line="2" column="14" />
@@ -430,6 +432,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/CheckNewsLetterSubscriptionService.php" timestamp="1523444805492">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="17" column="6" />
+        <mark key="." line="17" column="6" />
+        <mark key="^" line="17" column="6" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="437" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
@@ -535,13 +543,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getNewsLetterSubscriptionStateCmd</text>
+        <text>|void</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>getNewsLetterSubscriptionStateCmd</text>
+        <text>|void</text>
       </register>
       <register name="/" type="4">
         <text>desco</text>
@@ -553,28 +561,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1haWwgPSAkY21kLT5lbWFpbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVwby0+ZmluZFN1YnNjcmlwdGlvbk9yTnVsbCgkZW1haWwsICRzdWJzY3JpcHRpb25UeXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3Vic2NyaXB0aW9uLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
