@@ -398,12 +398,12 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/Subscription.php" timestamp="1523481272555">
-        <mark key="'" line="115" column="1" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="14" />
-        <mark key="^" line="47" column="14" />
-        <mark key="." line="47" column="14" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/Subscription.php" timestamp="1523482393347">
+        <mark key="'" line="117" column="1" />
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="79" />
+        <mark key="." line="59" column="5" />
+        <mark key="^" line="48" column="79" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/NewsLetterSubscriptionRepository.php" timestamp="1523430400648">
         <mark key="[" line="10" column="32" />
@@ -607,14 +607,14 @@
       <jump line="22" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/PccomCheckNewsLetterSubscriptionService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>email</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>anago</text>
@@ -623,31 +623,31 @@
         <text encoding="base64">ICAgICAgIFBjY0Fzc2VydGlvbjo6ZW1haWwoJHRoaXMtPmVtYWlsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogUHVlZGUgZXN0YXIgaW1wbGVtZW50YWRvIGVuIHByaXZhdGVBcGkgbyBTYWxlc21hbmFnbyBvIHVuIHR4dC4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gYWxsQXNzZXJ0cygpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICogRG9jdW1lbnRhY2nDs246IG5lZ29jaW8gdGllbmUgdW4gcmVwb3NpdG9yaW8gZG9uZGUgZ3VhcmRhIGluZm9ybWFjacOzbiBzb2JyZSBsYXMgc3Vic2NyaXBjaW9uZXMgZGUgY3VhbHF1aWVyIHRpcG8KICogZGUgbG9zIGNsaWVudGVzLgog</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogawo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEFzc2VydFxBc3NlcnRpb25GYWlsZWRFeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQWN0dWFsbWVudGUgZXN0w6EgYSBlZmVjdG9zIGltCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEFzc2VydFxBc3NlcnRpb25GYWlsZWRFeGNlcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
