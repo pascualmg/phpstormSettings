@@ -75,12 +75,12 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523463229892">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523464176572">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="37" column="41" />
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="54" column="7" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/component/FunctionalTank.js" timestamp="1523308110156">
         <mark key="[" line="0" column="25" />
@@ -88,11 +88,10 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomApiSubscriptionRepository.php" timestamp="1523454401540">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="42" column="86" />
-        <mark key="^" line="42" column="88" />
-        <mark key="." line="42" column="86" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomApiSubscriptionRepository.php" timestamp="1523464714736">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/headers/header-user-ajax.html.twig" timestamp="1523279333942">
         <mark key="[" line="37" column="45" />
@@ -119,10 +118,11 @@
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsLetterSubscriptionStateCmd.php" timestamp="1523444569315">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsLetterSubscriptionStateCmd.php" timestamp="1523468190583">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/.jshintrc" timestamp="1522960688044">
         <mark key="[" line="1" column="13" />
@@ -368,7 +368,7 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523463100405">
+      <file name="/Dummy.txt" timestamp="1523467919193">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -452,6 +452,12 @@
         <mark key="]" line="35" column="22" />
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/smCheckNewsLetterSubscriptionService.php" timestamp="1523465986194">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="58" />
+        <mark key="." line="29" column="58" />
+        <mark key="^" line="29" column="58" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
         <mark key="[" line="15" column="0" />
@@ -589,13 +595,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>second deep refactor.</text>
+        <text>smCheckNewsLetterSubscriptionService creado con el actual en producción.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>second deep refactor.</text>
+        <text>smCheckNewsLetterSubscriptionService creado con el actual en producción.</text>
       </register>
       <register name="/" type="4">
         <text>anago</text>
@@ -610,25 +616,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxUeXBlc1xJbnRlZ2VyOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAobmV3IFNhbGVzTWFuYWdvTWFuYWdlcigpKS0+aXNTdWJzY3JpYmVkVG9CdWxsZXRpbigkZW1haWwpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFBjY1xJbmZyYWVzdHJ1Y3R1cmVcUGVyc2lzdGVuY2VcQ2hlY2tOZXdzTGV0dGVyU3Vic2NyaXB0aW9uU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZXhlY3V0ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFBjY1xJbmZyYWVzdHJ1Y3R1cmVcU2VydmljZXNcQ2hlY2tOZXdzTGV0dGVyU3Vic2NyaXB0aW9uU2VydmljZTsK</text>
+        <text encoding="base64">U2FsZXNNYW5hZ29DaGVja05ld3NMZXR0ZXJTdWJzY3JpcHRpb25TZXJ2aWNlLnBocAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UGNjL0RvbWFpbi9TZXJ2aWNlL0NoZWNrTmV3c0xldHRlclN1YnNjcmlwdGlvblNlcnZpY2UucGhwCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
