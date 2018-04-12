@@ -37,6 +37,9 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="14" />
       </file>
+      <file name="/fragment.js" timestamp="1523522082022">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1523472770504">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,12 +107,12 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info.json.twig" timestamp="1523356947593">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="65" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info.json.twig" timestamp="1523522801874">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="14" column="65" />
-        <mark key="." line="14" column="65" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Authentication/PccomAuthenticator.php" timestamp="1523385409255">
         <mark key="[" line="23" column="1" />
@@ -205,10 +208,12 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523354334329">
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523523493278">
+        <mark key="'" line="294" column="8" />
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
+        <mark key="^" line="305" column="65" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1522229252819">
         <mark key="'" line="884" column="82" />
@@ -293,6 +298,11 @@
         <mark key="]" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1523521527995">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/src/reactivo/src/App.test.js" timestamp="1522959694429">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -354,6 +364,9 @@
         <mark key="]" line="3" column="46" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="46" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1523520662633">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Type/SubscriptionType.php" timestamp="1523479048097">
         <mark key="[" line="58" column="40" />
@@ -493,6 +506,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/coverage/lcov-report/index.html" timestamp="1523521208767" />
       <file name="$USER_HOME$/src/kataSpace/kata.php" timestamp="1523027624692">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -517,12 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="35" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
-      <jump line="33" column="25" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
-      <jump line="45" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
-      <jump line="50" column="57" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
-      <jump line="111" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
-      <jump line="192" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
       <jump line="186" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
       <jump line="27" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/article-header.html.twig" />
       <jump line="209" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
@@ -617,58 +625,64 @@
       <jump line="90" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" />
       <jump line="22" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/PccomCheckNewsLetterSubscriptionService.php" />
       <jump line="64" column="13" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/MockedPccomApiSubscriptionRepository.php" />
+      <jump line="58" column="77" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="225" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="285" column="55" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="288" column="55" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="291" column="34" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="293" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHBocGNzIHJlZmFjdG9yIGRlIG5vbWJyZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHBocGNzIHJlZmFjdG9yIGRlIG5vbWJyZQ==</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwb25zZVw+</text>
+        <text>connec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgTW9ja2VkUGNjb21BcGlTdWJzY3JpcHRpb25SZXBvc2l0b3J5KCkK</text>
+        <text encoding="base64">ICAgIHZhciBjb25uZWN0aWZDbGllbnRJbmZvID0geyUgZW1iZWQgJ0BQY2NXZWIvdmVuZG9yL2Nvbm5lY3RpZi9jbl9jbGllbnRfaW5mby9jbl9jbGllbnRfaW5mby5qc29uLnR3aWcnICV9eyUgZW5kZW1iZWQgJX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoXGdldF9jbGFzcygkZXhjZXB0aW9uKSA9PT0gIlBjY1xCdW5kbGVcV2ViQnVuZGxlXEV4Y2VwdGlvbnNcUGNjQmFja2VuZFNlcnZlckV4Y2VwdGlvbiIgJiYgJGV4Y2VwdGlvbi0+Z2V0Q29kZSgpID09PSA1MDApIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbm5lY3RpZkFwaS5zZW5kUmVxdWVzdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRleGNlcHRpb24gPSAkZXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhbGdvID0gMTAgOwo=</text>
+        <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZXN0ZSBlbmRwb2ludCBubyByZXNwb25kZSBvIG5vIGVzdMOhIGHDum4gaW1wbGVtZW50YWRvCg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAtJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICJmYWN0dXJhY2lvbi1wcmVkZXQtY3AiOiJ7eyBjb25uZWN0aWZVc2VyRGF0YS5kZWZhdWx0QmlsbGluZ0FkZHJlc3MucG9zdGFsQ29kZXwgZGVmYXVsdCB9fSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJmYWN0dXJhY2lvbi1wcmVkZXQtY2l1ZGFkIjoie3sgY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdEJpbGxpbmdBZGRyZXNzLmNpdHl8IGRlZmF1bHQgfX0iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZXN0ZSBlbmRwb2ludCBubyByZXNwb25kZSBvIG5vIGVzdMOhIGHDum4gaW1wbGVtZW50YWRvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJmYWN0dXJhY2lvbi1wcmVkZXQtcHJvdmluY2lhIjoie3sgY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdEJpbGxpbmdBZGRyZXNzLnByb3ZpbmNlLm5hbWV8IGRlZmF1bHQgfX0iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwb25zZVw+</last-search>
+      <last-search>connec</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwb25zZVw+</last-pattern>
+      <last-pattern>connec</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -688,14 +702,14 @@
         <entry>script</entry>
         <entry>victor</entry>
         <entry>sync</entry>
-        <entry>conne</entry>
         <entry>desco</entry>
         <entry>.pt</entry>
         <entry>UserDa</entry>
-        <entry>connec</entry>
         <entry>salesmanago</entry>
         <entry>anago</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
+        <entry>conne</entry>
+        <entry>connec</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
