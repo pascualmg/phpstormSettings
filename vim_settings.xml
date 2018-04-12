@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-usuario-listado-direcciones.html.twig" timestamp="1521724880487">
@@ -48,10 +48,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_default_script.html.twig" timestamp="1523530572405">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="4" />
-        <mark key="." line="51" column="4" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_default_script.html.twig" timestamp="1523531266305">
         <mark key="^" line="47" column="53" />
       </file>
       <file name="$USER_HOME$/src/reactivo/doc/apuntes.md" timestamp="1522838083595">
@@ -212,11 +209,11 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523530262883">
-        <mark key="[" line="320" column="8" />
-        <mark key="]" line="294" column="26" />
-        <mark key="." line="294" column="26" />
-        <mark key="^" line="294" column="24" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523531827150">
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="." line="315" column="0" />
+        <mark key="^" line="292" column="3" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1522229252819">
         <mark key="'" line="884" column="82" />
@@ -412,9 +409,9 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523525056889">
+      <file name="/Dummy.txt" timestamp="1523531762118">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -509,10 +506,11 @@
         <mark key="^" line="15" column="79" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1521537711352">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1523531740588">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="7" column="48" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/header.html.twig" timestamp="1521643654401">
         <mark key="[" line="37" column="0" />
@@ -645,56 +643,56 @@
       <jump line="15" column="19" filename="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/vendor/connectif/pcc.Connectif.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>addEnti</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYScgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8vLwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdidW5kbGVzL3BjY3dlYi9yYXcvanMvY29tbW9uL3BjYy5Ccm93c2VyLmpzJykgfX0iPjwvc2NyaXB0Pgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGlmKFBDQy5Ccm93c2VyLmlzSWV4cGxvcmVyKCkpey8vaUV4cGxvcmVyIEZpeAogICAgICAgIHZhciBldmVudENhcnRNb2RpZmllZCA9IGRvY3VtZW50LmNyZWF0ZUV2ZW50KCJFdmVudCIpOwogICAgICAgIGV2ZW50Q2FydE1vZGlmaWVkLmluaXRFdmVudCgiY2FydE1vZGlmaWVkIiwgZmFsc2UsIHRydWUpOwogICAgICAgIH1lbHNley8vVmVyc2lvbiBwYXJhIG5hdmVnYWRvcmVzIG5vcm1hbGVzCiAgICAgICAgdmFyIGV2ZW50Q2FydE1vZGlmaWVkID0gbmV3IEN1c3RvbUV2ZW50KCJjYXJ0TW9kaWZpZWQiLCB7ZGV0YWlsOiB7fX0pOwogICAgICAgIH0gCiAgICAgICAgCiAgICAgICAgCiAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGlmIHN0YXRlJywgY29ubmVjdGlmKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnOD09RCcpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgZnVuY3Rpb24gaXNFbXB0eShvYmopIHsgcmV0dXJuIE9iamVjdC5rZXlzKG9iaikubGVuZ3RoID09PSAwOyB9CiAgICAgIGlmICghKHR5cGVvZihjb25uZWN0aWYpID09PSAib2JqZWN0IikpewogICAgICAgIGNvbnNvbGUuZXJyb3IoJ0VsIHNjcmlwdCBkZSBjb25uZWN0aWYgbm8gZXN0w6EgY2FyZ2FkbycpOwogICAgICB9IGVsc2UgewogICAgICAgIHZhciBjb25uZWN0aWZBcGkgPSBQQ0MuZGVzY29ubmVjdGlmOwogICAgICAgIHZhciBjb25uZWN0aWZDbGllbnRJbmZvID0geyUgZW1iZWQgJ0BQY2NXZWIvdmVuZG9yL2Nvbm5lY3RpZi9jbl9jbGllbnRfaW5mby9jbl9jbGllbnRfaW5mby5qc29uLnR3aWcnICV9eyUgZW5kZW1iZWQgJX07CiAgICAgICAgdmFyIGNvbm5lY3RpZkNsaWVudEN1c3RvbUZpZWxkcyA9IHslIGVtYmVkICdAUGNjV2ViL3ZlbmRvci9jb25uZWN0aWYvY25fY2xpZW50X2luZm8vY25fY2xpZW50X2luZm9fY3VzdG9tX2ZpZWxkcy5qc29uLnR3aWcnICV9eyUgZW5kZW1iZWQgJX07CgogICAgICAgIGlmICghaXNFbXB0eShjb25uZWN0aWZDbGllbnRJbmZvKSkgewogICAgICAgICAgY29ubmVjdGlmQXBpLnNldEVudGl0eUluZm8oY29ubmVjdGlmQ2xpZW50SW5mbyk7CiAgICAgICAgICBpZiAoIWlzRW1wdHkoY29ubmVjdGlmQ2xpZW50Q3VzdG9tRmllbGRzKSkgewogICAgICAgICAgICBjb25uZWN0aWZBcGkuYWRkRW50aXR5Q3VzdG9tRmllbGRzKGNvbm5lY3RpZkNsaWVudEN1c3RvbUZpZWxkcyk7CiAgICAgICAgICB9CiAgICAgICAgICBjb25zb2xlLmxvZygnRW52aWFuZG8gZXN0byBhIGNvbm5lY3RpZjonLCBjb25uZWN0aWZBcGkuZ2V0UmVxdWVzdCgpKTsvL1RPRE86IGJvcnJhbWUuCiAgICAgICAgICBjb25uZWN0aWZBcGkuc2VuZFJlcXVlc3QoKTsKICAgICAgICB9CiAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdiJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addEnti</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>addEnti</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -702,7 +700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getFilters</entry>
         <entry>getcompe</entry>
         <entry>get</entry>
         <entry>UTF</entry>
@@ -722,6 +719,7 @@
         <entry>connec</entry>
         <entry>addCus</entry>
         <entry>addEnti</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
