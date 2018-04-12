@@ -179,12 +179,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1523539238278">
-        <mark key="'" line="663" column="65" />
-        <mark key="[" line="660" column="0" />
-        <mark key="]" line="660" column="0" />
-        <mark key="^" line="663" column="80" />
-        <mark key="." line="660" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1523546816091">
+        <mark key="'" line="663" column="0" />
+        <mark key="[" line="663" column="0" />
+        <mark key="]" line="663" column="0" />
+        <mark key="^" line="659" column="60" />
+        <mark key="." line="663" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/CheckNewsLetterSubscriptionService.php" timestamp="1523479283929">
         <mark key="[" line="11" column="0" />
@@ -465,8 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
-      <jump line="15" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
       <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
       <jump line="104" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
       <jump line="240" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" />
@@ -565,10 +563,12 @@
       <jump line="322" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="414" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="663" column="65" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="235" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="674" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGVhbmRvIGNhbWJpb3MgZW4gZGF0b3MgZGUgZGlyZWNjaW9uZXMuJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsZnVuY3Rpb24gKCl7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -580,42 +580,34 @@
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRjb25uZWN0aWZEYXRhOwo=</text>
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCdjbGljaycsJy5iaWxsLWRlZmF1bHQnLGZ1bmN0aW9uICgpewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGVhbmRvIGNhbWJpb3MgZW4gZGF0b3MgZGUgZGlyZWNjaW9uZXMuJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsZnVuY3Rpb24gKCl7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>function (){
-  var id=$(this).attr(&quot;data-id&quot;);
-  $.ajax({
-    url: Routing.generate('pcc_user_panel_default_bill'),
-    data: 'id='+id,
-    method: 'post',
-    dataType: 'json'
-  });
-})</text>
+      <register name="2" type="2">
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtdOwo=</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
