@@ -208,12 +208,12 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523525537882">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523525987563">
         <mark key="'" line="293" column="8" />
-        <mark key="[" line="302" column="23" />
-        <mark key="]" line="302" column="31" />
-        <mark key="." line="302" column="31" />
-        <mark key="^" line="302" column="31" />
+        <mark key="[" line="297" column="36" />
+        <mark key="]" line="297" column="36" />
+        <mark key="." line="297" column="36" />
+        <mark key="^" line="297" column="39" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1522229252819">
         <mark key="'" line="884" column="82" />
@@ -292,6 +292,9 @@
         <mark key="]" line="22" column="39" />
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1523525593898">
+        <mark key="'" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/useCase/connectif-sync-client-info.js" timestamp="1523020205544">
         <mark key="[" line="10" column="1" />
@@ -508,7 +511,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/coverage/lcov-report/index.html" timestamp="1523521208767" />
       <file name="$USER_HOME$/src/kataSpace/kata.php" timestamp="1523027624692">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -533,7 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Shopping/Order/OrderManager.php" />
       <jump line="66" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/delivery-options.html.twig" />
       <jump line="63" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/delivery-options.html.twig" />
       <jump line="73" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/delivery-options.html.twig" />
@@ -633,58 +634,59 @@
       <jump line="18" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepository.php" />
       <jump line="18" column="32" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/MockedPccomApiSubscriptionRepository.php" />
       <jump line="34" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepository.php" />
+      <jump line="15" column="19" filename="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/vendor/connectif/pcc.Connectif.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addCustomFields</text>
+        <text>!</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>addCustomFields</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>addCus</text>
+        <text>addEnti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBjb25uZWN0aWZDbGllbnRJbmZvID0geyUgZW1iZWQgJ0BQY2NXZWIvdmVuZG9yL2Nvbm5lY3RpZi9jbl9jbGllbnRfaW5mby9jbl9jbGllbnRfaW5mby5qc29uLnR3aWcnICV9eyUgZW5kZW1iZWQgJX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aWZBcGkuZ2V0UmVxdWVzdCgpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbm5lY3RpZkFwaS5zZW5kUmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbm5lY3RpZkFwaS5zZW5kUmVxdWVzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAtJX0K</text>
+        <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJmYWN0dXJhY2lvbi1wcmVkZXQtY3AiOiJ7eyBjb25uZWN0aWZVc2VyRGF0YS5kZWZhdWx0QmlsbGluZ0FkZHJlc3MucG9zdGFsQ29kZXwgZGVmYXVsdCB9fSIsCg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAtJX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJmYWN0dXJhY2lvbi1wcmVkZXQtY2l1ZGFkIjoie3sgY29ubmVjdGlmVXNlckRhdGEuZGVmYXVsdEJpbGxpbmdBZGRyZXNzLmNpdHl8IGRlZmF1bHQgfX0iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJmYWN0dXJhY2lvbi1wcmVkZXQtY3AiOiJ7eyBjb25uZWN0aWZVc2VyRGF0YS5kZWZhdWx0QmlsbGluZ0FkZHJlc3MucG9zdGFsQ29kZXwgZGVmYXVsdCB9fSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addCus</last-search>
+      <last-search>addEnti</last-search>
       <last-offset />
-      <last-pattern>addCus</last-pattern>
+      <last-pattern>addEnti</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -692,7 +694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dump</entry>
         <entry>getFilters</entry>
         <entry>getcompe</entry>
         <entry>get</entry>
@@ -712,6 +713,7 @@
         <entry>conne</entry>
         <entry>connec</entry>
         <entry>addCus</entry>
+        <entry>addEnti</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
