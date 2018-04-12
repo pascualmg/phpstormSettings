@@ -179,12 +179,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1523546816091">
-        <mark key="'" line="663" column="0" />
-        <mark key="[" line="663" column="0" />
-        <mark key="]" line="663" column="0" />
-        <mark key="^" line="659" column="60" />
-        <mark key="." line="663" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1523550767068">
+        <mark key="'" line="670" column="0" />
+        <mark key="[" line="670" column="18" />
+        <mark key="]" line="670" column="18" />
+        <mark key="." line="670" column="18" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/CheckNewsLetterSubscriptionService.php" timestamp="1523479283929">
         <mark key="[" line="11" column="0" />
@@ -465,8 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
-      <jump line="104" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
       <jump line="240" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" />
       <jump line="6" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.grupos.js" />
       <jump line="105" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
@@ -565,49 +562,51 @@
       <jump line="663" column="65" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="235" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="674" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="242" column="10" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="670" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsZnVuY3Rpb24gKCl7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCdjbGljaycsJy5iaWxsLWRlZmF1bHQnLGZ1bmN0aW9uICgpewo=</text>
+        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsZnVuY3Rpb24gKCl7Cg==</text>
+        <text encoding="base64">JCgnKltjbGFzc149InNoaXAiXScpLm9uKCdjaGFuZ2UnLCBvblNoaXBwaW5nT3JCaWxsaW5nQWRkcmVzc01vZGlmaWVkSGFuZGxlcik7CiQoJypbY2xhc3NePSJiaWxsLWRlZmF1bHQiXScpLm9uKCdjaGFuZ2UnLCBvblNoaXBwaW5nT3JCaWxsaW5nQWRkcmVzc01vZGlmaWVkSGFuZGxlcik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">JCgnKltjbGFzc149InJvdy1zaGlwIl0nKS5vbignY2xpY2snLCBvblNoaXBwaW5nT3JCaWxsaW5nQWRkcmVzc01vZGlmaWVkSGFuZGxlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkub24oJ2NsaWNrJywnLmJpbGwtZGVmYXVsdCcsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlQ29ubmVjdGlmSnNvbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
