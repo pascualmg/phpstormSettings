@@ -256,6 +256,7 @@
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1523525593898">
         <mark key="'" line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/js/gaApi/gaApi-1eb3ed1020.js" timestamp="1523554004581" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1523534937238">
         <mark key="[" line="6" column="55" />
         <mark key="]" line="6" column="56" />
@@ -443,12 +444,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1523552096555">
-        <mark key="'" line="671" column="0" />
-        <mark key="[" line="660" column="15" />
-        <mark key="]" line="660" column="13" />
-        <mark key="." line="660" column="13" />
-        <mark key="^" line="660" column="13" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1523554416044">
+        <mark key="'" line="671" column="22" />
+        <mark key="[" line="662" column="39" />
+        <mark key="]" line="663" column="3" />
+        <mark key="^" line="663" column="3" />
+        <mark key="." line="663" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1523449552282">
         <mark key="[" line="258" column="7" />
@@ -464,20 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" />
-      <jump line="6" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/pcc.Article.ga.grupos.js" />
-      <jump line="105" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" />
-      <jump line="363" column="54" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/web/.htaccess" />
-      <jump line="382" column="37" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
-      <jump line="776" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
-      <jump line="19" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
-      <jump line="327" column="26" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
-      <jump line="802" column="0" filename="$USER_HOME$/src/web/quovadis/cron/xmlgoogle.php" />
-      <jump line="357" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" />
-      <jump line="33" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
-      <jump line="35" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/getConnectifUserDataQuery.php" />
       <jump line="55" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/getConnectifUserDataQuery.php" />
       <jump line="25" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/getConnectifUserData.php" />
       <jump line="100" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/getConnectifUserData.php" />
@@ -561,52 +548,67 @@
       <jump line="414" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="663" column="65" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="235" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
-      <jump line="674" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="242" column="10" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="670" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="76" column="45" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="673" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="94" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="326" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="675" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="344" column="35" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="676" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="359" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="677" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="678" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="378" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="679" column="10" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="680" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
+      <jump line="674" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>set</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>set</text>
+        <text>,(function(){</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjaGFuZ2UiICwnI3VzZXJVcGRhdGVTaGlwcGluZ0FkZHJlc3NfcG9zdGFsQ29kZScsKGZ1bmN0aW9uKCl7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JCgnKltjbGFzc149InNoaXAiXScpLm9uKCdjaGFuZ2UnLCBvblNoaXBwaW5nT3JCaWxsaW5nQWRkcmVzc01vZGlmaWVkSGFuZGxlcik7CiQoJypbY2xhc3NePSJiaWxsLWRlZmF1bHQiXScpLm9uKCdjaGFuZ2UnLCBvblNoaXBwaW5nT3JCaWxsaW5nQWRkcmVzc01vZGlmaWVkSGFuZGxlcik7Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaXRlbTogJywgaXRlbSApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">ICAgIGNvbm5lY3RpZkRhdGFsYXllci5tYXAoZnVuY3Rpb24gKGl0ZW0pIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
+        <text encoding="base64">ICBjb25uZWN0aWZBcGkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>(function(){
+  $(</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">JCgnKltjbGFzc149InNoaXAiXScpLm9uKCdjaGFuZ2UnLCBvblNoaXBwaW5nT3JCaWxsaW5nQWRkcmVzc01vZGlmaWVkSGFuZGxlcik7CiQoJypbY2xhc3NePSJiaWxsLWRlZmF1bHQiXScpLm9uKCdjaGFuZ2UnLCBvblNoaXBwaW5nT3JCaWxsaW5nQWRkcmVzc01vZGlmaWVkSGFuZGxlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JCgnKltjbGFzc149InJvdy1zaGlwIl0nKS5vbignY2xpY2snLCBvblNoaXBwaW5nT3JCaWxsaW5nQWRkcmVzc01vZGlmaWVkSGFuZGxlcik7Cg==</text>
+        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlQ29ubmVjdGlmSnNvbigpCg==</text>
+        <text encoding="base64">JCgnKltjbGFzc149ImJpbGwtZGVmYXVsdCJdJykub24oJ2NoYW5nZScsIG9uU2hpcHBpbmdPckJpbGxpbmdBZGRyZXNzTW9kaWZpZWRIYW5kbGVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
