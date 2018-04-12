@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-usuario-listado-direcciones.html.twig" timestamp="1521724880487">
@@ -48,11 +48,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_default_script.html.twig" timestamp="1521729414135">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="25" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_default_script.html.twig" timestamp="1523530572405">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="4" />
+        <mark key="^" line="47" column="53" />
       </file>
       <file name="$USER_HOME$/src/reactivo/doc/apuntes.md" timestamp="1522838083595">
         <mark key="[" line="3" column="0" />
@@ -184,6 +184,10 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/comparador.html.twig" timestamp="1523529158194">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="71" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetter.php" timestamp="1523361988045">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="34" />
@@ -208,12 +212,11 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523525987563">
-        <mark key="'" line="293" column="8" />
-        <mark key="[" line="297" column="36" />
-        <mark key="]" line="297" column="36" />
-        <mark key="." line="297" column="36" />
-        <mark key="^" line="297" column="39" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523530262883">
+        <mark key="[" line="320" column="8" />
+        <mark key="]" line="294" column="26" />
+        <mark key="." line="294" column="26" />
+        <mark key="^" line="294" column="24" />
       </file>
       <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1522229252819">
         <mark key="'" line="884" column="82" />
@@ -240,6 +243,7 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Shopping/Order/order_detail.js" timestamp="1523530347737" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/NoTesteableGetLoggedUserRate.php" timestamp="1522049547958">
         <mark key="[" line="28" column="1" />
         <mark key="]" line="21" column="52" />
@@ -256,6 +260,10 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Shopping/Cart/cart.js" timestamp="1523529530615">
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="54" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/PccomCheckNewsLetterSubscriptionService.php" timestamp="1523472385735">
         <mark key="'" line="22" column="4" />
@@ -638,46 +646,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>addEnti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBjb25uZWN0aWZDbGllbnRJbmZvID0geyUgZW1iZWQgJ0BQY2NXZWIvdmVuZG9yL2Nvbm5lY3RpZi9jbl9jbGllbnRfaW5mby9jbl9jbGllbnRfaW5mby5qc29uLnR3aWcnICV9eyUgZW5kZW1iZWQgJX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYScgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aWZBcGkuZ2V0UmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8vLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbm5lY3RpZkFwaS5zZW5kUmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdidW5kbGVzL3BjY3dlYi9yYXcvanMvY29tbW9uL3BjYy5Ccm93c2VyLmpzJykgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGlmKFBDQy5Ccm93c2VyLmlzSWV4cGxvcmVyKCkpey8vaUV4cGxvcmVyIEZpeAogICAgICAgIHZhciBldmVudENhcnRNb2RpZmllZCA9IGRvY3VtZW50LmNyZWF0ZUV2ZW50KCJFdmVudCIpOwogICAgICAgIGV2ZW50Q2FydE1vZGlmaWVkLmluaXRFdmVudCgiY2FydE1vZGlmaWVkIiwgZmFsc2UsIHRydWUpOwogICAgICAgIH1lbHNley8vVmVyc2lvbiBwYXJhIG5hdmVnYWRvcmVzIG5vcm1hbGVzCiAgICAgICAgdmFyIGV2ZW50Q2FydE1vZGlmaWVkID0gbmV3IEN1c3RvbUV2ZW50KCJjYXJ0TW9kaWZpZWQiLCB7ZGV0YWlsOiB7fX0pOwogICAgICAgIH0gCiAgICAgICAgCiAgICAgICAgCiAgICAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAtJX0K</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJmYWN0dXJhY2lvbi1wcmVkZXQtY3AiOiJ7eyBjb25uZWN0aWZVc2VyRGF0YS5kZWZhdWx0QmlsbGluZ0FkZHJlc3MucG9zdGFsQ29kZXwgZGVmYXVsdCB9fSIsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgZnVuY3Rpb24gaXNFbXB0eShvYmopIHsgcmV0dXJuIE9iamVjdC5rZXlzKG9iaikubGVuZ3RoID09PSAwOyB9CiAgICAgIGlmICghKHR5cGVvZihjb25uZWN0aWYpID09PSAib2JqZWN0IikpewogICAgICAgIGNvbnNvbGUuZXJyb3IoJ0VsIHNjcmlwdCBkZSBjb25uZWN0aWYgbm8gZXN0w6EgY2FyZ2FkbycpOwogICAgICB9IGVsc2UgewogICAgICAgIHZhciBjb25uZWN0aWZBcGkgPSBQQ0MuZGVzY29ubmVjdGlmOwogICAgICAgIHZhciBjb25uZWN0aWZDbGllbnRJbmZvID0geyUgZW1iZWQgJ0BQY2NXZWIvdmVuZG9yL2Nvbm5lY3RpZi9jbl9jbGllbnRfaW5mby9jbl9jbGllbnRfaW5mby5qc29uLnR3aWcnICV9eyUgZW5kZW1iZWQgJX07CiAgICAgICAgdmFyIGNvbm5lY3RpZkNsaWVudEN1c3RvbUZpZWxkcyA9IHslIGVtYmVkICdAUGNjV2ViL3ZlbmRvci9jb25uZWN0aWYvY25fY2xpZW50X2luZm8vY25fY2xpZW50X2luZm9fY3VzdG9tX2ZpZWxkcy5qc29uLnR3aWcnICV9eyUgZW5kZW1iZWQgJX07CgogICAgICAgIGlmICghaXNFbXB0eShjb25uZWN0aWZDbGllbnRJbmZvKSkgewogICAgICAgICAgY29ubmVjdGlmQXBpLnNldEVudGl0eUluZm8oY29ubmVjdGlmQ2xpZW50SW5mbyk7CiAgICAgICAgICBpZiAoIWlzRW1wdHkoY29ubmVjdGlmQ2xpZW50Q3VzdG9tRmllbGRzKSkgewogICAgICAgICAgICBjb25uZWN0aWZBcGkuYWRkRW50aXR5Q3VzdG9tRmllbGRzKGNvbm5lY3RpZkNsaWVudEN1c3RvbUZpZWxkcyk7CiAgICAgICAgICB9CiAgICAgICAgICBjb25zb2xlLmxvZygnRW52aWFuZG8gZXN0byBhIGNvbm5lY3RpZjonLCBjb25uZWN0aWZBcGkuZ2V0UmVxdWVzdCgpKTsvL1RPRE86IGJvcnJhbWUuCiAgICAgICAgICBjb25uZWN0aWZBcGkuc2VuZFJlcXVlc3QoKTsKICAgICAgICB9CiAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
