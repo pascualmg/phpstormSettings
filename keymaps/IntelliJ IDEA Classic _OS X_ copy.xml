@@ -13,11 +13,17 @@
   <action id="ConfigureCvsRoots">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoNextBookmark">
     <mouse-shortcut keystroke="control button142" />
   </action>
   <action id="GotoPreviousBookmark">
     <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="PhpNewClass">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="Tool_-cs-fixer over current class_Php-cs-fixer">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
