@@ -130,7 +130,6 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1523880332587" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1523525142631">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -356,8 +355,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1522071230264">
-        <mark key="'" line="40" column="27" />
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1523882753040">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
@@ -501,7 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="336" column="43" filename="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" />
       <jump line="581" column="25" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="755" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
@@ -601,6 +599,7 @@
       <jump line="12" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" />
       <jump line="62" column="10" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="62" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/ArticlesSnapshot.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,7 +612,7 @@
         <text>callBack</text>
       </register>
       <register name="/" type="4">
-        <text>desc</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coY2hhbGsueWVsbG93KCdvc3RpYSBjb3BpbicpKTsK</text>
@@ -654,9 +653,9 @@ console.log(chalk.yellow('ostia copin'));</text>
       </register>
     </registers>
     <search>
-      <last-search>desc</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>desc</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -664,7 +663,6 @@ console.log(chalk.yellow('ostia copin'));</text>
     </search>
     <history>
       <history-search>
-        <entry>avai</entry>
         <entry>blanca</entry>
         <entry>script</entry>
         <entry>victor</entry>
@@ -684,6 +682,7 @@ console.log(chalk.yellow('ostia copin'));</text>
         <entry>default</entry>
         <entry>subscri</entry>
         <entry>desc</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
