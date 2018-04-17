@@ -200,11 +200,11 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/src/reactivo/src/component/FunctionalTank.js" timestamp="1523982336176">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="23" />
+      <file name="$USER_HOME$/src/reactivo/src/component/FunctionalTank.js" timestamp="1523983805607">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/noTesteablePccomAuthenticator.php" timestamp="1521997876972">
         <mark key="[" line="16" column="8" />
@@ -337,11 +337,11 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/src/reactivo/src/component/Comment.js" timestamp="1523311003320">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="31" column="1" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="31" column="1" />
+      <file name="$USER_HOME$/src/reactivo/src/component/Comment.js" timestamp="1523983661575">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/NewsLetterSubscriptionService.php" timestamp="1523443159111">
         <mark key="[" line="17" column="0" />
@@ -374,7 +374,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523625236256">
+      <file name="/Dummy.txt" timestamp="1523983664784">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -392,10 +392,10 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/src/reactivo/package.json" timestamp="1522960119472">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
+      <file name="$USER_HOME$/src/reactivo/package.json" timestamp="1523984310750">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
         <mark key="^" line="24" column="2" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Botonico.js" timestamp="1522830328757">
@@ -602,8 +602,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/ArticlesSnapshot.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>callBack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ2ZXJib3NlIjogdHJ1ZQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -618,16 +618,16 @@
         <text encoding="base64">Y29uc29sZS5sb2coY2hhbGsueWVsbG93KCdvc3RpYSBjb3BpbicpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ2ZXJib3NlIjogdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVhY3QuY3JlYXRlRWxlbWVudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vcGFzY3VhbG1nL2RiNDdiNGNhMjY3YmNhNjc3NzgwOGUyZDNhMTEyNGQ1LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vcGFzY3VhbG1nL2RiNDdiNGNhMjY3YmNhNjc3NzgwOGUyZDNhMTEyNGQ1LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -636,17 +636,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaHR0cCA9IHJlcXVpcmUoJ2h0dHAnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>console.log(chalk.yellow('ostia copin'));
-console.log(chalk.yellow('ostia copin'));
-console.log(chalk.yellow('ostia copin'));
-console.log(chalk.yellow('ostia copin'));
-console.log(chalk.yellow('ostia copin'));</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbWJlZCAnQFBjY1dlYi92ZW5kb3IvY29ubmVjdGlmL2NuX2NsaWVudF9pbmZvL2NuX2NsaWVudF9pbmZvLnR3aWcnICV9eyUgZW5kZW1iZWQgJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
