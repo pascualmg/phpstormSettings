@@ -15,7 +15,7 @@
   </tool>
   <tool name="PHPCBF_mac" description="PHPCBF" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/local/bin/php56 " />
+      <option name="COMMAND" value="/usr/bin/php" />
       <option name="PARAMETERS" value=" /Users/passh/src/pccfront/bin/php-cs-fixer-v2.phar --verbose fix $FileDirRelativeToProjectRoot$/$FileName$ --rules=@PSR2" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
