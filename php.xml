@@ -13,7 +13,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/local/Cellar/php56/5.6.30_6/bin/php" id="49026750-1152-4a72-bef0-241d8099c7ba" name="PHP 5.6 mac" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php71/7.1.6_18/bin/php" id="7f510db6-d733-42be-8f0e-0a532079f1b3" name="PHP 7.1 mac" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php71/7.1.11_22/bin/php" id="7f510db6-d733-42be-8f0e-0a532079f1b3" name="PHP 7.1 mac" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php5.6" id="3448bcee-df95-46bb-a352-344ac66c0f6a" name="PHP 5.6 ubuntu" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php7.1" id="4fbeb353-1148-4f38-b38a-209a8aabb76d" name="PHP 7.1 ubuntu" debugger_id="php.debugger.XDebug" />
       <interpreter home="\usr\local\bin\php" id="efc6fdd5-8ac0-4bb6-bdec-89562004f499" name="PHP" debugger_id="php.debugger.XDebug" />
@@ -23,7 +23,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1 mac">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.6_18/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.6_18/bin/php" path_separator=":" version="7.1.6">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.11_22/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.11_22/bin/php" path_separator=":" version="7.1.11">
           <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
@@ -76,7 +76,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/usr/local/Cellar/php71/7.1.6_18/lib/php/extensions/no-debug-non-zts-20160303" />
+            <configuration_option name="extension_dir" value="/usr/local/Cellar/php71/7.1.11_22/lib/php/extensions/no-debug-non-zts-20160303" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
