@@ -33,7 +33,12 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1523952959156" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1523955936439">
+        <mark key="[" line="660" column="0" />
+        <mark key="]" line="660" column="0" />
+        <mark key="^" line="658" column="81" />
+        <mark key="." line="660" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/usecase/SyncClientInfoCmd.js" timestamp="1523276212926">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="26" />
@@ -124,6 +129,12 @@
         <mark key="]" line="12" column="65" />
         <mark key="^" line="12" column="65" />
         <mark key="." line="12" column="65" />
+      </file>
+      <file name="$USER_HOME$/src/test/PccExtensionTestCustomLabel02.php" timestamp="1523956461398">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/NewsLetterSubscriptionService.php" timestamp="1523443159111">
         <mark key="[" line="17" column="0" />
@@ -373,11 +384,11 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523954836550">
+      <file name="/Dummy.txt" timestamp="1523956600346">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
@@ -459,7 +470,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1523953731845">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1523955312197">
         <mark key="'" line="52" column="21" />
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="79" />
@@ -614,47 +625,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>script connectif movidos dentro del if inicial .</text>
+        <text>\PHPUnit_Framework_TestCase</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>script connectif movidos dentro del if inicial .</text>
+        <text>\PHPUnit_Framework_TestCase</text>
       </register>
       <register name="/" type="4">
         <text>harcoded</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY2hhbGsueWVsbG93KCdvc3RpYSBjb3BpbicpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkc3BhbmlzaEJvb2xlYW5ZRVMgPSAnc2knOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogRG9jdW1lbnRhY2nDs246IDg9PUQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CnsKICAgICJ1c2VyRW1haWwiOiJ7eyBMb2NhdGVkRW1haWwgfX0iCn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBzZXQgTG9jYXRlZEVtYWlsID0gJ3Vua25vd25fdXNlcicgJX0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>comentados los 4 puntos donde se renderizaba cn_client_info de tag original cn_client_info, que va a ser sustituida 
-por el script.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAnc2knOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
