@@ -33,11 +33,11 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1523955936439">
-        <mark key="[" line="660" column="0" />
-        <mark key="]" line="660" column="0" />
-        <mark key="^" line="658" column="81" />
-        <mark key="." line="660" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1523964241204">
+        <mark key="[" line="660" column="124" />
+        <mark key="]" line="660" column="124" />
+        <mark key="." line="660" column="124" />
+        <mark key="^" line="660" column="153" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/usecase/SyncClientInfoCmd.js" timestamp="1523276212926">
         <mark key="[" line="6" column="27" />
@@ -329,6 +329,12 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/WebBundle/Twig/PccExtensionTest.php" timestamp="1523964054264">
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="18" />
+        <mark key="." line="65" column="18" />
+        <mark key="^" line="65" column="18" />
+      </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/product-quantity-form.js" timestamp="1523618205867">
         <mark key="[" line="4" column="50" />
         <mark key="]" line="4" column="50" />
@@ -396,7 +402,7 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523956600346">
+      <file name="/Dummy.txt" timestamp="1523961114844">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -534,7 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="720" column="34" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="64" column="49" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="778" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
@@ -634,49 +639,50 @@
       <jump line="18" column="26" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="4639" column="2" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="651" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>\PHPUnit_Framework_TestCase</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>harcoded</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc3BhbmlzaEJvb2xlYW5ZRVMgPSAnc2knOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAgICAgJGFjdHVhbCA9ICR0aGlzLT5wY2NUd2lnRXh0ZW5zaW9ucy0+Y3VzdG9tTGFiZWwwMigKICAgICAgICAgICAgJHRoaXMtPmlkQXJ0aWN1bG8sCiAgICAgICAgICAgICR0aGlzLT5kYXRhQ3VzdG9tcywKICAgICAgICAgICAgJHN0b2NrQXJ0aWN1bG8KICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmlkQXJ0aWN1bG8sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnVnZml4L0JULTE3Ni0ucHQtZmljaGEtZGUtdXN1YXJpby1zaW5jcm9uaXphZGEK</text>
+        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0gJHRoaXMtPnBjY1R3aWdFeHRlbnNpb25zLT5jdXN0b21MYWJlbDAyKG51bGwsICRkYXRhQ3VzdG9tcywgJHN0b2NrQXJ0aWN1bG8pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9idWJsZWlmeS8tL2J1YmxlaWZ5LTAuNS4xLnRneiNmNjVjNDdjZWUzMWI4MGNhZDhiOWU3NDdiYmUxODdkN2ZlNTFlOTI3Igo=</text>
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGlkQXJ0aWN1bG8gPT4gWydudW1fdmVudGFzJyA9PiAzMDBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uICIwLjUuMSIK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YUN1c3RvbXMgPSBbCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YnVibGVpZnlAXjAuNS4xOgo=</text>
+        <text encoding="base64">ICAgICAgICAkaWRBcnRpY3VsbyA9IDEwMDA7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGgtaXMtYWJzb2x1dGUgIl4xLjAuMCIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0VXAoKQogICAgewogICAgICAgICR0aGlzLT5wY2NUd2lnRXh0ZW5zaW9ucyA9IG5ldyBQY2NFeHRlbnNpb24obmV3IENvbnRhaW5lcigpKTsKCiAgICAgICAgJHRoaXMtPmlkQXJ0aWN1bG8gPSAxMTMzNDsKICAgICAgICAvL2Zha2VEYXRhQ3VzdG9tcwogICAgICAgICR0aGlzLT5kYXRhQ3VzdG9tcyA9IFsKICAgICAgICAgICAgJHRoaXMtPmlkQXJ0aWN1bG8gPT4gWydudW1fdmVudGFzJyA9PiAzMDBdCiAgICAgICAgXTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogRG9jdW1lbnRhY2nDs246IDg9PUQK</text>
+        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0gJHRoaXMtPnBjY1R3aWdFeHRlbnNpb25zLT5jdXN0b21MYWJlbDAyKCRpZEFydGljdWxvLCAkZGF0YUN1c3RvbXMsICRzdG9ja0FydGljdWxvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -770,6 +776,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
