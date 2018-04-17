@@ -33,11 +33,11 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1523964241204">
-        <mark key="[" line="660" column="124" />
-        <mark key="]" line="660" column="124" />
-        <mark key="." line="660" column="124" />
-        <mark key="^" line="660" column="153" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1523969300862">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="658" column="153" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/usecase/SyncClientInfoCmd.js" timestamp="1523276212926">
         <mark key="[" line="6" column="27" />
@@ -142,6 +142,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/phpunit.xml" timestamp="1523970218927">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1523525142631">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -168,6 +173,7 @@
         <mark key="]" line="392" column="0" />
         <mark key="." line="392" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/phpunit.xml.dist" timestamp="1523970303664" />
       <file name="$USER_HOME$/src/reactivo/src/App.js" timestamp="1523299230580">
         <mark key="'" line="10" column="36" />
         <mark key="[" line="4" column="36" />
@@ -329,11 +335,11 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/WebBundle/Twig/PccExtensionTest.php" timestamp="1523966981107">
-        <mark key="[" line="65" column="18" />
-        <mark key="]" line="65" column="18" />
-        <mark key="." line="65" column="18" />
-        <mark key="^" line="65" column="18" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/WebBundle/Twig/PccExtensionTest.php" timestamp="1523970515529">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/product-quantity-form.js" timestamp="1523618205867">
         <mark key="[" line="4" column="50" />
@@ -352,6 +358,11 @@
         <mark key="]" line="3" column="46" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/User/AppRestoreCartInfoAfterMailTest.php" timestamp="1523968229255">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Type/SubscriptionType.php" timestamp="1523479048097">
         <mark key="[" line="58" column="40" />
@@ -402,11 +413,11 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523967922514">
+      <file name="/Dummy.txt" timestamp="1523970493122">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
@@ -477,8 +488,8 @@
         <mark key="^" line="89" column="65" />
         <mark key="." line="89" column="65" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1523967617757">
-        <mark key="[" line="43" column="20" />
+      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1523969089551">
+        <mark key="[" line="43" column="21" />
         <mark key="]" line="43" column="20" />
         <mark key="^" line="43" column="20" />
         <mark key="." line="43" column="20" />
@@ -649,46 +660,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test para las extensiones de Twig (customlabel02) specs</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test para las extensiones de Twig (customlabel02) specs</text>
       </register>
       <register name="/" type="4">
         <text>harcoded</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgJGFjdHVhbCA9ICR0aGlzLT5wY2NUd2lnRXh0ZW5zaW9ucy0+Y3VzdG9tTGFiZWwwMigKICAgICAgICAgICAgJHRoaXMtPmlkQXJ0aWN1bG8sCiAgICAgICAgICAgICR0aGlzLT5kYXRhQ3VzdG9tcywKICAgICAgICAgICAgJHN0b2NrQXJ0aWN1bG8KICAgICAgICApOwo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT4uLi9zcmMvUGNjL1Rlc3QvPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmlkQXJ0aWN1bG8sCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0gJHRoaXMtPnBjY1R3aWdFeHRlbnNpb25zLT5jdXN0b21MYWJlbDAyKG51bGwsICRkYXRhQ3VzdG9tcywgJHN0b2NrQXJ0aWN1bG8pOwo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlkQXJ0aWN1bG8gPT4gWydudW1fdmVudGFzJyA9PiAzMDBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovQnVuZGxlLypCdW5kbGUvVGVzdHM8L2RpcmVjdG9yeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YUN1c3RvbXMgPSBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovQnVuZGxlLypCdW5kbGUvUmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaWRBcnRpY3VsbyA9IDEwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovKkJ1bmRsZS9UZXN0czwvZGlyZWN0b3J5Pgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0VXAoKQogICAgewogICAgICAgICR0aGlzLT5wY2NUd2lnRXh0ZW5zaW9ucyA9IG5ldyBQY2NFeHRlbnNpb24obmV3IENvbnRhaW5lcigpKTsKCiAgICAgICAgJHRoaXMtPmlkQXJ0aWN1bG8gPSAxMTMzNDsKICAgICAgICAvL2Zha2VEYXRhQ3VzdG9tcwogICAgICAgICR0aGlzLT5kYXRhQ3VzdG9tcyA9IFsKICAgICAgICAgICAgJHRoaXMtPmlkQXJ0aWN1bG8gPT4gWydudW1fdmVudGFzJyA9PiAzMDBdCiAgICAgICAgXTsKICAgIH0K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLyovKkJ1bmRsZS9SZXNvdXJjZXM8L2RpcmVjdG9yeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0gJHRoaXMtPnBjY1R3aWdFeHRlbnNpb25zLT5jdXN0b21MYWJlbDAyKCRpZEFydGljdWxvLCAkZGF0YUN1c3RvbXMsICRzdG9ja0FydGljdWxvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLypCdW5kbGUvVGVzdHM8L2RpcmVjdG9yeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjLypCdW5kbGUvUmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -14,7 +14,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -86,7 +86,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="PHP Class">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
@@ -150,7 +150,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'TestDirectorg'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pccfront:9080 ROOT'">
@@ -159,6 +159,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'pccfront:9080 ROOT'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'phpunit.xml'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'phpunit.xml'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -215,6 +223,14 @@
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle highlight code coverage">
+        <Item>
+          <IdeaActionID>cc.takacs.php_codeverage_display.toolbar.enable</IdeaActionID>
+          <ShortCut>'⌃⌘C'</ShortCut>
+          <Description>Toggle highlight code coverage</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">
