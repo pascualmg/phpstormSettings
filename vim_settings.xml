@@ -458,8 +458,8 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1523863906048">
-        <mark key="'" line="62" column="10" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1523951176680">
+        <mark key="'" line="9" column="38" />
         <mark key="[" line="22" column="69" />
         <mark key="]" line="22" column="72" />
         <mark key="." line="22" column="72" />
@@ -510,7 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="43" filename="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" />
       <jump line="581" column="25" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="755" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="283" column="4" filename="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" />
@@ -610,6 +609,7 @@
       <jump line="62" column="10" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="62" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/ArticlesSnapshot.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="9" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -622,7 +622,7 @@
         <text>script connectif movidos dentro del if inicial .</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text>slug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coY2hhbGsueWVsbG93KCdvc3RpYSBjb3BpbicpKTsK</text>
@@ -660,9 +660,9 @@ por el script.</text>
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search>slug</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern>slug</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -670,7 +670,6 @@ por el script.</text>
     </search>
     <history>
       <history-search>
-        <entry>blanca</entry>
         <entry>script</entry>
         <entry>victor</entry>
         <entry>sync</entry>
@@ -690,6 +689,7 @@ por el script.</text>
         <entry>subscri</entry>
         <entry>desc</entry>
         <entry>redis</entry>
+        <entry>slug</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
