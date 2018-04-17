@@ -33,6 +33,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1523952959156" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/usecase/SyncClientInfoCmd.js" timestamp="1523276212926">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="26" />
@@ -458,8 +459,8 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1523951176680">
-        <mark key="'" line="9" column="38" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1523952929215">
+        <mark key="'" line="52" column="21" />
         <mark key="[" line="22" column="69" />
         <mark key="]" line="22" column="72" />
         <mark key="." line="22" column="72" />
@@ -510,9 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="581" column="25" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="755" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="283" column="4" filename="$USER_HOME$/src/web/xml/feed/merchant/class/PccomFeederMerchant.php" />
       <jump line="254" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="18" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="303" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
@@ -610,6 +608,9 @@
       <jump line="62" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/ArticlesSnapshot.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="9" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="46" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="51" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="52" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -622,7 +623,7 @@
         <text>script connectif movidos dentro del if inicial .</text>
       </register>
       <register name="/" type="4">
-        <text>slug</text>
+        <text>harcoded</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coY2hhbGsueWVsbG93KCdvc3RpYSBjb3BpbicpKTsK</text>
@@ -660,9 +661,9 @@ por el script.</text>
       </register>
     </registers>
     <search>
-      <last-search>slug</last-search>
+      <last-search>harcoded</last-search>
       <last-offset />
-      <last-pattern>slug</last-pattern>
+      <last-pattern>harcoded</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -670,7 +671,6 @@ por el script.</text>
     </search>
     <history>
       <history-search>
-        <entry>script</entry>
         <entry>victor</entry>
         <entry>sync</entry>
         <entry>desco</entry>
@@ -690,6 +690,7 @@ por el script.</text>
         <entry>desc</entry>
         <entry>redis</entry>
         <entry>slug</entry>
+        <entry>harcoded</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
