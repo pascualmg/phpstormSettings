@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3a8a9d6-52b4-4ecc-ab6d-6e551a78195c/console.sql" timestamp="1524046195786">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3a8a9d6-52b4-4ecc-ab6d-6e551a78195c/console.sql" timestamp="1524046868130">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/usecase/sync-client-info.js" timestamp="1523272389239">
         <mark key="[" line="5" column="41" />
@@ -44,7 +44,6 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="restClient/response9.txt" timestamp="1524046490049" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523493067556">
         <mark key="[" line="47" column="63" />
         <mark key="]" line="47" column="95" />
@@ -56,6 +55,9 @@
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
+      </file>
+      <file name="/api_conditions_types [web@prod]" timestamp="1524046906751">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/SmCheckNewsLetterSubsriptionService.php" timestamp="1523477563057">
         <mark key="[" line="53" column="1" />
@@ -143,6 +145,9 @@
         <mark key="]" line="16" column="34" />
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
+      </file>
+      <file name="/api_conditions_types [web@1.lectura.xgest.pccom.interno]" timestamp="1524046954429">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRateService.php" timestamp="1522001913926">
         <mark key="[" line="11" column="6" />
@@ -346,6 +351,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1524046954766">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1524046681758">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -545,14 +553,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB3ZWIuY29uZGl0aW9ucwo=</text>
+      <register name="&quot;" type="4">
+        <text>conditions limit 100</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>node§hhh§gg</text>
+        <text>conditions limit 100</text>
       </register>
       <register name="/" type="4">
         <text>condi</text>
@@ -560,32 +568,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0Q3VzdG9tTGFiZWwwMldoZW5TSSgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB3ZWIuY29uZGl0aW9ucwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHdlYi5hcGlfZ2FtYV9ibGFuY2EK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB3ZWIuY29uZGl0aW9ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0RW52aXJvbm1lbnQiOiAibm9kZSIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAiamVzdCI6IHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJ2ZXJib3NlIjogdHJ1ZQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0RW52aXJvbm1lbnQiOiAibm9kZSIK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAiamVzdCI6IHsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJ2ZXJib3NlIjogdHJ1ZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0Q3VzdG9tTGFiZWwwMl9OTygpCg==</text>
+        <text encoding="base64">ICAiamVzdCI6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
