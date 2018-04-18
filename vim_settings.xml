@@ -44,7 +44,7 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1523493067556">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1524056521127">
         <mark key="[" line="47" column="63" />
         <mark key="]" line="47" column="95" />
         <mark key="." line="47" column="95" />
@@ -88,6 +88,7 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info.json.twig" timestamp="1524056821945" />
       <file name="$USER_HOME$/src/reactivo/src/.jshintrc" timestamp="1522960688044">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="15" />
@@ -261,11 +262,11 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/yarn.lock" timestamp="1523958231537">
-        <mark key="'" line="4639" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/pccfront/yarn.lock" timestamp="1524056760271">
+        <mark key="'" line="181" column="50" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+        <mark key="^" line="184" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/NoTesteablePccomAuthenticator.php" timestamp="1523363425833">
         <mark key="[" line="16" column="65" />
@@ -451,16 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="796" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="763" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="39" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="770" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="624" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="735" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="59" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="50" column="88" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="64" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="25" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="67" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="79" column="100" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
@@ -541,7 +532,6 @@
       <jump line="51" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="52" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="4632" column="11" filename="$USER_HOME$/src/pccfront/yarn.lock.weno" />
-      <jump line="18" column="26" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="4639" column="2" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="651" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
@@ -551,10 +541,21 @@
       <jump line="83" column="0" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
       <jump line="254" column="55" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing.yml" />
+      <jump line="18" column="26" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="163" column="1" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="165" column="62" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="167" column="1" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="169" column="55" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="171" column="1" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="173" column="58" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="175" column="14" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="177" column="50" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="179" column="1" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="181" column="50" filename="$USER_HOME$/src/pccfront/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>conditions limit 100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXN5bmNAfjEuNC4wOgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -563,46 +564,46 @@
         <text>conditions limit 100</text>
       </register>
       <register name="/" type="4">
-        <text>condi</text>
+        <text>sync</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0Q3VzdG9tTGFiZWwwMldoZW5TSSgpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">YXN5bmNAfjEuNC4wOgo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IHdlYi5hcGlfZ2FtYV9ibGFuY2EK</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSB3ZWIuY29uZGl0aW9ucwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0RW52aXJvbm1lbnQiOiAibm9kZSIK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiamVzdCI6IHsK</text>
+        <text encoding="base64">ICAgICJ0ZXN0RW52aXJvbm1lbnQiOiAibm9kZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAiamVzdCI6IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ2ZXJib3NlIjogdHJ1ZQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiamVzdCI6IHsK</text>
+        <text encoding="base64">ICAgICJ2ZXJib3NlIjogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>condi</last-search>
+      <last-search>sync</last-search>
       <last-offset />
-      <last-pattern>condi</last-pattern>
+      <last-pattern>sync</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -610,7 +611,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.pt</entry>
         <entry>UserDa</entry>
         <entry>salesmanago</entry>
         <entry>anago</entry>
@@ -630,6 +630,7 @@
         <entry>conditio</entry>
         <entry>user</entry>
         <entry>condi</entry>
+        <entry>sync</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
