@@ -231,17 +231,17 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/yarn.lock.weno" timestamp="1523958187804">
-        <mark key="'" line="4632" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/getConnectifUserData.php" timestamp="1521829726525">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="22" column="39" />
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1524122429013">
+        <mark key="[" line="9" column="70" />
+        <mark key="]" line="9" column="70" />
+        <mark key="^" line="9" column="139" />
+        <mark key="." line="9" column="70" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/App.test.js" timestamp="1523999677806">
         <mark key="[" line="5" column="21" />
@@ -311,6 +311,9 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="14" column="29" />
       </file>
+      <file name="/PHP Console" timestamp="1524122718879">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/PccomAuthenticator.php" timestamp="1522049691151">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -359,11 +362,11 @@
       <file name="/dummy.sql" timestamp="1524046954766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524121180674">
+      <file name="/Dummy.txt" timestamp="1524122450327">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
@@ -407,6 +410,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" timestamp="1524122764319" />
       <file name="$USER_HOME$/src/reactivo/src/Hastag.js" timestamp="1522834952031">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="21" />
@@ -558,17 +562,17 @@
       <jump line="181" column="50" filename="$USER_HOME$/src/pccfront/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGVybyBxdWUgcGFzYSBjb24gdHUgcm9sCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNoYW5nZWQgdW5rbm93bl91c2VyIGJ5IHt9</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>conditions limit 100</text>
+        <text encoding="base64">IGNoYW5nZWQgdW5rbm93bl91c2VyIGJ5IHt9</text>
       </register>
       <register name="/" type="4">
-        <text>sync</text>
+        <text>cellph</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0Q3VzdG9tTGFiZWwwMldoZW5TSSgpCg==</text>
@@ -605,9 +609,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sync</last-search>
+      <last-search>cellph</last-search>
       <last-offset />
-      <last-pattern>sync</last-pattern>
+      <last-pattern>cellph</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -615,7 +619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserDa</entry>
         <entry>salesmanago</entry>
         <entry>anago</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
@@ -635,6 +638,7 @@
         <entry>user</entry>
         <entry>condi</entry>
         <entry>sync</entry>
+        <entry>cellph</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
