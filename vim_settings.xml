@@ -192,6 +192,9 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/clientes_nacimiento [web@prod]" timestamp="1524126315688">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/NoTesteableGetLoggedUserRate.php" timestamp="1522049547958">
         <mark key="[" line="28" column="1" />
         <mark key="]" line="21" column="52" />
@@ -224,6 +227,9 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" timestamp="1524124743121">
+        <mark key="'" line="37" column="6" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/NewsLetterSubscription.php" timestamp="1523480986069">
         <mark key="[" line="25" column="35" />
@@ -271,6 +277,9 @@
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
         <mark key="^" line="184" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" timestamp="1524125158667">
+        <mark key="'" line="429" column="4" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/NoTesteablePccomAuthenticator.php" timestamp="1523363425833">
         <mark key="[" line="16" column="65" />
@@ -347,6 +356,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="/clientes_nacimiento [web@1.lectura.xgest.pccom.interno]" timestamp="1524125455797">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/reactivo/src/Botonico.js" timestamp="1522830328757">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="7" column="0" />
@@ -359,12 +371,14 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524046954766">
+      <file name="/dummy.sql" timestamp="1524126317519">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524122450327">
+      <file name="/Dummy.txt" timestamp="1524125766242">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -460,8 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="67" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="79" column="100" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="63" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="788" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
@@ -560,19 +572,21 @@
       <jump line="177" column="50" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="179" column="1" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="181" column="50" filename="$USER_HOME$/src/pccfront/yarn.lock" />
+      <jump line="37" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
+      <jump line="429" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNoYW5nZWQgdW5rbm93bl91c2VyIGJ5IHt9</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNoYW5nZWQgdW5rbm93bl91c2VyIGJ5IHt9</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
-        <text>cellph</text>
+        <text>getUserNick</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0Q3VzdG9tTGFiZWwwMldoZW5TSSgpCg==</text>
@@ -609,9 +623,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cellph</last-search>
+      <last-search>getUserNick</last-search>
       <last-offset />
-      <last-pattern>cellph</last-pattern>
+      <last-pattern>getUserNick</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -619,7 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>salesmanago</entry>
         <entry>anago</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry>conne</entry>
@@ -639,6 +652,7 @@
         <entry>condi</entry>
         <entry>sync</entry>
         <entry>cellph</entry>
+        <entry>getUserNick</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
