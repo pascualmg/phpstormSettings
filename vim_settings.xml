@@ -101,6 +101,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1524132144752">
+        <mark key="[" line="52" column="45" />
+        <mark key="]" line="52" column="51" />
+        <mark key="^" line="52" column="51" />
+        <mark key="." line="52" column="51" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1522753482363">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="65" />
@@ -329,12 +335,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524131257240">
+      <file name="/dummy.sql" timestamp="1524132036079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524125766242">
+      <file name="/Dummy.txt" timestamp="1524132350997">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -400,6 +406,13 @@
         <mark key="^" line="15" column="79" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1524132250145">
+        <mark key="'" line="64" column="68" />
+        <mark key="[" line="65" column="36" />
+        <mark key="]" line="65" column="42" />
+        <mark key="^" line="65" column="42" />
+        <mark key="." line="65" column="42" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_api_sync_client_info.html.twig" timestamp="1523622548200">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="10" />
@@ -427,8 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="788" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="52" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="797" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="43" column="6" filename="$USER_HOME$/src/reactivo/package-lock.json" />
@@ -527,6 +538,8 @@
       <jump line="37" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
       <jump line="429" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
       <jump line="1695" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
+      <jump line="23" column="55" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="64" column="68" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -539,7 +552,7 @@
         <text encoding="base64">JHRoaXMtPnVzZXJQYW5lbE1hbmFnZXItPmdldE1haW5EYXRhKCktPmdldEJpcnRoZGF5KCk7</text>
       </register>
       <register name="/" type="4">
-        <text>getUserNick</text>
+        <text>ean</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAkdGhpcy0+dXNlclBhbmVsTWFuYWdlci0+Z2V0TWFpbkRhdGEoJHRoaXMtPmdldCgnc2VjdXJpdHkudG9rZW5fc3RvcmFnZScpLT5nZXRUb2tlbigpLT5nZXRVc2VyKCktPmdldElkQ2FydCgpKTsK</text>
@@ -576,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getUserNick</last-search>
+      <last-search>ean</last-search>
       <last-offset />
-      <last-pattern>getUserNick</last-pattern>
+      <last-pattern>ean</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -586,7 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry>anago</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry>conne</entry>
         <entry>connec</entry>
@@ -606,6 +618,7 @@
         <entry>sync</entry>
         <entry>cellph</entry>
         <entry>getUserNick</entry>
+        <entry>ean</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
