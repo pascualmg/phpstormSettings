@@ -33,17 +33,25 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1524211589461">
+        <mark key="'" line="807" column="0" />
+        <mark key="[" line="71" column="53" />
+        <mark key="]" line="71" column="57" />
+        <mark key="." line="71" column="57" />
+        <mark key="^" line="71" column="57" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/usecase/SyncClientInfoCmd.js" timestamp="1523276212926">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="26" />
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" timestamp="1524210095856">
-        <mark key="[" line="77" column="71" />
-        <mark key="]" line="77" column="71" />
-        <mark key="." line="77" column="71" />
-        <mark key="^" line="77" column="78" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" timestamp="1524212783575">
+        <mark key="'" line="84" column="6" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1524056521127">
         <mark key="[" line="47" column="63" />
@@ -455,9 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="797" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="43" column="6" filename="$USER_HOME$/src/reactivo/package-lock.json" />
       <jump line="189" column="17" filename="$USER_HOME$/src/reactivo/package-lock.json" />
       <jump line="13" column="36" filename="$USER_HOME$/src/reactivo/src/App.js" />
       <jump line="364" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/panel-main.html.twig" />
@@ -555,58 +560,61 @@
       <jump line="1695" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="23" column="55" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="64" column="68" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="805" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
+      <jump line="39" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
+      <jump line="84" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>}</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>ean</text>
+        <text>space</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgYXJ0aWNsZS52YWxvcmF0aW9uLmNvdW50IH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxUd2lnX1NpbXBsZUZpbHRlcignZG9tYWluQnlMb2NhbGUnLCBbJHRoaXMsICdkb21haW5CeUxvY2FsZSddLCBbJ2lzX3NhZmUnID0+IFsnYWxsJ11dKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgYXJ0aWNsZS52YWxvcmF0aW9uLnZhbG9yYXRpb25jb3VudCB9fQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyN7eyBhcnRpY2xlLnZhbG9yYXRpb24uY291bnQgfX0jfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyN7eyBhcnRpY2xlLnZhbG9yYXRpb24uY291bnQgfX0jfQo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyN7eyBhcnRpY2xlLnZhbG9yYXRpb24uc3VtIH19I30K</text>
+        <text encoding="base64">ICAgIHB1YmljIGZ1bmN0aW9uIHN0YXJzICgkYXZnX3ZhbG9yYXRpb24pIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyN7eyBhcnRpY2xlLnZhbG9yYXRpb24uY291bnQgfX0jfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgYXJ0aWNsZS52YWxvcmF0aW9uLmF2ZyB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgYXJ0aWNsZS52YWxvcmF0aW9uLnZhbG9yYXRpb25jb3VudCB9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyM8ZzpjdXN0b21fbGFiZWxfND57eyBhcnRpY2xlLmlkQXJ0aWNsZSB8IGN1c3RvbUxhYmVsMDQoYXJ0aWNsZS5wcmljZS5wcmljZSwgY29tcGV0ZW5jeSkgfX08L2c6Y3VzdG9tX2xhYmVsXzQ+I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyM8ZzpjdXN0b21fbGFiZWxfMz57eyBhcnRpY2xlLmlkQXJ0aWNsZSB8IGN1c3RvbUxhYmVsMDMoZGF0YUZvckN1c3RvbUxhYmVsc0Zyb20wMHRvMDMpIH19PC9nOmN1c3RvbV9sYWJlbF8zPiN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyN7eyBhcnRpY2xlLnZhbG9yYXRpb24uY291bnQgfX0jfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ean</last-search>
+      <last-search>space</last-search>
       <last-offset />
-      <last-pattern>ean</last-pattern>
+      <last-pattern>space</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -614,7 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry>conne</entry>
         <entry>connec</entry>
         <entry>addCus</entry>
@@ -634,6 +641,7 @@
         <entry>cellph</entry>
         <entry>getUserNick</entry>
         <entry>ean</entry>
+        <entry>space</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
