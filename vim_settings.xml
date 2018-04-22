@@ -302,6 +302,11 @@
       <file name="/PHP Console" timestamp="1524122718879">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/n2h/src/n2h.js" timestamp="1524380349376">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1524222535003">
         <mark key="[" line="0" column="0" />
       </file>
@@ -317,11 +322,10 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/src/reactivo-good/src/App.js" timestamp="1524266934988">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="12" />
+      <file name="$USER_HOME$/src/reactivo-good/src/App.js" timestamp="1524379146361">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1524122429013">
         <mark key="[" line="9" column="70" />
@@ -388,11 +392,11 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524213971663">
+      <file name="/Dummy.txt" timestamp="1524379063372">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/NewsLetterSubscriptionRepository.php" timestamp="1523430400648">
         <mark key="[" line="10" column="32" />
@@ -405,6 +409,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/n2h/__tests__/n2h.test.js" timestamp="1524380276218">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Botonico.js" timestamp="1522830328757">
         <mark key="[" line="6" column="1" />
@@ -609,13 +618,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>totalGruposDeTres</text>
+        <text>//TODO: borrame.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>totalGruposDeTres</text>
+        <text>//TODO: borrame.</text>
       </register>
       <register name="/" type="4">
         <text>space</text>
@@ -624,31 +633,31 @@
         <text encoding="base64">ICAgICAgPGRpdj44ODg4ODg4ODg4OHt0b3RhbEdydXBvc0RlVHJlcygnMjM0MjM0Jyl9PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZXN0KHRyYW5zZm9ybU51bWJlckludG9IdW1hblJlYWRhYmxlKTtkZAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj57dGVzdCh0cmFuc2Zvcm1OdW1iZXJJbnRvSHVtYW5SZWFkYWJsZSlxfTwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmFzc2VydCgpCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdj57dG90YWxHcnVwb3NEZVRyZXMoJzIzNDIzNCcpfTwvZGl2Pgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgPGltZyBzcmM9e2xvZ299IGNsYXNzTmFtZT0iQXBwLWxvZ28iIGFsdD0ibG9nbyIvPgogICAgICAgIDxoMSBjbGFzc05hbWU9IkFwcC10aXRsZSI+VHJhc3RlYW5kbyBSZWFjdDwvaDE+CiAgICAgIDwvaGVhZGVyPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0ZXN0KHRyYW5zZm9ybU51bWJlckludG9IdW1hblJlYWRhYmxlKTtkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmVhY3RET00ucmVuZGVyKGNvbWVudGFyaW8sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0ZXN0JykpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmFzc2VydCgpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxUYW5rLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0YW5rJykpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgPGltZyBzcmM9e2xvZ299IGNsYXNzTmFtZT0iQXBwLWxvZ28iIGFsdD0ibG9nbyIvPgogICAgICAgIDxoMSBjbGFzc05hbWU9IkFwcC10aXRsZSI+VHJhc3RlYW5kbyBSZWFjdDwvaDE+CiAgICAgIDwvaGVhZGVyPg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9InRhbmsiPjwvZAo=</text>
+        <text encoding="base64">UmVhY3RET00ucmVuZGVyKGNvbWVudGFyaW8sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0ZXN0JykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9InRlc3QiPjwvZGl2Pgo=</text>
+        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxUYW5rLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0YW5rJykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9InRhbmsiPjwvZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEJpbGxpbmdBZGRyZXNzRm9ybSBmcm9tICIuL2NvbXBvbmVudHMvYmlsbGluZy1hZGRyZXNzLWZvcm0iOwo=</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9InRlc3QiPjwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
