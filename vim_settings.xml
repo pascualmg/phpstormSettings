@@ -132,11 +132,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1524471748122">
-        <mark key="[" line="127" column="87" />
-        <mark key="]" line="127" column="137" />
-        <mark key="." line="127" column="137" />
-        <mark key="^" line="127" column="137" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1524473302521">
+        <mark key="'" line="153" column="33" />
+        <mark key="[" line="286" column="64" />
+        <mark key="]" line="286" column="84" />
+        <mark key="." line="286" column="84" />
+        <mark key="^" line="286" column="84" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1523525142631">
         <mark key="[" line="44" column="0" />
@@ -328,7 +329,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="/PHP Console" timestamp="1524122718879">
+      <file name="/PHP Console" timestamp="1524474102733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/PccomAuthenticator.php" timestamp="1522049691151">
@@ -506,10 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="62" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" />
-      <jump line="174" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" />
-      <jump line="12" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/SubscriptionType.php" />
-      <jump line="15" column="97" filename="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/SubscriptionRepository.php" />
       <jump line="69" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserData.php" />
       <jump line="23" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" />
       <jump line="105" column="1" filename="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/Subscription.php" />
@@ -606,46 +603,50 @@
       <jump line="816" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="13" column="2" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/store/actions-billing-addresses-form.js" />
       <jump line="0" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
+      <jump line="68" column="58" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
+      <jump line="69" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
+      <jump line="83" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
+      <jump line="141" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>Ids</text>
       </register>
       <register name="/" type="4">
-        <text>gama</text>
+        <text>BlackList</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">e3sgYXBwLnJlcXVlc3QubG9jYWxlIHwgZG9tYWluQnlMb2NhbGUgfX08</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhcnJheV9tZXJnZSgkYmxhY2tMaXN0SWRzLCAkdGhpcy0+Z2FtYUJsYW5jYUlkcygpKTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9wdXNoKCRhcnJJZHMsICR2YXIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfcHVzaCgkYXJySWRzLCAkZ2FtYUJsYW5jYUlkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoKCR0aGlzLT5nYW1hQmxhbmNhSWRzKCkgYXMgJGdhbWFCbGFuY2FJZCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJmc2V2ZW50cyI6ICJeMS4yLjAiCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2lmIHdlIGFyZSBpbiAucHQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -655,9 +656,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gama</last-search>
+      <last-search>BlackList</last-search>
       <last-offset />
-      <last-pattern>gama</last-pattern>
+      <last-pattern>BlackList</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -665,8 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connec</entry>
-        <entry>addCus</entry>
         <entry>addEnti</entry>
         <entry>console</entry>
         <entry>envio</entry>
@@ -685,6 +684,8 @@
         <entry>ean</entry>
         <entry>space</entry>
         <entry>gama</entry>
+        <entry>articleBlack</entry>
+        <entry>BlackList</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
