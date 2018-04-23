@@ -114,7 +114,7 @@
         <mark key="^" line="51" column="51" />
         <mark key="." line="51" column="51" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1524229897527">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1524470484165">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
         <mark key="^" line="9" column="13" />
@@ -131,6 +131,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1524471748122">
+        <mark key="[" line="127" column="87" />
+        <mark key="]" line="127" column="137" />
+        <mark key="." line="127" column="137" />
+        <mark key="^" line="127" column="137" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1523525142631">
         <mark key="[" line="44" column="0" />
@@ -161,6 +167,9 @@
         <mark key="]" line="0" column="68" />
         <mark key="." line="0" column="68" />
         <mark key="^" line="0" column="68" />
+      </file>
+      <file name="/api_gama_blanca_articulos [web@prod]" timestamp="1524470622987">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/n2h/src/n2h.js" timestamp="1524465390415">
         <mark key="[" line="3" column="24" />
@@ -367,12 +376,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524141924884">
+      <file name="/dummy.sql" timestamp="1524470634892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524465422722">
+      <file name="/Dummy.txt" timestamp="1524470450176">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -600,55 +609,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>space</text>
+        <text>gama</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">e3sgYXBwLnJlcXVlc3QubG9jYWxlIHwgZG9tYWluQnlMb2NhbGUgfX08</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJmc2V2ZW50cyI6ICJeMS4yLjAiCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhcnJheV9wdXNoKCRhcnJJZHMsICR2YXIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdXNoKCkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEJpbGxpbmdBZGRyZXNzRm9ybSBmcm9tICIuL2NvbXBvbmVudHMvYmlsbGluZy1hZGRyZXNzLWZvcm0iOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8QmlsbGlqbmdBZGRyZXNzRm9ybS8+Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8QmlsbGluZ0FkZHJlc3NOZXcgY291bnRyeT17J3NwYWluJ30gbmlmPXt9IG9uQ2hhbmdlQnVzaW5lc3M9e30gb25DaGFuZ2VDb3VudHJ5PXt9IG9uQ2hhbmdlTmlmPXt9IGFkZEJpbGxpbmdBZGRyZXNzPXt9Lz4K</text>
+        <text encoding="base64">ICAgICJmc2V2ZW50cyI6ICJeMS4yLjAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGJpbGxpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>space</last-search>
+      <last-search>gama</last-search>
       <last-offset />
-      <last-pattern>space</last-pattern>
+      <last-pattern>gama</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -656,7 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conne</entry>
         <entry>connec</entry>
         <entry>addCus</entry>
         <entry>addEnti</entry>
@@ -676,6 +684,7 @@
         <entry>getUserNick</entry>
         <entry>ean</entry>
         <entry>space</entry>
+        <entry>gama</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
