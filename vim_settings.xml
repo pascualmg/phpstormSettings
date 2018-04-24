@@ -381,7 +381,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1524511447049">
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1524551377752">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1524477916563">
@@ -461,10 +461,11 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1524476142667">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1524551539575">
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="50" column="43" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/smCheckNewsLetterSubscriptionService.php" timestamp="1523472708964">
         <mark key="[" line="8" column="0" />
@@ -605,14 +606,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJHJlc3VsdHMgYXMgJHJlc3VsdCkgewogICAgICAgICAgICAgICAgJGFycklkc1tdID0gJHJlc3VsdFsnaWRfYXJ0aWN1bG8nXTsK</text>
+      <register name="&quot;" type="4">
+        <text>shortDetail</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>shortDetail</text>
       </register>
       <register name="/" type="4">
         <text>redi</text>
