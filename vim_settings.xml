@@ -101,7 +101,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1524132144752">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1524554768753">
         <mark key="[" line="51" column="45" />
         <mark key="]" line="51" column="51" />
         <mark key="^" line="51" column="51" />
@@ -125,7 +125,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1524485522398">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1524554440616">
         <mark key="'" line="412" column="4" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -221,6 +221,7 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1524554688658" />
       <file name="$USER_HOME$/src/reactivo/src/botonico.js" timestamp="1522828353627">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="31" />
@@ -384,9 +385,9 @@
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1524551377752">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524477916563">
+      <file name="/Dummy.txt" timestamp="1524555603554">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="8" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -461,11 +462,11 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1524551539575">
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="39" />
-        <mark key="." line="50" column="39" />
-        <mark key="^" line="50" column="43" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1524555144060">
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="47" />
+        <mark key="^" line="48" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/smCheckNewsLetterSubscriptionService.php" timestamp="1523472708964">
         <mark key="[" line="8" column="0" />
@@ -607,13 +608,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shortDetail</text>
+        <text>50</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>shortDetail</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text>redi</text>
@@ -622,31 +623,31 @@
         <text encoding="base64">e3sgYXBwLnJlcXVlc3QubG9jYWxlIHwgZG9tYWluQnlMb2NhbGUgfX08</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJHJlc3VsdHMgYXMgJHJlc3VsdCkgewogICAgICAgICAgICAgICAgJGFycklkc1tdID0gJHJlc3VsdFsnaWRfYXJ0aWN1bG8nXTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRlc2NyaXB0aW9uPjwhW0NEQVRBW3t7IGFydGljbGUuZGV0YWlsIHwgcmF3KCdodG1sJykgfCBjbGVhblVURjggIH19XV0+PC9kZXNjcmlwdGlvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgdmVyIHNpIGVsIGRlbGF5IGVzIGN1YWxxdWllciBjb3NhLG1lIGNhZ28gZW4gbGEgcHV0YW8gc2kgbWUgcG9udG8gYSBlc2NyaWJpciBzaW4gbWlyYXIgc2VndXJvIHF1ZSBkbG8gaGFnbyBtw6FzIHLDoXBpZG8gcXVlIHRvIHBlcm8gY3VhbmRvIG5vIGxvIGFnCg==</text>
+        <text encoding="base64">ICAgICAgICBkb3duIHZvdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAxNDcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIHslICBkZXNjcmlwdGlvbiA9IH19JX0gc2V0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJHJlc3VsdHMgYXMgJHJlc3VsdCkgewogICAgICAgICAgICAgICAgJGFycklkc1tdID0gJHJlc3VsdFsnaWRfYXJ0aWN1bG8nXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkgY29uIGxvcyBpZHMgZGUgYXJ0aWN1bG8gcXVlIG5vIGhhbiBkZSBtb3N0cmFyc2UgZW4gbG9zIGZlZWQgc2Vnw7puIGVsIGxvY2FsZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgdmVyIHNpIGVsIGRlbGF5IGVzIGN1YWxxdWllciBjb3NhLG1lIGNhZ28gZW4gbGEgcHV0YW8gc2kgbWUgcG9udG8gYSBlc2NyaWJpciBzaW4gbWlyYXIgc2VndXJvIHF1ZSBkbG8gaGFnbyBtw6FzIHLDoXBpZG8gcXVlIHRvIHBlcm8gY3VhbmRvIG5vIGxvIGFnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGxvY2FsZV9nZXRfZGVmYXVsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
