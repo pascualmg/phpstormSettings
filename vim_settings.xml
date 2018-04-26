@@ -341,11 +341,12 @@
       <file name="/clientes_nacimiento [web@prod]" timestamp="1524141259720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" timestamp="1524734518968">
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="63" column="3" />
-        <mark key="^" line="63" column="3" />
-        <mark key="." line="63" column="3" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" timestamp="1524736704519">
+        <mark key="'" line="92" column="61" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/NoTesteableGetLoggedUserRate.php" timestamp="1522049547958">
         <mark key="[" line="28" column="1" />
@@ -412,11 +413,12 @@
         <mark key="^" line="16" column="47" />
         <mark key="." line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1524731272030">
-        <mark key="'" line="386" column="0" />
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="386" column="0" />
-        <mark key="." line="386" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1524736849650">
+        <mark key="'" line="57" column="18" />
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="9" />
+        <mark key="." line="55" column="9" />
+        <mark key="^" line="55" column="9" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/product-quantity.js" timestamp="1523615383791">
         <mark key="[" line="5" column="29" />
@@ -502,9 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepository.php" />
-      <jump line="15" column="19" filename="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/vendor/connectif/pcc.Connectif.js" />
-      <jump line="653" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="59" column="44" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="322" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="414" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
@@ -602,58 +601,61 @@
       <jump line="204" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
       <jump line="42" column="5" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
       <jump line="386" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
+      <jump line="87" column="61" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
+      <jump line="56" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'{&quot;bannerPlaceholders&quot;: {}, &quot;cart&quot;: {}, &quot;entityInfo&quot;: {&quot;_emailStatus&quot;: &quot;unsubscribed&quot;, &quot;_name&quot;: &quot;de los palotes&quot;, &quot;_surname&quot;: &quot;ajpr&quot;, &quot;primaryKey&quot;: &quot;perico@delospalotes.es&quot;}, &quot;events&quot;: [], &quot;pushSubscription&quot;: {}}');</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>'{&quot;bannerPlaceholders&quot;: {}, &quot;cart&quot;: {}, &quot;entityInfo&quot;: {&quot;_emailStatus&quot;: &quot;unsubscribed&quot;, &quot;_name&quot;: &quot;de los palotes&quot;, &quot;_surname&quot;: &quot;ajpr&quot;, &quot;primaryKey&quot;: &quot;perico@delospalotes.es&quot;}, &quot;events&quot;: [], &quot;pushSubscription&quot;: {}}');</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>setEnt</text>
+        <text>sendData</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHZhciBmYWtlQ2xpZW50SW5mbyA9IHsKICAgICAgdXNlckVtYWlsOiAicGVyaWNvQGRlbG9zcGFsb3Rlcy5lcyIgKwogICAgICAiIiwKICAgICAgbmFtZTogImRlIGxvcyBwYWxvdGVzIiwKICAgICAgc3VybmFtZTogImFqb3BvcnJvIiwKICAgICAgZW1haWxTdGF0dXM6ICJ1bnN1YnNjcmliZWQiCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGFwaS5zZXRFbWFpbFN0YXR1cyh0cnVlKTsKICAgIGV4cGVjdChKU09OLnN0cmluZ2lmeShhcGkuZ2V0UmVxdWVzdCgpKSkKICAgICAgLnRvRXF1YWwoIntcImVudGl0eUluZm9cIjp7XCJwcmltYXJ5S2V5XCI6XCJwZXJpY29AZGVsb3NwYWxvdGVzLmVzXCIsXCJfbmFtZVwiOlwiZGUgbG9zIHBhbG90ZXNcIixcIl9zdXJuYW1lXCI6XCJhanByXCIsXCJfZW1haWxTdGF0dXNcIjpcImFjdGl2ZVwifSxcImNhcnRcIjp7fSxcInB1c2hTdWJzY3JpcHRpb25cIjp7fSxcImV2ZW50c1wiOlt7XCJ0eXBlXCI6XCJsb2dpblwifSx7XCJ0eXBlXCI6XCJwdXJjaGFzZVwiLFwicHVyY2hhc2VcIjp7XCJwdXJjaGFzZUlkXCI6XCJjYXJ0MTM0MmxrMjEzNDJrM2w0ajEybDRcIixcInBheW1lbnRNZXRob2RcIjpcImNhcmRcIixcImNhcnRJZFwiOlwiY2FydDEzNDJsazIxMzQyazNsNGoxMmw0XCIsXCJ0b3RhbFF1YW50aXR5XCI6XCIxMFwiLFwidG90YWxQcmljZVwiOlwiMTAwMVwiLFwicHJvZHVjdHNcIjpbMzIyMzRdfX1dLFwiYmFubmVyUGxhY2Vob2xkZXJzXCI6e319Iik7CiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgICBmdW5jdGlvbiBpc0VtcHR5KG9iaikgewogICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKG9iaikubGVuZ3RoID09PSAwOwogICAgICAgICAgIH0KICAgICAgICAgICBpZiAoISh0eXBlb2YoY29ubmVjdGlmKSA9PT0gIm9iamVjdCIpKSB7Ly92ZXJpZmljYWNpw7NuIGFkaWNpb25hbAogICAgICAgICAgICAgY29uc29sZS5lcnJvcignRWwgc2NyaXB0IGRlIGNvbm5lY3RpZiBubyBlc3TDoSBjYXJnYWRvJyk7CiAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgIHZhciBjb25uZWN0aWZBcGkgPSBQQ0MuZGVzY29ubmVjdGlmOwogICAgICAgICAgICAgdmFyIGNvbm5lY3RpZkNsaWVudEluZm8gPSAqLyB7I3slIGVtYmVkICdAUGNjV2ViL3ZlbmRvci9jb25uZWN0aWYvY25fY2xpZW50X2luZm8vY25fY2xpZW50X2luZm8uanNvbi50d2lnJyAlfXslIGVuZGVtYmVkICV9I30KICAgICAgICAgICAgIC8vdmFyIGNvbm5lY3RpZkNsaWVudEN1c3RvbUZpZWxkcyA9IHsjeyUgZW1iZWQgJ0BQY2NXZWIvdmVuZG9yL2Nvbm5lY3RpZi9jbl9jbGllbnRfaW5mby9jbl9jbGllbnRfaW5mb19jdXN0b21fZmllbGRzLmpzb24udHdpZycgJX17JSBlbmRlbWJlZCAlfSN9CiAgICAgIGlmICghaXNFbXB0eShjb25uZWN0aWZDbGllbnRJbmZvKSkgewogICAgICAgIGNvbm5lY3RpZkFwaS5zZXRFbnRpdHlJbmZvKGNvbm5lY3RpZkNsaWVudEluZm8pOwogICAgICAgIGlmICghaXNFbXB0eShjb25uZWN0aWZDbGllbnRDdXN0b21GaWVsZHMpKSB7CiAgICAgICAgICBjb25uZWN0aWZBcGkuYWRkRW50aXR5Q3VzdG9tRmllbGRzKGNvbm5lY3RpZkNsaWVudEN1c3RvbUZpZWxkcyk7CiAgICAgICAgfQogICAgICAgICBjb25zb2xlLmxvZygnRW52aWFuZG8gZXN0byBhIGNvbm5lY3RpZjonLCBjb25uZWN0aWZBcGkuZ2V0UmVxdWVzdCgpKTsvL1RPRE86IGJvcnJhbWUuCiAgICAgICAgY29ubmVjdGlmQXBpLnNlbmRSZXF1ZXN0KCk7CiAgICAgIH0KICAgIH0gKiov</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWNvbm5lY3RpZikgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoKICAgICAgICAgICBmdW5jdGlvbiBpc0VtcHR5KG9iaikgewogICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKG9iaikubGVuZ3RoID09PSAwOwogICAgICAgICAgIH0KICAgICAgICAgICBpZiAoISh0eXBlb2YoY29ubmVjdGlmKSA9PT0gIm9iamVjdCIpKSB7Ly92ZXJpZmljYWNpw7NuIGFkaWNpb25hbAogICAgICAgICAgICAgY29uc29sZS5lcnJvcignRWwgc2NyaXB0IGRlIGNvbm5lY3RpZiBubyBlc3TDoSBjYXJnYWRvJyk7CiAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgIHZhciBjb25uZWN0aWZBcGkgPSBQQ0MuZGVzY29ubmVjdGlmOwogICAgICAgICAgICAgdmFyIGNvbm5lY3RpZkNsaWVudEluZm8gPSAqLyB7I3slIGVtYmVkICdAUGNjV2ViL3ZlbmRvci9jb25uZWN0aWYvY25fY2xpZW50X2luZm8vY25fY2xpZW50X2luZm8uanNvbi50d2lnJyAlfXslIGVuZGVtYmVkICV9I30KICAgICAgICAgICAgIC8vdmFyIGNvbm5lY3RpZkNsaWVudEN1c3RvbUZpZWxkcyA9IHsjeyUgZW1iZWQgJ0BQY2NXZWIvdmVuZG9yL2Nvbm5lY3RpZi9jbl9jbGllbnRfaW5mby9jbl9jbGllbnRfaW5mb19jdXN0b21fZmllbGRzLmpzb24udHdpZycgJX17JSBlbmRlbWJlZCAlfSN9Ci8qCiAgICAgIGlmICghaXNFbXB0eShjb25uZWN0aWZDbGllbnRJbmZvKSkgewogICAgICAgIGNvbm5lY3RpZkFwaS5zZXRFbnRpdHlJbmZvKGNvbm5lY3RpZkNsaWVudEluZm8pOwogICAgICAgIGlmICghaXNFbXB0eShjb25uZWN0aWZDbGllbnRDdXN0b21GaWVsZHMpKSB7CiAgICAgICAgICBjb25uZWN0aWZBcGkuYWRkRW50aXR5Q3VzdG9tRmllbGRzKGNvbm5lY3RpZkNsaWVudEN1c3RvbUZpZWxkcyk7CiAgICAgICAgfQogICAgICAgICBjb25zb2xlLmxvZygnRW52aWFuZG8gZXN0byBhIGNvbm5lY3RpZjonLCBjb25uZWN0aWZBcGkuZ2V0UmVxdWVzdCgpKTsvL1RPRE86IGJvcnJhbWUuCiAgICAgICAgY29ubmVjdGlmQXBpLnNlbmRSZXF1ZXN0KCk7CiAgICAgIH0KICAgIH0KICB9KQogICov</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFwaS5zZW5kRGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgLnRvRXF1YWwoIntcXCJlbnRpdHlJbmZvXFwiOntcXCJwcmltYXJ5S2V5XFwiOlxcInBlcmljb0BkZWxvc3BhbG90ZXMuZXNcXCIsXFwiX25hbWVcXCI6XFwiZGUgbG9zIHBhbG90ZXNcXCIsXFwiX3N1cm5hbWVcXCI6XFwiYWpwclxcIixcXCJfZW1haWxTdGF0dXNcIjpcImFjdGl2ZVwifSxcImNhcnRcIjp7fSxcInB1c2hTdWJzY3JpcHRpb25cIjp7fSxcImV2ZW50c1wiOlt7XCJ0eXBlXCI6XCJsb2dpblwifSx7XCJ0eXBlXCI6XCJwdXJjaGFzZVxcIixcInB1cmNoYXNlXCI6e1wicHVyY2hhc2VJZFxcIjpcImNhcnQxMzQybGsyMTM0MmszbDRqMTJsNFwiLFwicGF5bWVudE1ldGhvZFxcIjpcImNhcmRcIixcImNhcnRJZFwiOlwiY2FydDEzNDJsazIxMzQyazNsNGoxMmw0XCIsXCJ0b3RhbFF1YW50aXR5XCI6XCIxMFwiLFwidG90YWxQcmljZVwiOlwiMTAwMVxcIixcInByb2R1Y3RzXCI6WzMyMjM0XX19XSxcImJhbm5lclBsYWNlaG9sZGVyc1wiOnt9fSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogYSBwYXJ0aXIgZGUgbGEgc2lndWllbnRlIGzDrW5lYSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgYXBpLmFkZFB1cmNoYXNlRXZlbnQoewogICAgICBwdXJjaGFzZUlkOiAnY2FydDEzNDJsazIxMzQyazNsNGoxMmw0JywKICAgICAgcGF5bWVudE1ldGhvZDogJ2NhcmQnLAogICAgICBjYXJ0SWQ6ICdjYXJ0MTM0MmxrMjEzNDJrM2w0ajEybDQnLAogICAgICB0b3RhbFF1YW50aXR5OiAnMTAnLAogICAgICB0b3RhbFByaWNlOiAnMTAwMScsCiAgICAgIHByb2R1Y3RzOiBbMzIyMzRdCiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5hZGRMb2dpbkV2ZW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setEnt</last-search>
+      <last-search>sendData</last-search>
       <last-offset />
-      <last-pattern>setEnt</last-pattern>
+      <last-pattern>sendData</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -661,8 +663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slug</entry>
-        <entry>harcoded</entry>
         <entry>conditio</entry>
         <entry>user</entry>
         <entry>condi</entry>
@@ -681,6 +681,8 @@
         <entry>consol</entry>
         <entry>entity</entry>
         <entry>setEnt</entry>
+        <entry>subscri</entry>
+        <entry>sendData</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
