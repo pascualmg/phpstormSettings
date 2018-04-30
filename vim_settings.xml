@@ -469,10 +469,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525081153501">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1525086239533">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
@@ -624,7 +624,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>articlesBlackist</text>
+        <text>ixed articlesBlackList in spotfront Action.
+//added warning in niaped function.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -638,23 +639,24 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEJpbGxpbmdBZGRyZXNzTGlzdCBmcm9tICIuL2NvbXBvbmVudHMvQmlsbGluZ0FkZHJlc3NMaXN0IjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHtwcm9wcy5hZGRCaWxsaW5nQWRkcmVzc30K</text>
+      <register name="1" type="4">
+        <text>ixed articlesBlackList in spotfront Action.
+//added warning in niaped function.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3BzLgo=</text>
+        <text encoding="base64">ICAgIHtwcm9wcy5hZGRCaWxsaW5nQWRkcmVzc30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3BzLgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXlsb2FkOiBiaWxsaW5nQWRkcmVzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICBwYXlsb2FkOiBiaWxsaW5nQWRkcmVzcwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
