@@ -21,7 +21,6 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" timestamp="1525074184433" />
       <file name="/api_conditions_types [web@prod]" timestamp="1524056352577">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,6 +57,13 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1525080242192">
+        <mark key="'" line="88" column="4" />
+        <mark key="[" line="81" column="7" />
+        <mark key="]" line="328" column="58" />
+        <mark key="^" line="328" column="58" />
+        <mark key="." line="328" column="58" />
+      </file>
       <file name="chrome-extension://lmhkpmbekcpmknklioeibfkpmmfibljd/js/content.bundle.js" timestamp="1524226448907">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,7 +94,6 @@
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/webpack/bootstrap df306864bcfd5650a2b4" timestamp="1524226044040">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/vendor/connectif/cn_refresh_cart.js" timestamp="1525073900911" />
       <file name="chrome-extension://lmhkpmbekcpmknklioeibfkpmmfibljd/js/pagewrap.bundle.js" timestamp="1524226239578">
         <mark key="[" line="0" column="0" />
       </file>
@@ -516,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="414" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="663" column="65" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="235" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
@@ -616,16 +620,17 @@
       <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
       <jump line="56" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
       <jump line="68" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" />
+      <jump line="86" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Form</text>
+        <text>articlesBlackist</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Form</text>
+        <text>articlesBlackist</text>
       </register>
       <register name="/" type="4">
         <text>sendRe</text>
