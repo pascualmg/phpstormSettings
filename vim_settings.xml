@@ -259,11 +259,11 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1524056521127">
-        <mark key="[" line="47" column="63" />
-        <mark key="]" line="47" column="95" />
-        <mark key="." line="47" column="95" />
-        <mark key="^" line="47" column="95" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1525267973896">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="46" column="71" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/component/FunctionalTank.js" timestamp="1523308110156">
         <mark key="[" line="0" column="25" />
@@ -444,11 +444,8 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepository.php" timestamp="1525265391052">
-        <mark key="[" line="64" column="12" />
-        <mark key="]" line="65" column="70" />
-        <mark key="^" line="65" column="70" />
-        <mark key="." line="65" column="70" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepository.php" timestamp="1525266152367">
+        <mark key="^" line="5" column="78" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/store/actions.js" timestamp="1524219944957">
         <mark key="[" line="15" column="3" />
@@ -462,7 +459,7 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
-      <file name="/PHP Console" timestamp="1525265489282">
+      <file name="/PHP Console" timestamp="1525267448041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Photo.js" timestamp="1523292454989">
@@ -486,16 +483,22 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525255229039">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1525268115156">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1525268345958">
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="69" column="3" />
+        <mark key="^" line="69" column="3" />
+        <mark key="." line="69" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionStateCmd.php" timestamp="1523443919743">
         <mark key="[" line="25" column="23" />
@@ -640,47 +643,53 @@
       <jump line="86" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>se sustituye al anterior repo por el nuevo.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>//el error tipográfico esta en la api.</text>
+        <text>se sustituye al anterior repo por el nuevo.</text>
       </register>
       <register name="/" type="4">
         <text>sendRe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkcHJpdmF0ZUFwaUVuZHBvaW50ID0gYGNvbmRpdGlvbnMveyRlbWFpbH0vYCAuICRzdWJzY3JpcHRpb25UeXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgUGNjb21Qcml2YXRlQXBpU3Vic2NyaXB0aW9uUmVwb3NpdG9yeSgpIC8vYWN0aXZvIGN1YW5kbyBzZXIgbWVyZ2VlIERULTY2Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>166 ,parche 'not_translated' para los articulos que no tengan aún la traducción.
+ spaceless para evitar errores de lectura de indentación.
+ NOTA: se toca para .pt la misma plantilla que para .com  .</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc1N1YnNjcmliZWRXaXRoVHlwZSA9ICRhcnJSZXNwb25zZVsnYWN0aXZlJ10gPT09ICd0cnVlJzsK</text>
+        <text encoding="base64">dXNlIFBjY1xJbmZyYXN0cnVjdHVyZVxQZXJzaXN0ZW5jZVxQY2NvbVByaXZhdGVBcGlTdWJzY3JpcHRpb25SZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFycmF5X2tleV9leGlzdHMoJ2FjdGl2ZScsICRhcnJSZXNwb25zZSkpewo=</text>
+        <text encoding="base64">dXNlIFBjY1xJbmZyYXN0cnVjdHVyZVxQZXJzaXN0ZW5jZVxNb2NrZWRQY2NvbUFwaVN1YnNjcmlwdGlvblJlcG9zaXRvcnk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>parche 'not_translated' para los articulos que no tengan aún la traducción.
+ spaceless para evitar errores de lectura de indentación.
+ NOTA: se toca para .pt la misma plantilla que para .com  .</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFyclJlc3BvbnNlID0ganNvbl9kZWNvZGUoJHJlc3BvbnNlLCB0cnVlKTsK</text>
+      <register name="5" type="4">
+        <text>166 ,parche 'not_translated' para los articulos que no tengan aún la traducción.
+ spaceless para evitar errores de lectura de indentación.
+ NOTA: se toca para .pt la misma plantilla que para .com  .</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICogL2NvbmRpdGlvbnMvdXNlci97dHlwZX0KICAgICAqIHsKICAgICAqICAgZW1haWw6IHtzdHJpbmcgZW1haWx9LAogICAgICogICBzdXNjcmliZWQ6IHt0cnVlfGZhbHNlfSwKICAgICAqICAgaXA6IHtzdHJpbmcgaXB9CiAgICAgKiB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlzU3Vic2NyaWJlZFdpdGhUeXBlID0gJGFyclJlc3BvbnNlWydhY3RpdmUnXSA9PT0gJ3RydWUnOy8vZWwgZXJyb3IgdGlwb2dyw6FmaWNvIGVzdGEgZW4gbGEgYXBpLgo=</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG86IHBvc3QgYSBsYSBhcGkgZGVsIGpzb24gLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkanNvbjJTZW5kID0gJ3siZW1haWwiOiJwYXNjdWFsLm11bm96QHBjY29tcG9uZW50ZXMuY29tIiwic3VzY3JpYmVkIjoidHJ1ZSIsImlwIjogIjExMS4xMTEuMTExLjExMSJ9JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
