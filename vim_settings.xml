@@ -189,6 +189,12 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/Subscription.php" timestamp="1525270469885">
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Persistence/NewsLetterSubscriptionRepository.php" timestamp="1523430400648">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="32" />
@@ -494,11 +500,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1525269823762">
-        <mark key="[" line="82" column="5" />
-        <mark key="]" line="84" column="7" />
-        <mark key="^" line="84" column="7" />
-        <mark key="." line="84" column="7" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1525270040033">
+        <mark key="[" line="65" column="62" />
+        <mark key="]" line="66" column="49" />
+        <mark key="^" line="66" column="49" />
+        <mark key="." line="66" column="49" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionStateCmd.php" timestamp="1523443919743">
         <mark key="[" line="25" column="23" />
@@ -644,25 +650,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>html</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>html</text>
       </register>
       <register name="/" type="4">
         <text>sendRe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJGtleSwgJHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgJGh0bWwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc3Vic2NyaXB0aW9uLT5lbWFpbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgJGlwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc3Vic2NyaXB0aW9uLT4K</text>
+        <text encoding="base64">ICAgICAgICBpbnQgJGNvZFR5cGUsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -671,21 +677,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmlwdjQoJHRoaXMtPmlwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OmVtYWlsKCR0aGlzLT5lbWFpbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRNZXRob2QoKQo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEFzc2VydFxBc3NlcnRpb25GYWlsZWRFeGNlcHRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>166 ,parche 'not_translated' para los articulos que no tengan aún la traducción.
- spaceless para evitar errores de lectura de indentación.
- NOTA: se toca para .pt la misma plantilla que para .com  .</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgICAgICAgICAgICRpcCAgICAgICAgIElQIGRlbCBkZWwgaG9zdCBsb2dnZWFkbyBkZWwgY2xpZW50ZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
