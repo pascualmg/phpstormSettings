@@ -96,6 +96,11 @@
         <mark key="^" line="182" column="31" />
         <mark key="." line="182" column="31" />
       </file>
+      <file name="$USER_HOME$/src/n2h/src/n2h.js" timestamp="1525241389525">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523948156878">
         <mark key="[" line="76" column="37" />
         <mark key="]" line="86" column="3" />
@@ -246,9 +251,6 @@
         <mark key="]" line="14" column="10" />
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/ordersPanel/Paynow/pay-now.js" timestamp="1524666783864">
-        <mark key="." line="49" column="27" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionState.php" timestamp="1523443965486">
         <mark key="[" line="11" column="1" />
@@ -628,8 +630,8 @@
       <jump line="86" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eliminadas dependencias del merchant en el feed de spotfront</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NhcmdhbmRvIG4yaCcpOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -644,31 +646,31 @@
         <text encoding="base64">aW1wb3J0IEJpbGxpbmdBZGRyZXNzTGlzdCBmcm9tICIuL2NvbXBvbmVudHMvQmlsbGluZ0FkZHJlc3NMaXN0IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NhcmdhbmRvIG4yaCcpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZGIgPSAkdGhpcy0+Z2V0RG9jdHJpbmUoKS0+Z2V0TWFuYWdlcigpLT5nZXRDb25uZWN0aW9uKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkZGIgPSAkdGhpcy0+Z2V0RG9jdHJpbmUoKS0+Z2V0TWFuYWdlcigpLT5nZXRDb25uZWN0aW9uKCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZ29vZ2xlRmFtaWxpZXMgPSAkdGhpcy0+Z2V0R29vZ2xlRmFtaWxpZXNJbmRleGVkQnlJZEZhbWlseVBjY29tKCRkYik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZ29vZ2xlVGF4b24gPSAkdGhpcy0+Z2V0R3RheG9ucygkZGIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZ29vZ2xlRmFtaWxpZXMgPSAkdGhpcy0+Z2V0R29vZ2xlRmFtaWxpZXNJbmRleGVkQnlJZEZhbWlseVBjY29tKCRkYik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tcGV0ZW5jeUZvckN1c3RvbUxhYmVsMDQgPSAkdGhpcy0+Z2V0Q29tcGV0ZW5jeUZvckN1c3RvbUxhYmVsMDQoJGRiKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZ29vZ2xlVGF4b24gPSAkdGhpcy0+Z2V0R3RheG9ucygkZGIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YUZvckN1c3RvbUxhYmVsc0Zyb20wMHRvMDMgPSAkdGhpcy0+Z2V0RGF0YUZvckN1c3RvbUxhYmVsc0Zyb20wMHRvMDMoJGRiKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY29tcGV0ZW5jeUZvckN1c3RvbUxhYmVsMDQgPSAkdGhpcy0+Z2V0Q29tcGV0ZW5jeUZvckN1c3RvbUxhYmVsMDQoJGRiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vYSBwYXJ0aXIgZGUgYXF1w60gLCBuaWFwYXMgdG9kbzogcXVpdGFyIG5pYXBhcwo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YUZvckN1c3RvbUxhYmVsc0Zyb20wMHRvMDMgPSAkdGhpcy0+Z2V0RGF0YUZvckN1c3RvbUxhYmVsc0Zyb20wMHRvMDMoJGRiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
