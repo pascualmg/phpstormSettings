@@ -153,11 +153,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Type/SubscriptionType.php" timestamp="1523479048097">
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="58" column="48" />
-        <mark key="^" line="58" column="48" />
-        <mark key="." line="58" column="48" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Type/SubscriptionType.php" timestamp="1525261350848">
+        <mark key="[" line="57" column="60" />
+        <mark key="]" line="57" column="63" />
+        <mark key="^" line="57" column="63" />
+        <mark key="." line="57" column="63" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns_2.txt" timestamp="1524490773275">
         <mark key="[" line="0" column="0" />
@@ -444,11 +444,11 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepository.php" timestamp="1525258522924">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="40" column="40" />
-        <mark key="." line="40" column="40" />
-        <mark key="^" line="40" column="40" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepository.php" timestamp="1525261391937">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="20" column="2" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/store/actions.js" timestamp="1524219944957">
         <mark key="[" line="15" column="3" />
@@ -641,46 +641,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgcGNjb21JbnRlcm5hbEh0dHBDbGllbnQgKi8K</text>
+        <text encoding="base64">ICAgICAqICAgc3VzY3JpYmVkOiB7dHJ1ZXxmYWxzZX0sCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>strings</text>
       </register>
       <register name="/" type="4">
         <text>sendRe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEJpbGxpbmdBZGRyZXNzTGlzdCBmcm9tICIuL2NvbXBvbmVudHMvQmlsbGluZ0FkZHJlc3NMaXN0IjsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkcHJpdmF0ZUFwaUVuZHBvaW50ID0gYGNvbmRpdGlvbnMveyRlbWFpbH0vYCAuICRzdWJzY3JpcHRpb25UeXBlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgcGNjb21JbnRlcm5hbEh0dHBDbGllbnQgKi8K</text>
+        <text encoding="base64">ICAgICAqICAgc3VzY3JpYmVkOiB7dHJ1ZXxmYWxzZX0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IHsjRXN0b3MgMyBjYW1wb3Mgc29uIGltcG9ydGFudGVzIHlhIHF1ZSBzb24gbG9zIHF1ZSBzZSB1c2FuIHBhcmEgZmlsdHJhciByZXN1bHRhZG9zIGVuIGVsIGJ1c2NhZG9yIGludGVncmFkbyN9Cg==</text>
+        <text encoding="base64">ICAgICAqICAgZW1haWw6IHtzdHJpbmcgZW1haWx9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2NhcmdhbmRvIG4yaCcpOwo=</text>
+        <text encoding="base64">ICAgICAqIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqICBjb25kaXRpb25zL3VzZXIve3R5cGV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIGNvcHlwYXN0ZSBkZWwganNvbiBkZWwgdGlja2V0IERULTY2Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZGIgPSAkdGhpcy0+Z2V0RG9jdHJpbmUoKS0+Z2V0TWFuYWdlcigpLT5nZXRDb25uZWN0aW9uKCk7Cg==</text>
+      <register name="6" type="4">
+        <text>Mockeado con el Json indicado por contrato en el DT-66
+ * @todo copypastear el mock e implementar el real con el apicaller.
+ * Enlazaá con el repo de la API privada de pccom.
+ *</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvOiBjb24gZWwgYXBpY2FsbGVyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZ29vZ2xlRmFtaWxpZXMgPSAkdGhpcy0+Z2V0R29vZ2xlRmFtaWxpZXNJbmRleGVkQnlJZEZhbWlseVBjY29tKCRkYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgcGNjb21JbnRlcm5hbEh0dHBDbGllbnQgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZ29vZ2xlVGF4b24gPSAkdGhpcy0+Z2V0R3RheG9ucygkZGIpOwo=</text>
+        <text encoding="base64">IHsjRXN0b3MgMyBjYW1wb3Mgc29uIGltcG9ydGFudGVzIHlhIHF1ZSBzb24gbG9zIHF1ZSBzZSB1c2FuIHBhcmEgZmlsdHJhciByZXN1bHRhZG9zIGVuIGVsIGJ1c2NhZG9yIGludGVncmFkbyN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
