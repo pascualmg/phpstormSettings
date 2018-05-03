@@ -558,8 +558,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525355719396">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1525356467379">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -569,11 +569,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1525354702617">
-        <mark key="[" line="65" column="52" />
-        <mark key="]" line="65" column="61" />
-        <mark key="." line="65" column="61" />
-        <mark key="^" line="65" column="61" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1525356475829">
+        <mark key="'" line="84" column="6" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="109" column="23" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionStateCmd.php" timestamp="1523443919743">
         <mark key="[" line="25" column="23" />
@@ -640,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="663" column="65" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="235" column="41" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="242" column="10" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
       <jump line="670" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" />
@@ -740,16 +740,17 @@
       <jump line="68" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" />
       <jump line="86" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="103" column="0" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
+      <jump line="84" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>refactor para que el objeto Subscription nos coincida con lo que viene de la api .</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>refactor para que el objeto Subscription nos coincida con lo que viene de la api .</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>sendRe</text>
@@ -764,25 +765,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlzU3Vic2NyaWJlZFdpdGhUeXBlID0gJGxhc3RDb25kaXRpb24tPmFjdGl2ZSA9PT0gdHJ1ZTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vT2pvICwgZW4gdmV6IGRlIHZlbmlyIDEgc29sbyAsIGxvIHF1ZSBub3MgdmllbmUgZXMgdW4gYXJyYXkgZGUgc3RkQ2xhc3MgY29uIHRvZGFzCiAgICAgICAgICAgIC8vIGxhcyBjb25kaXRpb25zOiB0b2RvIFJFVklTQVIgRVNUTyBFTiBMQSBEQVlMWSBZIFFVRSBTRSBERUNJREEgU0kgRVNUTyBFUyBBU8ONIE8gTk8uCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFxjb3VudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
