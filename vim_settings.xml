@@ -513,7 +513,7 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
-      <file name="/PHP Console" timestamp="1525339270334">
+      <file name="/PHP Console" timestamp="1525340676074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Photo.js" timestamp="1523292454989">
@@ -553,11 +553,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1525335269634">
-        <mark key="[" line="89" column="8" />
-        <mark key="]" line="89" column="29" />
-        <mark key="^" line="89" column="29" />
-        <mark key="." line="89" column="29" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1525341963375">
+        <mark key="[" line="95" column="28" />
+        <mark key="]" line="95" column="29" />
+        <mark key="." line="95" column="29" />
+        <mark key="^" line="95" column="29" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionStateCmd.php" timestamp="1523443919743">
         <mark key="[" line="25" column="23" />
@@ -725,34 +725,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>refactor para que el objeto Subscription nos coincida con lo que viene de la api .</text>
+        <text>type</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>refactor para que el objeto Subscription nos coincida con lo que viene de la api .</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>sendRe</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cGNjX3dlYl9zdWJzY3RyaXB0aW9uc19hY3RpdmU6CiAgICBwYXRoOiAgICAgL2FjdGl2ZS1zdWJzY3JpcHRpb25zCiAgICBkZWZhdWx0czogeyBfY29udHJvbGxlcjogUGNjV2ViQnVuZGxlOlVzZXJcUGFuZWxcUHJlbWl1bVJhdGU6Z2V0QWN0aXZlU3Vic2NyaXB0aW9ucyB9CiAgICBtZXRob2RzOiBbR0VUXQogICAgCiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ3R5cGUnLCAkc3Vic2NyaXB0aW9uLT50eXBlKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ2h0bWwnLCAkc3Vic2NyaXB0aW9uLT5odG1sKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ3ZlcnNpb24nLCAkc3Vic2NyaXB0aW9uLT52ZXJzaW9uKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD4gMjAxOC0wNS0wM1QxMTA0NDMuMjAwLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50KCRhcnJSZXNwb25zZSkgPT09IDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UE9TVCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD4gMjAxOC0wNS0wM1QxMTAzMTcuMjAwLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">IyMjCg==</text>
@@ -761,10 +761,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD4gMjAxOC0wNS0wM1QxMTA0NDMuMjAwLmpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE9TVCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
