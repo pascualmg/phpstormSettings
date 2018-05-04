@@ -58,11 +58,11 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/src/n2h/webpack.config.js" timestamp="1525414404065">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="3" column="48" />
+      <file name="$USER_HOME$/src/n2h/webpack.config.js" timestamp="1525437385804">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
         <mark key="^" line="3" column="48" />
-        <mark key="." line="3" column="48" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1524559497027">
         <mark key="[" line="29" column="88" />
@@ -123,11 +123,10 @@
         <mark key="^" line="182" column="31" />
         <mark key="." line="182" column="31" />
       </file>
-      <file name="$USER_HOME$/src/n2h/src/n2h.js" timestamp="1525414666085">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/src/n2h/src/n2h.js" timestamp="1525437496226">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1523948156878">
         <mark key="[" line="76" column="37" />
@@ -135,6 +134,7 @@
         <mark key="." line="86" column="3" />
         <mark key="^" line="86" column="3" />
       </file>
+      <file name="$USER_HOME$/src/n2h/src/demo/n2h.js" timestamp="1525438035243" />
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/webpack/bootstrap df306864bcfd5650a2b4" timestamp="1524226044040">
         <mark key="[" line="0" column="0" />
       </file>
@@ -758,14 +758,14 @@
       <jump line="45" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">fCBjbGVhblVURjgg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fCBjbGVhblVURjgg</text>
+        <text>bundle</text>
       </register>
       <register name="/" type="4">
         <text>harco</text>
@@ -774,32 +774,32 @@
         <text encoding="base64">eyUgZW5kZm9yIC0lfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bm90X3RyYW5zbGF0ZWQ+PC9ub3RfdHJhbnNsYXRlZD4K</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8bm90X3RyYW5zbGF0ZWQ+PC9ub3RfdHJhbnNsYXRlZD4K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHslIGlmIGFydGljbGUubmFtZSBpcyBub3QgZGVmaW5lZCAtJX0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>incluidos blacklist (article y families) 
                                                                                           en pt , se quita gama blanca .</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8bm90X3RyYW5zbGF0ZWQ+PC9ub3RfdHJhbnNsYXRlZD4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHslIGlmIGFydGljbGUubmFtZSBpcyBub3QgZGVmaW5lZCAtJX0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHJhZGVtYXJrLnNsdWcgIT0gJ3BjY29tcG9uZW50ZXMtY29tJwo=</text>
+        <text encoding="base64">ICAgIHslIGlmIGFydGljbGUubmFtZSBpcyBub3QgZGVmaW5lZCAtJX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
