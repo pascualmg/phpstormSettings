@@ -417,7 +417,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525472188851">
+      <file name="/Dummy.txt" timestamp="1525474476292">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -459,12 +459,12 @@
         <mark key="." line="47" column="95" />
         <mark key="^" line="47" column="95" />
       </file>
-      <file name="$USER_HOME$/src/n2h/src/test.js" timestamp="1525474437527">
+      <file name="$USER_HOME$/src/n2h/src/test.js" timestamp="1525475919121">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="30" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1524213150308">
         <mark key="[" line="274" column="95" />
@@ -618,49 +618,55 @@
       <jump line="31" column="0" filename="$USER_HOME$/src/n2h/src/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0dhbGxlZ28nLCBHYWxsZWdvLnNhbHVkYSgpKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      <register name="&quot;" type="4">
+        <text>Persona.prototype = {
+  saluda:function Saludar() {
+    console.log('hola me llamo' + this.nombre + 'y tengo ' + this.edad + ' años');
+  }
+};</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>levita</text>
+        <text>Gallego</text>
       </register>
       <register name="/" type="4">
         <text>space</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIExldml0b2lkZSA9IE9iamVjdC5jcmVhdGUobGV2aXRhKTsK</text>
+        <text encoding="base64">SG9tYnJlLnByb3RvdHlwZSA9IE9iamVjdC5jcmVhdGUoUGVyc29uYS5wcm90b3R5cGUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0dhbGxlZ28nLCBHYWxsZWdvLnNhbHVkYSgpKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly9jb25zb2xlLmxvZygnR2FsbGVnby5wcm90b3R5cGUnLCBHYWxsZWdvLl9fcHJvdG9fXyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly9jb25zb2xlLmxvZygnZm9vLnByb3RvdHlwZScsIFBlcnNvbmEuX19wcm90b19fKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>Gallego.saluda = function SaludarEnGallego() {
-  console.log('solapado solapado solapado' + this.nombre + 'iño y tengo ' + this.edad + ' años');
+      <register name="1" type="4">
+        <text>Persona.prototype = {
+  saluda:function Saludar() {
+    console.log('hola me llamo' + this.nombre + 'y tengo ' + this.edad + ' años');
+  }
 };</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">SG9tYnJlLnByb3RvdHlwZSA9IHsKICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0dhbGxlZ28nLCBHYWxsZWdvLnNhbHVkYXJFbkdhbGxlZ28oKSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICBmdXV1Xwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIFBlcmljbyA9IG5ldyBHYWxsZWdvKCdwZXJpY28nLCA4MCk7Cg==</text>
+        <text encoding="base64">dmFyIGxldml0YSA9IE9iamVjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
