@@ -417,7 +417,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525474476292">
+      <file name="/Dummy.txt" timestamp="1525475927476">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -459,12 +459,12 @@
         <mark key="." line="47" column="95" />
         <mark key="^" line="47" column="95" />
       </file>
-      <file name="$USER_HOME$/src/n2h/src/test.js" timestamp="1525475919121">
+      <file name="$USER_HOME$/src/n2h/src/test.js" timestamp="1525476705236">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="30" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="30" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1524213150308">
         <mark key="[" line="274" column="95" />
@@ -619,54 +619,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Persona.prototype = {
-  saluda:function Saludar() {
-    console.log('hola me llamo' + this.nombre + 'y tengo ' + this.edad + ' años');
-  }
+        <text>levita.saluda = function () {
+  console.log('soy ' + this.nombre)
 };</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Gallego</text>
+        <text>varon</text>
       </register>
       <register name="/" type="4">
         <text>space</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SG9tYnJlLnByb3RvdHlwZSA9IE9iamVjdC5jcmVhdGUoUGVyc29uYS5wcm90b3R5cGUpOwo=</text>
+        <text encoding="base64">bGV2aXRhLnNhbHVkYSgpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>Persona.prototype = {
-  saluda:function Saludar() {
-    console.log('hola me llamo' + this.nombre + 'y tengo ' + this.edad + ' años');
-  }
+        <text>levita.saluda = function () {
+  console.log('soy ' + this.nombre)
 };</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBQZXJzb25hKCdtYWNobyBjYWJlem9uJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly9Ib21icmUucHJvdG90eXBlID0gUGVyc29uYS5wcm90b3R5cGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9Ib21icmUucHJvdG90eXBlID0gUGVyc29uYS5wcm90b3R5cGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SG9tYnJlLnByb3RvdHlwZSA9IHsKICAK</text>
+        <text encoding="base64">Ly9Ib21icmUucHJvdG90eXBlLmNvbnN0cnVjdG9yID0gSG9tYnJlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmdXV1Xwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGxldml0YSA9IE9iamVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
