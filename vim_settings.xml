@@ -444,7 +444,7 @@
         <mark key="." line="651" column="33" />
         <mark key="^" line="651" column="33" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1525431419214">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1525432942538">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="40" />
@@ -758,9 +758,8 @@
       <jump line="45" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>incluidos blacklist (article y families) 
-                                                                                          en pt , se quita gama blanca .</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -774,33 +773,33 @@
       <register name="0" type="2">
         <text encoding="base64">eyUgZW5kZm9yIC0lfQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8bm90X3RyYW5zbGF0ZWQ+PC9ub3RfdHJhbnNsYXRlZD4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHslIGlmIGFydGljbGUubmFtZSBpcyBub3QgZGVmaW5lZCAtJX0K</text>
+      </register>
+      <register name="4" type="4">
         <text>incluidos blacklist (article y families) 
                                                                                           en pt , se quita gama blanca .</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHslIGVuZGlmIC0lfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8bm90X3RyYW5zbGF0ZWQ+PC9ub3RfdHJhbnNsYXRlZD4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHslIGlmIGFydGljbGUubmFtZSBpcyBub3QgZGVmaW5lZCAtJX0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHJhZGVtYXJrLnNsdWcgIT0gJ3BjY29tcG9uZW50ZXMtY29tJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAncmVhY29uZGljaW9uYWRvJyBub3QgaW4gYXJ0aWNsZS5hcnRpY2xlLnNsdWcgYW5kCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHlwZSAhPSAnZGVhbCcgYW5kCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHlwZSAhPSAncmVmdXJiaXNoZWQnIGFuZAo=</text>
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHJhZGVtYXJrLnNsdWcgIT0gJ3BjY29tcG9uZW50ZXMtY29tJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
