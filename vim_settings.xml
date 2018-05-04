@@ -96,6 +96,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1525425037560">
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="50" column="60" />
+        <mark key="." line="50" column="60" />
+        <mark key="^" line="50" column="60" />
+      </file>
       <file name="chrome-extension://lmhkpmbekcpmknklioeibfkpmmfibljd/js/content.bundle.js" timestamp="1524226448907">
         <mark key="[" line="0" column="0" />
       </file>
@@ -280,10 +286,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1525422482969">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1525424652123">
         <mark key="'" line="45" column="7" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="80" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="24" column="31" />
         <mark key="." line="46" column="0" />
       </file>
       <file name="/clientes_malo [web@prod]" timestamp="1524141917052">
@@ -306,11 +312,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="94" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3a8a9d6-52b4-4ecc-ab6d-6e551a78195c/console.sql" timestamp="1524561616932">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="11" column="59" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3a8a9d6-52b4-4ecc-ab6d-6e551a78195c/console.sql" timestamp="1525424833308">
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="60" />
+        <mark key="." line="16" column="60" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/pccomAuthenticator.php" timestamp="1522049582551">
         <mark key="[" line="14" column="10" />
@@ -438,11 +444,11 @@
         <mark key="." line="651" column="33" />
         <mark key="^" line="651" column="33" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1525422920449">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1525424983285">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/NewsLetterSubscription.php" timestamp="1523480986069">
         <mark key="[" line="25" column="35" />
@@ -752,49 +758,47 @@
       <jump line="45" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>harcodeada url del link , .pt y .com como en el merchant por seguridad.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>harcodeada url del link , .pt y .com como en el merchant por seguridad.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>harco</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGxpbms+e3toYXJjb2RlZFVybCB+IGFydGljbGUuY3VycmVudFNsdWcgfCBkZWZhdWx0KGFydGljbGUuc2x1Zyl9fTwvbGluaz4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">eyUgZm9yIGFydGljbGUgaW4gYXJ0aWNsZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnRpY2xlIGlzIGRlZmluZWQgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnRpY2xlLmFydGljbGUub3V0T2ZDYXRhbG9ndWUgPT0gZmFsc2UgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnRpY2xlLmFydGljbGUuaWRBcnRpY2xlIG5vdCBpbiAoIGFydGljbGVzQmxhY2tMaXN0ICkgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnRpY2xlLmFydGljbGUuZmFtaWx5LmlkRmFtaWx5IG5vdCBpbiAoIGZhbWlseUJsYWNrTGlzdCApIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJ0aWNsZS5hcnRpY2xlLnR5cGUgIT0gJ3JlYWNvbmRpdGlvbmVkJyBhbmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGUuYXJ0aWNsZS50eXBlICE9ICdyZWZ1cmJpc2hlZCcgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnRpY2xlLmFydGljbGUudHlwZSAhPSAnZGVhbCcgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVhY29uZGljaW9uYWRvJyBub3QgaW4gYXJ0aWNsZS5hcnRpY2xlLnNsdWcgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnRpY2xlLmFydGljbGUudHJhZGVtYXJrLnNsdWcgIT0gJ3BjY29tcG9uZW50ZXMtY29tJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgLSV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHsjPGZpbHRlcnM+I30KICAgIHsjeyUgZm9yIGZpbHRlciBpbiBmaWx0ZXJzIC0lfSN9CiAgICB7IzxmaWx0ZXI+e3sgZmlsdGVyLm5hbWUgLX19PC9maWx0ZXI+I30KICAgIHsjeyUgZm9yIGZpbHRlciBpbiBmaWx0ZXIuZmlsdGVycyAtJX0jfQogICAgeyM8dmFsdWU+e3sgZmlsdGVyLm5hbWUgLX19PC92YWx1ZT4jfQogICAgeyN7JSBlbmRmb3IgLSV9I30KICAgIHsjeyUgZW5kZm9yIC0lfSN9CiAgICB7IzwvZmlsdGVycz4jfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHJhZGVtYXJrLnNsdWcgIT0gJ3BjY29tcG9uZW50ZXMtY29tJwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>BT-273 , deleted Subscription y NewsLetterSubscription como entidades de dominio.
-ya que no se van a usar y podrían diferir de las de la api , si alguna vez 
-hacen falta se han de reimplementar.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAncmVhY29uZGljaW9uYWRvJyBub3QgaW4gYXJ0aWNsZS5hcnRpY2xlLnNsdWcgYW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsjPC9maWx0ZXJzPiN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHlwZSAhPSAnZGVhbCcgYW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsjeyUgZW5kZm9yIC0lfSN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHlwZSAhPSAncmVmdXJiaXNoZWQnIGFuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsjeyUgZW5kZm9yIC0lfSN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlLmFydGljbGUudHlwZSAhPSAncmVhY29uZGl0aW9uZWQnIGFuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsjPHZhbHVlPnt7IGZpbHRlci5uYW1lIC19fTwvdmFsdWU+I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsjeyUgZm9yIGZpbHRlciBpbiBmaWx0ZXIuZmlsdGVycyAtJX0jfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsjPGZpbHRlcj57eyBmaWx0ZXIubmFtZSAtfX08L2ZpbHRlcj4jfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
