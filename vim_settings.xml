@@ -90,6 +90,13 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1525688587142">
+        <mark key="'" line="259" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetter.php" timestamp="1523361988045">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="34" />
@@ -149,12 +156,7 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="164" column="11" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" timestamp="1525683054663">
-        <mark key="[" line="232" column="19" />
-        <mark key="]" line="232" column="19" />
-        <mark key="^" line="232" column="13" />
-        <mark key="." line="232" column="19" />
-      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" timestamp="1525687647776" />
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/product-quantity-form.js" timestamp="1523618205867">
         <mark key="[" line="4" column="50" />
         <mark key="]" line="4" column="50" />
@@ -230,6 +232,7 @@
         <mark key="." line="38" column="25" />
         <mark key="^" line="38" column="25" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/TestController.php" timestamp="1525687989522" />
       <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1524744796152">
         <mark key="[" line="76" column="25" />
         <mark key="]" line="76" column="25" />
@@ -362,10 +365,10 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_feed.yml" timestamp="1525425866878">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="2" column="56" />
-        <mark key="." line="2" column="56" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_feed.yml" timestamp="1525688628887">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/component/Comment.js" timestamp="1523311003320">
@@ -509,10 +512,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525680264035">
+      <file name="/Dummy.txt" timestamp="1525688635319">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
@@ -596,7 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/app.js" />
       <jump line="5" column="2" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/app.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/index.js" />
       <jump line="6" column="0" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/index.js" />
@@ -696,10 +698,11 @@
       <jump line="231" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="630" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
+      <jump line="265" column="11" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -708,46 +711,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>harco</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyUgZW5kZm9yIC0lfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBvcmlnaW5hbEFycmF5ID0gIGFycjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNjaGVtZXM6ICBbJWh0dHBfcHJvdG9jb2wlXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgb3JpZ2luYWxBcnJheVtpbmRleF0gPSByZXBsYWNlbWVudFN0cmluZzsK</text>
+        <text encoding="base64">ICAgIHByZWZpeDogL3Rlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBpZihvcmlnaW5hbEFycmF5W2luZGV4XSA9PT0gb3JpZ2luYWxTdHJpbmcpewo=</text>
+        <text encoding="base64">ICAgIHJlc291cmNlOiAnQFBjY1dlYkJ1bmRsZS9SZXNvdXJjZXMvY29uZmlnL3JvdXRpbmdfdGVzdC55bWwnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGZvcih2YXIgaW5kZXggPSAwLCBhcnJheUxlbmdodCA9IG9yaWdpbmFsQXJyYXkubGVuZ3RoOyBpbmRleCAhPSBhcnJheUxlbmdodDsgaW5kZXgrKyl7Cg==</text>
+        <text encoding="base64">cGNjX21vY2hhOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">I0JULTEzMSBUZXN0IHVuaXRhcmlvcyBjb24gTW9jaGEsIHJvdXRpbmcuCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">QlQtMTY2ICwgcGFyY2hlY2lsbG8gcGFyYSAnbm90X3RyYW5zbGF0ZWQnIFNpIG5vIHRpZW5lIHRyYWR1Y2Npw7NuIGRlbCA8dGl0bGU+IGVuIHB0ICwgdGlyZSBkZWwgc2x1ZyAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNpIG5vIHRpZW5lIHRyYWRkdWNpw7NuIGRlbCA8ZGVzY3JwdGlvbj4gZW4gcHQgLCB0aXJlIGRlbCBzaG9ydERlc2NyaXB0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVzdG8gaGFyw6EgcXVlIG5vIGRlamVtb3MgZGUgdGVuZXIgYXJ0w61jdWxvcyBlbiBlbCBidXNjYWRvciBxdWUgZXN0w6FuIGRpc3BvbmlibGVzIHBvciBmYWx0YSBkZSB0cmFkdWNjacOzbiAsIHkgYWRlbcOhcyAsIGNvbmZvcm1lIHNlYW4gdHJhZHVjaWRvcyBzYWxkcsOtYW4gY29uIGxhIGNvcnJlY3RhIGRlIGZvcm1hIGF1dG9tw6F0aWNhLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdWJvIGVsIGNhbWJpby4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFxnOgo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>harco</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>harco</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -755,7 +758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>condi</entry>
         <entry>sync</entry>
         <entry>cellph</entry>
         <entry>getUserNick</entry>
@@ -775,6 +777,7 @@
         <entry>sendData</entry>
         <entry>sendRe</entry>
         <entry>harco</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
