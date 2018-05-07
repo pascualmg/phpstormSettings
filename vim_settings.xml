@@ -49,8 +49,8 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/.gitignore" timestamp="1525690277774">
-        <mark key="'" line="367" column="0" />
+      <file name="$USER_HOME$/src/pccfront/.gitignore" timestamp="1525691923808">
+        <mark key="'" line="187" column="52" />
         <mark key="[" line="370" column="0" />
         <mark key="]" line="370" column="0" />
         <mark key="." line="370" column="0" />
@@ -605,7 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/index.js" />
       <jump line="6" column="0" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/index.js" />
       <jump line="7" column="0" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/index.js" />
       <jump line="4" column="0" filename="$USER_HOME$/src/react-redux-styledcomponents-starter/src/index.js" />
@@ -705,6 +704,7 @@
       <jump line="630" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="265" column="11" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
       <jump line="367" column="0" filename="$USER_HOME$/src/pccfront/.gitignore" />
+      <jump line="187" column="52" filename="$USER_HOME$/src/pccfront/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -717,7 +717,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>package</text>
+        <text>package-lock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyUgZW5kZm9yIC0lfQo=</text>
@@ -754,9 +754,9 @@
       </register>
     </registers>
     <search>
-      <last-search>package</last-search>
+      <last-search>package-lock</last-search>
       <last-offset />
-      <last-pattern>package</last-pattern>
+      <last-pattern>package-lock</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -764,7 +764,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cellph</entry>
         <entry>getUserNick</entry>
         <entry>ean</entry>
         <entry>space</entry>
@@ -784,6 +783,7 @@
         <entry>harco</entry>
         <entry>test</entry>
         <entry>package</entry>
+        <entry>package-lock</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
