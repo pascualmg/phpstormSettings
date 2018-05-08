@@ -156,6 +156,7 @@
         <mark key="." line="160" column="58" />
         <mark key="^" line="160" column="58" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/article_detail.js" timestamp="1525760999116" />
       <file name="$USER_HOME$/src/n2h/__tests__/n2h.test.js" timestamp="1525416995255">
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="4" />
@@ -298,6 +299,12 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_cart/cn_cart.html.twig" timestamp="1525762458846">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionState.php" timestamp="1523443965486">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="12" column="3" />
@@ -417,6 +424,11 @@
         <mark key="]" line="651" column="33" />
         <mark key="." line="651" column="33" />
         <mark key="^" line="651" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/headers/cart-header.html.twig" timestamp="1525761221141">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/NewsLetterSubscription.php" timestamp="1523480986069">
         <mark key="[" line="25" column="35" />
@@ -552,13 +564,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/spotfront/spotfront.test.js" timestamp="1525682862358">
-        <mark key="'" line="10" column="2" />
-        <mark key="[" line="7" column="57" />
-        <mark key="]" line="7" column="62" />
-        <mark key="." line="7" column="62" />
-        <mark key="^" line="7" column="62" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionStateCmd.php" timestamp="1523443919743">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -603,11 +608,11 @@
         <mark key="." line="18" column="70" />
         <mark key="^" line="18" column="70" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/cn_refresh_cart.js" timestamp="1525729832637">
-        <mark key="[" line="55" column="7" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/cn_refresh_cart.js" timestamp="1525763695274">
+        <mark key="[" line="81" column="39" />
+        <mark key="]" line="81" column="40" />
+        <mark key="." line="81" column="40" />
+        <mark key="^" line="81" column="39" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetCurrentUserNewsletterSubscription/SetNewsletterSubscription.php" timestamp="1525334817317">
         <mark key="[" line="8" column="0" />
@@ -731,13 +736,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>&quot;1000&quot;,</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>&quot;1000&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>package-lock</text>
@@ -745,32 +750,32 @@
       <register name="0" type="4">
         <text encoding="base64">IGFwaS5zZXRDYXJ0KHsKICAgICAgY2FydElkOiAiZmFrZUNhcnQyMzRsMmozNGwyM2o0bDJqNGwyajQybDNqNCIsCiAgICAgIHRvdGFsUXVhbnRpdHk6ICIxMDAiLAogICAgICB0b3RhbFByaWNlOiAiMTAwMCIsCiAgICAgIHByb2R1Y3RzOiB1bmRlZmluZWQKICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldFByb2R1Y3RzRnJvbUNhcnQoKSB7CiAgICAgIHZhciBhcnRpY2xlc0luQ2FydCA9IFtdOwogICAgICBpZiAoaXNEZWZpbmVkKGNhcnREZXRhaWwuYXJ0aWNsZXMpKSB7CiAgICAgICAgY2FydERldGFpbC5hcnRpY2xlcwogICAgICAgICAgLm1hcChmdW5jdGlvbiAoaXRlbSkgewogICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhcnRpY2xlJywgaXRlbSk7Ly9UT0RPOiBib3JyYW1lLgogICAgICAgICAgICAgIGFydGljbGVzSW5DYXJ0LnB1c2goaXRlbS5pZEFydGljbGUpOwogICAgICAgICAgICB9CiAgICAgICAgICApCiAgICAgIH0KICAgICAgcmV0dXJuIGFydGljbGVzSW5DYXJ0OwogICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXJ0RGV0YWlsLmlkCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGV4dHJhY3RlZCgpIHsKICAgICAgdmFyIGFydGljbGVzSW5DYXJ0ID0gW107CiAgICAgIGlmIChpc0RlZmluZWQoY2FydERldGFpbC5hcnRpY2xlcykpIHsKICAgICAgICBjYXJ0RGV0YWlsLmFydGljbGVzCiAgICAgICAgICAubWFwKGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2FydGljbGUnLCBpdGVtKTsvL1RPRE86IGJvcnJhbWUuCiAgICAgICAgICAgICAgYXJ0aWNsZXNJbkNhcnQucHVzaChpdGVtLmlkQXJ0aWNsZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICkKICAgICAgfQogICAgICByZXR1cm4gYXJ0aWNsZXNJbkNhcnQ7CiAgICB9CgogICAgdmFyIGFydGljbGVzSW5DYXJ0ID0gZQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2FydF9pZCA9ICQoJy5jYXJ0X2lkJykudGV4dCgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXRDYXJ0KHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vSGFyY29kaW5nIGRlbCBzZXJ2ZXIgZGUgaW1hZ2VuZXMuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNhcnRJZCI6IGNhcnRfaWQsCg==</text>
+        <text encoding="base64">ICAvL3RvZG86IHNlIDthcGEgbGEgY25fY2FydCB2ZXIgY29tbyBvYnRlbmVyIGVsIGlkIGNhcnQgZGUgb3RyYSBmb3JtYS4gY29tZW50YXIgY29uIHZpY3Rvci4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXJ0LmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL05vcyBDYXJnYW1vcyBlbCBjYXJyaXRvIGNvbXBsZXRvCg==</text>
+        <text encoding="base64">ICAgICAgLy90b2RvOiBzZSA7YXBhIGxhIGNuX2NhcnQgdmVyIGNvbW8gb2J0ZW5lciBlbCBpZCBjYXJ0IGRlIG90cmEgZm9ybWEuIGNvbWVudGFyIGNvbiB2aWN0b3IuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
