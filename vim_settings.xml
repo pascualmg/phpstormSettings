@@ -51,12 +51,6 @@
       <file name="/api_conditions_types [web@prod]" timestamp="1524056352577">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" timestamp="1525431432326">
-        <mark key="'" line="45" column="7" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/user/panel/panel.js" timestamp="1523537848868">
         <mark key="[" line="652" column="1" />
         <mark key="]" line="651" column="33" />
@@ -69,7 +63,12 @@
         <mark key="." line="59" column="2" />
         <mark key="^" line="59" column="2" />
       </file>
-      <file name="$USER_HOME$/src/reduxHellowWorld/index.js" timestamp="1525981712511" />
+      <file name="$USER_HOME$/src/reduxHellowWorld/index.js" timestamp="1525985811878">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="60" column="26" />
+        <mark key="^" line="60" column="26" />
+        <mark key="." line="60" column="26" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/WebBundle/Twig/PccExtensionTest.php" timestamp="1523971549078">
         <mark key="[" line="79" column="37" />
         <mark key="]" line="79" column="53" />
@@ -242,6 +241,7 @@
         <mark key="^" line="37" column="17" />
         <mark key="." line="37" column="17" />
       </file>
+      <file name="$USER_HOME$/src/reduxHellowWorld/node_modules/redux/index.d.ts" timestamp="1525984533846" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_api.twig" timestamp="1523267728785">
         <mark key="[" line="35" column="21" />
         <mark key="]" line="35" column="22" />
@@ -294,12 +294,6 @@
         <mark key="]" line="57" column="63" />
         <mark key="^" line="57" column="63" />
         <mark key="." line="57" column="63" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/.gitignore" timestamp="1525691923808">
-        <mark key="'" line="187" column="52" />
-        <mark key="[" line="370" column="0" />
-        <mark key="]" line="370" column="0" />
-        <mark key="." line="370" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/ArticlesSnapshot.php" timestamp="1524564696937">
         <mark key="[" line="182" column="29" />
@@ -801,46 +795,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>next</text>
+        <text>Timeout</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>Timeout</text>
       </register>
       <register name="/" type="4">
         <text>package-lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAobmV4dCkgPT4ge2NvbnNvbGUubG9nKCduZXh0JywgbmV4dCl9LAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3N0YXRlJywgaXNDb25uZWN0ZWRTdG9yZS5nZXRTdGF0ZSgpKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChuZXh0KSA9PiB7Y29uc29sZS5sb2coJ25leHQnLCBuZXh0KX0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKG5leHQpID0+IHtjb25zb2xlLmxvZygnbmV4dCcsIG5leHQpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAobmV4dCkgPT4ge2NvbnNvbGUubG9nKCduZXh0JywgbmV4dCksCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaChkZXNjb25lY3RhckFjdGlvbik7CmlzQ29ubmVjdGVkU3RvcmUuZGlzcGF0Y2goe3R5cGU6IkNPTk5FQ1QifSk7CmlzQ29ubmVjdGVkU3RvcmUuZGlzcGF0Y2goZGVzY29uZWN0YXJBY3Rpb24pOwppc0Nvbm5lY3RlZFN0b3JlLmRpc3BhdGNoKHt0eXBlOiJDT05ORUNUIn0pOwppc0Nvbm5lY3RlZFN0b3JlLmRpc3BhdGNoKGRlc2NvbmVjdGFyQWN0aW9uKTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaCh7dHlwZToiQ09OTkVDVCJ9KTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaCh7dHlwZToiQ09OTkVDVCJ9KTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaCh7dHlwZToiQ09OTkVDVCJ9KTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaCh7dHlwZToiQ09OTkVDVCJ9KTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaCh7dHlwZToiQ09OTkVDVCJ9KTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaCh7dHlwZToiQ09OTkVDVCJ9KTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaChkZXNjb25lY3RhckFjdGlvbik7CmlzQ29ubmVjdGVkU3RvcmUuZGlzcGF0Y2goe3R5cGU6IkNPTk5FQ1QifSk7CmlzQ29ubmVjdGVkU3RvcmUuZGlzcGF0Y2goZGVzY29uZWN0YXJBY3Rpb24pOwppc0Nvbm5lY3RlZFN0b3JlLmRpc3BhdGNoKHt0eXBlOiJDT05ORUNUIn0pOwppc0Nvbm5lY3RlZFN0b3JlLmRpc3BhdGNoKGRlc2NvbmVjdGFyQWN0aW9uKTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaCh7dHlwZToiQ09OTkVDVCJ9KTsKaXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaChkZXNjb25lY3RhckFjdGlvbik7CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3N0YXRlJywgaXNDb25uZWN0ZWRTdG9yZS5nZXQoKSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aXNDb25uZWN0ZWRTdG9yZS5kaXNwYXRjaCh7dHlwZToiQ09OTkVDVCJ9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RhdGVpbicsc3RhdGUgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChuZXh0KSA9PiB7Y29uc29sZS5sb2coJ25leHQnLCBuZXh0KX0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
