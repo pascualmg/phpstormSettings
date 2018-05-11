@@ -63,11 +63,11 @@
         <mark key="." line="59" column="2" />
         <mark key="^" line="59" column="2" />
       </file>
-      <file name="$USER_HOME$/src/reduxHellowWorld/index.js" timestamp="1525985811878">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="60" column="26" />
+      <file name="$USER_HOME$/src/reduxHellowWorld/index.js" timestamp="1526015192584">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
         <mark key="^" line="60" column="26" />
-        <mark key="." line="60" column="26" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/WebBundle/Twig/PccExtensionTest.php" timestamp="1523971549078">
         <mark key="[" line="79" column="37" />
@@ -527,7 +527,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns_2.txt" timestamp="1524490773275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525981305933">
+      <file name="/JavaScript Console" timestamp="1526015204670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRateService.php" timestamp="1522001913926">
@@ -795,13 +795,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Timeout</text>
+        <text>console.log('state', isConnectedStore.getState());//TODO: borrame.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>Timeout</text>
+        <text>console.log('state', isConnectedStore.getState());//TODO: borrame.</text>
       </register>
       <register name="/" type="4">
         <text>package-lock</text>
