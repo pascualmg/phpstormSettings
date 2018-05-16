@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccfrontv2/src/services/__tests__/api.create-shipping-address.spec.js" timestamp="1526278704892">
-        <mark key="'" line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/usecase/sync-client-info.js" timestamp="1523272389239">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="42" />
@@ -22,6 +19,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1526467073551">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="60" column="42" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1525088191001">
         <mark key="[" line="769" column="0" />
@@ -93,6 +96,12 @@
         <mark key="]" line="48" column="60" />
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1526463996512">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetter.php" timestamp="1523361988045">
         <mark key="[" line="16" column="22" />
@@ -178,6 +187,7 @@
         <mark key="^" line="57" column="63" />
         <mark key="." line="57" column="63" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" timestamp="1526463625536" />
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/store/reducers-billing-address-form.js" timestamp="1524825735957">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -241,6 +251,12 @@
         <mark key="]" line="38" column="25" />
         <mark key="." line="38" column="25" />
         <mark key="^" line="38" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1526465943157">
+        <mark key="[" line="33" column="60" />
+        <mark key="]" line="33" column="61" />
+        <mark key="^" line="33" column="59" />
+        <mark key="." line="33" column="61" />
       </file>
       <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1525689991970">
         <mark key="[" line="29" column="0" />
@@ -517,13 +533,16 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
+      <file name="/PHP Console" timestamp="1526464898821">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/reactivo/src/Photo.js" timestamp="1523292454989">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="46" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526403065500">
+      <file name="/JavaScript Console" timestamp="1526464882474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="1" />
         <mark key="^" line="1" column="1" />
@@ -535,6 +554,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/innoDev/inno-dev-articles.js" timestamp="1526463403101" />
       <file name="/Dummy.txt" timestamp="1526412345855">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -722,47 +742,47 @@
       <jump line="46" column="0" filename="$USER_HOME$/src/pccfrontv2/src/services/__tests__/api.create-shipping-address.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>getMessage</text>
       </register>
       <register name="/" type="4">
         <text>package-lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAobmV3IFRlcm5hVHJhZHVjdG9yKCIwMzAiLCB0cnVlKSkudGVybmEySHVtYW4oKS50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGVycm9ycy0+bWVzc2FnZSA9ICRlLT5nZXRNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBgbmV3IFRlcm5hVHJhZHVjdG9yKHRlcm5hPSIwMzAiLCBlc1VsdGltYVRlcm5hPXRydWUpYCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgVGVzdE9uVGVybmFUcmFkdWN0b3IgPSBPYmplY3QuY3JlYXRlKFRlc3RCYXNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgZW1iZWQgJ0BQY2NXZWIvdmVuZG9yL2NvJyAlfSB7JSBlbmRlbWJlZCAlfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAkcmVxdWVzdCA9ICR0aGlzLT5hcGlDYWxsZXItPmNyZWF0ZVJlcXVlc3RCdWlsZGVyKCkKICAgICAgICAgICAgLT5zZXRVcmkoJGNvbW1hbmQtPmdldFVyaSgpKQogICAgICAgICAgICAtPnNldFBhcmFtZXRlcnMoJGNvbW1hbmQtPmdldFBhcmFtZXRlcnMoKSkKICAgICAgICAgICAgLT5nZXRSZXF1ZXN0KCk7CgogICAgICAgIHN3aXRjaCAoJGNvbW1hbmQtPmdldE1ldGhvZCgpKSB7CiAgICAgICAgICAgIGNhc2UgJ1BPU1QnOgogICAgICAgICAgICAgICAgJHJlc3BvbnNlID0gJHJlcXVlc3QtPnNlbmRQb3N0KCktPmdldFJlc3VsdCgpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ0dFVCc6CiAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAkcmVzcG9uc2UgPSAkcmVxdWVzdC0+c2VuZEdldCgpLT5nZXRSZXN1bHQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmRpc3BhdGNoRXZlbnQoZXZlbnRDYXJ0TW9kaWZpZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUcnlDYXRjaDo6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
