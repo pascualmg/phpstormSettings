@@ -110,6 +110,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/src/Convert-number-into-words/terna/TernaTraductor.js" timestamp="1526510318470" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/newsletter/isactive.http" timestamp="1525417402980">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -178,8 +179,11 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/src/Convert-number-into-words/terna/TernaMaker.js" timestamp="1526508843547">
-        <mark key="[" line="41" column="0" />
+      <file name="$USER_HOME$/src/Convert-number-into-words/terna/TernaMaker.js" timestamp="1526511441649">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="40" column="39" />
+        <mark key="^" line="40" column="5" />
+        <mark key="." line="40" column="6" />
       </file>
       <file name="$USER_HOME$/temp/levitaprueba/index.js" timestamp="1525290673791">
         <mark key="[" line="0" column="0" />
@@ -744,14 +748,14 @@
       <jump line="187" column="52" filename="$USER_HOME$/src/pccfront/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>arrayNormalized.push(&quot;0&quot; + item);</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>arrayNormalized.push(&quot;0&quot; + item);</text>
       </register>
       <register name="/" type="4">
         <text>package-lock</text>
