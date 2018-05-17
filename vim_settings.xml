@@ -53,6 +53,7 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/Convert-number-into-words/MainTest.js" timestamp="1526409061008" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1526552903835" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1524470484165">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -94,6 +95,12 @@
         <mark key="]" line="3" column="49" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1526555091612">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/BillingAddressList.js" timestamp="1524823738367">
         <mark key="[" line="14" column="72" />
@@ -207,11 +214,11 @@
         <mark key="^" line="33" column="59" />
         <mark key="." line="33" column="61" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1525689991970">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1526555862917">
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="65" column="3" />
         <mark key="^" line="76" column="25" />
-        <mark key="." line="29" column="0" />
+        <mark key="." line="65" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetCurrentUserNewsletterSubscription/SetCurrentUserNewsletterSubscription.php" timestamp="1525359879737">
         <mark key="[" line="35" column="58" />
@@ -412,6 +419,12 @@
         <mark key="]" line="59" column="2" />
         <mark key="^" line="59" column="2" />
         <mark key="." line="59" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.spec.js" timestamp="1526555385451">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRate.php" timestamp="1523860141486">
         <mark key="[" line="20" column="1" />
@@ -671,55 +684,56 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGxhcyBleGNlcGNpb25lcyBwdWVkZW4gc2VyIGRlIHZhcmlvcyB0aXBvcyAsIGxhcyBjYXRjaGVhbW9zIHRvZGFzIAp5IHBhcnNlYW1vcyBsYSBpbmZvcm1hY2nDs24gYSBlbCBvYmpldG8gZXJyb3JzLiAKQWRlbcOhcyBpbmNsdWltb3MgbGEgbGluZWEgeSBlbCBmaWxlIGRvbmRlIHNlIHByb2R1Y2VuLg==</text>
+        <text>,</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>9 , enviar _name, _surname de la dirección predeterminada de envío como info de cliente a connectif</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>package-lock</text>
+        <text>jest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogICAgICBwcml2YXRlRXJyb3I6IHt9LCAK</text>
+        <text encoding="base64">ICAgIHRoaXMuYWpheENvbmZpZy5kYXRhLnByaXZhdGVVcmkgPSB1cmk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGxhcyBleGNlcGNpb25lcyBwdWVkZW4gc2VyIGRlIHZhcmlvcyB0aXBvcyAsIGxhcyBjYXRjaGVhbW9zIHRvZGFzIAp5IHBhcnNlYW1vcyBsYSBpbmZvcm1hY2nDs24gYSBlbCBvYmpldG8gZXJyb3JzLiAKQWRlbcOhcyBpbmNsdWltb3MgbGEgbGluZWEgeSBlbCBmaWxlIGRvbmRlIHNlIHByb2R1Y2VuLg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogIH0K</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIl4yMi40LjMiCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogICAgICBwcml2YXRlUmVzcG9uc2U6IHt9LCAK</text>
+      <register name="4" type="4">
+        <text>var sg1 = new StarGate();
+sg1.travel(&quot;/&quot;)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICBwcml2YXRlRXJyb3I6IHt9LAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogdW4gb2JqZXRvIGNvbiBlbCBmb3JtYXRvIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogUmVhbGl6YSB1bmEgcGV0aSBzZWd1cmEgYSBsYSBwcml2YXRlQXBpLCBkZXZvbHZpZW5kbyBzaWVtcHJlIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgZnVuY3Rpb24gdXJsQmFzZSgpIHsKICAgIHJldHVybiB3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgKyAiLy8iICsgd2luZG93LmxvY2F0aW9uLmhvc3Q7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiB1cmxCYXNlKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>package-lock</last-search>
+      <last-search>jest</last-search>
       <last-offset />
-      <last-pattern>package-lock</last-pattern>
+      <last-pattern>jest</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -727,7 +741,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUserNick</entry>
         <entry>ean</entry>
         <entry>space</entry>
         <entry>gama</entry>
@@ -747,6 +760,7 @@
         <entry>test</entry>
         <entry>package</entry>
         <entry>package-lock</entry>
+        <entry>jest</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
