@@ -88,10 +88,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1526557473203">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="141" column="17" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1526886670628">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -231,10 +227,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="20" column="21" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/index-new-user.html.twig" timestamp="1526568382250">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/MockedPccomApiSubscriptionRepository.php" timestamp="1525361333854">
         <mark key="[" line="12" column="0" />
@@ -448,6 +440,12 @@
         <mark key="]" line="31" column="1" />
         <mark key="^" line="31" column="1" />
         <mark key="." line="31" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" timestamp="1526894102474">
+        <mark key="'" line="564" column="15" />
+        <mark key="[" line="630" column="0" />
+        <mark key="]" line="630" column="0" />
+        <mark key="." line="630" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/PhotoGrid.js" timestamp="1522917384547">
         <mark key="[" line="17" column="28" />
@@ -689,21 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" />
-      <jump line="62" column="10" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="62" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/ArticlesSnapshot.php" />
-      <jump line="9" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="46" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="51" column="14" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="52" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="4632" column="11" filename="$USER_HOME$/src/pccfront/yarn.lock.weno" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/yarn.lock" />
-      <jump line="4639" column="2" filename="$USER_HOME$/src/pccfront/yarn.lock" />
-      <jump line="651" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="791" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing.yml" />
-      <jump line="793" column="72" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing.yml" />
-      <jump line="72" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/User/Conditions/GetConditionsByType/GetConditionsByType.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
       <jump line="254" column="55" filename="$USER_HOME$/src/pccapi/app/config/routing.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing.yml" />
       <jump line="18" column="26" filename="$USER_HOME$/src/pccfront/yarn.lock" />
@@ -789,58 +772,73 @@
       <jump line="68" column="47" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="162" column="262" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="169" column="0" filename="$USER_HOME$/src/flp/libro.md" />
+      <jump line="1169" column="60" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1170" column="48" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1207" column="70" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1281" column="27" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1283" column="66" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1287" column="66" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1294" column="19" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1301" column="55" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1302" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1303" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1304" column="58" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1306" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="1309" column="69" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="238" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
+      <jump line="564" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PCservices ( instalación de tv ,etc )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>PCservices ( instalación de tv ,etc )</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>nanutal</text>
+        <text>familia</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
+      <register name="0" type="4">
+        <text>1689</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAvLzE2OTEsIHNlZ3Vyb3MgeSBleHRlbnNpb25lcyBkZSBnYXJhbnTDrWEuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAvLzE2ODksIFBDc2VydmljZXMgKCBpbnN0YWxhY2nDs24gZGUgdHYgLGV0YyApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8xNDUzLCBwcm9tb2Npb25lcyB5IG90cm9zIHNlcnZpY2lvcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy82NTMsIEhlcnJhbWllbnRhcyB5IHV0aWxlcyBkZSBtb250YWplLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIFBIUFNUT1JNX01FVEFcbWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlcy5tYXAoZnVuY3Rpb24gKCkgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTY4OSwgLy9QQ3NlcnZpY2VzICggaW5zdGFsYWNpw7NuIGRlIHR2ICxldGMgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nanutal</last-search>
+      <last-search>familia</last-search>
       <last-offset />
-      <last-pattern>nanutal</last-pattern>
+      <last-pattern>familia</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -848,8 +846,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gama</entry>
-        <entry>articleBlack</entry>
         <entry>BlackList</entry>
         <entry>mercha</entry>
         <entry>locale</entry>
@@ -868,6 +864,8 @@
         <entry>jest</entry>
         <entry>bamod</entry>
         <entry>nanutal</entry>
+        <entry>family</entry>
+        <entry>familia</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
