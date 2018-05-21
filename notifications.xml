@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Vcs Notifications" shouldReadAloud="true" />
+    <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldReadAloud="true" />
+  </component>
+</application>
