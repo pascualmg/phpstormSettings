@@ -56,18 +56,18 @@
         <mark key="." line="74" column="55" />
         <mark key="^" line="74" column="55" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1527024337779">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1527026143220">
         <mark key="'" line="58" column="17" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="43" column="3" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.functional.test.js" timestamp="1527025014841">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.functional.test.js" timestamp="1527025760099">
         <mark key="'" line="70" column="38" />
-        <mark key="[" line="76" column="47" />
-        <mark key="]" line="76" column="64" />
-        <mark key="." line="76" column="64" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
         <mark key="^" line="76" column="64" />
       </file>
       <file name="/Stargate.functional.test.js" timestamp="1527016855285" />
@@ -266,7 +266,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgY2hhdXJvbiA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndHJhdmVsIHJlc3VsdDogJywgdCk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -281,23 +281,19 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdTdGFyZ2F0ZS9TdGFyZ2F0ZS5qcyd8IGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgY2hhdXJvbiA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndHJhdmVsIHJlc3VsdDogJywgdCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2hhdXJvbiwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-    uri: uri || &quot;articles/31046&quot;,
-    method: method || &quot;GET&quot;,
-    params: params || []
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdXNhZ2UoIndlIG5lZWQgYSBjYWxsYmFjayIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmICgidW5kZWZpbmVkIiA9PT0gY2FsbGJhY2spIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNhbGxiYWNrID0gY2FsbGJhY2sgfHwgdXNhZ2UoIndlIG5lZWQgYSBjYWxsYmFjayIpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -306,10 +302,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgY2hhdXJvbiA9IDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBmdW5jdGlvbiBjYWxsYmFja01hcEZpbHRlclJlZHVjZXIoc3RhckdhdGVSZXNwb25zZSkgewogICAgdmFyIHJlc3VsdCA9IHN0YXJHYXRlUmVzcG9uc2UuaW50ZXJuYWxSZXNwb25zZTsKICAgIHZhciBlcnJvciA9IHN0YXJHYXRlUmVzcG9uc2UuaW50ZXJuYWxFcnJvcjsKCiAgICBjb25zb2xlLmxvZygncmVzdWx0OiAnLCByZXN1bHQpOy8vVE9ETzogYm9ycmFtZS4KICAgIGNvbnNvbGUubG9nKCdlcnJvcjogJywgZXJyb3IpOy8vVE9ETzogYm9ycmFtZS4KICB9Ow==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY2hhdXJvbiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
