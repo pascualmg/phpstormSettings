@@ -152,12 +152,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1527007016276">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1527010245892">
         <mark key="'" line="58" column="17" />
-        <mark key="[" line="71" column="43" />
-        <mark key="]" line="71" column="47" />
-        <mark key="^" line="71" column="47" />
-        <mark key="." line="71" column="47" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/BillingAddressList.js" timestamp="1524823738367">
         <mark key="[" line="14" column="72" />
@@ -522,11 +522,10 @@
         <mark key="^" line="59" column="2" />
         <mark key="." line="59" column="2" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.spec.js" timestamp="1526558888572">
-        <mark key="[" line="1" column="116" />
-        <mark key="]" line="1" column="116" />
-        <mark key="^" line="1" column="116" />
-        <mark key="." line="1" column="116" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.spec.js" timestamp="1527010262083">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetLoggedUserRate.php" timestamp="1523860141486">
         <mark key="[" line="20" column="1" />
@@ -798,14 +797,14 @@
       <jump line="58" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StarGate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>StarGate</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>string</text>
@@ -814,31 +813,31 @@
         <text encoding="base64">dmFyIGNoYXVyb24yU3Vic2NyaWJlTmV3c2xldHRlciA9IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBmYWx0YW4gdmVyYm9zCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIFUK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0cnVlKS50b0JlKHRydWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIEpBTUVTIFNQQURFUiBXQVMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICB0ZXN0KCdTZSBwdWVkZSBpbnZvY2FyIGNvbiB1biBuZXcnLCBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU1BBQ0VUSU1FIE9SIEFUIExFQVNUIFNPTUVUSElORyBBQk9VVCBIT1cgTVVDSCBPRiBBIEhVTksgICAgICAgICAK</text>
+        <text encoding="base64">ZGVzY3JpYmUoJ1N0YXJnYXRlJywgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBBIFZBTElEIFdBWSBUTyBERVNJR05BVEUgQSBSRUFMIFBPSU5UIElOIEZPVVIgRElNRU5TSU9OQUwgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIE9LQVkgSE9XIEFCT1VUIFNPTUUgQ09NTUVOVCBBQk9VVCBIT1cgQ09OU1RFTExBVElPTlMgQVJFIE5PVCAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ci8qKgogKiBUT0RPOiBxdWl0YXIgZXN0byBkZSBsYSB3aW5kb3cgLCBlcyBzb2xvIHBhcmEgZGVtb3N0cmFjacOzbiB5IHRlc3Rlby4KICovCndpbmRvdy50ZXN0U3RhcmdhdGUgPSBmdW5jdGlvbiB0ZXN0U3RhcmdhdGUodGVzdFVyaSkgewogIHZhciBjaGF1cm9uID0gewogICAgdXJpOiB0ZXN0VXJpIHx8ICJhcnRpY2xlcyIsCiAgICBtZXRob2Q6ICJHRVQiLAogICAgcGFyYW1zOiBbXQogIH07CgogIGZ1bmN0aW9uIGNhbGxiYWNrTWFwRmlsdGVyUmVkdWNlcihzdGFyR2F0ZVJlc3BvbnNlKSB7CiAgICB2YXIgcmVzdWx0ID0gc3RhckdhdGVSZXNwb25zZS5pbnRlcm5hbFJlc3BvbnNlOwogICAgdmFyIGVycm9yID0gc3RhckdhdGVSZXNwb25zZS5pbnRlcm5hbEVycm9yOwoKICAgIGNvbnNvbGUubG9nKCdyZXN1bHQ6ICcsIHJlc3VsdCk7Ly9UT0RPOiBib3JyYW1lLgogICAgY29uc29sZS5sb2coJ2Vycm9yOiAnLCBlcnJvcik7Ly9UT0RPOiBib3JyYW1lLgogIH07CgogIChuZXcgU3RhcmdhdGUoKSkudHJhdmVsKGNoYXVyb24sIGNhbGxiYWNrTWFwRmlsdGVyUmVkdWNlcik7CiAgcmV0dXJuICJTdGFyZ2F0ZSBUcmF2ZWwgaW5pdGlhdGVkIHRvICIgKyBKU09OLnN0cmluZ2lmeShjaGF1cm9uKTsKfTsKCnZhciBjaGF1cm9uMkRlc3VzY3JpYmVOZXdzbGV0dGVyID0gewogIHVyaTogInVzZXIvY29uZGl0aW9ucyIsCiAgbWV0aG9kOiAiUE9TVCIsCiAgcGFyYW1zOiB7CiAgICAnYWNjZXNzLXRva2VuJzogIlpXTmtPR1l4T1RReE9HRmlOMlF4WkRCaE16STFZekJrWTJVNU9UazNObVl3WldGa01HWXlZamN5T0dVMVpqa3pZVFZpWm1aaU9EWTNaR05sTlRjMFlRIiwKICAgIGVtYWlsOiAicGFzY3VhbC5tdW5vekBwY2NvbXBvbmVudGVzLmNvbSIsCiAgICBzdWJzY3JpYmVkOiAiZmFsc2UiLAogICAgaXA6ICIxMjMuMTIzLjEyMy4xMjMiLAogICAgdHlwZTogMQogIH0KfTsKdmFyIGNoYXVyb24yU3Vic2NyaWJlTmV3c2xldHRlciA9IHsKICB1cmk6ICJ1c2VyL2NvbmRpdGlvbnMiLAogIG1ldGhvZDogIlBPU1QiLAogIHBhcmFtczogewogICAgJ2FjY2Vzcy10b2tlbic6ICJaV05rT0dZeE9UUXhPR0ZpTjJReFpEQmhNekkxWXpCa1kyVTVPVGszTm1Zd1pXRmtNR1l5WWpjeU9HVTFaamt6WVRWaVptWmlPRFkzWkdObE5UYzBZUSIsCiAgICBlbWFpbDogInBhc2N1YWwubXVub3pAcGNjb21wb25lbnRlcy5jb20iLAogICAgc3Vic2NyaWJlZDogInRydWUiLAogICAgaXA6ICIxMjMuMTIzLjEyMy4xMjMiLAogICAgdHlwZTogMQogIH0KfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
