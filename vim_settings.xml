@@ -330,11 +330,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_newsletter.yml" timestamp="1525359435816">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_newsletter.yml" timestamp="1526986138634">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/Service/CheckNewsLetterSubscriptionService.php" timestamp="1523479283929">
         <mark key="[" line="11" column="0" />
@@ -636,7 +636,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Newsletter/NewsletterController.php" timestamp="1526981019673" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Newsletter/NewsletterController.php" timestamp="1526986284333">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="47" column="7" />
+        <mark key="^" line="47" column="7" />
+      </file>
       <file name="$USER_HOME$/src/borrameGuay/suma.spec.js" timestamp="1525804038062">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -801,14 +806,14 @@
       <jump line="564" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0UGFyYW1ldGVyKCdhY2Nlc3MtdG9rZW4nLCAkZml4ZWRDb25uZWN0aWZUb2tlbikK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>familia</text>
@@ -816,32 +821,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0UGFyYW1ldGVyKCdpcCcsICRmcm9tSVApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0UGFyYW1ldGVyKCdhY2Nlc3MtdG9rZW4nLCAkZml4ZWRDb25uZWN0aWZUb2tlbikK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnBjY193ZWJfc3Vic2N0cmlwdGlvbnNfbmV3c2xldHRlcl91bnN1YnNjcmliZToKICAgcGF0aDogICAgIC91bnN1YnNjcmliZQogICBkZWZhdWx0czogeyBfY29udHJvbGxlcjogUGNjV2ViQnVuZGxlOk5ld3NsZXR0ZXJcTmV3c2xldHRlcjp1blN1YnNjcmliZUN1cnJlbnRVc2VyTmV3c2xldHRlclN1YnNjcmlwdGlvbn0KICAgbWV0aG9kczogW0dFVF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0UGFyYW1ldGVyKCdhY2Nlc3MtdG9rZW4nLCAkZml4ZWRDb25uZWN0aWZUb2tlbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoZXJlIGlzIG5vIHRyYXZlbCB3aXRob3V0IGRlc3RpbnknKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoZXJlIGlzIG5vIHRyYXZlbCB3aXRob3V0IGRlc3RpbnknKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAvLzE2OTEsIHNlZ3Vyb3MgeSBleHRlbnNpb25lcyBkZSBnYXJhbnTDrWEuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
