@@ -112,6 +112,11 @@
         <mark key="^" line="165" column="53" />
         <mark key="." line="165" column="53" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1526997572658">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/newsletter/NewsLetter.php" timestamp="1523361988045">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="34" />
@@ -146,11 +151,11 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1526936158987">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="13" />
-        <mark key="^" line="33" column="13" />
-        <mark key="." line="33" column="13" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1526998137673">
+        <mark key="[" line="70" column="27" />
+        <mark key="]" line="70" column="27" />
+        <mark key="^" line="70" column="27" />
+        <mark key="." line="70" column="27" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/BillingAddressList.js" timestamp="1524823738367">
         <mark key="[" line="14" column="72" />
@@ -285,11 +290,11 @@
         <mark key="." line="38" column="25" />
         <mark key="^" line="38" column="25" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1526465943157">
-        <mark key="[" line="33" column="60" />
-        <mark key="]" line="33" column="61" />
-        <mark key="^" line="33" column="59" />
-        <mark key="." line="33" column="61" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1526997669466">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="31" column="59" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1526560425766">
         <mark key="[" line="30" column="14" />
@@ -561,7 +566,6 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepository.php" timestamp="1526981098722" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetNewsletterSubscription.php" timestamp="1525333506195">
         <mark key="[" line="25" column="55" />
         <mark key="]" line="25" column="68" />
@@ -612,7 +616,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1526985171528" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionStateCmd.php" timestamp="1523443919743">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -667,6 +670,7 @@
         <mark key="^" line="130" column="40" />
         <mark key="." line="130" column="40" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/JsonResponse.php" timestamp="1526997691625" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetCurrentUserNewsletterSubscription/SetNewsletterSubscription.php" timestamp="1525334817317">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="74" />
@@ -788,14 +792,14 @@
       <jump line="564" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>die</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>familia</text>
@@ -804,31 +808,31 @@
         <text encoding="base64">ICAgICAgICAkc3Vic2NyaWJlZCA9ICRyZXF1ZXN0LT5xdWVyeS0+Z2V0KCdzdWJzY3JpYmVkJywgJycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9kdW1wOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcV2ViQnVuZGxlXENvbnRyb2xsZXJcU3RhdGljc1xQcml2YWNpdHlDb250cm9sbGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246Omlzdgo=</text>
+        <text encoding="base64">ICAgICAgICB1cmk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1haWwgPSAK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVtZW50czoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBzdHJpbmcgJHRva2VuICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNTdWJzY3JpYmVkID0gJHJlcXVlc3QtPnF1ZXJ5LT5nZXQoJ3Rva2VuJywgJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246Omlzdgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNTdWJzY3JpYmVkID0gJHJlcXVlc3QtPnF1ZXJ5LT5nZXQoJ3Rva2VuJywgJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZW1haWwgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNTdWJzY3JpYmVkID0gJHJlcXVlc3QtPnF1ZXJ5LT5nZXQoJ3Rva2VuJywgJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
