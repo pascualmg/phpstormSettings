@@ -146,6 +146,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1527012624670">
+        <mark key="[" line="74" column="40" />
+        <mark key="]" line="74" column="55" />
+        <mark key="." line="74" column="55" />
+        <mark key="^" line="74" column="55" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/cn_refresh_cart.test.js" timestamp="1526034736298">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="49" />
@@ -182,6 +188,12 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.functional.test.js" timestamp="1527013121876">
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="62" column="34" />
+        <mark key="." line="62" column="34" />
+        <mark key="^" line="62" column="34" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Cart/cart-detail.html.twig" timestamp="1525725487738">
         <mark key="[" line="160" column="55" />
@@ -608,7 +620,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/ThirdPartyStatus/ThirdPartyStatusRepository.php" timestamp="1527002691696" />
-      <file name="/Dummy.txt" timestamp="1527006245903">
+      <file name="/Dummy.txt" timestamp="1527012372017">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -804,40 +816,40 @@
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>se pasan los test funcionales al .spec</text>
       </register>
       <register name="/" type="4">
         <text>string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIGNoYXVyb24yU3Vic2NyaWJlTmV3c2xldHRlciA9IHsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdTdGFyZ2F0ZS9TdGFyZ2F0ZS5qcyd8IGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgLm1hcChmdW5jdGlvbiAoaXRlbSkgewogICAgICAgIHJldHVybiBpdGVtLmRhdGU7CiAgICAgIH0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0cnVlKS50b0JlKHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZXN0KCdTZSBwdWVkZSBpbnZvY2FyIGNvbiB1biBuZXcnLCBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ1N0YXJnYXRlJywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9FbiBlc3RvcyAyIGVqZW1wbG9zICwgMiBjaGF1cm9ucyAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8qKgogKiBUT0RPOiBxdWl0YXIgZXN0byBkZSBsYSB3aW5kb3cgLCBlcyBzb2xvIHBhcmEgZGVtb3N0cmFjacOzbiB5IHRlc3Rlby4KICovCndpbmRvdy50ZXN0U3RhcmdhdGUgPSBmdW5jdGlvbiB0ZXN0U3RhcmdhdGUodGVzdFVyaSkgewogIHZhciBjaGF1cm9uID0gewogICAgdXJpOiB0ZXN0VXJpIHx8ICJhcnRpY2xlcyIsCiAgICBtZXRob2Q6ICJHRVQiLAogICAgcGFyYW1zOiBbXQogIH07CgogIGZ1bmN0aW9uIGNhbGxiYWNrTWFwRmlsdGVyUmVkdWNlcihzdGFyR2F0ZVJlc3BvbnNlKSB7CiAgICB2YXIgcmVzdWx0ID0gc3RhckdhdGVSZXNwb25zZS5pbnRlcm5hbFJlc3BvbnNlOwogICAgdmFyIGVycm9yID0gc3RhckdhdGVSZXNwb25zZS5pbnRlcm5hbEVycm9yOwoKICAgIGNvbnNvbGUubG9nKCdyZXN1bHQ6ICcsIHJlc3VsdCk7Ly9UT0RPOiBib3JyYW1lLgogICAgY29uc29sZS5sb2coJ2Vycm9yOiAnLCBlcnJvcik7Ly9UT0RPOiBib3JyYW1lLgogIH07CgogIChuZXcgU3RhcmdhdGUoKSkudHJhdmVsKGNoYXVyb24sIGNhbGxiYWNrTWFwRmlsdGVyUmVkdWNlcik7CiAgcmV0dXJuICJTdGFyZ2F0ZSBUcmF2ZWwgaW5pdGlhdGVkIHRvICIgKyBKU09OLnN0cmluZ2lmeShjaGF1cm9uKTsKfTsKCnZhciBjaGF1cm9uMkRlc3VzY3JpYmVOZXdzbGV0dGVyID0gewogIHVyaTogInVzZXIvY29uZGl0aW9ucyIsCiAgbWV0aG9kOiAiUE9TVCIsCiAgcGFyYW1zOiB7CiAgICAnYWNjZXNzLXRva2VuJzogIlpXTmtPR1l4T1RReE9HRmlOMlF4WkRCaE16STFZekJrWTJVNU9UazNObVl3WldGa01HWXlZamN5T0dVMVpqa3pZVFZpWm1aaU9EWTNaR05sTlRjMFlRIiwKICAgIGVtYWlsOiAicGFzY3VhbC5tdW5vekBwY2NvbXBvbmVudGVzLmNvbSIsCiAgICBzdWJzY3JpYmVkOiAiZmFsc2UiLAogICAgaXA6ICIxMjMuMTIzLjEyMy4xMjMiLAogICAgdHlwZTogMQogIH0KfTsKdmFyIGNoYXVyb24yU3Vic2NyaWJlTmV3c2xldHRlciA9IHsKICB1cmk6ICJ1c2VyL2NvbmRpdGlvbnMiLAogIG1ldGhvZDogIlBPU1QiLAogIHBhcmFtczogewogICAgJ2FjY2Vzcy10b2tlbic6ICJaV05rT0dZeE9UUXhPR0ZpTjJReFpEQmhNekkxWXpCa1kyVTVPVGszTm1Zd1pXRmtNR1l5WWpjeU9HVTFaamt6WVRWaVptWmlPRFkzWkdObE5UYzBZUSIsCiAgICBlbWFpbDogInBhc2N1YWwubXVub3pAcGNjb21wb25lbnRlcy5jb20iLAogICAgc3Vic2NyaWJlZDogInRydWUiLAogICAgaXA6ICIxMjMuMTIzLjEyMy4xMjMiLAogICAgdHlwZTogMQogIH0KfTsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
