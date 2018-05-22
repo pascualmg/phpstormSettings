@@ -613,7 +613,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1526981232459" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/PccomPrivateApiSubscriptionRepositorySecurized.php" timestamp="1526982120053">
+        <mark key="[" line="93" column="73" />
+        <mark key="]" line="93" column="73" />
+        <mark key="." line="93" column="73" />
+        <mark key="^" line="93" column="72" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/getNewsletterSubscriptionStateCmd.php" timestamp="1523443919743">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -797,20 +802,20 @@
       <jump line="564" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fromIP</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fromIP</text>
       </register>
       <register name="/" type="4">
         <text>familia</text>
       </register>
-      <register name="0" type="4">
-        <text>1689</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0UGFyYW1ldGVyKCdpcCcsICRmcm9tSVApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
