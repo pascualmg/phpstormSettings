@@ -37,5 +37,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="rxjs.umd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_rxjs@6.2.0_bundles_rxjs.umd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_rxjs@6.2.0_bundles_rxjs.umd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
