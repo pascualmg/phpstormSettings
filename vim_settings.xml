@@ -56,12 +56,12 @@
         <mark key="." line="74" column="55" />
         <mark key="^" line="74" column="55" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1527026745098">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1527059468944">
         <mark key="'" line="58" column="17" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="43" column="3" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.functional.test.js" timestamp="1527027025777">
         <mark key="'" line="70" column="38" />
@@ -96,7 +96,7 @@
       <file name="/fragment.php" timestamp="1527003206596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1527027685972">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1527059454151">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -148,8 +148,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/ThirdPartyStatus/ThirdPartyStatusRepository.php" timestamp="1527002691696" />
-      <file name="/Dummy.txt" timestamp="1527029687954">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1527059483605">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -265,14 +265,14 @@
       <jump line="70" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.functional.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndHJhdmVsIHJlc3VsdDogJywgdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>incluido asset del funcional test y comentado para activar/desactivar en la demo</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>incluido asset del funcional test y comentado para activar/desactivar en la demo</text>
       </register>
       <register name="/" type="4">
         <text>string</text>
