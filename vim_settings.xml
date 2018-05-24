@@ -126,11 +126,12 @@
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1527085457137">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="90" column="3" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1527159606480">
+        <mark key="'" line="285" column="0" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/cn_refresh_cart.test.js" timestamp="1526034736298">
         <mark key="[" line="3" column="0" />
@@ -272,7 +273,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1527029791884" />
+      <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1527158898489">
+        <mark key="[" line="68" column="3" />
+        <mark key="]" line="68" column="3" />
+        <mark key="^" line="66" column="27" />
+        <mark key="." line="68" column="3" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetCurrentUserNewsletterSubscription/SetCurrentUserNewsletterSubscription.php" timestamp="1525359879737">
         <mark key="[" line="35" column="58" />
         <mark key="]" line="35" column="84" />
@@ -615,6 +621,12 @@
         <mark key="^" line="91" column="21" />
         <mark key="." line="91" column="21" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/webpack.config.js" timestamp="1527159311809">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+      </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/billing-address-form.js" timestamp="1524825979577">
         <mark key="[" line="18" column="65" />
         <mark key="]" line="18" column="70" />
@@ -643,7 +655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="55" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="171" column="1" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="173" column="58" filename="$USER_HOME$/src/pccfront/yarn.lock" />
       <jump line="175" column="14" filename="$USER_HOME$/src/pccfront/yarn.lock" />
@@ -743,58 +754,59 @@
       <jump line="29" column="73" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
       <jump line="38" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
       <jump line="49" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
+      <jump line="283" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hpcs</text>
+        <text>v</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>hpcs</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>ass</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgJGlzU3VjY2VzcyA9ICR0aGlzLT5zZXROZXdzTGV0dGVyU3RhdHVzV2l0aENvbm5lY3RpZigkcmVxdWVzdCwgdHJ1ZSk7CiAgICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoJGlzU3VjY2Vzcyk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdjb21tb24vcGNjLmNvcmUuanMnfGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBib29sICR3YW50VG9TdWJzY3JpYmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICJwYXRoIjogIl4wLjEyLjciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">Ly8gICAgImJ1aWxkIjogImd1bHAgYnVpbGQgLS1ndWxwZmlsZSAuL2Jpbi9ndWxwZmlsZS5qcyAmJiB3ZWJwYWNrIC0tbW9kZT1kZXZlbG9wbWVudCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gSnNvblJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLWNsaSI6ICJeMi4xLjQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICJkZXBlbmRlbmNpZXMiOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIndlYnBhY2siOiAiXjQuOC4zIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>ass</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>ass</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -802,7 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>redi</entry>
         <entry>dev</entry>
         <entry>consol</entry>
         <entry>entity</entry>
@@ -822,6 +833,7 @@
         <entry>string</entry>
         <entry>gate</entry>
         <entry>name</entry>
+        <entry>ass</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
