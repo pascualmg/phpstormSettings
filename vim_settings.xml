@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" timestamp="1527164529686">
+        <mark key="'" line="108" column="4" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/usecase/sync-client-info.js" timestamp="1523272389239">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="42" />
@@ -127,11 +130,7 @@
         <mark key="^" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1527161811368">
-        <mark key="'" line="285" column="0" />
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="32" column="42" />
-        <mark key="." line="32" column="42" />
-        <mark key="^" line="32" column="39" />
+        <mark key="'" line="283" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/cn_refresh_cart.test.js" timestamp="1526034736298">
         <mark key="[" line="3" column="0" />
@@ -219,6 +218,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="20" column="21" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Common/HeaderController.php" timestamp="1527165060147">
+        <mark key="[" line="118" column="40" />
+        <mark key="]" line="118" column="40" />
+        <mark key="." line="118" column="40" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Botonico.js" timestamp="1522830328757">
         <mark key="[" line="6" column="1" />
@@ -340,7 +344,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1525267973896">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1527164788642">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="71" />
@@ -653,18 +657,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="34" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_ajax_nc.yml" timestamp="1527164552371">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="1" filename="$USER_HOME$/src/pccfront/yarn.lock" />
-      <jump line="173" column="58" filename="$USER_HOME$/src/pccfront/yarn.lock" />
-      <jump line="175" column="14" filename="$USER_HOME$/src/pccfront/yarn.lock" />
-      <jump line="177" column="50" filename="$USER_HOME$/src/pccfront/yarn.lock" />
-      <jump line="179" column="1" filename="$USER_HOME$/src/pccfront/yarn.lock" />
-      <jump line="181" column="50" filename="$USER_HOME$/src/pccfront/yarn.lock" />
-      <jump line="37" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
-      <jump line="429" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/User/Panel/UserPanelManager.php" />
-      <jump line="1695" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
-      <jump line="23" column="55" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="64" column="68" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
       <jump line="805" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="39" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
@@ -755,58 +752,68 @@
       <jump line="38" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
       <jump line="49" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
       <jump line="283" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="49" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="55" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="62" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="78" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="84" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="90" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="96" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="102" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="108" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_ajax_nc.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>ass</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdjb21tb24vcGNjLmNvcmUuanMnfGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb25uZWN0aWZVc2VyRGF0YScgPT4gJHRoaXMtPmdldCgncGNjLmFwcGxpY2F0aW9uLmNvbm5lY3RpZi5nZXRfY29ubmVjdGlmX3VzZXJfZGF0YV9zZXJ2aWNlJyktPmV4ZWN1dGUoJHVzZXItPmdldEVtYWlsKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJwYXRoIjogIl4wLjEyLjciCg==</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgImJ1aWxkIjogImd1bHAgYnVpbGQgLS1ndWxwZmlsZSAuL2Jpbi9ndWxwZmlsZS5qcyAmJiB3ZWJwYWNrIC0tbW9kZT1kZXZlbG9wbWVudCIsCg==</text>
+        <text encoding="base64">ICAgICJwYXRoIjogIl4wLjEyLjciCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Ly8gICAgImJ1aWxkIjogImd1bHAgYnVpbGQgLS1ndWxwZmlsZSAuL2Jpbi9ndWxwZmlsZS5qcyAmJiB3ZWJwYWNrIC0tbW9kZT1kZXZlbG9wbWVudCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrLWNsaSI6ICJeMi4xLjQiCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJkZXBlbmRlbmNpZXMiOiB7Cg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLWNsaSI6ICJeMi4xLjQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIndlYnBhY2siOiAiXjQuOC4zIgo=</text>
+        <text encoding="base64">ICAgICJkZXBlbmRlbmNpZXMiOiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ass</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>ass</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -814,8 +821,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dev</entry>
-        <entry>consol</entry>
         <entry>entity</entry>
         <entry>setEnt</entry>
         <entry>subscri</entry>
@@ -834,6 +839,8 @@
         <entry>gate</entry>
         <entry>name</entry>
         <entry>ass</entry>
+        <entry>ajax_nc_user</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
