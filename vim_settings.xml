@@ -368,6 +368,13 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1527244770642">
+        <mark key="'" line="1342" column="47" />
+        <mark key="[" line="359" column="62" />
+        <mark key="]" line="549" column="41" />
+        <mark key="^" line="549" column="41" />
+        <mark key="." line="549" column="41" />
+      </file>
       <file name="$USER_HOME$/src/reactivo/src/.jshintrc" timestamp="1522960688044">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="15" />
@@ -392,6 +399,7 @@
         <mark key="^" line="51" column="51" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/SalesManago/SalesManagoContactUpsert.php" timestamp="1527243682595" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1526912649083">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -536,7 +544,7 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
-      <file name="/PHP Console" timestamp="1527237045713">
+      <file name="/PHP Console" timestamp="1527245250982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Photo.js" timestamp="1523292454989">
@@ -557,6 +565,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Model/SalesManago/SalesManagoManager/SalesManagoContactUpsert.php" timestamp="1527245325908" />
       <file name="/Dummy.txt" timestamp="1527145333112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -652,9 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="68" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="805" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
-      <jump line="39" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
       <jump line="84" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/spotfront.xml.twig" />
       <jump line="26" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
@@ -752,6 +758,9 @@
       <jump line="102" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
       <jump line="108" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_ajax_nc.yml" />
+      <jump line="363" column="54" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
+      <jump line="549" column="42" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
+      <jump line="1342" column="47" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -764,7 +773,7 @@
         <text>gaApi.js</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>pcc_salesmanago_con</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdjb21tb24vcGNjLmNvcmUuanMnfGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
@@ -801,9 +810,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>pcc_salesmanago_con</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>pcc_salesmanago_con</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -811,7 +820,6 @@
     </search>
     <history>
       <history-search>
-        <entry>entity</entry>
         <entry>setEnt</entry>
         <entry>subscri</entry>
         <entry>sendData</entry>
@@ -831,6 +839,7 @@
         <entry>ass</entry>
         <entry>ajax_nc_user</entry>
         <entry>user</entry>
+        <entry>pcc_salesmanago_con</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
