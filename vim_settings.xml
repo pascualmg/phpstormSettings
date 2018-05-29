@@ -476,12 +476,12 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1527590438175">
-        <mark key="'" line="253" column="28" />
-        <mark key="[" line="1362" column="27" />
-        <mark key="]" line="1362" column="38" />
-        <mark key="^" line="1362" column="38" />
-        <mark key="." line="1362" column="38" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1527593502921">
+        <mark key="'" line="1401" column="0" />
+        <mark key="[" line="1358" column="26" />
+        <mark key="]" line="1358" column="37" />
+        <mark key="^" line="1358" column="37" />
+        <mark key="." line="1358" column="37" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/.jshintrc" timestamp="1522960688044">
         <mark key="[" line="1" column="13" />
@@ -688,7 +688,7 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
-      <file name="/PHP Console" timestamp="1527590657327">
+      <file name="/PHP Console" timestamp="1527593223503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Photo.js" timestamp="1523292454989">
@@ -717,7 +717,7 @@
       <file name="/dummy.sql" timestamp="1527533181342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527590444193">
+      <file name="/Dummy.txt" timestamp="1527593507173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -752,6 +752,7 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Newsletter/NewsletterController.php" timestamp="1527592718044" />
       <file name="$USER_HOME$/src/jsmoke/src/core/Conexion.js" timestamp="1527537591403">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -822,8 +823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="58" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
-      <jump line="69" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="83" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="141" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="169" column="58" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
@@ -922,16 +921,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="251" column="60" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="253" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
+      <jump line="32" column="45" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
+      <jump line="1401" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBEZSBkb25kZSBleHRyYWVtb3MgZWwgbWFpbCBhY3R1YWwgeSBsYSBpcCAu</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBEZSBkb25kZSBleHRyYWVtb3MgZWwgbWFpbCBhY3R1YWwgeSBsYSBpcCAu</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -940,31 +941,31 @@
         <text encoding="base64">ICAvL2hhY2Vtb3MgdW5hIHF1ZXJ5LgogICAgZGIuZWFjaCgiU0VMRUNUIHJvd2lkIEFTIGlkICwgaW5mbyBGUk9NIHBydWViYSIsIGZ1bmN0aW9uIChlcnIsIHJvdykgewogICAgICAgIHJldHVybiBhcnIucHVzaChyb3cpOwogICAgfSk7CiAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaXAgPSAkcmVxdWVzdC0+Z2V0Q2xpZW50SXAoKTsK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0TmV3c0xldHRlclN0YXR1c1dpdGhDb25uZWN0aWYoJHJlcXVlc3QsICR3YW50VG9TdWJzY3JpYmUpCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0TmV3c0xldHRlclN0YXR1c1dpdGhDb25uZWN0aWYoJHJlcXVlc3QsICR3YW50VG9TdWJzY3JpYmUpCg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBib29sICAgICR3YW50VG9TdWJzY3JpYmUgaW5kaWNhIHNpIGhheSBxdWUgc3VzY3JpYmlyIG8gZGVzdXNjcmliaXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgbGV0ICB0ZXN0ZWEgPSB0ZXN0ZWEudGVzdGVhOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0ICAgICAgICAgRGUgZG9uZGUgZXh0cmFlbW9zIGVsIG1haWwgYWN0dWFsIHkgbGEgaXAgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyICB0ZXN0ZWEgPSB0ZXN0ZWEudGVzdGVhOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0b2RvIFJlZmFjdG9yaXphciBlbiB1biBjYXNvIGRlIHVzbyBjb24gbWlzbW8gbm9tYnJlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRlc3RlYSBmcm9tICcuL2NvcmUvQ29uZXhpb25FeGFtcGxlLmpzJzsK</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcV2ViQnVuZGxlXFNlY3VyaXR5XFVzZXJcT0F1dGhMb2dpblJlcXVlc3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcV2ViQnVuZGxlXFNlY3VyaXR5XFVzZXJcUENVc2VyUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbmZpZ1xEZWZpbml0aW9uXEV4Y2VwdGlvblxFeGNlcHRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
