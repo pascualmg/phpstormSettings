@@ -207,11 +207,11 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/src/jsmoke/src/index.js" timestamp="1527541742283">
-        <mark key="[" line="6" column="60" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/src/jsmoke/src/index.js" timestamp="1527552186056">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infraestructure/Persistence/NewsLetter.php" timestamp="1523363880506">
         <mark key="[" line="1" column="41" />
@@ -279,6 +279,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/jsmoke/node_modules/sqlite3/lib/sqlite3.js" timestamp="1527549453215" />
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/store/reducers-billing-address-form.js" timestamp="1524825735957">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -290,11 +291,11 @@
         <mark key="]" line="118" column="40" />
         <mark key="." line="118" column="40" />
       </file>
-      <file name="$USER_HOME$/src/jsmoke/src/core/ConexionExample.js" timestamp="1527542695952">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="34" />
-        <mark key="^" line="20" column="34" />
-        <mark key="." line="20" column="34" />
+      <file name="$USER_HOME$/src/jsmoke/src/core/ConexionExample.js" timestamp="1527551747093">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/MockedPccomApiSubscriptionRepository.php" timestamp="1525361333854">
         <mark key="[" line="12" column="0" />
@@ -466,7 +467,11 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/src/jsmoke/dist/index.js" timestamp="1527541765956" />
+      <file name="$USER_HOME$/src/jsmoke/dist/index.js" timestamp="1527551225522">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1527164788642">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -608,10 +613,10 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/src/jsmoke/dist/core/ConexionExample.js" timestamp="1527543089914">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/src/jsmoke/dist/core/ConexionExample.js" timestamp="1527552202247">
+        <mark key="[" line="40" column="7" />
+        <mark key="]" line="40" column="7" />
+        <mark key="." line="40" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/getConnectifUserData.php" timestamp="1521829726525">
         <mark key="[" line="21" column="5" />
@@ -946,13 +951,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgbGV0ICB0ZXN0ZWEgPSB0ZXN0ZWEudGVzdGVhOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>starga</text>
@@ -961,28 +966,28 @@
         <text encoding="base64">ICAvL2hhY2Vtb3MgdW5hIHF1ZXJ5LgogICAgZGIuZWFjaCgiU0VMRUNUIHJvd2lkIEFTIGlkICwgaW5mbyBGUk9NIHBydWViYSIsIGZ1bmN0aW9uIChlcnIsIHJvdykgewogICAgICAgIHJldHVybiBhcnIucHVzaChyb3cpOwogICAgfSk7CiAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgbGV0ICB0ZXN0ZWEgPSB0ZXN0ZWEudGVzdGVhOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2VuZXJhdGVKc29uKHJvdyl7CiAgICAK</text>
+        <text encoding="base64">dmFyICB0ZXN0ZWEgPSB0ZXN0ZWEudGVzdGVhOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">aW1wb3J0IHRlc3RlYSBmcm9tICcuL2NvcmUvQ29uZXhpb25FeGFtcGxlLmpzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcGludGFyRWxDYihyb3cpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IGNvbnNvbGUubG9nKCdjbGFzZmsnLCApOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGFsc2RqZmxrYWoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyLnB1c2gocm93KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
