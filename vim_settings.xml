@@ -501,6 +501,11 @@
         <mark key="^" line="51" column="51" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/index-deal.html.twig" timestamp="1527669667249">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/GetNewsletterSubscriptionState.php" timestamp="1526912649083">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -918,8 +923,8 @@
       <jump line="1401" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyN7J25hbWUnOiAnZGlzY291bnQnLCAndGV4dCcgOiAnaW5kZXguZGVhbC5kZXNjdWVudG8nfCB0cmFucyB9I30K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -928,46 +933,46 @@
         <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text>deals_orders</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAvL2hhY2Vtb3MgdW5hIHF1ZXJ5LgogICAgZGIuZWFjaCgiU0VMRUNUIHJvd2lkIEFTIGlkICwgaW5mbyBGUk9NIHBydWViYSIsIGZ1bmN0aW9uIChlcnIsIHJvdykgewogICAgICAgIHJldHVybiBhcnIucHVzaChyb3cpOwogICAgfSk7CiAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyN7J25hbWUnOiAnZGlzY291bnQnLCAndGV4dCcgOiAnaW5kZXguZGVhbC5kZXNjdWVudG8nfCB0cmFucyB9I30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyN7J25hbWUnOiAnbmV3JywgJ3RleHQnIDogJ2luZGV4LmRlYWwubnVldm9zJ3wgdHJhbnMgfSwjfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBib29sICAgICR3YW50VG9TdWJzY3JpYmUgaW5kaWNhIHNpIGhheSBxdWUgc3VzY3JpYmlyIG8gZGVzdXNjcmliaXIuCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0ICAgICAgICAgRGUgZG9uZGUgZXh0cmFlbW9zIGVsIG1haWwgYWN0dWFsIHkgbGEgaXAgLgo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEB0b2RvIFJlZmFjdG9yaXphciBlbiB1biBjYXNvIGRlIHVzbyBjb24gbWlzbW8gbm9tYnJlLgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBib29sICAgICR3YW50VG9TdWJzY3JpYmUgaW5kaWNhIHNpIGhheSBxdWUgc3VzY3JpYmlyIG8gZGVzdXNjcmliaXIuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcV2ViQnVuZGxlXFNlY3VyaXR5XFVzZXJcT0F1dGhMb2dpblJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0ICAgICAgICAgRGUgZG9uZGUgZXh0cmFlbW9zIGVsIG1haWwgYWN0dWFsIHkgbGEgaXAgLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcV2ViQnVuZGxlXFNlY3VyaXR5XFVzZXJcUENVc2VyUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0b2RvIFJlZmFjdG9yaXphciBlbiB1biBjYXNvIGRlIHVzbyBjb24gbWlzbW8gbm9tYnJlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbmZpZ1xEZWZpbml0aW9uXEV4Y2VwdGlvblxFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcV2ViQnVuZGxlXFNlY3VyaXR5XFVzZXJcT0F1dGhMb2dpblJlcXVlc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search>deals_orders</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern>deals_orders</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -975,7 +980,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sendRe</entry>
         <entry>harco</entry>
         <entry>test</entry>
         <entry>package</entry>
@@ -995,6 +999,7 @@
         <entry>optin</entry>
         <entry>starga</entry>
         <entry>redis</entry>
+        <entry>deals_orders</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
