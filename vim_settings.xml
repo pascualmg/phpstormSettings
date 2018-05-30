@@ -186,11 +186,11 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/src/jsmoke/src/index.js" timestamp="1527672453235">
-        <mark key="[" line="18" column="84" />
-        <mark key="]" line="18" column="96" />
-        <mark key="^" line="18" column="96" />
-        <mark key="." line="18" column="96" />
+      <file name="$USER_HOME$/src/jsmoke/src/index.js" timestamp="1527674768600">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infraestructure/Persistence/NewsLetter.php" timestamp="1523363880506">
         <mark key="[" line="1" column="41" />
@@ -261,6 +261,12 @@
         <mark key="[" line="118" column="40" />
         <mark key="]" line="118" column="40" />
         <mark key="." line="118" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/jsmoke/src/core/ConexionExample.js" timestamp="1527675033549">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/MockedPccomApiSubscriptionRepository.php" timestamp="1525361333854">
         <mark key="[" line="12" column="0" />
@@ -580,6 +586,9 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="vm:195" timestamp="1527674240187">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/NewsLetterSubscription.php" timestamp="1523480986069">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="35" />
@@ -689,7 +698,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1527542915556">
+      <file name="/JavaScript Console" timestamp="1527674144077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="1" />
         <mark key="^" line="1" column="1" />
@@ -917,46 +926,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.Pedro Lopez es guay.</text>
+        <text>ach</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>.Pedro Lopez es guay.</text>
+        <text>ach</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAvL2hhY2Vtb3MgdW5hIHF1ZXJ5LgogICAgZGIuZWFjaCgiU0VMRUNUIHJvd2lkIEFTIGlkICwgaW5mbyBGUk9NIHBydWViYSIsIGZ1bmN0aW9uIChlcnIsIHJvdykgewogICAgICAgIHJldHVybiBhcnIucHVzaChyb3cpOwogICAgfSk7CiAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKCdkb25lQ2FsbGJhY2s6ICcsIGl0ZW0gKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ2Rpc2NvdW50JywgJ3RleHQnIDogJ2luZGV4LmRlYWwuZGVzY3VlbnRvJ3wgdHJhbnMgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb3V0cHV0ICcsIGRiLmNsb3NlKCkpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ25ldycsICd0ZXh0JyA6ICdpbmRleC5kZWFsLm51ZXZvcyd8IHRyYW5zIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB9ICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ2Rpc2NvdW50JywgJ3RleHQnIDogJ2luZGV4LmRlYWwuZGVzY3VlbnRvJ3wgdHJhbnMgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ25ldycsICd0ZXh0JyA6ICdpbmRleC5kZWFsLm51ZXZvcyd8IHRyYW5zIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyN7J25hbWUnOiAnZGlzY291bnQnLCAndGV4dCcgOiAnaW5kZXguZGVhbC5kZXNjdWVudG8nfCB0cmFucyB9I30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9uZUNhbGxiYWNrKCdyZXN1bHQgZXMnICwgcmVzdWx0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyN7J25hbWUnOiAnbmV3JywgJ3RleHQnIDogJ2luZGV4LmRlYWwubnVldm9zJ3wgdHJhbnMgfSwjfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBbXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ2Rpc2NvdW50JywgJ3RleHQnIDogJ2luZGV4LmRlYWwuZGVzY3VlbnRvJ3wgdHJhbnMgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ25ldycsICd0ZXh0JyA6ICdpbmRleC5kZWFsLm51ZXZvcyd8IHRyYW5zIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
