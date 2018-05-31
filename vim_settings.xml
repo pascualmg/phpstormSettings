@@ -408,11 +408,11 @@
       <file name="_http_common.js" timestamp="1527447279678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Stargate/StargateTest.php" timestamp="1527798983502">
-        <mark key="[" line="56" column="57" />
-        <mark key="]" line="57" column="11" />
-        <mark key="^" line="57" column="11" />
-        <mark key="." line="57" column="11" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Stargate/StargateTest.php" timestamp="1527799898961">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="78" column="21" />
+        <mark key="^" line="78" column="21" />
+        <mark key="." line="78" column="21" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetCurrentUserNewsletterSubscription/setNewsLetterSubscriptionCmd.php" timestamp="1525335019569">
         <mark key="[" line="10" column="9" />
@@ -965,29 +965,29 @@
       <jump line="23" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3siaW50ZXJuYWxFcnJvciI6e30sImludGVybmFsUmVzcG9uc2UiOiIifScsCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
       </register>
       <register name="0" type="4">
-        <text>new MockedApicaller(&quot;&quot;);</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdpdmVuV2hpdGVMaXN0ZWRVcmlXaGVuVHJhdmVsVGhlbklHZXRSZXNwb25zZSgpCiAgICB7CiAgICAgICAgJHN0YXJHYXRlID0gbmV3IFN0YXJnYXRlKG5ldyBNb2NrZWRBcGljYWxsZXIoIiIpKTsKCiAgICAgICAgbmV3IE1vY2tlZEFwaWNhbGxlcigiIik7CiAgICAgICAgJGFjdHVhbCA9ICRzdGFyR2F0ZS0+ZXhlY3V0ZSgKICAgICAgICAgICAgbmV3IFN0YXJnYXRlQ29tbWFuZCgKLy8gICAgICAgICAgICAgICAgImFydGljbGVzLzMxMDQ2IiwKICAgICAgICAgICAgICAgICJ1c2VyLzMxMDQ2L2dldGVtYWlsIiwKICAgICAgICAgICAgICAgIFtdLAogICAgICAgICAgICAgICAgIkdFVCIsCiAgICAgICAgICAgICAgICAncHJvZCcKICAgICAgICAgICAgKQogICAgICAgICk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygKICAgICAgICAgICAgJ3siaW50ZXJuYWxFcnJvciI6e30sImludGVybmFsUmVzcG9uc2UiOiIifScsCiAgICAgICAgICAgIGpzb25fZW5jb2RlKCRhY3R1YWwpKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3siaW50ZXJuYWxFcnJvciI6e30sImludGVybmFsUmVzcG9uc2UiOiIifScsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgImFydGljbGVzLzMxMDQ2IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgImFydGljbGVzLzMxMDQ2IiwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -996,16 +996,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
