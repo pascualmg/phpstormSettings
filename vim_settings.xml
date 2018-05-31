@@ -29,11 +29,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1527788329934">
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="62" column="25" />
-        <mark key="." line="62" column="25" />
-        <mark key="^" line="62" column="25" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1527790192897">
+        <mark key="[" line="172" column="30" />
+        <mark key="]" line="173" column="27" />
+        <mark key="." line="173" column="27" />
+        <mark key="^" line="173" column="27" />
       </file>
       <file name="$USER_HOME$/temp/levitaprueba/index.js" timestamp="1525290673791">
         <mark key="[" line="0" column="0" />
@@ -337,7 +337,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1527247681240">
+      <file name="/fragment.php" timestamp="1527789141084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="16" />
@@ -402,11 +402,11 @@
       <file name="_http_common.js" timestamp="1527447279678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Stargate/StargateTest.php" timestamp="1527788554652">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="42" column="48" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Stargate/StargateTest.php" timestamp="1527792950420">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="40" column="73" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetCurrentUserNewsletterSubscription/setNewsLetterSubscriptionCmd.php" timestamp="1525335019569">
         <mark key="[" line="10" column="9" />
@@ -541,11 +541,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" timestamp="1527788272818">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="18" column="2" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" timestamp="1527792702578">
+        <mark key="'" line="42" column="28" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1526940296487">
         <mark key="[" line="0" column="0" />
@@ -751,8 +751,8 @@
       <file name="/dummy.sql" timestamp="1527533181342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527788245021">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1527792564264">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -856,8 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
-      <jump line="141" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="169" column="58" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="227" column="42" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="257" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
@@ -956,6 +954,8 @@
       <jump line="253" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="32" column="45" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
       <jump line="1401" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
+      <jump line="73" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" />
+      <jump line="42" column="28" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -965,40 +965,40 @@
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>$actual</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVSZXF1ZXN0QnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBpY2FsbGVyID0gbmV3IG1vY2tlZFBjY0FwaWNhbGxlcigiIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly90b2RvOiBtb2tlYW1lIHNpIHB1ZWRlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbWFrZVJlcXVlc3QoKSBtZXRob2QuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBtYWtlUmVxdWVzdChSZXF1ZXN0QnVpbGRlciAkcmVxdWVzdEJ1aWxkZXIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X19jb25zdHJ1Y3QoKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY3JlYXRlUmVxdWVzdEJ1aWxkZXIoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
