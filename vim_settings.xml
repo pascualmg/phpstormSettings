@@ -29,11 +29,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1527797002893">
-        <mark key="[" line="172" column="22" />
-        <mark key="]" line="172" column="22" />
-        <mark key="." line="172" column="22" />
-        <mark key="^" line="172" column="22" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1527799151596">
+        <mark key="[" line="163" column="6" />
+        <mark key="]" line="163" column="6" />
+        <mark key="." line="163" column="6" />
+        <mark key="^" line="163" column="6" />
       </file>
       <file name="$USER_HOME$/temp/levitaprueba/index.js" timestamp="1525290673791">
         <mark key="[" line="0" column="0" />
@@ -408,11 +408,11 @@
       <file name="_http_common.js" timestamp="1527447279678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Stargate/StargateTest.php" timestamp="1527795707671">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="59" column="1" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Stargate/StargateTest.php" timestamp="1527798983502">
+        <mark key="[" line="56" column="57" />
+        <mark key="]" line="57" column="11" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="57" column="11" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetCurrentUserNewsletterSubscription/setNewsLetterSubscriptionCmd.php" timestamp="1525335019569">
         <mark key="[" line="10" column="9" />
@@ -758,8 +758,8 @@
       <file name="/dummy.sql" timestamp="1527533181342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527797177612">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1527799155628">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -966,19 +966,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mas phpcsabsurdo</text>
+        <text>*</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>mas phpcsabsurdo</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gc3RkQ2xhc3MK</text>
+      <register name="0" type="4">
+        <text>new MockedApicaller(&quot;&quot;);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
