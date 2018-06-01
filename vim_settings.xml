@@ -29,11 +29,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1527802671285">
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="33" column="18" />
-        <mark key="." line="33" column="18" />
-        <mark key="^" line="43" column="5" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1527841238914">
+        <mark key="[" line="106" column="50" />
+        <mark key="]" line="106" column="61" />
+        <mark key="." line="106" column="61" />
+        <mark key="^" line="106" column="61" />
       </file>
       <file name="$USER_HOME$/temp/levitaprueba/index.js" timestamp="1525290673791">
         <mark key="[" line="0" column="0" />
@@ -103,11 +103,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527803952512">
-        <mark key="[" line="35" column="79" />
-        <mark key="]" line="36" column="63" />
-        <mark key="^" line="36" column="63" />
-        <mark key="." line="36" column="63" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
+        <mark key="[" line="137" column="36" />
+        <mark key="]" line="137" column="36" />
+        <mark key="^" line="132" column="20" />
+        <mark key="." line="137" column="36" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/feedBase.xml.twig" timestamp="1526886670628">
         <mark key="[" line="9" column="13" />
@@ -180,6 +180,7 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Util/PccApiCaller/RequestBuilder/PcRequest.php" timestamp="1527841193340" />
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/BillingAddressList.js" timestamp="1524823738367">
         <mark key="[" line="14" column="72" />
         <mark key="]" line="14" column="83" />
@@ -303,9 +304,6 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1527587836200">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/NewsLetterService.php" timestamp="1523442991796">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="14" column="3" />
@@ -408,11 +406,11 @@
       <file name="_http_common.js" timestamp="1527447279678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Stargate/StargateTest.php" timestamp="1527805875318">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="206" column="180" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Application/Stargate/StargateTest.php" timestamp="1527841373379">
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+        <mark key="^" line="273" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/newsletter/SetCurrentUserNewsletterSubscription/setNewsLetterSubscriptionCmd.php" timestamp="1525335019569">
         <mark key="[" line="10" column="9" />
@@ -758,7 +756,7 @@
       <file name="/dummy.sql" timestamp="1527533181342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527805098864">
+      <file name="/Dummy.txt" timestamp="1527841381963">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -965,27 +963,28 @@
       <jump line="23" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogRG9jdW1lbnRhY2nDs246IDg9PUQK</text>
+      <register name="&quot;" type="4">
+        <text>implementados métodos sendPut, sendPatch, sendDelete 
++test 100%</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>``'{&quot;internalError&quot;:{&quot;message&quot;:&quot;para mokear la respuesta pasa un copypaste del Json de la real en el constructor o algo que no sea null&quot;,&quot;exceptionType&quot;:&quot;Exception&quot;,&quot;file&quot;:&quot;\/Users\/passh\/src\/pccfront\/src\/Pcc\/Test\/Infrastructure\/MockedApicaller.php&quot;,&quot;line&quot;:127,&quot;httpCode&quot;:0},&quot;internalResponse&quot;:null}';</text>
+        <text>sendDelete</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IAogICAgLyoqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RXaGVuUGNjQXBpY2FsbGVyVGhyb3dzQW55RXhjZXB0aW9uV2VDYXRjaENvcnJlY3RseSgpCiAgICB7CiAgICAgICAgJG5vV2hlcmUgPSBuZXcgU3RhcmdhdGVDb21tYW5kKAogICAgICAgICAgICAiIiwKICAgICAgICAgICAgW10sCiAgICAgICAgICAgICIiLAogICAgICAgICAgICAiIgogICAgICAgICk7CiAgICAgICAgJHN0YXJHYXRlID0gbmV3IFN0YXJnYXRlKAogICAgICAgICAgICBuZXcgTW9ja2VkQXBpY2FsbGVyKG51bGwpLy9udWxsIHBhcmEgZm9yemFyIGV4Y2VwdGlvbiBhbCBleHRyYWVyIHVuYSByZXNwb25zZS4KICAgICAgICApOwoKICAgICAgICAkYWN0dWFsID0gJHN0YXJHYXRlLT50cmF2ZWwoJG5vV2hlcmUpOwogICAgICAgICRleHBlY3RlZCA9ICd7ImludGVybmFsRXJyb3IiOnsibWVzc2FnZSI6InBhcmEgbW9rZWFyIGxhIHJlc3B1ZXN0YSBwYXNhIHVuIGNvcHlwYXN0ZSBkZWwgSnNvbiBkZSBsYSByZWFsIGVuIGVsIGNvbnN0cnVjdG9yIG8gYWxnbyBxdWUgbm8gc2VhIG51bGwiLCJleGNlcHRpb25UeXBlIjoiRXhjZXB0aW9uIiwiZmlsZSI6IlwvVXNlcnNcL3Bhc3NoXC9zcmNcL3BjY2Zyb250XC9zcmNcL1BjY1wvVGVzdFwvSW5mcmFzdHJ1Y3R1cmVcL01vY2tlZEFwaWNhbGxlci5waHAiLCJsaW5lIjoxMjcsImh0dHBDb2RlIjowfSwiaW50ZXJuYWxSZXNwb25zZSI6bnVsbH0nOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJGV4cGVjdGVkLCBqc29uX2VuY29kZSgkYWN0dWFsKSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">IC8qKgogICAgICAgICAgICAgICAgICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAgICAgICAgICAgICAgICAgKi8KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgZnVuY3Rpb24gc2VuZFB1dCgpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXM7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogRG9jdW1lbnRhY2nDs246IDg9PUQK</text>
+      <register name="1" type="4">
+        <text>implementados métodos sendPut, sendPatch, sendDelete 
++test 100%</text>
       </register>
-      <register name="2" type="4">
-        <text>+doc , 
-1 test para regexp user/ en whiteList entorno prod.</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -993,20 +992,20 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">MTAwJSBkZWwgU3RhcmdhdGUgVGVzdGVhZG8gLiAKSW5jbHVpZG9zIGxvcyB0ZXN0IHBhcmEgOiAKU2kgZXN0b3kgZW4gcHJvZHVjY2nDs24geSBzZSBwcm9kdWNlIHVuYSBleGNlcGNpw7NuIGludGVybmEgZW4gZWwgYXBpY2FsbGVyIApObyBkZWJvIG1vc3RyYXIgbcOhcyBxdWUgZWwgbWVuc2FqZSAuCmVsIG90cm8gY2FzbyAsIGVzIHF1ZSBzaSBlc3RveSBlbiBkZXNhcnJvbGxvIGhlIGRlIG1vc3RyYXIgdG9kb3MgbG9zIGRhdG9zIApuZWNlc2FyaW9zIHBhcmEgZGVidWdnZWFyIG3DoXMgcsOhcGlkby4KbGl0bGUgcmVmYWN0b3IgZXhlY3V0ZSAtPiB0cmF2ZWw=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdpdmVuV2hpdGVMaXN0ZWRVcmlXaGVuVHJhdmVsVGhlbklHZXRSZXNwb25zZUdFVCgpCiAgICB7CiAgICAgICAgJHN0YXJHYXRlID0gbmV3IFN0YXJnYXRlKG5ldyBNb2NrZWRBcGljYWxsZXIoIiIpKTsKCiAgICAgICAgbmV3IE1vY2tlZEFwaWNhbGxlcigiIik7CiAgICAgICAgJGFjdHVhbCA9ICRzdGFyR2F0ZS0+dHJhdmVsKAogICAgICAgICAgICBuZXcgU3RhcmdhdGVDb21tYW5kKAogICAgICAgICAgICAgICAgImFydGljbGVzLzMxMDQ2IiwKICAgICAgICAgICAgICAgIFtdLAogICAgICAgICAgICAgICAgIkdFVCIsCiAgICAgICAgICAgICAgICAncHJvZCcKICAgICAgICAgICAgKQogICAgICAgICk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygKICAgICAgICAgICAgJ3siaW50ZXJuYWxFcnJvciI6e30sImludGVybmFsUmVzcG9uc2UiOiIifScsCiAgICAgICAgICAgIGpzb25fZW5jb2RlKCRhY3R1YWwpCiAgICAgICAgKTsKICAgIH0KICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTW9ja2VkQXBpY2FsbGVyKCIiKTsK</text>
+        <text encoding="base64">ICogRG9jdW1lbnRhY2nDs246IDg9PUQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
