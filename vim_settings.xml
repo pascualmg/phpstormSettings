@@ -189,6 +189,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/src/jsmoke/src/index.js" timestamp="1528306210013">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infraestructure/Persistence/NewsLetter.php" timestamp="1523363880506">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="41" />
@@ -432,11 +438,11 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/src/jsmoke/dist/index.js" timestamp="1528234720843">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="27" />
+      <file name="$USER_HOME$/src/jsmoke/dist/index.js" timestamp="1528306197026">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="4" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/GetConnectifUserDataService.php" timestamp="1527164788642">
         <mark key="[" line="16" column="0" />
@@ -719,7 +725,7 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528235442550">
+      <file name="/Dummy.txt" timestamp="1528306333564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -923,14 +929,14 @@
       <jump line="23" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KGVyciwgcm93KSA9PiBjb25zb2xlLmxvZygncmVzdWx0Jywgcm93LmlkLCAiICIsIHJvdy5pbmZvLCByZXN1bHQpICYmIHJlc3VsdC5wdXNoKHJvdykpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGVyciwgcm93KSA9PiBjb25zb2xlLmxvZygncmVzdWx0Jywgcm93LmlkLCAiICIsIHJvdy5pbmZvLCByZXN1bHQpICYmIHJlc3VsdC5wdXNoKHJvdykpOw==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
@@ -939,29 +945,28 @@
         <text encoding="base64">IC8qKgogICAgICAgICAgICAgICAgICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAgICAgICAgICAgICAgICAgKi8KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgZnVuY3Rpb24gc2VuZFB1dCgpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXM7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByb3cuaWQsICIgIiwgcm93LmluZm8sIHJlc3VsdCkgJiYgcmVzdWx0LnB1c2gocm93KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bGV0IGNvbiA9IENvbmV4aW9uLkNvbmV4aW9uOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGV0IGNvbm4gPSBDb25leGlvbkV4YW1wbGUuZ2VuZXJhdGUoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fSkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGV0IGNvbiA9IENvbmV4aW9uLkNvbmV4aW9uOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyoqCiAqIHNrZWwgcGFyYSBlbCByb3V0ZXIgLCBsZXZhbnRhIHVuIHNlcnZpZG9yIHF1ZQogKiBlc2N1Y2hhIHBldGljaW9uZXMgZW4gZWwgcHVlcnRvIDg4ODguCiAqLwppbXBvcnQgaHR0cCBmcm9tICdodHRwJzsKCmltcG9ydCBDb25leGlvbkV4YW1wbGUgZnJvbSAnLi9jb3JlL0NvbmV4aW9uRXhhbXBsZS5qcyc7CmxldCBjb25uID0gQ29uZXhpb25FeGFtcGxlLmdlbmVyYXRlKCk7CgoKY29uc3Qgc2VydmVyID0gaHR0cC5jcmVhdGVTZXJ2ZXIoZnVuY3Rpb24gKHJlcXVlc3QsIHJlc3BvbnNlKSB7CiAgY29uc29sZS5sb2coJ21lIGhhIGVudHJhZG8gdW5hIHBldGkgcG9yLi4uOiAnLCByZXF1ZXN0Lm1ldGhvZCk7Ly9UT0RPOiBib3JyYW1lLgogIGNvbnNvbGUubG9nKCdkZXNkZSBsYSB1cmw6ICcsIHJlcXVlc3QudXJsKTsvL1RPRE86IGJvcnJhbW9lLgoKICAgIGlmKHJlcXVlc3QudXJsID09PSAiL2VuZHBvaW50IikgewogICAgICAgIHJlc3BvbnNlLndyaXRlKCJzbW9rZSBlbiBhY2Np77+9biIpOwogICAgICAgIAogICAgICAgIGNvbm4udGVzdCgpOwogICAgICAgIGxldCByZXN1bHQgPSBjb25uLnF1ZXJ5KCJTRUxFQ1Qgcm93aWQgQVMgaWQgLCBpbmZvIEZST00gcHJ1ZWJhIiwgY29uc29sZS5sb2cgKTsKICAgICAgICBjb25uLmNsb3NlKCk7CgogICAgICAgIHNldEludGVydmFsKHJlc3VsdD0+Y29uc29sZS5sb2cocmVzdWx0KSwgMTAwMCk7CiAgICB9IGVsc2UgewoKICAgICAgICByZXNwb25zZS53cml0ZShyZXF1ZXN0Lm1ldGhvZCk7CiAgICB9CiAgICByZXNwb25zZS5lbmQoKTsKfSk7CgpzZXJ2ZXIubGlzdGVuKDg4ODgpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>implementados métodos sendPut, sendPatch, sendDelete 
-+test 100%</text>
+      <register name="8" type="2">
+        <text encoding="base64">c2VydmVyLmxpc3Rlbig4ODg4KTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
