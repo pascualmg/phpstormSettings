@@ -189,12 +189,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/src/jsmoke/src/index.js" timestamp="1528354105648">
+      <file name="$USER_HOME$/src/jsmoke/src/index.js" timestamp="1528357032279">
         <mark key="d" line="7" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="35" column="24" />
+        <mark key="^" line="35" column="24" />
+        <mark key="." line="35" column="24" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infraestructure/Persistence/NewsLetter.php" timestamp="1523363880506">
         <mark key="[" line="1" column="41" />
@@ -272,6 +272,12 @@
         <mark key="[" line="118" column="40" />
         <mark key="]" line="118" column="40" />
         <mark key="." line="118" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/jsmoke/src/core/ConexionExample.js" timestamp="1528356770572">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+        <mark key="^" line="7" column="48" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Persistence/MockedPccomApiSubscriptionRepository.php" timestamp="1525361333854">
         <mark key="[" line="12" column="0" />
@@ -925,14 +931,14 @@
       <jump line="23" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">T2JzZXJ2YWJsZS5jcmVhdGUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
@@ -941,31 +947,31 @@
         <text encoding="base64">ICAgICAgICBuPT5jb25zb2xlLmxvZyhuKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">T2JzZXJ2YWJsZS5jcmVhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYnNlcnZlci5lcnJvcihlcnIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncm93Jywgcm93KTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFByb21pc2UgZnJvbSAnUHJvbWlzZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5wdXNoKHJvdyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBbXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHAgPSBQcm9taXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbm4udGVzdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
