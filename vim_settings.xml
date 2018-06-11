@@ -494,11 +494,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/src/dispo/src/App.js" timestamp="1528706725001">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="28" column="0" />
+      <file name="$USER_HOME$/src/dispo/src/App.js" timestamp="1528713913424">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="17" column="72" />
+        <mark key="." line="17" column="72" />
+        <mark key="^" line="17" column="72" />
       </file>
       <file name="$USER_HOME$/src/reactivo/public/index.html" timestamp="1523309684823">
         <mark key="[" line="30" column="13" />
@@ -846,9 +847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
-      <jump line="131" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
-      <jump line="53" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="146" column="40" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="359" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="412" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
@@ -946,16 +944,19 @@
       <jump line="128" column="12" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" />
       <jump line="23" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/mockedPccApicaller.php" />
       <jump line="12" column="10" filename="$USER_HOME$/src/dispo/src/components/dispo/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/dispo/src/App.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/dispo/src/App.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/dispo/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>getJSON</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
@@ -964,7 +965,7 @@
         <text encoding="base64">ICAgIGNhc2UgMTogcmV0dXJuIElOX1NUT0NLLm5hbWU7CiAgICAgICAgYnJlYWs7CiAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
@@ -973,22 +974,22 @@
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmFuZG9taXplRGlzcG8gPSBmdW5jdGlvbiAoKSB7CiAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgcmFuZG9taXplRGlzcG8gPSBmdW5jdGlvbiAoKSB7CiAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
