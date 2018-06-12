@@ -20,6 +20,13 @@
         <mark key="]" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/store/mutators/register/types.js" timestamp="1528788301365">
+        <mark key="'" line="5" column="42" />
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/head.html.twig" timestamp="1526632964126">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -389,6 +396,12 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/store/mutators/register/creators.js" timestamp="1528788549473">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/cn_refresh_cart.test.js" timestamp="1526034212830">
         <mark key="[" line="4" column="79" />
         <mark key="]" line="4" column="79" />
@@ -521,6 +534,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="^" line="51" column="51" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/containers/panel/my-address-factory.js" timestamp="1528788579801">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/index-deal.html.twig" timestamp="1527672726048">
         <mark key="[" line="28" column="0" />
@@ -860,7 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="40" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="359" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="412" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
       <jump line="247" column="69" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
@@ -960,50 +977,50 @@
       <jump line="1" column="0" filename="$USER_HOME$/src/dispo/src/App.js" />
       <jump line="17" column="0" filename="$USER_HOME$/src/dispo/src/App.js" />
       <jump line="30" column="0" filename="$USER_HOME$/src/dispo/src/App.js" />
+      <jump line="6" column="42" filename="$USER_HOME$/src/pccfrontv2/src/store/mutators/register/types.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0pLAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>NAME</text>
+        <text>_password</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IHJlZ2lzdGVyLmdldChSZWdpc3RlckZpZWxkcy5OQU1FKSwgIAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgY2hhbmdlTmFtZTogdmFsdWUgPT4gKHsKICAgICAgdHlwZTogTVQuQ0hBTkdFX05BTUUsCiAgICAgIHBheWxvYWQ6IHZhbHVlLAogICAgfSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW1haWw6IHJlZ2lzdGVyLmdldChSZWdpc3RlckZpZWxkcy5OQU1FKSwK</text>
+        <text encoding="base64">ICAgIH0pLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgcGF5bG9hZDogdmFsdWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiA8ZGl2PiA8L2Rpdj47Cg==</text>
+        <text encoding="base64">ICAgICAgdHlwZTogTVQuQ0hBTkdFX05BTUUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgcmVuZGVyICgpewo=</text>
+        <text encoding="base64">ICAgIGNoYW5nZU5hbWU6IHZhbHVlID0+ICh7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGU6IE1ULkNIQU5HRV9OQU1FLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>e
-{</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHR5cGU6IE1ULkNIQU5HRV9OQU1FLAogICAgdHlwZTogTVQuQ0hBTkdFX05BTUUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGU6IE1ULkNIQU5HRV9OQU1FLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhvbGEgY2FyYWNvbGEgCg==</text>
+        <text encoding="base64">ICAgIHR5cGU6IE1ULkNIQU5HRV9OQU1FLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2RkY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjemN6Y3p6Y2N6Y3p6Y3pjY2Njenp6Y3p6Y3pjemN6Y2N6enp6WHp6enp6enp6enp6enp6enp6WHp6emNjY2NjY2NjY3p6MHhjenpjenp6enp6enp6enp6enpaWlpaWlpaWlpaWlpaWlpaWlpaWlp6enp6enp6enp6enp6enp6enp6enp6enoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
