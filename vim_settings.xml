@@ -633,12 +633,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2/src/app.js" timestamp="1528879872140">
-        <mark key="'" line="34" column="1" />
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="61" />
-        <mark key="." line="9" column="61" />
-        <mark key="^" line="9" column="61" />
+      <file name="$USER_HOME$/src/pccfrontv2/src/app.js" timestamp="1528880967507">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="9" column="60" />
+        <mark key="]" line="9" column="60" />
+        <mark key="." line="9" column="60" />
+        <mark key="^" line="57" column="62" />
       </file>
       <file name="$USER_HOME$/src/jsmoke/package.json" timestamp="1527538239080">
         <mark key="[" line="7" column="26" />
@@ -924,7 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="19" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="61" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" />
       <jump line="27" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" />
       <jump line="28" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
@@ -1024,16 +1023,17 @@
       <jump line="18" column="28" filename="$USER_HOME$/src/pccfrontv2/src/components/hocs/form-card.js" />
       <jump line="38" column="5" filename="$USER_HOME$/src/dispo/src/components/dispo/index.js" />
       <jump line="33" column="1" filename="$USER_HOME$/src/pccfrontv2/src/app.js" />
+      <jump line="58" column="23" filename="$USER_HOME$/src/pccfrontv2/src/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>panel</text>
+        <text>a</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>panel</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
