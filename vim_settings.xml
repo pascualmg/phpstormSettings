@@ -15,11 +15,12 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2/src/store/epics/register.js" timestamp="1528885724444">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-        <mark key="^" line="11" column="11" />
+      <file name="$USER_HOME$/src/pccfrontv2/src/store/epics/register.js" timestamp="1528886073721">
+        <mark key="'" line="15" column="27" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/src/flp/snippet_flp_0001.js" timestamp="1526658636219">
         <mark key="[" line="18" column="36" />
@@ -926,7 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="64" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" />
       <jump line="27" column="39" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" />
       <jump line="28" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
       <jump line="35" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
@@ -1026,16 +1026,17 @@
       <jump line="38" column="5" filename="$USER_HOME$/src/dispo/src/components/dispo/index.js" />
       <jump line="33" column="1" filename="$USER_HOME$/src/pccfrontv2/src/app.js" />
       <jump line="58" column="23" filename="$USER_HOME$/src/pccfrontv2/src/app.js" />
+      <jump line="12" column="27" filename="$USER_HOME$/src/pccfrontv2/src/store/epics/register.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>apiRe</text>
       </register>
       <register name="/" type="4">
         <text>deals_orders</text>
@@ -1044,31 +1045,31 @@
         <text encoding="base64">aW1wb3J0IHsgaXNOb3ROdWxsT2JqZWN0IH0gZnJvbSAnLi4vLi4vdXRpbHMvbWlzYyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuYXBpUmVnaXN0ZXJBY2Njb3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAuYXBpUmVnaXN0ZXJBY2Njb3V0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHthamF4IGFzIE9hamF4fSBmcm9tICdyeGpzL29ic2VydmFibGUvZG9tL2FqYXgnOwo=</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT0VtcHR5IH0gZnJvbSAncnhqcy9vYnNlcnZhYmxlL2VtcHR5JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
