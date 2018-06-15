@@ -201,7 +201,7 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1528893439506">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1529052616757">
         <mark key="'" line="68" column="33" />
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="8" />
@@ -661,6 +661,12 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Stargate/Stargate.js" timestamp="1529052424246">
+        <mark key="[" line="91" column="48" />
+        <mark key="]" line="91" column="44" />
+        <mark key="." line="91" column="44" />
+        <mark key="^" line="91" column="43" />
+      </file>
       <file name="$USER_HOME$/src/jsmoke/src/core/src/core/Conexion.js" timestamp="1527533055169">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="12" column="1" />
@@ -1044,56 +1050,56 @@
       <jump line="68" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>jquery</text>
+        <text>starga</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7IzxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnYnVuZGxlcy9wY2N3ZWIvcmF3L2pzL3ZlbmRvci9qcXVlcnktMy4yLjEuanMnKSB9fSI+PC9zY3JpcHQ+I30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdmFyIGNvbmZpZyA9IHRoaXMuYWpheENvbmZpZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IzxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnYnVuZGxlcy9wY2N3ZWIvcmF3L2pzL3ZlbmRvci9qcXVlcnktMy4yLjEuanMnKSB9fSI+PC9zY3JpcHQ+I30K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB7IzxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnYnVuZGxlcy9wY2N3ZWIvcmF3L2pzL3ZlbmRvci9qcXVlcnktMy4yLjEuanMnKSB9fSI+PC9zY3JpcHQ+I30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndmVuZG9yL2pxdWVyeS0zLjIuMS5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IzxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnYnVuZGxlcy9wY2N3ZWIvcmF3L2pzL3ZlbmRvci9qcXVlcnktMy4yLjEuanMnKSB9fSI+PC9zY3JpcHQ+I30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ie3sgYXNzZXQoJ3ZlbmRvci9qcXVlcnktMy4yLjEuanMnfGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndmVuZG9yL2pxdWVyeS0zLjIuMS5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ie3sgYXNzZXQoJ3ZlbmRvci9qcXVlcnktMy4yLjEuanMnfGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ie3sgYXNzZXQoJ3ZlbmRvci9qcXVlcnktMy4yLjEuanMnfGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ie3sgYXNzZXQoJ3ZlbmRvci9qcXVlcnktMy4yLjEuanMnfGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jquery</last-search>
+      <last-search>starga</last-search>
       <last-offset />
-      <last-pattern>jquery</last-pattern>
+      <last-pattern>starga</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -1117,10 +1123,10 @@
         <entry>user</entry>
         <entry>pcc_salesmanago_con</entry>
         <entry>optin</entry>
-        <entry>starga</entry>
         <entry>redis</entry>
         <entry>deals_orders</entry>
         <entry>jquery</entry>
+        <entry>starga</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>

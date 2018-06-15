@@ -26,6 +26,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="pcc-bem-behaviour" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.pccomponentes.com_prod_v1_js_pcc-bem-behaviour.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.pccomponentes.com_prod_v1_js_pcc-bem-behaviour.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="Rx" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -37,13 +48,26 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="rx.dom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_rxjs-dom_7.0.3_rx.dom.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_rxjs-dom_7.0.3_rx.dom.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="rxjs.umd" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_rxjs_6.2.1_rxjs.umd.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_rxjs@6.2.0_bundles_rxjs.umd.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_rxjs_6.2.1_rxjs.umd.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_rxjs@6.2.0_bundles_rxjs.umd.js" />
       </CLASSES>
       <SOURCES />
