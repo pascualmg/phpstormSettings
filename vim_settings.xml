@@ -129,11 +129,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529103436901">
-        <mark key="[" line="162" column="7" />
-        <mark key="]" line="162" column="15" />
-        <mark key="^" line="162" column="15" />
-        <mark key="." line="162" column="15" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529106662907">
+        <mark key="'" line="219" column="4" />
+        <mark key="[" line="239" column="38" />
+        <mark key="]" line="239" column="38" />
+        <mark key="." line="239" column="38" />
+        <mark key="^" line="240" column="44" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
@@ -969,7 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
       <jump line="56" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" />
       <jump line="68" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/connectif/connectif.test.js" />
       <jump line="86" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
@@ -1069,16 +1069,17 @@
       <jump line="130" column="0" filename="$USER_HOME$/src/pccfront/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/.gitignore" />
       <jump line="373" column="0" filename="$USER_HOME$/src/pccfront/.gitignore" />
+      <jump line="219" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>demo</text>
+        <text>idArticle</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>demo</text>
+        <text>idArticle</text>
       </register>
       <register name="/" type="4">
         <text>starga</text>
@@ -1086,32 +1087,32 @@
       <register name="0" type="2">
         <text encoding="base64">dmFyIE9PU2ltaWxhcnMgPSAobmV3IFN0YXJnYXRlKS5nZXRPQWpheCh7dXJpOiAiYmlnZGF0YS9lc3NlbnRpYWxzL2EvMTIzNDE3In0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IChuZXcgU3RhcmdhdGUpLk9BamF4U2ltaWxhcigxMDE4NzEpCiAgICAucGlwZSgKICAgICAgcnhqcy5vcGVyYXRvcnMubWFwKGZ1bmN0aW9uKGl0ZW0pe3JldHVybiBpdGVtLnJlc3BvbnNlfSksCiAgICAgIHJ4anMub3BlcmF0b3JzLm1hcChmdW5jdGlvbihpdGVtKXtyZXR1cm4gaXRlbS5pbnRlcm5hbFJlc3BvbnNlfSksCiAgICAgIHJ4anMub3BlcmF0b3JzLm1hcChmdW5jdGlvbihpdGVtKXtyZXR1cm4gaXRlbS5pdGVtc30pLAogICAgKS5zdWJzY3JpYmUoZ2EuZXZlbnRFZWNJbXByZXNzaW9uc0xpc3Qp</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICogQHRvZG8gSU1QT1JUQU5URSAsIHJlZmFjdG9yaXphciBhIHNjcmlwdHMgaW5kZXBlbmRpZW50ZXMgbGFzIGZ1bmNpb25lcyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzaW1pbGFyJCA9IChuZXcgU3RhcmdhdGUpLk9BamF4U2ltaWxhcigyMzQyMzQpOwo=</text>
+        <text encoding="base64">ICAgKiBQb3IgZWwgbW9tZW50byAsIHkgcXVpesOhIHBhcmEgc2llbXByZSBzZSB2YSBhIHF1ZWRhciBwYXJhbWV0cml6YWRvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBkYXRvcyBzZSBwb2Ryw61hIGJhamFyLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBxdWUgc2kgaGF5IHByb2JsZW1hcyBwb3IgcXVlIHNlIGxsZWdhIGEgZXN0ZSBsw61taXRlIHkgbm8gc2UgcmVnaXN0cmFyYW4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAxNToxNDoyOS4yMTEK</text>
+        <text encoding="base64">ICAgKiBjYW1iaWFybG8gYWwgdnVlbG8gZW4gYWxnw7puIG90cm8gY2FzbyAsIHkgLCBkZSB0YWwgZm9ybQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgKiAgICAgICAgICB0YW1hw7FvIG3DoXhpbW8gZGUgbG9zIGNodW5rcyBkZSBpbXByZXNpb25lcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gaW1wcmVzc2lvbnNMaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIE9PU2ltaWxhcnMgPSAobmV3IFN0YXJnYXRlKS5nZXRPQWpheCh7dXJpOiAiYmlnZGF0YS9lc3NlbnRpYWxzL2EvMTIzNDE3In0pOwo=</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
