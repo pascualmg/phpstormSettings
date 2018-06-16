@@ -129,12 +129,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529106662907">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529107542720">
         <mark key="'" line="219" column="4" />
-        <mark key="[" line="239" column="38" />
-        <mark key="]" line="239" column="38" />
-        <mark key="." line="239" column="38" />
-        <mark key="^" line="240" column="44" />
+        <mark key="[" line="224" column="4" />
+        <mark key="]" line="224" column="11" />
+        <mark key="^" line="224" column="11" />
+        <mark key="." line="224" column="11" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
@@ -226,6 +226,12 @@
         <mark key="]" line="3" column="49" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1529112385190">
+        <mark key="[" line="85" column="4" />
+        <mark key="]" line="86" column="1" />
+        <mark key="^" line="86" column="1" />
+        <mark key="." line="86" column="1" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/BillingAddressList.js" timestamp="1524823738367">
         <mark key="[" line="14" column="72" />
@@ -673,7 +679,7 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Stargate/Stargate.js" timestamp="1529069111097">
+      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Stargate/Stargate.js" timestamp="1529107743673">
         <mark key="[" line="92" column="31" />
         <mark key="]" line="92" column="31" />
         <mark key="^" line="92" column="31" />
@@ -821,7 +827,6 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Stargate/lasdjflasj.php" timestamp="1529056571657" />
       <file name="/PHP Console" timestamp="1529057621240">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1072,47 +1077,47 @@
       <jump line="219" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>idArticle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>idArticle</text>
+        <text>simmilars</text>
       </register>
       <register name="/" type="4">
         <text>starga</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIE9PU2ltaWxhcnMgPSAobmV3IFN0YXJnYXRlKS5nZXRPQWpheCh7dXJpOiAiYmlnZGF0YS9lc3NlbnRpYWxzL2EvMTIzNDE3In0pOwo=</text>
+        <text encoding="base64">ICAgdmFyIHNpbW1pbGFycyQgPSBpbXByZXNzaW9uc0Zyb21TaW1taWxhcnMoaWRBcnRpY2xlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHRvZG8gSU1QT1JUQU5URSAsIHJlZmFjdG9yaXphciBhIHNjcmlwdHMgaW5kZXBlbmRpZW50ZXMgbGFzIGZ1bmNpb25lcyAK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBQb3IgZWwgbW9tZW50byAsIHkgcXVpesOhIHBhcmEgc2llbXByZSBzZSB2YSBhIHF1ZWRhciBwYXJhbWV0cml6YWRvCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBkYXRvcyBzZSBwb2Ryw61hIGJhamFyLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBxdWUgc2kgaGF5IHByb2JsZW1hcyBwb3IgcXVlIHNlIGxsZWdhIGEgZXN0ZSBsw61taXRlIHkgbm8gc2UgcmVnaXN0cmFyYW4gCg==</text>
+        <text encoding="base64">ICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBjYW1iaWFybG8gYWwgdnVlbG8gZW4gYWxnw7puIG90cm8gY2FzbyAsIHkgLCBkZSB0YWwgZm9ybQo=</text>
+        <text encoding="base64">ICAgICBmdW5jdGlvbiAoaSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiAgICAgICAgICB0YW1hw7FvIG3DoXhpbW8gZGUgbG9zIGNodW5rcyBkZSBpbXByZXNpb25lcwo=</text>
+        <text encoding="base64">ICAgdmFyIHNpbW1pbGFycyQgPSBpbXByZXNzaW9uc0Zyb21TaW1taWxhcnMoaWRBcnRpY2xlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICogQHRvZG8gSU1QT1JUQU5URSAsIHJlZmFjdG9yaXphciBhIHNjcmlwdHMgaW5kZXBlbmRpZW50ZXMgbGFzIGZ1bmNpb25lcyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gaW1wcmVzc2lvbnNMaXN0Cg==</text>
+        <text encoding="base64">ICAgKiBQb3IgZWwgbW9tZW50byAsIHkgcXVpesOhIHBhcmEgc2llbXByZSBzZSB2YSBhIHF1ZWRhciBwYXJhbWV0cml6YWRvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgKiBkYXRvcyBzZSBwb2Ryw61hIGJhamFyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
