@@ -84,12 +84,6 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529405639305">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="240" column="49" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
         <mark key="]" line="137" column="36" />
@@ -157,11 +151,11 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1529405174832">
-        <mark key="'" line="84" column="0" />
+        <mark key="'" line="83" column="0" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
-        <mark key="^" line="85" column="13" />
+        <mark key="^" line="84" column="13" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/cn_refresh_cart.test.js" timestamp="1526034736298">
         <mark key="[" line="3" column="0" />
@@ -479,6 +473,7 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1529420471520" />
       <file name="$USER_HOME$/src/reactivo/src/.jshintrc" timestamp="1522960688044">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="15" />
@@ -568,12 +563,6 @@
         <mark key="]" line="7" column="26" />
         <mark key="." line="7" column="26" />
         <mark key="^" line="8" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/Stargate/Stargate.js" timestamp="1529114743347">
-        <mark key="[" line="92" column="31" />
-        <mark key="]" line="92" column="31" />
-        <mark key="^" line="92" column="31" />
-        <mark key="." line="92" column="31" />
       </file>
       <file name="$USER_HOME$/src/jsmoke/src/core/src/core/Conexion.js" timestamp="1527533055169">
         <mark key="[" line="11" column="44" />
@@ -832,6 +821,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="34" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_ajax_nc.yml" timestamp="1529420531618">
+        <mark key="[" line="153" column="14" />
+        <mark key="]" line="153" column="14" />
+        <mark key="." line="153" column="14" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/googleMerchant.xml.twig" />
@@ -936,14 +930,14 @@
       <jump line="24" column="0" filename="$USER_HOME$/src/pccfrontv2/src/constants/panel/routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>POST</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>rxjs</text>
