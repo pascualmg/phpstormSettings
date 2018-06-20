@@ -412,6 +412,7 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/components/__tests__/simple-selector.spec.js" timestamp="1529511437746" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_cart/cn_cart.html.twig" timestamp="1529393430145">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="43" />
@@ -467,12 +468,14 @@
         <mark key="." line="1021" column="0" />
         <mark key="^" line="1021" column="24" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/helpers/mutator-action-types-helper.js" timestamp="1529508928992" />
       <file name="$USER_HOME$/src/reactivo/src/.jshintrc" timestamp="1522960688044">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/components/register/register.js" timestamp="1529509321216" />
       <file name="$USER_HOME$/src/reactivo/public/index.html" timestamp="1523309684823">
         <mark key="[" line="30" column="13" />
         <mark key="]" line="30" column="16" />
@@ -485,6 +488,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/components/register/register-card.js" timestamp="1529510071746" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1526887131554">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -660,6 +664,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/components/__tests__/__snapshots__/Register.spec.js.snap" timestamp="1529512397070">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/index.js" timestamp="1526027135537">
         <mark key="[" line="18" column="19" />
         <mark key="]" line="18" column="30" />
@@ -714,11 +724,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2/src/components/__tests__/Register.spec.js" timestamp="1529507036548">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/src/pccfrontv2/src/components/__tests__/Register.spec.js" timestamp="1529512323164">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfrontv2/src/config.js" timestamp="1528808489273">
         <mark key="[" line="11" column="59" />
@@ -726,7 +737,7 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529500855445">
+      <file name="/Dummy.txt" timestamp="1529512336164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -848,7 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="231" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
       <jump line="630" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/spotfront.js" />
@@ -948,16 +958,17 @@
       <jump line="4" column="0" filename="$USER_HOME$/src/pccfrontv2/src/constants/intl/SubscriptionBannerIntl.js" />
       <jump line="217" column="0" filename="$USER_HOME$/src/pccfrontv2/src/intl/es.js" />
       <jump line="45" column="25" filename="$USER_HOME$/src/pccfrontv2/src/app.js" />
+      <jump line="17" column="20" filename="$USER_HOME$/src/pccfrontv2/src/components/__tests__/Register.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNsaWNrU2Vjb25kPXsoKSA9PiB1bmRlZmluZWR9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>TwoButtons</text>
+        <text>mountWithIntl</text>
       </register>
       <register name="/" type="4">
         <text>rxjs</text>
@@ -966,31 +977,31 @@
         <text encoding="base64">aW1wb3J0IExvZ28gZnJvbSAnLi9jb21wb25lbnRzL3N2Zy1hc3NldHMvbG9nbyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNsaWNrU2Vjb25kPXsoKSA9PiB1bmRlZmluZWR9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNvbmRCdG5UZXh0PSJ0ZXN0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNvbmREaXNhYmxlZD17ZmFsc2V9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNsaWNrRmlyc3Q9eygpID0+IHVuZGVmaW5lZH0K</text>
+        <text encoding="base64">ICAgICAgICBjaGFuZ2VQcml2YWN5VGVybXM9e2plc3QuZm4oKX1kZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdEJ0blRleHQ9InRlc3QiCg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lRXJyb3JzPXtudWxsfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdERpc2FibGVkPXtmYWxzZX0K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZEVycm9ycz17e319Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ28gZnJvbSAnLi9jb21wb25lbnRzL3N2Zy1hc3NldHMvbG9nbyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbEVycm9ycz17e319Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ28gZnJvbSAnLi9jb21wb25lbnRzL3N2Zy1hc3NldHMvbG9nbyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lRXJyb3JzPXt7fX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YWN5VGVybXNFcnJvcnM9e1tdfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
