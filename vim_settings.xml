@@ -156,13 +156,6 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1529405174832">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="84" column="13" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/cn_refresh_cart.test.js" timestamp="1526034736298">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="49" />
@@ -172,6 +165,12 @@
       <file name="$USER_HOME$/src/pccfrontv2/src/constants/user/login/intl-ids.js" timestamp="1529444183773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/components/Logo.js" timestamp="1529500837145">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/BillingAddressList.js" timestamp="1524823738367">
         <mark key="[" line="14" column="72" />
@@ -431,6 +430,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontv2/src/components/styled/login/login-wrapper.js" timestamp="1529501185953" />
       <file name="$USER_HOME$/src/dispo/src/express/server.js" timestamp="1528784309597">
         <mark key="[" line="3" column="39" />
         <mark key="]" line="0" column="0" />
@@ -560,12 +560,11 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2/src/app.js" timestamp="1529432788712">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="61" column="71" />
-        <mark key="]" line="61" column="88" />
-        <mark key="." line="61" column="88" />
-        <mark key="^" line="61" column="88" />
+      <file name="$USER_HOME$/src/pccfrontv2/src/app.js" timestamp="1529501456173">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/jsmoke/package.json" timestamp="1527538239080">
         <mark key="[" line="7" column="26" />
@@ -729,7 +728,7 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529486156518">
+      <file name="/Dummy.txt" timestamp="1529500855445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -758,7 +757,6 @@
         <mark key="." line="86" column="47" />
         <mark key="^" line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2-mock-server/.idea/workspace.xml" timestamp="1529484382972" />
       <file name="$USER_HOME$/src/reactivo/src/Hastag.js" timestamp="1522834952031">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="21" />
@@ -953,47 +951,47 @@
       <jump line="45" column="25" filename="$USER_HOME$/src/pccfrontv2/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dddddeeeeeeeeeeeeeeeeee</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPExvZ28vPgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>dddddeeeeeeeeeeeeeeeeee</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rxjs</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CmFwcC5nZXQoJy92MS91c2VycycsIChyZXEsIHJlcykgPT4gewogIGNvbnNvbGUubG9nKCdQT1NUIC0+IHYxL3VzZXJzJyk7CiAgcmVzLmpzb24oeyBjcmVhdGVVc2VyOiByYW5kb21Cb29sKCkgPyAnc3VjY2VzcycgOiAnZmFpbHVyZScgfSk7Cn0pOwo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPExvZ28gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QlQtCg==</text>
+        <text encoding="base64">ICAgICAgPExvZ28vPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnUE9TVCAtPiB2MS91c2VycycpOwo=</text>
+        <text encoding="base64">ICAgIDxMb2dvLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPExvZ28gLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPExvZ28gLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eWFybi1lcnJvci5sb2cK</text>
+        <text encoding="base64">ICAgICAgPExvZ28gLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPExvZ28gLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGlzdC8qCg==</text>
+        <text encoding="base64">ICAgICAgPExvZ28gLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXNzZXRzL3lhcm4ubG9jawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsgY3JlYXRlVXNlcjogJ2ZhaWx1cmUnIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
