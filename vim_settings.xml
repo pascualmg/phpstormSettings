@@ -87,12 +87,12 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529661063486">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529664323530">
         <mark key="'" line="365" column="0" />
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="312" column="0" />
-        <mark key="^" line="313" column="11" />
-        <mark key="." line="312" column="0" />
+        <mark key="[" line="258" column="51" />
+        <mark key="]" line="258" column="49" />
+        <mark key="^" line="258" column="49" />
+        <mark key="." line="258" column="49" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
@@ -730,7 +730,7 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
-      <file name="/PHP Console" timestamp="1529577020329">
+      <file name="/PHP Console" timestamp="1529663738699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Photo.js" timestamp="1523292454989">
@@ -764,10 +764,10 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529661054453">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1529663772878">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
@@ -993,55 +993,47 @@
       <jump line="355" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRlc3QgeSBzdHViIHBhcmEgZWNjLXByb2R1Y3QtY2xpY2sgLCBub3MgaGFuIHZlbmRpZG8=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgT09Ob3JtYWxpemVkQXJ0aWNsZXNGcm9tU2ltbWlsYXJzKGlkQXJ0aWNsZSksCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRlc3QgeSBzdHViIHBhcmEgZWNjLXByb2R1Y3QtY2xpY2sgLCBub3MgaGFuIHZlbmRpZG8=</text>
+        <text>IIFE_findOrEmpty implemented</text>
       </register>
       <register name="/" type="4">
         <text>stub</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-        &quot;name&quot;: &quot;GoogleChromecast&quot;,
-        &quot;id&quot;: &quot;89918&quot;,
-        &quot;price&quot;: 39,
-        &quot;brand&quot;: &quot;Google&quot;,
-        &quot;category&quot;: &quot;Conectividad&quot;,
-        &quot;list&quot;: &quot;ordenadores-portatiles&quot;,
-        &quot;position&quot;: 1
-      }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgT09Ob3JtYWxpemVkQXJ0aWNsZXNGcm9tU2ltbWlsYXJzKGlkQXJ0aWNsZSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXRlbVtdIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZpbHRlcmVkOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh3aW5kb3cuc3RvcmVkSW1wcmVzc2lvbnMuZmlsdGVyKGZ1bmN0aW9uIChpdGVtKSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG1vY2s7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfV07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicG9zaXRpb24iOiAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
