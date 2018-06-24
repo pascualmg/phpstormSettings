@@ -166,6 +166,11 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/SessionStorageRepo/LocalStorageRepo.js" timestamp="1529883789131">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfrontv2/src/components/Logo.js" timestamp="1529500837145">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -999,13 +1004,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>_exists</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>gaApi</text>
@@ -1014,31 +1019,31 @@
         <text encoding="base64">LyoqCiAqIFJlcG8gZ2VuZXJhdG9yIHRoYXQgdXNlcyBvbmx5IG9uZSB1bmlxdWUga2V5IG9mIHRoZSBzZXNzaW9uU3RvcmFnZQogKiBpbiBhIHVuaXF1ZSBPYmplY3RzIEFycmF5IC4gW3t9LHt9LC4uLl0KICoKICogT2JqZWN0IHBhdHRlcm4uCiAqIEBwYXJhbSByZXBvTmFtZVN0ciBSZXBvJ3MgbmFtZSAsIGlzIGEgdW5pcXVlIGtleSBvZiB0aGUgc2Vzc2lvblN0b3JhZ2UuCiAqIEBwYXJhbSBtZXRhZGF0YUlkU3RyIElzIHRoZSB1bmlxdWUga2V5IHRoYXQgd2UgY2FuIHVzZSBpbiB0aGUgZmluZCBvcGVyYXRpb24KICogQHJldHVybnMge3tjcmVhdGU6IGNyZWF0ZSwgcmVhZDogKGZ1bmN0aW9uKCosICopOiAqKSwgdXBkYXRlOiB1cGRhdGUsIGRlbGV0ZTogZGVsfX0KICogQGNvbnN0cnVjdG9yCiAqLwpmdW5jdGlvbiBTZXNzaW9uU3RvcmFnZVJlcG8ocmVwb05hbWVTdHIsIG1ldGFkYXRhSWRTdHIpIHsKCiAgLy9hc3NlcnRzCiAgaWYgKCFzZXNzaW9uU3RvcmFnZSkgewogICAgdGhyb3coInVwcHMgLCBuYXZpZ2F0b3IgdG9vIG9sZCIpOwogIH0KCiAgLy9zZXQgZGVmYXVsdHMgb3IgdHJob3cKICB0aGlzLnJlcG9OYW1lU3RyID0gcmVwb05hbWVTdHIgfHwgZnVuY3Rpb24gKCl7dGhyb3coImRlZmF1bHQgcGFyYW1ldGVyIGNvbnN0cnVjdG9yIHJlcG9OYW1lU3RyIG1pc3NpbmciKX07CiAgdGhpcy5tZXRhZGF0YUlkU3RyID0gbWV0YWRhdGFJZFN0ciB8fCBmdW5jdGlvbigpe3Rocm93KCJkZWZhdWx0IHBhcmFtZXRlciBjb25zdHJ1Y3RvciBtZXRhZGF0YUlkU3RyIG1pc3NpbmciKX07CiAgCiAgdmFyIHZvaWRSZXBvID0gW107CiAgIHNlc3Npb25TdG9yYWdlLmdldEl0ZW0ocmVwb05hbWVTdHIpIHx8IHNlc3Npb25TdG9yYWdlLnNldEl0ZW0ocmVwb05hbWVTdHIsIEpTT04uc3RyaW5naWZ5KHZvaWRSZXBvKSk7CgogIHRoaXMucmVwbyA9IEpTT04ucGFyc2Uoc2Vzc2lvblN0b3JhZ2UuZ2V0SXRlbShyZXBvTmFtZVN0cikpOwoKICAvL3B1YmxpY3MKICB0aGlzLmNyZWF0ZSA9IGZ1bmN0aW9uIGNyZWF0ZShpdGVtKSB7CiAgICAKICAgIGlmICh0aGlzLl9leGlzdHMobWV0YWRhdGFJZFN0ciwgaXRlbS5tZXRhZGF0YUlkU3RyKSkgewogICAgICAgIHRocm93ICJlbGVtZW50IGV4aXN0cywgZGVsZXRlIGZpcnN0IG9yIHVwZGF0ZSI7CiAgICB9CiAgICAKICAgIHRoaXMucmVwby5wdXNoKGl0ZW0pOwogICAgc2Vzc2lvblN0b3JhZ2Uuc2V0SXRlbSh0aGlzLnJlcG9OYW1lU3RyLCBKU09OLnN0cmluZ2lmeSh0aGlzLnJlcG8pKTsKICB9OwoKICB0aGlzLnJlYWQgPSBmdW5jdGlvbiByZWFkKGtleSwgdmFsdWUpIHsKICAgIHJldHVybiB0aGlzLnJlcG8uZmlsdGVyKGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgIHJldHVybiAoaXRlbS5rZXkgPT09IHZhbHVlKTsKICAgIH0pCiAgfTsKCiAgdGhpcy51cGRhdGUgPSBmdW5jdGlvbiB1cGRhdGUoKSB7CiAgICAvL3RvZG8gc3R1YgogIH07CgogIHRoaXMuZGVsID0gZnVuY3Rpb24gZGVsKGlkKSB7CiAgICB0aGlzLnJlYWQodGhpcy5tZXRhZGF0YUlkU3RyLCBpZCk7CiAgICAKICAgIAogICAgLy90b2RvIHN0dWIKICB9CiAgCiAgdGhpcy5fZXhpc3RzID0gZnVuY3Rpb24gX2V4aXN0cyhrZXksIHZhbHVlKSB7CiAgICByZXR1cm4gdGhpcy5yZWFkKGtleSx2YWx1ZSkgPT09IFtdOwogIH0KfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vdG9kbyBzdHViCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB0aGlzLmRlbCA9IGZ1bmN0aW9uIGRlbCgpIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vdG9kbyBzdHViCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0aGlzLmRlbCA9IGZ1bmN0aW9uIGRlbCgpIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vdG9kbyBzdHViCg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
