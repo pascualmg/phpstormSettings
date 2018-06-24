@@ -244,6 +244,19 @@
         <mark key="^" line="488" column="54" />
         <mark key="." line="488" column="54" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/sessionStorageRepo.js" timestamp="1529853792912">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/SessionStorageRepo.js" timestamp="1529858508855">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+      </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/components/product-quantity-form.js" timestamp="1523618205867">
         <mark key="[" line="4" column="50" />
         <mark key="]" line="4" column="50" />
@@ -754,7 +767,7 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529667389559">
+      <file name="/Dummy.txt" timestamp="1529858014627">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -880,8 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="52" filename="$USER_HOME$/src/pccfront/.gitignore" />
-      <jump line="46" column="0" filename="$USER_HOME$/src/pccfrontv2/src/services/__tests__/api.create-shipping-address.spec.js" />
       <jump line="60" column="1" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="68" column="47" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="162" column="262" filename="$USER_HOME$/src/flp/libro.md" />
@@ -980,40 +991,42 @@
       <jump line="310" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="355" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/SessionStorageRepo.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/SessionStorageRepo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgT09Ob3JtYWxpemVkQXJ0aWNsZXNGcm9tU2ltbWlsYXJzKGlkQXJ0aWNsZSksCg==</text>
+      <register name="&quot;" type="4">
+        <text>_exists</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>IIFE_findOrEmpty implemented</text>
+        <text>_exists</text>
       </register>
       <register name="/" type="4">
         <text>stub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgT09Ob3JtYWxpemVkQXJ0aWNsZXNGcm9tU2ltbWlsYXJzKGlkQXJ0aWNsZSksCg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZTogdXBkYXRlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaXRlbVtdIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pKQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICh3aW5kb3cuc3RvcmVkSW1wcmVzc2lvbnMuZmlsdGVyKGZ1bmN0aW9uIChpdGVtKSB7Cg==</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gU2Vzc2lvblN0b3JhZ2VSZXBvKGtleW5hbWUsIG1ldGFkYXRhSWQpIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1022,7 +1035,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogTW9kdWxlIFBhdHRlcm4K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
