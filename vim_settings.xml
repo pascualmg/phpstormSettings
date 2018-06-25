@@ -57,11 +57,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1529915922764">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="53" column="13" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1529921914511">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="73" column="4" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/SmCheckNewsLetterSubsriptionService.php" timestamp="1523477563057">
         <mark key="[" line="53" column="1" />
@@ -93,12 +93,12 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529853479880">
-        <mark key="'" line="364" column="0" />
-        <mark key="[" line="235" column="61" />
-        <mark key="]" line="235" column="61" />
-        <mark key="^" line="235" column="61" />
-        <mark key="." line="235" column="61" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529921172195">
+        <mark key="'" line="359" column="0" />
+        <mark key="[" line="273" column="8" />
+        <mark key="]" line="273" column="41" />
+        <mark key="^" line="273" column="41" />
+        <mark key="." line="273" column="41" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
@@ -651,10 +651,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1529916137999">
-        <mark key="[" line="197" column="13" />
-        <mark key="]" line="193" column="76" />
-        <mark key="." line="193" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1529921817825">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="200" column="11" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1529401993493">
         <mark key="[" line="27" column="59" />
@@ -752,7 +753,7 @@
         <mark key="." line="79" column="53" />
         <mark key="^" line="79" column="53" />
       </file>
-      <file name="/PHP Console" timestamp="1529916175978">
+      <file name="/PHP Console" timestamp="1529921831223">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/reactivo/src/Photo.js" timestamp="1523292454989">
@@ -1014,14 +1015,14 @@
       <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/SessionStorageRepo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>storing impressions in global cache</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>storing impressions in global cache</text>
+        <text>storedImpressions</text>
       </register>
       <register name="/" type="4">
         <text>gaApi</text>
@@ -1030,31 +1031,31 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgnZ2FBcGkvZ2FBcGkuanMnIHwganNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgncmVwby9Mb2NhbFN0b3JhZ2VSZXBvLmpzJyB8IGpzX3JldikgfX0iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvID0gbmV3IFBDQy5Mb2NhbFN0b3JhZ2VSZXBvKCJpbXByZXNzaW9ucyIsICJpZCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gU2Vzc2lvblN0b3JhZ2VUdW5uZWRSZXBvCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjYWNoZWRJbXBlc3Npb25zID0gd2luZG93LnN0b3JlZEltcHJlc3Npb25zLmZpbHRlcihmdW5jdGlvbiAoaXRlbSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
