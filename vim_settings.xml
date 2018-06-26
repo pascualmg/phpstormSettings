@@ -93,12 +93,12 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529995393555">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529998259405">
         <mark key="'" line="287" column="34" />
-        <mark key="[" line="288" column="37" />
-        <mark key="]" line="288" column="37" />
-        <mark key="." line="288" column="37" />
-        <mark key="^" line="233" column="15" />
+        <mark key="[" line="340" column="51" />
+        <mark key="]" line="341" column="105" />
+        <mark key="." line="341" column="105" />
+        <mark key="^" line="341" column="105" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
@@ -166,10 +166,10 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1529924978366">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="126" column="35" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1529997353080">
+        <mark key="'" line="107" column="7" />
+        <mark key="[" line="134" column="38" />
+        <mark key="]" line="134" column="56" />
         <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/cn_refresh_cart.test.js" timestamp="1526034736298">
@@ -658,11 +658,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1529921817825">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
-        <mark key="^" line="200" column="11" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1529998178506">
+        <mark key="[" line="203" column="41" />
+        <mark key="]" line="203" column="56" />
+        <mark key="." line="203" column="56" />
+        <mark key="^" line="203" column="56" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1529401993493">
         <mark key="[" line="27" column="59" />
@@ -920,7 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="47" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="162" column="262" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="169" column="0" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="1169" column="60" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -1020,49 +1019,76 @@
       <jump line="11" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/SessionStorageRepo.js" />
       <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/SessionStorageRepo.js" />
       <jump line="287" column="34" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="107" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_IN_CACHE</text>
+        <text>{
+      &quot;event&quot;: &quot;eec-product-click&quot;,
+      &quot;gaEventCategory&quot;: &quot;EnhancedEcommerce&quot;,
+      &quot;gaEventAction&quot;: &quot;ProductClick&quot;,
+      &quot;gaEventLabel&quot;: undefined,
+      &quot;gaEventValue&quot;: undefined,
+      &quot;gaEventNonInteraction&quot;: true,
+      'ecommerce': {
+        'click': {
+          'actionField': {'list': 'ordenadores-portatiles'},
+          'products': impression2Send
+        }
+      }
+    }</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>_IN_CACHE</text>
+        <text>ArrOneImpressionOrNull</text>
       </register>
       <register name="/" type="4">
-        <text>gaApi</text>
+        <text>Local</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICgyNCAqIDYwICogNjAgKiAxMDAwKSw=</text>
+        <text>$(this).data('id'),</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+      <register name="1" type="4">
+        <text>{
+      &quot;event&quot;: &quot;eec-product-click&quot;,
+      &quot;gaEventCategory&quot;: &quot;EnhancedEcommerce&quot;,
+      &quot;gaEventAction&quot;: &quot;ProductClick&quot;,
+      &quot;gaEventLabel&quot;: undefined,
+      &quot;gaEventValue&quot;: undefined,
+      &quot;gaEventNonInteraction&quot;: true,
+      'ecommerce': {
+        'click': {
+          'actionField': {'list': 'ordenadores-portatiles'},
+          'products': impression2Send
+        }
+      }
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xpY2tlZCBpbXByZXNzaW9uJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdtZXRhZGF0YUlkc3RyJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cK</text>
+        <text encoding="base64">ICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgJ05vIHN0b3JlZCBJbXByZXNzaW9uIGZvciBpZCAnICsgaWRBcnRpY2xlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMgCg==</text>
+        <text encoding="base64">ICAgIGlmIChudWxsID09PSBBcnJPbmVJbXByZXNzaW9uT3JOdWxsKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlcG8uZmlsdGVyKGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
@@ -1072,9 +1098,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gaApi</last-search>
+      <last-search>Local</last-search>
       <last-offset />
-      <last-pattern>gaApi</last-pattern>
+      <last-pattern>Local</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -1082,7 +1108,6 @@
     </search>
     <history>
       <history-search>
-        <entry>family</entry>
         <entry>familia</entry>
         <entry>string</entry>
         <entry>gate</entry>
@@ -1102,6 +1127,7 @@
         <entry>stub</entry>
         <entry>gaapi</entry>
         <entry>gaApi</entry>
+        <entry>Local</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
