@@ -93,12 +93,12 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529998259405">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1529998909602">
         <mark key="'" line="287" column="34" />
-        <mark key="[" line="340" column="51" />
-        <mark key="]" line="341" column="105" />
-        <mark key="." line="341" column="105" />
-        <mark key="^" line="341" column="105" />
+        <mark key="[" line="344" column="68" />
+        <mark key="]" line="344" column="87" />
+        <mark key="." line="344" column="87" />
+        <mark key="^" line="344" column="87" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
@@ -658,11 +658,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1529998178506">
-        <mark key="[" line="203" column="41" />
-        <mark key="]" line="203" column="56" />
-        <mark key="." line="203" column="56" />
-        <mark key="^" line="203" column="56" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1529999006240">
+        <mark key="[" line="204" column="78" />
+        <mark key="]" line="204" column="79" />
+        <mark key="." line="204" column="79" />
+        <mark key="^" line="204" column="79" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1529401993493">
         <mark key="[" line="27" column="59" />
@@ -1023,26 +1023,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-      &quot;event&quot;: &quot;eec-product-click&quot;,
-      &quot;gaEventCategory&quot;: &quot;EnhancedEcommerce&quot;,
-      &quot;gaEventAction&quot;: &quot;ProductClick&quot;,
-      &quot;gaEventLabel&quot;: undefined,
-      &quot;gaEventValue&quot;: undefined,
-      &quot;gaEventNonInteraction&quot;: true,
-      'ecommerce': {
-        'click': {
-          'actionField': {'list': 'ordenadores-portatiles'},
-          'products': impression2Send
-        }
-      }
-    }</text>
+        <text>impression2Send</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>ArrOneImpressionOrNull</text>
+        <text>impression2Send</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
