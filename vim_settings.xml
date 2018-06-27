@@ -57,11 +57,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1530082794437">
-        <mark key="[" line="53" column="40" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="40" />
-        <mark key="^" line="52" column="19" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1530087515047">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="54" />
+        <mark key="^" line="23" column="54" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/SmCheckNewsLetterSubsriptionService.php" timestamp="1523477563057">
         <mark key="[" line="53" column="1" />
@@ -93,12 +93,12 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1530083708461">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1530086452533">
         <mark key="'" line="287" column="34" />
-        <mark key="[" line="343" column="38" />
-        <mark key="]" line="343" column="56" />
-        <mark key="." line="343" column="56" />
-        <mark key="^" line="343" column="56" />
+        <mark key="[" line="333" column="0" />
+        <mark key="]" line="333" column="0" />
+        <mark key="." line="333" column="0" />
+        <mark key="^" line="343" column="15" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
@@ -136,7 +136,8 @@
         <mark key="^" line="165" column="53" />
         <mark key="." line="165" column="53" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/ga/manageGAImpressions.js" timestamp="1530083465469">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/ga/manageGAImpressions.js" timestamp="1530086663313">
+        <mark key="'" line="11" column="2" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -806,8 +807,8 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530082948007">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1530087191316">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -932,7 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="262" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="169" column="0" filename="$USER_HOME$/src/flp/libro.md" />
       <jump line="1169" column="60" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1170" column="48" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -1032,16 +1032,17 @@
       <jump line="58" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/SessionStorageRepo.js" />
       <jump line="287" column="34" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="107" column="7" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="11" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/ga/manageGAImpressions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>_flushRepo</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>impressionsRepo</text>
+        <text>_flushRepo</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
@@ -1050,10 +1051,10 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbXByZXNzaW9uc09mQXJ0aWNsZScsIGltcHJlc3Npb25zT2ZBcnRpY2xlLCBkZXRlY3RlZEltcHJlc3Npb24pOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy9vYmplY3QgYXMgYXJyYXkgZGVyZWZlcmVuY2UgPT0gNCBsYXp5IG1hdGNoaW5nIGlkICIyIiBsaWtlIGlkIDIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIGdhQXBpID0gUENDLmdhQXBpKCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucmVwbyA9IDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1062,19 +1063,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVwbyBkZD0gOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy90b2RvOgo=</text>
+        <text encoding="base64">dmFyIGdhQXBpID0gUENDLmdhQXBpKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGl0ZW1bImlkRm9vIl0gIT0gaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy90b2RvOgo=</text>
+        <text encoding="base64">ICAgIHRoaXMucmVwbyBkZD0gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
