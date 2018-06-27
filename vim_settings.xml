@@ -233,10 +233,10 @@
         <mark key="." line="160" column="58" />
         <mark key="^" line="160" column="58" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/article_detail.js" timestamp="1530091439531">
-        <mark key="[" line="1310" column="18" />
-        <mark key="]" line="1310" column="18" />
-        <mark key="." line="1310" column="18" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/article_detail.js" timestamp="1530096617894">
+        <mark key="[" line="1298" column="0" />
+        <mark key="]" line="1298" column="0" />
+        <mark key="." line="1298" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/StargateCommand.php" timestamp="1527802834657">
         <mark key="[" line="26" column="122" />
@@ -1032,7 +1032,29 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>08 , del refactor</text>
+        <text>/**
+ * @description: Check if client device is iOS
+ *
+ */
+function checkIfDeviceIsiOS() {
+    var iDevices = [
+        'iPad Simulator',
+        'iPhone Simulator',
+        'iPod Simulator',
+        'iPad',
+        'iPhone',
+        'iPod',
+        'MacIntel' //BT-415
+    ];
+
+    if (!!navigator.platform) {
+        while (iDevices.length) {
+            if (navigator.platform === iDevices.pop()){ return true; }
+        }
+    }
+
+    return false;
+}</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -1046,32 +1068,54 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbXByZXNzaW9uc09mQXJ0aWNsZScsIGltcHJlc3Npb25zT2ZBcnRpY2xlLCBkZXRlY3RlZEltcHJlc3Npb24pOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcuLi4nKTsK</text>
+      <register name="1" type="4">
+        <text>/**
+ * @description: Check if client device is iOS
+ *
+ */
+function checkIfDeviceIsiOS() {
+    var iDevices = [
+        'iPad Simulator',
+        'iPhone Simulator',
+        'iPod Simulator',
+        'iPad',
+        'iPhone',
+        'iPod',
+        'MacIntel' //BT-415
+    ];
+
+    if (!!navigator.platform) {
+        while (iDevices.length) {
+            if (navigator.platform === iDevices.pop()){ return true; }
+        }
+    }
+
+    return false;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coImRldGVjdGFkbyAiICwgbmF2aWdhdG9yLnBsYXRmb3JtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcuLi4nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy9vYmplY3QgYXMgYXJyYXkgZGVyZWZlcmVuY2UgPT0gNCBsYXp5IG1hdGNoaW5nIGlkICIyIiBsaWtlIGlkIDIK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coImRldGVjdGFkbyAiICwgbmF2aWdhdG9yLnBsYXRmb3JtKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVwbyA9IDsK</text>
+        <text encoding="base64">ICAgICAgLy9vYmplY3QgYXMgYXJyYXkgZGVyZWZlcmVuY2UgPT0gNCBsYXp5IG1hdGNoaW5nIGlkICIyIiBsaWtlIGlkIDIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucmVwbyA9IDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGdhQXBpID0gUENDLmdhQXBpKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGdhQXBpID0gUENDLmdhQXBpKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
