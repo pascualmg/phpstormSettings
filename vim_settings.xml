@@ -57,12 +57,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1530227008882">
-        <mark key="'" line="40" column="6" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="72" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1530228744532">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="53" column="71" />
+        <mark key="." line="53" column="71" />
+        <mark key="^" line="53" column="71" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/SmCheckNewsLetterSubsriptionService.php" timestamp="1523477563057">
         <mark key="[" line="53" column="1" />
@@ -780,7 +780,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530226949684">
+      <file name="/JavaScript Console" timestamp="1530228082760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
@@ -839,11 +839,11 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.spec.js" timestamp="1530226944295">
-        <mark key="[" line="52" column="99" />
-        <mark key="]" line="52" column="67" />
-        <mark key="^" line="52" column="66" />
-        <mark key="." line="52" column="67" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.spec.js" timestamp="1530228789928">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/src/borrameGuay/suma.spec.js" timestamp="1525804038062">
         <mark key="[" line="6" column="29" />
@@ -925,7 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1303" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1304" column="58" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1306" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1309" column="69" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -1025,49 +1024,50 @@
       <jump line="236" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="336" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="40" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" />
+      <jump line="29" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>JSON.parse(localStorage.getItem(repoNameStr));</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>JSON.parse(localStorage.getItem(repoNameStr));</text>
+        <text>trhowExcepcion</text>
       </register>
       <register name="/" type="4">
         <text>findOne</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgJ25vbnNlbnNlOiBjYW50IGxpbmsgYSBub24tYXJyYXkgTG9jYWxTdG9yYWdlIGtleSBhcyBhIHJlcG8nOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGV4cGVjdChmdW5jdGlvbiAoKSB7CiAgICAgICAgbmV3IFBDQy5Mb2NhbFN0b3JhZ2VSZXBvKG51bGwsIG51bGwpOwogICAgICB9KS50b1Rocm93KCJkZWZhdWx0IHBhcmFtZXRlciBjb25zdHJ1Y3RvciByZXBvTmFtZVN0ciBtaXNzaW5nIik7CiAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgpKTsgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgaWYgKCFBcnJheS5pc0FycmF5KHRoaXMucmVwbykpIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgpKTsgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgaWYgKCFBcnJheS5pc0FycmF5KHRoaXMucmVwbykpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIH07Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGZ1bmN0aW9uICgpIHsKICAgIHRocm93ICdub25zZW5zZTogY2FudCBsaW5rIGEgbm9uLWFycmF5IExvY2FsU3RvcmFnZSBrZXkgYXMgYSByZXBvJzsKICB9Ow==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICBUaHJvdygiYWxnbyIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICBUaHJvdygiYWxnbyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
