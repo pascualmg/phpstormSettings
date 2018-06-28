@@ -57,11 +57,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1530213482051">
-        <mark key="[" line="56" column="22" />
-        <mark key="]" line="56" column="22" />
-        <mark key="." line="56" column="22" />
-        <mark key="^" line="49" column="13" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1530224050598">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="73" column="3" />
+        <mark key="]" line="73" column="3" />
+        <mark key="." line="73" column="3" />
+        <mark key="^" line="73" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/SmCheckNewsLetterSubsriptionService.php" timestamp="1523477563057">
         <mark key="[" line="53" column="1" />
@@ -672,7 +673,7 @@
         <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1530009248345">
-        <mark key="[" line="192" column="3" />
+        <mark key="[" line="190" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1529401993493">
         <mark key="[" line="27" column="59" />
@@ -797,7 +798,7 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530218499223">
+      <file name="/Dummy.txt" timestamp="1530224573192">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -832,18 +833,17 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="/gaApi.js" timestamp="1530218604563" />
       <file name="$USER_HOME$/src/jsmoke/src/core/Conexion.js" timestamp="1527537591403">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.spec.js" timestamp="1530216022252">
-        <mark key="[" line="138" column="67" />
-        <mark key="]" line="138" column="67" />
-        <mark key="^" line="138" column="51" />
-        <mark key="." line="138" column="67" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.spec.js" timestamp="1530224942189">
+        <mark key="[" line="86" column="61" />
+        <mark key="]" line="86" column="61" />
+        <mark key="^" line="86" column="60" />
+        <mark key="." line="86" column="61" />
       </file>
       <file name="$USER_HOME$/src/borrameGuay/suma.spec.js" timestamp="1525804038062">
         <mark key="[" line="6" column="29" />
@@ -925,7 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1302" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1303" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1304" column="58" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1306" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -1025,49 +1024,50 @@
       <jump line="114" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="236" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="336" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="40" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ecc-product-click dont do nothing we dont find impression stored</text>
+        <text encoding="base64">IGRlZXAgTG9jYWxTdG9yYWdlIHJlcG8gcmVmYWN0b3IsIGZpbmlzaGVkIGluZGV4b2YgLCB1cGRhdGUgCmV0YyBldGMgYW5kIGFsbW9zdCAxMDAgY29kZSBjb3ZlcmFnZQ==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>ecc-product-click dont do nothing we dont find impression stored</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>detected</text>
+        <text>findOne</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9iajJVcGRhdGVbVEVTVF9SRVBPX0lEXSA9IGk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0UmVzZXRlZFJlcG8oKSB7CiAgdmFyIHJlcG8gPSBuZXcgUENDLkxvY2FsU3RvcmFnZVJlcG8oVEVTVF9SRVBPX05BTUUsIFRFU1RfUkVQT19JRCk7CiAgcmVwby5yZXNldCgpOwogIHJldHVybiByZXBvOwp9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGRlZXAgTG9jYWxTdG9yYWdlIHJlcG8gcmVmYWN0b3IsIGZpbmlzaGVkIGluZGV4b2YgLCB1cGRhdGUgCmV0YyBldGMgYW5kIGFsbW9zdCAxMDAgY29kZSBjb3ZlcmFnZQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBmaXh0dXJlZFJlcG8uZmluZEFsbCgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgdGVzdCBkZSBjYXJnYSBwYXNhbmRvICwgc2UgZGVqYSBjb21lbnRhZG8gcGFyYSBxdWUgbm8gcmFsZW50aWNlIGVqZWN1Y2nDs24gZGUgdGVzdC4KICAgIHRpZW5lIG3DoXMgc2VudGlkbyBzaSBzZSBlamVjdXRhIGRpcmVjdGFtZW50ZSBlbiBlbCBuYXZlZ2Fkb3IgLCBzZSBkZWphIHBhcmEgY29weXBhc3RlYXIKICAgIHkgaGFjZXIgdGVzdCBmdW5jaW9uYWwgbm8gdW5pdGFyaW8gc2kgc2UgcXVpZXJlLgogIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICByZXBvLnJlc2V0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogJ2RhdGEnICsgaQo=</text>
+        <text encoding="base64">ICB0aGlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRGb286IGksCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
@@ -1077,9 +1077,9 @@
       </register>
     </registers>
     <search>
-      <last-search>detected</last-search>
+      <last-search>findOne</last-search>
       <last-offset />
-      <last-pattern>detected</last-pattern>
+      <last-pattern>findOne</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -1087,7 +1087,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ass</entry>
         <entry>ajax_nc_user</entry>
         <entry>user</entry>
         <entry>pcc_salesmanago_con</entry>
@@ -1107,6 +1106,7 @@
         <entry>jest</entry>
         <entry>moked</entry>
         <entry>detected</entry>
+        <entry>findOne</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
