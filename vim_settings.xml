@@ -93,11 +93,11 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1530189400410">
-        <mark key="'" line="287" column="34" />
-        <mark key="[" line="342" column="12" />
-        <mark key="]" line="342" column="14" />
-        <mark key="." line="342" column="14" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1530195825114">
+        <mark key="'" line="343" column="16" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
         <mark key="^" line="342" column="14" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
@@ -811,10 +811,10 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530190741800">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1530195832474">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
@@ -938,7 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1283" column="66" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1287" column="66" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1294" column="19" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1301" column="55" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -1038,16 +1037,17 @@
       <jump line="10" column="33" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
       <jump line="471" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
+      <jump line="343" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGV4cGVjdGVkID0gZXhwZWN0IGdldFRlc3RSZXBvKCkK</text>
+      <register name="&quot;" type="4">
+        <text>ecc-product-click dont do nothing we dont find impression stored</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>ecc-product-click dont do nothing we dont find impression stored</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
@@ -1056,31 +1056,31 @@
         <text encoding="base64">ICAgIGl0KCdkZWxldGUnLCBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGV4cGVjdGVkID0gZXhwZWN0IGdldFRlc3RSZXBvKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXQoJ2RlbGV0ZScsIGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGV4cGVjdGVkID0gZXhwZWN0IGdldFRlc3RSZXBvKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXQoJ2RlbGV0ZScsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdm9pZFNuYXBzaG90WzBdOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwb1NuYXBTaG90WzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdm9pZFNuYXBzaG90WzBdOwogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gZmluZE9uZUJ5SWQoZmFrZWlkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwb1NuYXBTaG90WzBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
