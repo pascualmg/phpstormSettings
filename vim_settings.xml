@@ -93,12 +93,12 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1530195825114">
-        <mark key="'" line="343" column="16" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="342" column="14" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1530218182467">
+        <mark key="'" line="336" column="8" />
+        <mark key="[" line="340" column="12" />
+        <mark key="]" line="340" column="14" />
+        <mark key="." line="340" column="14" />
+        <mark key="^" line="340" column="14" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Test/Infrastructure/MockedApicaller.php" timestamp="1527841010440">
         <mark key="[" line="137" column="36" />
@@ -797,8 +797,8 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530196591202">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1530218499223">
+        <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -832,6 +832,7 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="/gaApi.js" timestamp="1530218604563" />
       <file name="$USER_HOME$/src/jsmoke/src/core/Conexion.js" timestamp="1527537591403">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -924,9 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1287" column="66" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="1294" column="19" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="1301" column="55" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1302" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1303" column="45" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1304" column="58" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -1024,19 +1022,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
       <jump line="471" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/test/gaApi/gaApi.node.test.js" />
       <jump line="343" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="236" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
+      <jump line="336" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICwgbcOhcyBxdWUgdW5pdGFyaW8uIA==</text>
+        <text>ecc-product-click dont do nothing we dont find impression stored</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICwgbcOhcyBxdWUgdW5pdGFyaW8uIA==</text>
+        <text>ecc-product-click dont do nothing we dont find impression stored</text>
       </register>
       <register name="/" type="4">
-        <text>moked</text>
+        <text>detected</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG9iajJVcGRhdGVbVEVTVF9SRVBPX0lEXSA9IGk7Cg==</text>
@@ -1076,9 +1077,9 @@
       </register>
     </registers>
     <search>
-      <last-search>moked</last-search>
+      <last-search>detected</last-search>
       <last-offset />
-      <last-pattern>moked</last-pattern>
+      <last-pattern>detected</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,7 +1087,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gate</entry>
         <entry>ass</entry>
         <entry>ajax_nc_user</entry>
         <entry>user</entry>
@@ -1106,6 +1106,7 @@
         <entry>Local</entry>
         <entry>jest</entry>
         <entry>moked</entry>
+        <entry>detected</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
