@@ -57,10 +57,10 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1530108092650">
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="1" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" timestamp="1530143857645">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Infrastructure/Service/SmCheckNewsLetterSubsriptionService.php" timestamp="1523477563057">
         <mark key="[" line="53" column="1" />
@@ -803,11 +803,6 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530108986549">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/connectif-sync-client-info.js" timestamp="1523020584932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -849,11 +844,11 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.spec.js" timestamp="1530143392665">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="5" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.spec.js" timestamp="1530143633204">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/borrameGuay/suma.spec.js" timestamp="1525804038062">
         <mark key="[" line="6" column="29" />
@@ -1038,13 +1033,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy9yZWdpb24gRGVzY3JpcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>tohqual</text>
+        <text>Description</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
@@ -1053,32 +1048,31 @@
         <text encoding="base64">IAogICAgICBpdCgnY3JlYXRlIGVsZW1lbnQgaWYgbm8gZXhpc3QnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgZ2V0VGVzdFJlcG8oKS5kZWwoMTAwKTsKICAgICAgICBnZXRUZXN0UmVwbygpLmNyZWF0ZSh7aWQ6IDEwMCwgZGF0YTogImd1YXJldmVyIn0pCiAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy9yZWdpb24gRGVzY3JpcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FsbCcsIHJlcG8ucmVwbyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAvL2Fzc2VydHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVwby5yZWFkKCdpZEZvbycsICc5OTknKSBbMF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVwby5yZWFkKCdkYXRhJywgJzg9PUQnKSkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">RGVzY3JpcHRpb24KZGVzY3JpYmUoJ29uZSByZXBvIGluIGEgbnV0c2hlbGwnLCBmdW5jdGlvbiAoKSB7CiAgZGVzY3JpYmUoJ2Z1bmN0aW9uYWwgSW50ZWdyaXR5IGFuZCBhc3NlcnRzJywgZnVuY3Rpb24gKCkgewogICAgaXQoJ2ZhaWxzIGlmIG5vIExvY2FsU3RvcmFnZSBkZXRlY3RlZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIHNhdmUgPSB3aW5kb3cubG9jYWxTdG9yYWdlOyAgICAvL2xhIGd1YXJkYW1vcwogICAgICBleHBlY3QoZnVuY3Rpb24gKCkgewogICAgICAgIHdpbmRvdy5sb2NhbFN0b3JhZ2UgPSBudWxsOyAgIC8vbm9zIGxhIGNhcmdhbW9zCiAgICAgICAgbmV3IFBDQy5Mb2NhbFN0b3JhZ2VSZXBvKFRFU1RfUkVQT19OQU1FLCBURVNUX1JFUE9fSUQpCiAgICAgIH0pLnRvVGhyb3coInVwcHMgLCBuYXZpZ2F0b3IgdG9vIG9sZCIpOwogICAgICB3aW5kb3cubG9jYWxTdG9yYWdlID0gc2F2ZTsgLy9yZXN0YXVyYW1vcwogICAgfSk7CiAgICBpdCgnaSBjYW4gY3JlYXRlIG5ldyBMb2NhbFN0b3JhZ2VSZXBvJywgZnVuY3Rpb24gKCkgewogICAgICBnZXRUZXN0UmVwbygpOwogICAgICByZWFsUmVwbyA9IHdpbmRvdy5sb2NhbFN0b3JhZ2UuZ2V0SXRlbShURVNUX1JFUE9fTkFNRSk7CiAgICAgIGV4cGVjdChyZWFsUmVwbykubm90LnRvQmUobnVsbCk7CiAgICB9KTsKCiAgICBpdCgnZmFpbHMgaWYgbm8gZGVmYXVsdCBwYXJhbWV0ZXJzJywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoZnVuY3Rpb24gKCkgewogICAgICBuZXcgUENDLkxvY2FsU3RvcmFnZVJlcG8obnVsbCxudWxsKTsKICAgICAgfSkudG9UaHJvdygpCiAgICB9KTsKICB9KTsKICBkZXNjcmliZSgnQ1JVRCcsIGZ1bmN0aW9uICgpIHsKICAgIGRlc2NyaWJlKCdDUkVBVEUnLCBmdW5jdGlvbiAoKSB7CgogICAgICBpdCgnY3JlYXRlIGVsZW1lbnQgaWYgbm8gZXhpc3QnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgZ2V0VGVzdFJlcG8oKS5kZWwoMTAwKTsKICAgICAgICBnZXRUZXN0UmVwbygpLmNyZWF0ZSh7aWQ6IDEwMCwgZGF0YTogImd1YXJldmVyIn0pCiAgICAgIH0pOwoKICAgICAgaXQoJ2l0IGZhaWxzIGlmIGVsZW1lbnQgZXhpc3QgLGF2b2lkIGR1cGxpY2F0ZXMnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgZXhwZWN0KGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGdldFRlc3RSZXBvKCkuY3JlYXRlKHtpZDogMTAwLCBkYXRhOiAiZ3VhcmV2ZXIifSkKICAgICAgICAgIGdldFRlc3RSZXBvKCkuY3JlYXRlKHtpZDogMTAwLCBkYXRhOiAiZ3VhcmV2ZXIifSkKICAgICAgICAgIGdldFRlc3RSZXBvKCkuY3JlYXRlKHtpZDogMTAwLCBkYXRhOiAiZ3VhcmV2ZXIifSkKICAgICAgICAgIGdldFRlc3RSZXBvKCkuY3JlYXRlKHtpZDogMTAwLCBkYXRhOiAiZ3VhcmV2ZXIifSkKICAgICAgICB9KS50b1Rocm93KCk7CiAgICAgIH0pOwoKICAgIH0pOwogICAgZGVzY3JpYmUoJ1JFQUQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGl0KCdmaW5kT25lQnlJZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICB2YXIgZml4dHVyZSA9IHtpZDogMTAwLCBkYXRhOiJhbGdvIn07CiAgICAgICAgZ2V0VGVzdFJlcG8oKS5kZWwoZml4dHVyZS5pZCk7CiAgICAgICAgZ2V0VGVzdFJlcG8oKS5jcmVhdGUoZml4dHVyZSk7CiAgICAgICAgbG9jYXRlZCA9IGdldFRlc3RSZXBvKCkuZmluZE9uZUJ5SWQoZml4dHVyZS5pZCk7CiAgICAgICAgZXhwZWN0KGxvY2F0ZWQpLnRvRXF1YWwoZml4dHVyZSk7CiAgICAgIH0pOwogICAgfSk7CgogICAgaXQoJ3VwZGF0ZScsIGZ1bmN0aW9uICgpIHsKICAgIH0pOwogICAgaXQoJ2RlbGV0ZScsIGZ1bmN0aW9uICgpIHsKICAgIH0pOwoKICAgIGl0KCdjb3NhcycsIGZ1bmN0aW9uICgpIHsKICAgICAgcmVwbyA9IGdldFRlc3RSZXBvKCk7CiAgICAgIHRyeSB7CiAgICAgICAgLy9maXh0dXJlcwogICAgICAgIGZvciAoaSA9IDEwMDA7IGkgPj0gMDsgaS0tKSB7CiAgICAgICAgICByZXBvLmNyZWF0ZSh7CiAgICAgICAgICAgIGlkRm9vOiBpLAogICAgICAgICAgICBkYXRhOiAnZGF0YScgKyBpCiAgICAgICAgICB9KQogICAgICAgIH0KICAgICAgfSBjYXRjaCAoZSkgewogICAgICB9CgogICAgICBmb3IgKGkgPSA1MDA7IGkgPj0gMDsgaS0tKSB7CiAgICAgICAgcmVwby5kZWwoaSkKICAgICAgfQogICAgfSkKICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
+        <text encoding="base64">ICAgICAgLy9yZWdpb24gRGVzY3JpcHRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FsbCcsIHJlcG8ucmVwbyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVwby5yZWFkKCdpZEZvbycsICc5OTknKSBbMF0pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>it('read', function () {
-    });</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVwby5yZWFkKCdkYXRhJywgJzg9PUQnKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0KCdyZWFkJywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
