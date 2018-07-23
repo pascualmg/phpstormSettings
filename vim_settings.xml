@@ -414,6 +414,9 @@
         <mark key="." line="4" column="79" />
         <mark key="^" line="4" column="78" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" timestamp="1532331608734">
+        <mark key="'" line="6" column="78" />
+      </file>
       <file name="$USER_HOME$/src/jsmoke/webpack.config.js" timestamp="1527444503056">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="43" />
@@ -606,7 +609,6 @@
         <mark key="." line="8" column="72" />
         <mark key="^" line="8" column="76" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2/src/components/warehouse/ubication-receipts-action.js" timestamp="1532076437630" />
       <file name="$USER_HOME$/src/jsmoke/package.json" timestamp="1527538239080">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="26" />
@@ -637,7 +639,6 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2/src/containers/warehouse/ubication-receipts.js" timestamp="1532076321562" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Domain/model/NewsLetterSubscription.php" timestamp="1523480986069">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="35" />
@@ -661,9 +662,6 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1530009248345">
-        <mark key="[" line="190" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_client_info/cn_client_info_custom_fields.json.twig" timestamp="1529401993493">
         <mark key="[" line="27" column="59" />
@@ -817,7 +815,6 @@
         <mark key="." line="86" column="47" />
         <mark key="^" line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2/src/components/two-buttons.js" timestamp="1532076353725" />
       <file name="$USER_HOME$/src/reactivo/src/Hastag.js" timestamp="1522834952031">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="21" />
@@ -916,7 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1304" column="58" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1306" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1309" column="69" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="238" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -1016,6 +1012,7 @@
       <jump line="336" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="40" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" />
       <jump line="29" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" />
+      <jump line="6" column="78" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1028,7 +1025,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>findOne</text>
+        <text>54</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gYXBwLmdldCgnL3YxL3JlY2VpcHQnLCAocmVxLCByZXMpID0+IHJlcy5qc29uKHJhbmRvbUJvb2woKSA/IHJlY2VpcHQgOiByZWNlaXB0RXJyb3IpKTsK</text>
@@ -1069,9 +1066,9 @@ etc etc and almost 100 code coverage</text>
       </register>
     </registers>
     <search>
-      <last-search>findOne</last-search>
+      <last-search>54</last-search>
       <last-offset />
-      <last-pattern>findOne</last-pattern>
+      <last-pattern>54</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -1079,7 +1076,6 @@ etc etc and almost 100 code coverage</text>
     </search>
     <history>
       <history-search>
-        <entry>ajax_nc_user</entry>
         <entry>user</entry>
         <entry>pcc_salesmanago_con</entry>
         <entry>optin</entry>
@@ -1099,6 +1095,7 @@ etc etc and almost 100 code coverage</text>
         <entry>moked</entry>
         <entry>detected</entry>
         <entry>findOne</entry>
+        <entry>54</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
