@@ -3,19 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1532500290030">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/acciones_web [@192.168.50.144]" timestamp="1532343871309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Common/Base/TwigBase.php" timestamp="1532342263674" />
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Shopping/Order/OrderManager.php" timestamp="1532436505929" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1532424142424">
-        <mark key="[" line="36" column="43" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/Comment/comments.html.twig" timestamp="1532430058577" />
-      <file name="/api_compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423699929">
+      <file name="/clientes_modelo_347_copy [@192.168.50.144]" timestamp="1532343872832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/aux_compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423707461">
+      <file name="/compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423989737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/adyen_error_transaction [web@1.lectura.xgest.pccom.interno]" timestamp="1532338733698">
@@ -30,29 +27,14 @@
       <file name="/aceptacion_terminos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423691904">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/OrderController.php" timestamp="1532500226886" />
       <file name="/tourline_agencias [componentes]" timestamp="1532425053257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1532344074827">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/testUI/es/generic/URLTests/pc_project/pages/cartpage.js" timestamp="1532429135984" />
-      <file name="/api_third_party_services_status [web@1.lectura.xgest.pccom.interno]" timestamp="1532338742726">
+      <file name="/PHP Console" timestamp="1532500229832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1530197075403">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/clientes_modelo_347_copy [@192.168.50.144]" timestamp="1532343872832">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423989737">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/OrderController.php" timestamp="1532435107391" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Shopping/Order/OrderManager.php" timestamp="1532500426086" />
       <file name="/api_rma_log_anovo_requests_24_11 [web@1.lectura.xgest.pccom.interno]" timestamp="1532338736172">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,36 +46,56 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1532424142424">
+        <mark key="[" line="36" column="43" />
+      </file>
       <file name="/articulos_comentarios_internos [@192.168.50.144]" timestamp="1532423445253">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/actualizacion_precios_pccom_historicos [componentes]" timestamp="1532425029646">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tourline_agencias_150102 [componentes]" timestamp="1532425050240">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/services.yml" timestamp="1532342227606" />
-      <file name="/api_technical_support_provider [web@1.lectura.xgest.pccom.interno]" timestamp="1532338742188">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1532433605841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1532344663117">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1532344074827">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1532424336837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Shopping/Order/Request/OrderRequestDTO.php" timestamp="1532433263547" />
+      <file name="/actualizacion_precios_pccom_historicos [componentes]" timestamp="1532425029646">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1532500295776">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/api_third_party_services_status [web@1.lectura.xgest.pccom.interno]" timestamp="1532338742726">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tourline_agencias_150102 [componentes]" timestamp="1532425050240">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/api_compras_articulos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423694910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/order-detail.html.twig" timestamp="1532430158775" />
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/ExternalKiller/ExternalKillerService.php" timestamp="1532342359791" />
+      <file name="/api_compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423699929">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1532500975679">
+        <mark key="[" line="1185" column="6" />
+        <mark key="]" line="1186" column="27" />
+        <mark key="^" line="1186" column="27" />
+        <mark key="." line="1186" column="27" />
+      </file>
+      <file name="/api_technical_support_provider [web@1.lectura.xgest.pccom.interno]" timestamp="1532338742188">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/aux_compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423707461">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_product_visited/cn_product_visited.html.twig" timestamp="1532418275448">
         <mark key="[" line="45" column="53" />
         <mark key="]" line="45" column="53" />
