@@ -69,6 +69,7 @@
       <file name="/actualizacion_precios_pccom_historicos [componentes]" timestamp="1532425029646">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/testUI/es/generic/URLTests/pc_project/pages/cartpage.js" timestamp="1532502293797" />
       <file name="/fragment.php" timestamp="1532500295776">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,11 +85,11 @@
       <file name="/api_compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423699929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1532500975679">
-        <mark key="[" line="1185" column="6" />
-        <mark key="]" line="1186" column="27" />
-        <mark key="^" line="1186" column="27" />
-        <mark key="." line="1186" column="27" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1532501846744">
+        <mark key="[" line="1424" column="32" />
+        <mark key="]" line="1425" column="27" />
+        <mark key="." line="1425" column="27" />
+        <mark key="^" line="1425" column="27" />
       </file>
       <file name="/api_technical_support_provider [web@1.lectura.xgest.pccom.interno]" timestamp="1532338742188">
         <mark key="[" line="0" column="0" />
@@ -117,6 +118,7 @@
       <file name="/api_gama_blanca_pedido_lineas [componentes]" timestamp="1532425055261">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.ClicksAndCartControl.js" timestamp="1532502478981" />
     </filemarks>
     <jumps>
       <jump line="1306" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -222,13 +224,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lhobservaciones_pedido</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>lhobservaciones_pedido</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>54</text>
@@ -237,33 +239,33 @@
         <text encoding="base64">CnNlbGVjdCAgb2JzZXJ2YWNpb25lc19wZWRpZG8KZnJvbSB3ZWIuY29tcHJhc19kYXRvc19hcmNoaXZhZG9zIGNkCmxlZnQgam9pbiB3ZWIuY29tcHJhc19hcnRpY3Vsb3MgY2Egb24gY2EuaWRfY29tcHJhc19kYXRvcyA9IGNkLnBlZGlkbwp3aGVyZSBjYS5pZF9wcm9kdWN0byA9IDMxMDQ2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgY2QubW9udGFqZSA9ICdzJwo=</text>
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZygnRGF0YScsZGF0YSApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wcmFzX2FydGljdWxvcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">d2hlcmUgY2QubW9udGFqZSA9ICdzJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wcmFzX2FydGljdWxvcwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">bGVmdCBqb2luCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>select *
 from web.familias fam
 where fam.id_familia in ( 1689, 1688)</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB7IzxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndmVuZG9yL2Nvbm5lY3RpZi9wY2MuQ29ubmVjdGlmLmpzJ3wganNfcmV2KSB9fSI+PC9zY3JpcHQ+I30K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICB7JSBpZiBiYXNlLnNlcnZpY2VzU3RhdHVzLmNvbm5lY3RpZiBpcyBub3QgZGVmaW5lZCBvciBiYXNlLnNlcnZpY2VzU3RhdHVzLmNvbm5lY3RpZiA9PSB0cnVlJX0KICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY25fYmFubmVyX3BsYWNlaG9sZGVyIiBpZD0iY25fYmFubmVyX2Zvcm1fYWx0YV9mb290ZXIiPjwvZGl2PgogICAgICAgICAgICAgICAgIHslIGVuZGlmICV9</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICB7JSBpZiBiYXNlLnNlcnZpY2VzU3RhdHVzLmNvbm5lY3RpZiBpcyBub3QgZGVmaW5lZCBvciBiYXNlLnNlcnZpY2VzU3RhdHVzLmNvbm5lY3RpZiA9PSB0cnVlJX0KICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY25fYmFubmVyX3BsYWNlaG9sZGVyIiBpZD0iY25fYmFubmVyX2Zvcm1fYWx0YV9mb290ZXIiPjwvZGl2PgogICAgICAgICAgICAgICAgIHslIGVuZGlmICV9</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
