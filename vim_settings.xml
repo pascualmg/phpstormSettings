@@ -32,6 +32,11 @@
       <file name="/aceptacion_terminos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423691904">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/OrderController.php" timestamp="1532687167787">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
       <file name="/tourline_agencias [componentes]" timestamp="1532425053257">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,12 +80,6 @@
       </file>
       <file name="/fragment.php" timestamp="1532500295776">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1532686057197">
-        <mark key="[" line="40" column="49" />
-        <mark key="]" line="40" column="49" />
-        <mark key="." line="40" column="49" />
-        <mark key="^" line="40" column="49" />
       </file>
       <file name="/tourline_agencias_150102 [componentes]" timestamp="1532425050240">
         <mark key="[" line="0" column="0" />
@@ -232,8 +231,8 @@
       <jump line="6" column="78" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
@@ -248,31 +247,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Int7IGFzc2V0KCdtYWluL3BjYy5GYWNlYm9vay1waXhlbC5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAicm9hdmUvc2VjdXJpdHktYWR2aXNvcmllcyIsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Int7IGFzc2V0KCdtYWluL3BjYy5kb3VibGVjbGljay1waXhlbC5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbnNlcnRpb25Ob2RlLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHNjcmlwdFRhZywgaW5zZXJ0aW9uTm9kZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgaW5zZXJ0aW9uTm9kZSA9IGRvY3VtZW50LmJvZHkuZmlyc3RDaGlsZDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJTdWJzY3JpcHRpb25zID0gJHVzZXJTdWJzY3JpcHRpb25zOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAicm9hdmUvc2VjdXJpdHktYWR2aXNvcmllcyIsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Int7IGFzc2V0KCdtYWluL3BjYy5kb3VibGVjbGljay1waXhlbC5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnNlcnRpb25Ob2RlLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHNjcmlwdFRhZywgaW5zZXJ0aW9uTm9kZSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzY3JpcHRUYWcubGFuZ3VhZ2UgPSAiSmF2YVNjcmlwdDEuMSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgaW5zZXJ0aW9uTm9kZSA9IGRvY3VtZW50LmJvZHkuZmlyc3RDaGlsZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzY3JpcHRUYWcuc3JjID0gY29udmVyc2lvblRhZyArIHJhbmRvbU51bWJlciArICI/IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgc2NyaXB0VGFnID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzY3JpcHRUYWcubGFuZ3VhZ2UgPSAiSmF2YVNjcmlwdDEuMSI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
