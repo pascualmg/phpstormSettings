@@ -76,11 +76,11 @@
       <file name="/fragment.php" timestamp="1532500295776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1532682488071">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="32" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="31" column="32" />
+      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1532686057197">
+        <mark key="[" line="40" column="49" />
+        <mark key="]" line="40" column="49" />
+        <mark key="." line="40" column="49" />
+        <mark key="^" line="40" column="49" />
       </file>
       <file name="/tourline_agencias_150102 [componentes]" timestamp="1532425050240">
         <mark key="[" line="0" column="0" />
@@ -233,13 +233,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>434 , only render and send promo's info for cn if hasMonetaryDiscount.</text>
+        <text>,</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>434 , only render and send promo's info for cn if hasMonetaryDiscount.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>54</text>
@@ -248,31 +248,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Int7IGFzc2V0KCdtYWluL3BjYy5GYWNlYm9vay1waXhlbC5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Int7IGFzc2V0KCdtYWluL3BjYy5kb3VibGVjbGljay1waXhlbC5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAicm9hdmUvc2VjdXJpdHktYWR2aXNvcmllcyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Int7IGFzc2V0KCdtYWluL3BjYy5kb3VibGVjbGljay1waXhlbC5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbnNlcnRpb25Ob2RlLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHNjcmlwdFRhZywgaW5zZXJ0aW9uTm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgaW5zZXJ0aW9uTm9kZSA9IGRvY3VtZW50LmJvZHkuZmlyc3RDaGlsZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnNlcnRpb25Ob2RlLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHNjcmlwdFRhZywgaW5zZXJ0aW9uTm9kZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgaW5zZXJ0aW9uTm9kZSA9IGRvY3VtZW50LmJvZHkuZmlyc3RDaGlsZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzY3JpcHRUYWcubGFuZ3VhZ2UgPSAiSmF2YVNjcmlwdDEuMSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzY3JpcHRUYWcuc3JjID0gY29udmVyc2lvblRhZyArIHJhbmRvbU51bWJlciArICI/IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzY3JpcHRUYWcubGFuZ3VhZ2UgPSAiSmF2YVNjcmlwdDEuMSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgc2NyaXB0VGFnID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzY3JpcHRUYWcuc3JjID0gY29udmVyc2lvblRhZyArIHJhbmRvbU51bWJlciArICI/IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgcmFuZG9tTnVtYmVyID0gTWF0aC5mbG9vcigoTWF0aC5yYW5kb20oKSAqIDEwMDAwMDAwMDAwMDApICsgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgc2NyaXB0VGFnID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
