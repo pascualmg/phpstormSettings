@@ -122,10 +122,6 @@
         <mark key="." line="127" column="7" />
         <mark key="^" line="127" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order-detail.js" timestamp="1532503256777">
-        <mark key="[" line="1184" column="0" />
-        <mark key="]" line="1184" column="47" />
-      </file>
       <file name="/api_technical_support_provider [web@1.lectura.xgest.pccom.interno]" timestamp="1532338742188">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,6 +141,13 @@
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" timestamp="1532602268254">
         <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/cn_refresh_cart.js" timestamp="1533027480250">
+        <mark key="'" line="58" column="19" />
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="59" column="61" />
+        <mark key="^" line="59" column="61" />
+        <mark key="." line="59" column="61" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/Resume/final-resume-ticket.html.twig" timestamp="1533026841617">
         <mark key="[" line="31" column="0" />
@@ -172,9 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1309" column="69" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="238" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
-      <jump line="564" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="58" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" />
       <jump line="70" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.functional.test.js" />
       <jump line="82" column="32" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Newsletter/NewsletterController.php" />
@@ -272,6 +272,9 @@
       <jump line="29" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" />
       <jump line="6" column="78" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" />
       <jump line="78" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet.html.twig" />
+      <jump line="125" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/cn_refresh_cart.js" />
+      <jump line="59" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/cn_refresh_cart.js" />
+      <jump line="58" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/cn_refresh_cart.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -284,7 +287,7 @@
         <text encoding="base64">ZnJlZVNoaXBwaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text>envio</text>
+        <text>articles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Int7IGFzc2V0KCdtYWluL3BjYy5GYWNlYm9vay1waXhlbC5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
@@ -324,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>envio</last-search>
+      <last-search>articles</last-search>
       <last-offset />
-      <last-pattern>envio</last-pattern>
+      <last-pattern>articles</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -334,8 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pcc_salesmanago_con</entry>
-        <entry>optin</entry>
         <entry>redis</entry>
         <entry>deals_orders</entry>
         <entry>jquery</entry>
@@ -354,6 +355,8 @@
         <entry>findOne</entry>
         <entry>54</entry>
         <entry>envio</entry>
+        <entry>articles.map</entry>
+        <entry>articles</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
