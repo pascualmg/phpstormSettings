@@ -21,7 +21,7 @@
       <file name="/compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423989737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet.html.twig" timestamp="1533060289962">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet.html.twig" timestamp="1533060529845">
         <mark key="'" line="78" column="17" />
         <mark key="[" line="162" column="63" />
         <mark key="]" line="162" column="63" />
@@ -86,11 +86,11 @@
       <file name="/aux_compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423707461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/send-if-ship-is-not-free.twig" timestamp="1533060260696">
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/send-if-ship-is-not-free.twig" timestamp="1533061058214">
+        <mark key="[" line="5" column="65" />
+        <mark key="]" line="5" column="91" />
+        <mark key="^" line="5" column="93" />
+        <mark key="." line="6" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1532424142424">
         <mark key="[" line="36" column="43" />
@@ -102,6 +102,12 @@
       </file>
       <file name="/adyen_error_transaction [web@1.lectura.xgest.pccom.interno]" timestamp="1532338733698">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/app/Resources/translations/messages.es.yml" timestamp="1533061232630">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="/aceptacion_terminos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423691904">
         <mark key="[" line="0" column="0" />
@@ -151,9 +157,6 @@
         <mark key="]" line="97" column="29" />
         <mark key="^" line="97" column="29" />
         <mark key="." line="97" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" timestamp="1532602268254">
-        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/cn_refresh_cart.js" timestamp="1533039803065">
         <mark key="'" line="58" column="19" />
@@ -288,22 +291,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BT-288 , tags bt-288</text>
+        <text>m</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>BT-288 , tags bt-288</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>articulos.datasheet.envio</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="0" type="4">
+        <text>Euros en productos físicos.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyN0b2RvIHRyYWR1Y2Npb25lcyN9Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -324,28 +327,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG8gc2kgaGFjZXMgcGVkaWRvIHN1cGVyaW9yIGEge3sgYW1vdW50Rm9yRnJlZSB9fSBFdXJvcyBlbiBwcm9kdWN0b3MgZsOtc2ljb3MuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">eyN0b2RvIHRyYWR1Y2Npb25lcyN9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7I21vY2sgYW1vdW50NGZyZWUgLCB0b2RvOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxIC4gU2kgdmllbmUgZGUgcHJpdmF0ZUFwaSAsIGJvcnJhciBkaXJlY3QgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyUgc2V0IGFtb3VudEZvckZyZWUgPSBhbW91bnRGb3JGcmVlIHwgZGVmYXVsdCggMTUwICkgJX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7I21vY2sgYW1vdW50NGZyZWUgLCB0b2RvOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxIC4gU2kgdmllbmUgZGUgcHJpdmF0ZUFwaSAsIGJvcnJhciBkaXJlY3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
