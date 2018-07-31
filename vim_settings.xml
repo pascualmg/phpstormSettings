@@ -21,6 +21,13 @@
       <file name="/compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423989737">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet.html.twig" timestamp="1533026490059">
+        <mark key="'" line="78" column="17" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="82" column="18" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order_detail.js" timestamp="1532510276135">
         <mark key="[" line="1385" column="0" />
         <mark key="]" line="1385" column="0" />
@@ -35,10 +42,10 @@
       <file name="/aceptacion_terminos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423691904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/OrderController.php" timestamp="1532687167787">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/OrderController.php" timestamp="1533026762128">
+        <mark key="[" line="786" column="0" />
+        <mark key="]" line="786" column="0" />
+        <mark key="." line="786" column="0" />
       </file>
       <file name="/tourline_agencias [componentes]" timestamp="1532425053257">
         <mark key="[" line="0" column="0" />
@@ -130,8 +137,20 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet-pccom.html.twig" timestamp="1533026354536">
+        <mark key="[" line="97" column="26" />
+        <mark key="]" line="97" column="29" />
+        <mark key="^" line="97" column="29" />
+        <mark key="." line="97" column="29" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" timestamp="1532602268254">
         <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/Resume/final-resume-ticket.html.twig" timestamp="1533026841617">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="21" />
       </file>
       <file name="/aux_compras_articulos [@192.168.50.144]" timestamp="1532423656501">
         <mark key="[" line="0" column="0" />
@@ -153,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1306" column="42" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="1309" column="69" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="238" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
       <jump line="564" column="15" filename="$USER_HOME$/src/web/xml/feed/class/PccomFeederAbstract.class.php" />
@@ -253,49 +271,50 @@
       <jump line="40" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" />
       <jump line="29" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/LocalStorageRepo.js" />
       <jump line="6" column="78" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/drop-ship-addons/_pickup-ship.html.twig" />
+      <jump line="78" column="17" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJTdWJzY3JpcHRpb25zID0gJHVzZXJTdWJzY3JpcHRpb25zOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZnJlZVNoaXBwaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text>54</text>
+        <text>envio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Int7IGFzc2V0KCdtYWluL3BjYy5GYWNlYm9vay1waXhlbC5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJTdWJzY3JpcHRpb25zID0gJHVzZXJTdWJzY3JpcHRpb25zOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2luc2VydGFuZG8gZG91YmxlY2xpY2snICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICB7eyBkdW1wKGFydGljbGUpfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgZW1iZWQgJ0BQY2NXZWIvYmFzZS9kb3VibGVjbGljay1waXhlbC5odG1sLnR3aWcnICV9eyUgZW5kZW1iZWQgJX0K</text>
+        <text encoding="base64">ICAgIHslIHNldCBhcnRpY2xlLmZyZWVTaGlwcGluZyA9ICd0cnVlJyAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cDovLzUuMTM1LjE4NS4xNTU6MzAwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBzZXQgYXJ0aWNsZS5mcmVlU2hpcHBpbmcgPSAndHJ1ZScgJX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkdW1wIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgZW1iZWQgJ0BQY2NXZWIvYmFzZS9kb3VibGVjbGljay1waXhlbC5odG1sLnR3aWcnICV9eyUgZW5kZW1iZWQgJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgZW1iZWQgJ0BQY2NXZWIvYmFzZS9kb3VibGVjbGljay1waXhlbC5odG1sLnR3aWcnICV9eyUgZW5kZW1iZWQgJX0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2luc2VydGFuZG8gZG91YmxlY2xpY2snICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgZW1iZWQgJ0BQY2NXZWIvYmFzZS9kb3VibGVjbGljay1waXhlbC5odG1sLnR3aWcnICV9eyUgZW5kZW1iZWQgJX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cDovLzUuMTM1LjE4NS4xNTU6MzAwMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -305,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>54</last-search>
+      <last-search>envio</last-search>
       <last-offset />
-      <last-pattern>54</last-pattern>
+      <last-pattern>envio</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>closure</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>pcc_salesmanago_con</entry>
         <entry>optin</entry>
         <entry>redis</entry>
@@ -335,6 +353,7 @@
         <entry>detected</entry>
         <entry>findOne</entry>
         <entry>54</entry>
+        <entry>envio</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
