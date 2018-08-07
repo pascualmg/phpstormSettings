@@ -51,11 +51,11 @@
         <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/notifications/cookie-notification.html.twig" timestamp="1533624984371" />
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/PCC.Component.js" timestamp="1533641413768">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="25" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/PCC.Component.js" timestamp="1533642704412">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/send-if-ship-is-not-free.twig" timestamp="1533207722420">
         <mark key="[" line="5" column="68" />
@@ -120,10 +120,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.EventManager.js" timestamp="1533639503296" />
-      <file name="/Dummy.txt" timestamp="1533641431394">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1533642711981">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/pruebecilla/src/zapalevi/main.java" timestamp="1520728700550">
         <mark key="[" line="21" column="10" />
@@ -191,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mplicit construct.</text>
+        <text>eventManager dependency</text>
       </register>
       <register name="-" type="4">
-        <text>mplicit construct.</text>
+        <text>eventManager dependency</text>
       </register>
       <register name="/" type="4">
         <text>$user</text>
@@ -202,33 +202,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZW5kZXI6IHJlbmRlciwK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="4">
         <text>,
         render</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB1cGRhdGVDb21wb25lbnRTdGF0dXM6IHVwZGF0ZUNvbXBvbmVudFN0YXR1cywK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBnZXRDb21wb25lbnRTdGF0dXM6IGdldENvbXBvbmVudFN0YXR1cywK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZXRMaXN0ZW5lcnM6IHNldExpc3RlbmVycywK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbml0OiBpbml0LAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBzZXRMaXN0ZW5lcnMoKSB7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHVwZGF0ZUNvbXBvbmVudFN0YXR1cygpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
     <search>
