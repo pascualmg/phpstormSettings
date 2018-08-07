@@ -81,10 +81,10 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533434077465">
+      <file name="/Dummy.txt" timestamp="1533627192197">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/pruebecilla/src/zapalevi/main.java" timestamp="1520728700550">
         <mark key="[" line="21" column="10" />
@@ -97,11 +97,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1533125585511">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail-drop-shipping.html.twig" timestamp="1533547685436">
         <mark key="'" line="15" column="0" />
@@ -118,11 +113,11 @@
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.NotificationCookies.js" timestamp="1533625313276">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="38" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.NotificationCookies.js" timestamp="1533627518742">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="8" column="62" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/notifications/cookie-notification.html.twig" timestamp="1533624984371" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/send-if-ship-is-not-free.twig" timestamp="1533207722420">
@@ -182,45 +177,44 @@
       <jump line="40" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail-drop-shipping.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QlQtNDgzIHBsYW50aWxsYSBjb24gbGEgaW5mbyBkZSBsb3MgcG9ydGVzIGdyYXRpcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>$user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5vdGlmaWNhY2lvbkNvb2tpZXMuaGlkZSgnc2xvdycpOwo=</text>
+      <register name="0" type="4">
+        <text>$.cookie(&quot;acept_cookie&quot;) != 1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5vdGlmaWNhdGlvbkNvb2tpZXMucmVtb3ZlKCk7Cg==</text>
+        <text encoding="base64">QlQtNDgzIHBsYW50aWxsYSBjb24gbGEgaW5mbyBkZSBsb3MgcG9ydGVzIGdyYXRpcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9ICV9Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciB0aGVDb29raWVJc0FjY2VwdGVkID0gJC5jb29raWUoImFjZXB0X2Nvb2tpZSIpICE9IDEpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi9hcnRpY2xlL2RldGFpbC9kYXRhc2hlZXQvc2hpcHBpbmctZnJlZS1pbmZvLWNvbmRpdGlvbnMudHdpZycgICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5vdGlmaWNhdGlvbkNvb2tpZXMucmVtb3ZlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi9hcnRpY2xlL2RldGFpbC9kYXRhc2hlZXQvc2hpcHBpbmctZnJlZS1pbmZvLWNvbmRpdGlvbnMudHdpZycgICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9ICV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyUgdHJhbnNfZGVmYXVsdF9kb21haW4gImFydGljbGUtZGF0YXNoZWV0IiAlfQo=</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi9hcnRpY2xlL2RldGFpbC9kYXRhc2hlZXQvc2hpcHBpbmctZnJlZS1pbmZvLWNvbmRpdGlvbnMudHdpZycgICV9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>mas info envio gratis  en ficha pccom  : 
-Hasta el 31 de Agosto, todos los pedidos con destino a España y Portugal (ambos territorio peninsular) que sumen {{ app.user.amountForFree }}€ IVA incluido en productos. En esta suma no se contabilizan los gastos de envío u otros cargos derivados de las distintas formas de pago.</text>
+      <register name="8" type="2">
+        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi9hcnRpY2xlL2RldGFpbC9kYXRhc2hlZXQvc2hpcHBpbmctZnJlZS1pbmZvLWNvbmRpdGlvbnMudHdpZycgICV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyUgZW5kYmxvY2sgZnJlZUNvbmRpdGlvbnMgJX0K</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
     </registers>
     <search>
