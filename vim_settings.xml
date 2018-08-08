@@ -58,11 +58,12 @@
       <file name="/tpv_log [@192.168.50.144]" timestamp="1533105295415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" timestamp="1533732778414">
-        <mark key="[" line="435" column="0" />
-        <mark key="]" line="435" column="0" />
-        <mark key="." line="435" column="0" />
-        <mark key="^" line="454" column="38" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" timestamp="1533735424271">
+        <mark key="'" line="281" column="5" />
+        <mark key="[" line="436" column="10" />
+        <mark key="]" line="436" column="45" />
+        <mark key="." line="436" column="45" />
+        <mark key="^" line="436" column="45" />
       </file>
       <file name="/api_shopping_line_service [@192.168.50.144]" timestamp="1533725952389">
         <mark key="[" line="0" column="0" />
@@ -70,11 +71,10 @@
       <file name="/dummy.sql" timestamp="1533726364346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533725992892">
-        <mark key="d" line="0" column="57" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1533735536968">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/image/article-images.html.twig" timestamp="1533715700776">
         <mark key="[" line="76" column="36" />
@@ -155,34 +155,37 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="376" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" />
       <jump line="438" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
+      <jump line="423" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
+      <jump line="424" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
+      <jump line="281" column="5" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2t5LnNyYyA9IHNyY0Zha2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>faked script , create element</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>faked script , create element</text>
       </register>
       <register name="/" type="4">
         <text>$user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdDb250YWluZXIuYXBwZW5kQ2hpbGQoaW1nVG9reSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b2t5LnNyYyA9ICcvL2F6NjAxMjYzLnZvLm1zZWNuZC5uZXQvd2Vidmlldy8nICsgdG9reV9pZCArICcvZW1iZWQuanMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2t5LnNyYyA9IHNyY0Zha2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiBTY3JpcHQgZGUgdG9reS13b2t5ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdDb250YWluZXIuYXBwZW5kQ2hpbGQoY2hhdEljb24pOwo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgLy9pY29uaWxsbyBkZSBjaGF0CiAgICAgICAgdmFyIGNoYXRJY29uID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgICAgICAgY2hhdEljb24uc2V0QXR0cmlidXRlKAogICAgICAgICAgICAnc3R5bGUnLAogICAgICAgICAgICAicG9zaXRpb246IGFic29sdXRlOyB3aWR0aDogMjVweDsgaGVpZ2h0OiAyNXB4OyB0b3A6IDBweDsgcmlnaHQ6IDBweDsgIiArCiAgICAgICAgICAgICJmb250LWZhbWlseTogSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsgYmFja2dyb3VuZDogcmVkOyBmb250LXNpemU6IDEycHg7IGNvbG9yOiB3aGl0ZTsgIiArCiAgICAgICAgICAgICJib3JkZXItcmFkaXVzOiAxMDBweDsgdGV4dC1hbGlnbjogY2VudGVyOyBsaW5lLWhlaWdodDogMjVweDsgZGlzcGxheTogbm9uZTsiCiAgICAgICAgKTsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -191,10 +194,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlL0JULTQ3OC1jYXJnYXItdG9reXdva3kteS1zdXMtbGlicmVyaWFzLWN1YW5kbwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIC8qCiAgICAgICAgU2NyaXB0IGRlIHRva3ktd29reQogICAgICovCiAgICBmdW5jdGlvbiBsb2FkVG9reVdva3lTY3JpcHQoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ2xvYWRpbmcgdG9reS4uLi4nKTsvL1RPRE86IGJvcnJhbWUuCiAgICAgICAgdmFyIHRva3kgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgICAgICB0b2t5LnR5cGUgPSAndGV4dC9qYXZhc2NyaXB0JzsKICAgICAgICB0b2t5LmFzeW5jID0gdHJ1ZTsKICAgICAgICB0b2t5LnNyYyA9IHNyY0Zha2U7CiAgICAgICAgLy8gdG9reS5zcmMgPSAnLy9hejYwMTI2My52by5tc2VjbmQubmV0L3dlYnZpZXcvJyArIHRva3lfaWQgKyAnL2VtYmVkLmpzJzsKICAgICAgICAoZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXSB8fCBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnYm9keScpWzBdKS5hcHBlbmRDaGlsZCh0b2t5KTsKICAgIH0=</text>
       </register>
     </registers>
     <search>
