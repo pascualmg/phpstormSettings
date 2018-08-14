@@ -96,6 +96,9 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/src/frontst/src/paramita.svg" timestamp="1534282687893">
+        <mark key="'" line="2249" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" timestamp="1533718088671">
         <mark key="'" line="263" column="12" />
         <mark key="[" line="1328" column="61" />
@@ -165,12 +168,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534282586279">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="21" column="44" />
+      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534284032698">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/article/detail/article_detail.js" timestamp="1533724405413">
         <mark key="[" line="28" column="0" />
@@ -286,10 +288,14 @@
       <jump line="1508" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/article_detail.js" />
       <jump line="102" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="327" column="0" filename="$USER_HOME$/src/frontst/node_modules/react/cjs/react.development.js" />
+      <jump line="19" column="51" filename="$USER_HOME$/src/frontst/src/paramita.svg" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/frontst/src/paramita.svg" />
+      <jump line="2249" column="0" filename="$USER_HOME$/src/frontst/src/paramita.svg" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -301,34 +307,34 @@
         <text encoding="base64">dXNlIFBjY1xJbmZyYXN0cnVjdHVyZVxQZXJzaXN0ZW5jZVxNb2NrZWRQY2NvbUFwaVN1YnNjcmlwdGlvblJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlc2xpbnQiOiAiXjUuMy4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cudXNlclJvbGVzID0gVVNFUl9ST0xFUwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhVU0VSX1JPTEVTKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTmljb2xhcyBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBpbWFnZXNMb2FkZWQgPSBmYWxzZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IFVTRVJfUk9MRVMgZnJvbSAnLi9VU0VSX1JPTEVTLmpzJwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBpbml0aWFsSXNDaGVrZWQgPSBpbml0aWFsSXNDaGVja2VkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>!ls</text>
+        <text>n</text>
       </register>
     </registers>
     <search>
@@ -349,6 +355,8 @@
         <entry>wq</entry>
         <entry>/erro</entry>
         <entry>!ls</entry>
+        <entry>q</entry>
+        <entry>n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
