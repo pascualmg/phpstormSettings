@@ -18,11 +18,6 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/article_detail.js" timestamp="1534256682847">
-        <mark key="[" line="1536" column="21" />
-        <mark key="]" line="1536" column="21" />
-        <mark key="." line="1536" column="21" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2017/formulario-concurso.html.twig" timestamp="1534164055821">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -135,12 +130,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/.eslintrc.json" timestamp="1534253312171">
+      <file name="$USER_HOME$/src/pccfront/.eslintrc.json" timestamp="1534257070299">
         <mark key="'" line="243" column="33" />
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="58" />
-        <mark key="." line="5" column="58" />
-        <mark key="^" line="202" column="23" />
+        <mark key="[" line="208" column="33" />
+        <mark key="]" line="208" column="33" />
+        <mark key="." line="208" column="35" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Subscriptions/SubscriptionsController.php" timestamp="1534155571937">
         <mark key="[" line="27" column="0" />
@@ -261,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>white</text>
@@ -299,6 +293,9 @@
       <register name="9" type="4">
         <text encoding="base64">ICAgIC8vIFRvZG8gUHJlZ3VudGFyIHNpIHRpZW5lIHNlbnRpZG8gZWwgZ2V0IHkgZWwgc2V0IGRlIGxhcyBwcm9wcyAsIGN1YW5kbyBzaWVtcHJlIHZhbiBhIHNlciBww7pibGljYXMuIGlndWFsIGNvbiBzZXRMaXN0ZW5lcnMuCiAgICAiZ2V0UHJvcHMiOiBmdW5jdGlvbiBnZXRQcm9wcygpIHsKCiAgICAgICAgcmV0dXJuIHRoaXMucHJvcHM7CgogICAgfSw=</text>
       </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
     </registers>
     <search>
       <last-search>white</last-search>
@@ -313,7 +310,9 @@
         <entry>$user</entry>
         <entry>white</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
