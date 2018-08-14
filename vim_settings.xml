@@ -18,13 +18,6 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/article_detail.js" timestamp="1534245330877">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2017/formulario-concurso.html.twig" timestamp="1534164055821">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -137,11 +130,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/.eslintrc.json" timestamp="1534244878429">
-        <mark key="'" line="264" column="0" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
+      <file name="$USER_HOME$/src/pccfront/.eslintrc.json" timestamp="1534253312171">
+        <mark key="'" line="243" column="33" />
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="202" column="23" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Subscriptions/SubscriptionsController.php" timestamp="1534155571937">
         <mark key="[" line="27" column="0" />
@@ -197,11 +191,11 @@
         <mark key="]" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" timestamp="1533658415965">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" timestamp="1534252767692">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="52" column="15" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" timestamp="1534158590456">
         <mark key="'" line="1030" column="44" />
@@ -258,13 +252,14 @@
       <jump line="166" column="13" filename="$USER_HOME$/src/pccfront/.eslintrc.json" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/.eslintrc.json" />
       <jump line="258" column="0" filename="$USER_HOME$/src/pccfront/.eslintrc.json" />
+      <jump line="243" column="33" filename="$USER_HOME$/src/pccfront/.eslintrc.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>white</text>
@@ -273,33 +268,31 @@
         <text encoding="base64">dXNlIFBjY1xJbmZyYXN0cnVjdHVyZVxQZXJzaXN0ZW5jZVxNb2NrZWRQY2NvbUFwaVN1YnNjcmlwdGlvblJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiZXM1L25vLWFycm93LWZ1bmN0aW9ucyI6ICJlcnJvciIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGEgPSAoKSA9PiB7cmV0dXJuIGErNH0gOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiZXM1L25vLWFycm93LWZ1bmN0aW9ucyIgOiAiZXJyb3IiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvVC50ZW1wbGF0ZVNldHRpbmdzLgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvVC4K</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-    &quot;extends&quot;: &quot;standard&quot;
-};</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coImNhcmdhbmRvIHBjYy5Db21wb25lbnQuLi4iKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIC8vIFRvZG8gUHJlZ3VudGFyIHNpIHRpZW5lIHNlbnRpZG8gZWwgZ2V0IHkgZWwgc2V0IGRlIGxhcyBwcm9wcyAsIGN1YW5kbyBzaWVtcHJlIHZhbiBhIHNlciBww7pibGljYXMuIGlndWFsIGNvbiBzZXRMaXN0ZW5lcnMuCiAgICAiZ2V0UHJvcHMiOiBmdW5jdGlvbiBnZXRQcm9wcygpIHsKCiAgICAgICAgcmV0dXJuIHRoaXMucHJvcHM7CgogICAgfSw=</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGlmIGJhc2Uuc2VydmljZXNTdGF0dXMuc2FsZXNNYW5hZ28gaXMgbm90IGRlZmluZWQgb3IgYmFzZS5zZXJ2aWNlc1N0YXR1cy5zYWxlc01hbmFnbyA9PSB0cnVlJX0KICAgICAgICAgICAgICAgICAgICA8aWZyYW1lIGlkPSJzYWxlc21hbmFnb0lmcmFtZS1jb250ZXN0LWRlZmF1bHQiIHN0eWxlPSJtYXJnaW46IDA7IHBhZGRpbmc6IDA7IHdpZHRoOjEwMCU7IGhlaWdodDo0MjBweDsgb3ZlcmZsb3cteTpoaWRkZW47IG92ZXJmbG93LXg6aGlkZGVuOyBib3JkZXI6bm9uZTsiIHNyYz0iaHR0cDovL3BjY29tcG9uZW50ZXMuc2FsZXNtYW5hZ28uY29tL2NmL3hmN2twaGlnN3Q1cjY5bTcvRm9ybXVsYXJpb19Db25jdXJzby5odG0iPjwvaWZyYW1lPgogICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0=</text>
+        <text encoding="base64">ICAgIC8vIFRvZG8gUHJlZ3VudGFyIHNpIHRpZW5lIHNlbnRpZG8gZWwgZ2V0IHkgZWwgc2V0IGRlIGxhcyBwcm9wcyAsIGN1YW5kbyBzaWVtcHJlIHZhbiBhIHNlciBww7pibGljYXMuIGlndWFsIGNvbiBzZXRMaXN0ZW5lcnMuCiAgICAiZ2V0UHJvcHMiOiBmdW5jdGlvbiBnZXRQcm9wcygpIHsKCiAgICAgICAgcmV0dXJuIHRoaXMucHJvcHM7CgogICAgfSw=</text>
       </register>
     </registers>
     <search>
