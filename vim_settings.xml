@@ -771,11 +771,12 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534448094536">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="97" column="29" />
+      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534457237769">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="137" column="56" />
+        <mark key="]" line="137" column="56" />
+        <mark key="." line="137" column="56" />
+        <mark key="^" line="140" column="60" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1534278587959">
         <mark key="'" line="336" column="8" />
@@ -1276,25 +1277,26 @@
       <jump line="30" column="8" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="113" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="109" column="44" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="42" column="8" filename="$USER_HOME$/src/frontst/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nicolas</text>
+        <text>1</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>nicolas</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>modal</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHslIGlmIChhcHAucmVxdWVzdC5sb2NhbGUgIT0gJ3B0JykgJX0KICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJ7eyBhc3NldCgncGFnZXMvYXV4LWFydGljbGUtZGV0YWlsL3ByZW1pdW0tYWRkLW9ucy5jc3MnIHwgY3NzX3JldikgfX0iPgogICAgeyUgZW5kaWYgJX0KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Int7IGFzc2V0KCd0cnVtcHMvYXJ0aWNsZS1kZXRhaWwtcGFnZS5jc3MnIHwgY3NzX3JldikgfX0iPgogICAgPHNjcmlwdCBzcmM9Ii8vY2RuLnBjY29tcG9uZW50ZXMuY29tL3Byb2QvdjEvanMvZG9ULm1pbi5qcyI+PC9zY3JpcHQ+CgogICAgeyUgYmxvY2sgY3NzX2F1eCAlfXslIGVuZGJsb2NrICV9Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNodW5rMSA9IHBvc3NpYmxlU3RyLnNsaWNlKDAsIHJhbmRvbUNoYXIgLTEpIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBodG1sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1315,28 +1317,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1bmlxdWVTZWxlY3RvciA9IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtb2RhbCIgaWQ9e3VuaXF1ZU1vZGFsSWR9PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibW9kYWwtY29udGVudCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2xvc2UiIG9uQ2xpY2s9e2Nsb3NlU2VsZk1vZGFsfT5YPC9kaXY+CiAgICAgICAgICAgICAgICBjb250ZW5pZG86IHtwcm9wcy5jb250ZW50fQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxldCBwb3NzaWJsZSA9ICdBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIHByb2NlZHVyZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxQdQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIHByb2NlZHVyZS4K</text>
+        <text encoding="base64">ICAgIHJldHVybiBodG1sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb2NlZHVyZSAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1bmlxdWVTZWxlY3RvciA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjJyArIHVuaXF1ZU1vZGFsSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1bmlxdWVNb2RhbElkID0gJ21vZGFsLScuY29uY2F0KHByb3BzLmlkKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">KAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtb2RhbCIgaWQ9e3VuaXF1ZU1vZGFsSWR9PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibW9kYWwtY29udGVudCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2xvc2UiIG9uQ2xpY2s9e2Nsb3NlU2VsZk1vZGFsfT5YPC9kaXY+CiAgICAgICAgICAgICAgICBjb250ZW5pZG86IHtwcm9wcy5jb250ZW50fQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1346,15 +1348,14 @@
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>modal</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>modal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>pcc_salesmanago_con</entry>
         <entry>optin</entry>
         <entry>redis</entry>
@@ -1374,6 +1375,7 @@
         <entry>detected</entry>
         <entry>findOne</entry>
         <entry>console.log</entry>
+        <entry>modal</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
