@@ -781,12 +781,12 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534561326988">
-        <mark key="'" line="43" column="8" />
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="55" />
-        <mark key="." line="31" column="55" />
-        <mark key="^" line="31" column="55" />
+      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534598540896">
+        <mark key="'" line="198" column="15" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="198" column="15" />
+        <mark key="." line="198" column="15" />
+        <mark key="^" line="198" column="15" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1534278587959">
         <mark key="'" line="336" column="8" />
@@ -1294,16 +1294,20 @@
       <jump line="113" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="109" column="44" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="42" column="8" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="196" column="7" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="226" column="4" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="198" column="15" filename="$USER_HOME$/src/frontst/src/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>props.open = true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Ym9keT4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>props.open = true</text>
+        <text>head</text>
       </register>
       <register name="/" type="4">
         <text>modal</text>
@@ -1312,7 +1316,7 @@
         <text encoding="base64">ICAgZGlzcGxheTogbm9uZTsgLyogSGlkZGVuIGJ5IGRlZmF1bHQgKi8KICAgIHBvc2l0aW9uOiBmaXhlZDsgLyogU3RheSBpbiBwbGFjZSAqLwogICAgei1pbmRleDogMTsgLyogU2l0IG9uIHRvcCAqLwogICAgbGVmdDogMDsKICAgIHRvcDogMDsKICAgIHdpZHRoOiAxMDAlOyAvKiBGdWxsIHdpZHRoICovCiAgICBoZWlnaHQ6IDEwMCU7IC8qIEZ1bGwgaGVpZ2h0ICovCiAgICBvdmVyZmxvdzogYXV0bzsgLyogRW5hYmxlIHNjcm9sbCBpZiBuZWVkZWQgKi8KICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigwLDAsMCk7IC8qIEZhbGxiYWNrIGNvbG9yICovCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsMCwwLDAuNCk7IC8qIEJsYWNrIHcvIG9wYWNpdHkgKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNtb2RhbC1lcnJvcicpLnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siCg==</text>
+        <text encoding="base64">ICAgICAgICA8Ym9keT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1333,15 +1337,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9hcGlzLmdvb2dsZS5jb20vanMvcGxhdGZvcm0uanMiIGFzeW5jIGRlZmVyIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxQdXRvTW9kYWwgaWQ9eydtb2RhbC1lcnJvcid9IG9wZW49e2ZhbHNlfSBjb250ZW50PXtKU09OLnN0cmluZ2lmeSh0aGlzLnN0YXRlLmVycm9yKX0vPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNtb2RhbC1lcnJvcicpLnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxQdXRvTW9kYWwgaWQ9eydtb2RhbC1lcnJvcid9IG9wZW49e2ZhbHNlfSBjb250ZW50PXtKU09OLnN0cmluZ2lmeSh0aGlzLnN0YXRlLmVycm9yKX0vPgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2VycmFuZG8gbW9kYWwnLCB1bmlxdWVNb2RhbElkKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>.close:hover,
 .close:focus {
     color: black;
@@ -1349,7 +1359,7 @@
     cursor: pointer;
 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/* Modal Content/Box */
 .modal-content {
     -webkit-animation: appear 3s ease 0s normal ;
@@ -1362,14 +1372,8 @@
     width: 80%; /* Could be more or less, depending on screen size */
 }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZC5jbG9zZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
