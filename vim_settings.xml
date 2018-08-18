@@ -42,7 +42,7 @@
         <mark key="[" line="6" column="3" />
         <mark key="]" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/src/jstoolz/package.json" timestamp="1534461672754">
+      <file name="$USER_HOME$/src/jstoolz/package.json" timestamp="1534600442000">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -582,7 +582,7 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534553637731">
+      <file name="/Dummy.txt" timestamp="1534600446091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -781,12 +781,12 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534598540896">
-        <mark key="'" line="198" column="15" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="198" column="15" />
-        <mark key="." line="198" column="15" />
-        <mark key="^" line="198" column="15" />
+      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534599921759">
+        <mark key="'" line="45" column="17" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="238" column="15" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1534278587959">
         <mark key="'" line="336" column="8" />
@@ -1049,11 +1049,11 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/src/jstoolz/index.js" timestamp="1534461643441">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/src/jstoolz/index.js" timestamp="1534600409141">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/react-redux-styledcomponents-starter/src/reduxor.js" timestamp="1526027402983">
         <mark key="[" line="3" column="49" />
@@ -1295,28 +1295,35 @@
       <jump line="109" column="44" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="42" column="8" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="196" column="7" filename="$USER_HOME$/src/frontst/src/App.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="226" column="4" filename="$USER_HOME$/src/frontst/src/App.js" />
       <jump line="198" column="15" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="229" column="4" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="197" column="21" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="18" column="23" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="228" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="227" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="239" column="15" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="45" column="17" filename="$USER_HOME$/src/frontst/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Ym9keT4K</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>head</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>modal</text>
+        <text>PutoMo</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgZGlzcGxheTogbm9uZTsgLyogSGlkZGVuIGJ5IGRlZmF1bHQgKi8KICAgIHBvc2l0aW9uOiBmaXhlZDsgLyogU3RheSBpbiBwbGFjZSAqLwogICAgei1pbmRleDogMTsgLyogU2l0IG9uIHRvcCAqLwogICAgbGVmdDogMDsKICAgIHRvcDogMDsKICAgIHdpZHRoOiAxMDAlOyAvKiBGdWxsIHdpZHRoICovCiAgICBoZWlnaHQ6IDEwMCU7IC8qIEZ1bGwgaGVpZ2h0ICovCiAgICBvdmVyZmxvdzogYXV0bzsgLyogRW5hYmxlIHNjcm9sbCBpZiBuZWVkZWQgKi8KICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigwLDAsMCk7IC8qIEZhbGxiYWNrIGNvbG9yICovCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsMCwwLDAuNCk7IC8qIEJsYWNrIHcvIG9wYWNpdHkgKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Ym9keT4K</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1337,43 +1344,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9hcGlzLmdvb2dsZS5jb20vanMvcGxhdGZvcm0uanMiIGFzeW5jIGRlZmVyIC8+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNtb2RhbC1lcnJvcicpLnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siCg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxQdXRvTW9kYWwgaWQ9eydtb2RhbC1lcnJvcid9IG9wZW49e2ZhbHNlfSBjb250ZW50PXtKU09OLnN0cmluZ2lmeSh0aGlzLnN0YXRlLmVycm9yKX0vPgo=</text>
+        <text encoding="base64">ICAgICAgICA8UHV0b01vZGFsIG9wZW49e3RydWV9IGlkPXtwcm9wcy5uYW1lfSBjb250ZW50PXs8ZGl2PiB5IHNlIGxlIHB1ZWRlIG1ldGVyIHVuIGVsZW1lbnRvPC9kaXY+fS8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2VycmFuZG8gbW9kYWwnLCB1bmlxdWVNb2RhbElkKQo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.close:hover,
-.close:focus {
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlLmxvZ2dlZEluID0gdHJ1ZTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>/* Modal Content/Box */
-.modal-content {
-    -webkit-animation: appear 3s ease 0s normal ;
-    animation:         appear 3s ease 0s normal ;
-
-    background-color: #fefefe;
-    margin: 15% auto; /* 15% from the top and centered */
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1383,16 +1375,14 @@
       </register>
     </registers>
     <search>
-      <last-search>modal</last-search>
+      <last-search>PutoMo</last-search>
       <last-offset />
-      <last-pattern>modal</last-pattern>
+      <last-pattern>PutoMo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pcc_salesmanago_con</entry>
-        <entry>optin</entry>
         <entry>redis</entry>
         <entry>deals_orders</entry>
         <entry>jquery</entry>
@@ -1411,6 +1401,8 @@
         <entry>findOne</entry>
         <entry>console.log</entry>
         <entry>modal</entry>
+        <entry>getBasicPro</entry>
+        <entry>PutoMo</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
@@ -1425,6 +1417,7 @@
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
