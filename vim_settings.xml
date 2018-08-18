@@ -781,12 +781,12 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534558113603">
+      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534561326988">
         <mark key="'" line="43" column="8" />
-        <mark key="[" line="42" column="48" />
-        <mark key="]" line="42" column="79" />
-        <mark key="." line="42" column="79" />
-        <mark key="^" line="42" column="79" />
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="55" />
+        <mark key="." line="31" column="55" />
+        <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1534278587959">
         <mark key="'" line="336" column="8" />
@@ -1297,13 +1297,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>props.open = true</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>props.open = true</text>
       </register>
       <register name="/" type="4">
         <text>modal</text>
@@ -1312,7 +1312,7 @@
         <text encoding="base64">ICAgZGlzcGxheTogbm9uZTsgLyogSGlkZGVuIGJ5IGRlZmF1bHQgKi8KICAgIHBvc2l0aW9uOiBmaXhlZDsgLyogU3RheSBpbiBwbGFjZSAqLwogICAgei1pbmRleDogMTsgLyogU2l0IG9uIHRvcCAqLwogICAgbGVmdDogMDsKICAgIHRvcDogMDsKICAgIHdpZHRoOiAxMDAlOyAvKiBGdWxsIHdpZHRoICovCiAgICBoZWlnaHQ6IDEwMCU7IC8qIEZ1bGwgaGVpZ2h0ICovCiAgICBvdmVyZmxvdzogYXV0bzsgLyogRW5hYmxlIHNjcm9sbCBpZiBuZWVkZWQgKi8KICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigwLDAsMCk7IC8qIEZhbGxiYWNrIGNvbG9yICovCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsMCwwLDAuNCk7IC8qIEJsYWNrIHcvIG9wYWNpdHkgKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2VycmFuZG8gbW9kYWwnLCB1bmlxdWVNb2RhbElkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNtb2RhbC1lcnJvcicpLnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1332,7 +1332,16 @@
           <key char="65535" code="9" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxQdXRvTW9kYWwgaWQ9eydtb2RhbC1lcnJvcid9IG9wZW49e2ZhbHNlfSBjb250ZW50PXtKU09OLnN0cmluZ2lmeSh0aGlzLnN0YXRlLmVycm9yKX0vPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2VycmFuZG8gbW9kYWwnLCB1bmlxdWVNb2RhbElkKQo=</text>
+      </register>
+      <register name="5" type="4">
         <text>.close:hover,
 .close:focus {
     color: black;
@@ -1340,7 +1349,7 @@
     cursor: pointer;
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>/* Modal Content/Box */
 .modal-content {
     -webkit-animation: appear 3s ease 0s normal ;
@@ -1353,23 +1362,14 @@
     width: 80%; /* Could be more or less, depending on screen size */
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZC5jbG9zZSB7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwwLDAsMC40KTsgLyogQmxhY2sgdy8gb3BhY2l0eSAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigwLDAsMCk7IC8qIEZhbGxiYWNrIGNvbG9yICovCg==</text>
+        <text encoding="base64">ZC5jbG9zZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
