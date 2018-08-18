@@ -384,10 +384,10 @@
         <mark key="^" line="51" column="51" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/App.css" timestamp="1534551797357">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/src/frontst/src/App.css" timestamp="1534553054529">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
         <mark key="^" line="106" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/repo/sessionStorageRepo.js" timestamp="1529853792912">
@@ -582,10 +582,10 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534550626997">
+      <file name="/Dummy.txt" timestamp="1534553637731">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Connectif/PccomAuthenticator.php" timestamp="1522049691151">
         <mark key="[" line="21" column="0" />
@@ -781,12 +781,12 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534551551470">
+      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1534553910842">
         <mark key="'" line="43" column="8" />
-        <mark key="[" line="139" column="33" />
-        <mark key="]" line="139" column="33" />
-        <mark key="." line="139" column="33" />
-        <mark key="^" line="139" column="31" />
+        <mark key="[" line="122" column="31" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="122" column="51" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1534278587959">
         <mark key="'" line="336" column="8" />
@@ -1297,13 +1297,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2VycmFuZG8gbW9kYWwnLCB1bmlxdWVNb2RhbElkKQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>css animation appear for .modal-content</text>
       </register>
       <register name="/" type="4">
         <text>modal</text>
@@ -1312,7 +1312,7 @@
         <text encoding="base64">ICAgZGlzcGxheTogbm9uZTsgLyogSGlkZGVuIGJ5IGRlZmF1bHQgKi8KICAgIHBvc2l0aW9uOiBmaXhlZDsgLyogU3RheSBpbiBwbGFjZSAqLwogICAgei1pbmRleDogMTsgLyogU2l0IG9uIHRvcCAqLwogICAgbGVmdDogMDsKICAgIHRvcDogMDsKICAgIHdpZHRoOiAxMDAlOyAvKiBGdWxsIHdpZHRoICovCiAgICBoZWlnaHQ6IDEwMCU7IC8qIEZ1bGwgaGVpZ2h0ICovCiAgICBvdmVyZmxvdzogYXV0bzsgLyogRW5hYmxlIHNjcm9sbCBpZiBuZWVkZWQgKi8KICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigwLDAsMCk7IC8qIEZhbGxiYWNrIGNvbG9yICovCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsMCwwLDAuNCk7IC8qIEJsYWNrIHcvIG9wYWNpdHkgKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2VycmFuZG8gbW9kYWwnLCB1bmlxdWVNb2RhbElkKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1332,29 +1332,44 @@
           <key char="65535" code="9" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwwLDAsMC40KTsgLyogQmxhY2sgdy8gb3BhY2l0eSAqLwo=</text>
+      <register name="2" type="4">
+        <text>.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigwLDAsMCk7IC8qIEZhbGxiYWNrIGNvbG9yICovCg==</text>
+      <register name="3" type="4">
+        <text>/* Modal Content/Box */
+.modal-content {
+    -webkit-animation: appear 3s ease 0s normal ;
+    animation:         appear 3s ease 0s normal ;
+
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OiBhdXRvOyAvKiBFbmFibGUgc2Nyb2xsIGlmIG5lZWRlZCAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsgLyogRnVsbCBoZWlnaHQgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOyAvKiBGdWxsIHdpZHRoICovCg==</text>
+        <text encoding="base64">ZC5jbG9zZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvcDogMDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDA7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwwLDAsMC40KTsgLyogQmxhY2sgdy8gb3BhY2l0eSAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDE7IC8qIFNpdCBvbiB0b3AgKi8K</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigwLDAsMCk7IC8qIEZhbGxiYWNrIGNvbG9yICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
