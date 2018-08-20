@@ -171,6 +171,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="68" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Shopping/Cart/CartArticle.php" timestamp="1534750424772">
+        <mark key="'" line="813" column="0" />
+        <mark key="[" line="194" column="38" />
+        <mark key="]" line="194" column="48" />
+        <mark key="." line="194" column="48" />
+        <mark key="^" line="194" column="48" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/blog-entries/smarthome/seo-post-smartlightning.html.twig" timestamp="1534164152170">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -233,17 +240,12 @@
       <file name="/JSRegexp Fragment (article_detail.js:49555).regexp" timestamp="1534243792734">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/.eslintrc.json" timestamp="1534258432734">
-        <mark key="'" line="243" column="33" />
-        <mark key="[" line="208" column="33" />
-        <mark key="]" line="208" column="33" />
-        <mark key="." line="208" column="35" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1533711927864">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" timestamp="1534750248081" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_product_visited/cn_product_visited.html.twig" timestamp="1534748973433" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.NotificationCookies.js" timestamp="1533627518742">
         <mark key="[" line="4" column="0" />
@@ -329,13 +331,17 @@
       <jump line="565" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/article_detail.js" />
       <jump line="29" column="65" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" />
       <jump line="38" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" />
+      <jump line="790" column="35" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Shopping/Cart/CartArticle.php" />
+      <jump line="55" column="23" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Shopping/Cart/CartArticle.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Shopping/Cart/CartArticle.php" />
+      <jump line="793" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Shopping/Cart/CartArticle.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">e3sgZHVtcCgpIH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Breadcrumb</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Breadcrumb</text>
       </register>
       <register name="/" type="4">
         <text>erro</text>
@@ -344,31 +350,31 @@
         <text encoding="base64">IHslIGlmIChhcHAucmVxdWVzdC5sb2NhbGUgIT0gJ3B0JykgJX0KICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJ7eyBhc3NldCgncGFnZXMvYXV4LWFydGljbGUtZGV0YWlsL3ByZW1pdW0tYWRkLW9ucy5jc3MnIHwgY3NzX3JldikgfX0iPgogICAgeyUgZW5kaWYgJX0KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Int7IGFzc2V0KCd0cnVtcHMvYXJ0aWNsZS1kZXRhaWwtcGFnZS5jc3MnIHwgY3NzX3JldikgfX0iPgogICAgPHNjcmlwdCBzcmM9Ii8vY2RuLnBjY29tcG9uZW50ZXMuY29tL3Byb2QvdjEvanMvZG9ULm1pbi5qcyI+PC9zY3JpcHQ+CgogICAgeyUgYmxvY2sgY3NzX2F1eCAlfXslIGVuZGJsb2NrICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgZHVtcCgpIH19Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRCcmVhZENydW1wKCl7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">e3sgZHVtcCgpIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaHRtbEVsZW1lbnQuZGF0YXNldC5mb3JFYWNoKCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
