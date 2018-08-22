@@ -51,6 +51,13 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" timestamp="1534949112574">
+        <mark key="'" line="528" column="9" />
+        <mark key="[" line="528" column="16" />
+        <mark key="]" line="528" column="16" />
+        <mark key="." line="528" column="16" />
+        <mark key="^" line="528" column="20" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/centros-educativos.html.twig" timestamp="1534164429310">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -157,6 +164,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/detail/article_detail.js" timestamp="1534947832077" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/article-detail.html.twig" timestamp="1534757921611">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -234,10 +242,10 @@
       <file name="$USER_HOME$/src/frontst/node_modules/react/cjs/react.development.js" timestamp="1534282237728">
         <mark key="'" line="327" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534941855135">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1534948320913">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/ServicesKiller/ServicesKillerManager.php" timestamp="1533717661556">
         <mark key="[" line="19" column="52" />
@@ -371,16 +379,19 @@
       <jump line="139" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" />
       <jump line="57" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/Detail/SuperFamily/SuperFamily.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleDetail.php" />
+      <jump line="518" column="4" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
+      <jump line="587" column="3" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
+      <jump line="528" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>phpcs</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>phpcs</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>erro</text>
+        <text>sync</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0U3VwZXJGYW1pbHkoJHN1cGVyZmFtaWx5KQogICAgewogICAgICAgICR0aGlzLT5zdXBlcmZhbWlseSA9ICRzdXBlcmZhbWlseTsKICAgIH0=</text>
@@ -417,9 +428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>erro</last-search>
+      <last-search>sync</last-search>
       <last-offset />
-      <last-pattern>erro</last-pattern>
+      <last-pattern>sync</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -429,6 +440,7 @@
         <entry>$user</entry>
         <entry>white</entry>
         <entry>erro</entry>
+        <entry>sync</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
