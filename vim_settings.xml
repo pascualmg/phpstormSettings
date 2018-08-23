@@ -51,11 +51,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" timestamp="1535014999895">
-        <mark key="'" line="524" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" timestamp="1535017228663">
+        <mark key="[" line="540" column="38" />
+        <mark key="]" line="540" column="38" />
+        <mark key="^" line="540" column="36" />
+        <mark key="." line="540" column="38" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/centros-educativos.html.twig" timestamp="1534164429310">
         <mark key="[" line="99" column="0" />
@@ -142,6 +142,11 @@
         <mark key="[" line="36" column="3" />
         <mark key="]" line="36" column="3" />
         <mark key="." line="36" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1535016190895">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/blog-entries/templates/blog-entry-template.html.twig" timestamp="1534164318761">
         <mark key="[" line="58" column="0" />
@@ -387,8 +392,8 @@
       <jump line="523" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -396,31 +401,30 @@
       <register name="/" type="4">
         <text>sync</text>
       </register>
-      <register name="0" type="4">
-        <text>function loadRealToky () {
-    var toky_id = 432
-    console.log('loading toky....')//TODO: borrame.
-    var toky = document.createElement('script')
-    toky.type = 'text/javascript'
-    toky.async = true
-    toky.src = '//az601263.vo.msecnd.net/webview/' + toky_id + '/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(toky)
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvYWRTY3JpcHRBbmRUaGVuKHVyaVRva3lTY3JpcHQsIGNsaWNrc0FsbEltZ3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgnaHR0cHM6Jz09bG9jYXRpb24ucHJvdG9jb2w/J2h0dHBzOic6J2h0dHA6JykK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>function loadScriptAndThen (uri, onLoad) {
+    var aScript = document.createElement('script')
+    aScript.type = 'text/javascript'
+    aScript.src = uri
+    aScript.async = true
+    document.head.appendChild(aScript)
+    aScript.onload = onLoad
+}</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L2l0ZW0+CiAgeyUgZW5kZm9yIC0lfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucXVlcnlTZWxlY3RvckFsbCgnaW1nJykK</text>
+        <text encoding="base64">ICAgIDxjaGFubmVsPnt7IGFydGljbGUuY2hhbm5lbCB9fTwvY2hhbm5lbD4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -429,7 +433,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
