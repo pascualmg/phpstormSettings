@@ -51,12 +51,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" timestamp="1535007795042">
-        <mark key="'" line="528" column="9" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="599" column="9" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" timestamp="1535012902995">
+        <mark key="[" line="536" column="21" />
+        <mark key="]" line="536" column="21" />
+        <mark key="^" line="536" column="21" />
+        <mark key="." line="536" column="21" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/centros-educativos.html.twig" timestamp="1534164429310">
         <mark key="[" line="99" column="0" />
@@ -242,10 +241,10 @@
       <file name="$USER_HOME$/src/frontst/node_modules/react/cjs/react.development.js" timestamp="1534282237728">
         <mark key="'" line="327" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534949773024">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1535010234919">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/ServicesKiller/ServicesKillerManager.php" timestamp="1533717661556">
         <mark key="[" line="19" column="52" />
@@ -385,43 +384,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHRvZG86ICBQZW5kaWVudGUgZGUgY2FtYmlhciBwb3IgdW5hIGdlbsOpcmljYS4K</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGxvYWRTY3JpcHQgKHVyaSwgb25Mb2FkKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">KCkg</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0U3VwZXJGYW1pbHkoJHN1cGVyZmFtaWx5KQogICAgewogICAgICAgICR0aGlzLT5zdXBlcmZhbWlseSA9ICRzdXBlcmZhbWlseTsKICAgIH0=</text>
+        <text>function loadRealToky () {
+    var toky_id = 432
+    console.log('loading toky....')//TODO: borrame.
+    var toky = document.createElement('script')
+    toky.type = 'text/javascript'
+    toky.async = true
+    toky.src = '//az601263.vo.msecnd.net/webview/' + toky_id + '/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(toky)
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHRvZG86ICBQZW5kaWVudGUgZGUgY2FtYmlhciBwb3IgdW5hIGdlbsOpcmljYS4K</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGxvYWRTY3JpcHQgKHVyaSwgb25Mb2FkKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnN0YXRlLmxvZ2dlZEluID8gJ2xvZ3VlYWRvJzonTk8gbG9nZ2VhZG8nfQo=</text>
+        <text encoding="base64">ewogICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>function loadScript (uri, onLoad) {
+    var aScript = document.createElement('script')
+    aScript.type = 'text/javascript'
+    aScript.src = uri
+    document.head.appendChild(aScript)
+    aScript.onload = onLoad
+    
+}</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ29vZ2xlLWxvZ2luIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSdnb29nbGUtbG9naW4tbWV0YXMnPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIG5hbWU9Imdvb2dsZS1zaWduaW4tY2xpZW50X2lkIiBjb250ZW50PXt0aGlzLnByb3BzLmNsaWVudElkfS8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJnLXNpZ25pbjIiIGRhdGEtb25zdWNjZXNzPSJvblNpZ25JbiIgZGF0YS10aGVtZT0iZGFyayIvPgogICAgICAgICAgICAgICAge3RoaXMuc3RhdGUubG9nZ2VkSW4gPyAnbG9ndWVhZG8nOidOTyBsb2dnZWFkbyd9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">QlQtMDAwICwgbGludGVybmF6byBkZWwgaGFjayAsIHRva3kuYXN5bmM9ZmFsc2UgLCBjYW1lbGNhc2UgcmVmYWN0b3IuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2b2lkSHRtbCA9IFJlYWN0LmNyZWF0ZUVsZW1lbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZvaWRIdG1sID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZ2FhcGkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAuZm9yRWFjaChmdW5jdGlvbiAoaXRlbSkgewogICAgICAgICAgICBpdGVtLmNsaWNrKCk7CiAgICAgICAgfSk=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
