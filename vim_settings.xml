@@ -100,11 +100,12 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1535351974460">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="80" column="45" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1535354183291">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="74" column="50" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/landing-black-friday.html.twig" timestamp="1534164360590">
         <mark key="[" line="26" column="0" />
@@ -245,10 +246,10 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535351064697">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1535353458215">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/ServicesKiller/ServicesKillerManager.php" timestamp="1533717661556">
         <mark key="[" line="19" column="52" />
@@ -305,11 +306,10 @@
         <mark key="]" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" timestamp="1535351732079">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="42" column="37" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" timestamp="1535354206453">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/SuperFamiliesArticlesController.php" timestamp="1534766841292">
         <mark key="'" line="2468" column="0" />
@@ -393,46 +393,47 @@
       <jump line="523" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
       <jump line="525" column="3" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
       <jump line="411" column="38" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/tokywoky.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBpbml0OiBmdW5jdGlvbiBpbml0IChuYW1lKSB7CiAgICB0aGlzLm5hbWUgPSBuYW1lCiAgICB0aGlzLnNlbGVjdG9yQ2xhc3MgPSAoJy5qcy1jb21wb25lbnQtJyArIG5hbWUgKyAnLWRhdGEnKTsKICAgIHRoaXMuYmluZCgpOwogICAgdGhpcy5wcm9wcyA9IGdldFByb3BzRnJvbURvbUVsZW1lbnQodGhpcy5zZWxlY3RvckNsYXNzKQogICAgdGhpcy5saXN0ZW5lcnMgPSBbXSAvLyBjYWRhIGxpc3RlbmVyIHNvbiAyIGNvc2FzIGRpc3RpbnRhcywgdW5hIGVzIGxhIGZ1bmNpw7NuIHkgb3RyYSBlcyBlbCBldmVudG8gYWwgY3VhbCBoYXkgcXVlIHJlYWNpb25hci4gdG9kbyBuYW1lcmVmYWN0b3Igc3Vic2NyaXB0aW9ucz8KICAgIHRoaXMudGVtcGxhdGUgPSAncGxhbnRpbGxhQXVuTm9zYWJlbW9zRGVEb25kZU5pQ29tbzpQJyAvLyBjYWRhIGxpc3RlbmVyIHNvbiAyIGNvc2FzIGRpc3RpbnRhcywgdW5hIGVzIGxhIGZ1bmNpw7NuIHkgb3RyYSBlcyBlbCBldmVudG8gYWwgY3VhbCBoYXkgcXVlIHJlYWNpb25hci4gdG9kbwogIH0sCiAgYmluZDogZnVuY3Rpb24gYmluZCgpewogICAgbmV3IEJpbmRNYW5hZ2VyKFBDQy5FdmVudE1hbmFnZXIpLmJpbmQodGhpcy5uYW1lLCB0aGlzLnNlbGVjdG9yQ2xhc3MsICdldmVudG8nKTsKICB9LAogIHJlbmRlcjogZnVuY3Rpb24gcmVuZGVyICgpIHsKICAgIHJldHVybiB0aGlzLnRlbXBsYXRlVXJpLy8gdG9kbyBodHRwczovL29sYWRvLmdpdGh1Yi5pby9kb1QvaW5kZXguaHRtbAogIH0sCiAgc2V0UHJvcHM6IGZ1bmN0aW9uIHNldFByb3BzIChwcm9wcykgewogICAgY29uc3QgZXZlbnROYW1lID0gdGhpcy5uYW1lLnRvVXBwZXJDYXNlKCkgKyAiLVBST1BTLU1PRElGSUVEIjsKICAgIHRoaXMuZXZlbnRNYW5hZ2VyLmVtaXQoZXZlbnROYW1lKQogICAgdGhpcy5wcm9wcyA9IHByb3BzCiAgfSwKICBnZXRQcm9wczogZnVuY3Rpb24gZ2V0UHJvcHMgKCkgewogICAgcmV0dXJuIHRoaXMucHJvcHMKICB9LAogIHNldExpc3RlbmVyczogZnVuY3Rpb24gc2V0TGlzdGVuZXJzIChsaXN0ZW5lcnMpIHsgLy8gdG9kbz8gbmFtZXJlZmFjdG9yIC0+IFBDQy5FdmVudFR5cGVzID8KICAgIHRoaXMubGlzdGVuZXJzID0gbGlzdGVuZXJzCiAgfSwKICBnZXRQcm9wc0Zyb21Eb21FbGVtZW50OiBmdW5jdGlvbiBnZXRQcm9wc0Zyb21Eb21FbGVtZW50IChzZWxlY3RvcikgewogICAgICB2YXIgaHRtbEVsZW1lbnQgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKHNlbGVjdG9yKQogICAgICB0aGlzLnByb3BzID0gaHRtbEVsZW1lbnQuZGF0YXNldAogIH0sCiAgbmFtZTogbnVsbCwKICBwcm9wczogbnVsbCwKICB0ZW1wbGF0ZTogbnVsbCwKICAvLyBkZXBlbmRlbmN5cwogIGV2ZW50TWFuYWdlcjogUENDLkV2ZW50TWFuYWdlciB8fAogICAgICAgIChmdW5jdGlvbiBpaWZlVXNhZ2UgKCkgewogICAgICAgICAgdGhyb3cgJ1BDQy5Db21wb25lbnQgbWlzc2luZyBkZXBlbmRlbmN5OiBQQ0MuRXZlbnRNYW5hZ2VyIHJlcXVpcmVkJwogICAgICAgIH0pKCk=</text>
       </register>
       <register name="-" type="4">
-        <text>new PCC.Component()</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvYWRTY3JpcHRBbmRUaGVuKHVyaVRva3lTY3JpcHQsIGNsaWNrc0FsbEltZ3MpCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdiYXNlL3BjYy5WaWV3Q29tcG9uZW50LmpzJ3xqc19yZXYpIH19Ij48L3NjcmlwdD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBpbml0OiBmdW5jdGlvbiBpbml0IChuYW1lKSB7CiAgICB0aGlzLm5hbWUgPSBuYW1lCiAgICB0aGlzLnNlbGVjdG9yQ2xhc3MgPSAoJy5qcy1jb21wb25lbnQtJyArIG5hbWUgKyAnLWRhdGEnKTsKICAgIHRoaXMuYmluZCgpOwogICAgdGhpcy5wcm9wcyA9IGdldFByb3BzRnJvbURvbUVsZW1lbnQodGhpcy5zZWxlY3RvckNsYXNzKQogICAgdGhpcy5saXN0ZW5lcnMgPSBbXSAvLyBjYWRhIGxpc3RlbmVyIHNvbiAyIGNvc2FzIGRpc3RpbnRhcywgdW5hIGVzIGxhIGZ1bmNpw7NuIHkgb3RyYSBlcyBlbCBldmVudG8gYWwgY3VhbCBoYXkgcXVlIHJlYWNpb25hci4gdG9kbyBuYW1lcmVmYWN0b3Igc3Vic2NyaXB0aW9ucz8KICAgIHRoaXMudGVtcGxhdGUgPSAncGxhbnRpbGxhQXVuTm9zYWJlbW9zRGVEb25kZU5pQ29tbzpQJyAvLyBjYWRhIGxpc3RlbmVyIHNvbiAyIGNvc2FzIGRpc3RpbnRhcywgdW5hIGVzIGxhIGZ1bmNpw7NuIHkgb3RyYSBlcyBlbCBldmVudG8gYWwgY3VhbCBoYXkgcXVlIHJlYWNpb25hci4gdG9kbwogIH0sCiAgYmluZDogZnVuY3Rpb24gYmluZCgpewogICAgbmV3IEJpbmRNYW5hZ2VyKFBDQy5FdmVudE1hbmFnZXIpLmJpbmQodGhpcy5uYW1lLCB0aGlzLnNlbGVjdG9yQ2xhc3MsICdldmVudG8nKTsKICB9LAogIHJlbmRlcjogZnVuY3Rpb24gcmVuZGVyICgpIHsKICAgIHJldHVybiB0aGlzLnRlbXBsYXRlVXJpLy8gdG9kbyBodHRwczovL29sYWRvLmdpdGh1Yi5pby9kb1QvaW5kZXguaHRtbAogIH0sCiAgc2V0UHJvcHM6IGZ1bmN0aW9uIHNldFByb3BzIChwcm9wcykgewogICAgY29uc3QgZXZlbnROYW1lID0gdGhpcy5uYW1lLnRvVXBwZXJDYXNlKCkgKyAiLVBST1BTLU1PRElGSUVEIjsKICAgIHRoaXMuZXZlbnRNYW5hZ2VyLmVtaXQoZXZlbnROYW1lKQogICAgdGhpcy5wcm9wcyA9IHByb3BzCiAgfSwKICBnZXRQcm9wczogZnVuY3Rpb24gZ2V0UHJvcHMgKCkgewogICAgcmV0dXJuIHRoaXMucHJvcHMKICB9LAogIHNldExpc3RlbmVyczogZnVuY3Rpb24gc2V0TGlzdGVuZXJzIChsaXN0ZW5lcnMpIHsgLy8gdG9kbz8gbmFtZXJlZmFjdG9yIC0+IFBDQy5FdmVudFR5cGVzID8KICAgIHRoaXMubGlzdGVuZXJzID0gbGlzdGVuZXJzCiAgfSwKICBnZXRQcm9wc0Zyb21Eb21FbGVtZW50OiBmdW5jdGlvbiBnZXRQcm9wc0Zyb21Eb21FbGVtZW50IChzZWxlY3RvcikgewogICAgICB2YXIgaHRtbEVsZW1lbnQgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKHNlbGVjdG9yKQogICAgICB0aGlzLnByb3BzID0gaHRtbEVsZW1lbnQuZGF0YXNldAogIH0sCiAgbmFtZTogbnVsbCwKICBwcm9wczogbnVsbCwKICB0ZW1wbGF0ZTogbnVsbCwKICAvLyBkZXBlbmRlbmN5cwogIGV2ZW50TWFuYWdlcjogUENDLkV2ZW50TWFuYWdlciB8fAogICAgICAgIChmdW5jdGlvbiBpaWZlVXNhZ2UgKCkgewogICAgICAgICAgdGhyb3cgJ1BDQy5Db21wb25lbnQgbWlzc2luZyBkZXBlbmRlbmN5OiBQQ0MuRXZlbnRNYW5hZ2VyIHJlcXVpcmVkJwogICAgICAgIH0pKCk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIHByZWNpb0NvbXAgPSBQQ0MuQ29tcG9uZW50LmluaXQoJ3ByZWNpbycsIHtwcmVjaW86ICcnfSkK</text>
+        <text encoding="base64">ICAgIHZhciB0ZXN0Q29tcG9uZW50ID0gT2JqZWN0LmNyZWF0ZShQQ0MuQ29tcG9uZW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fTsKCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdiYXNlL3BjYy5Db21wb25lbnQuanMnKSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Nwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGxvYWRTY3JpcHRBbmRUaGVuKGxvYWRGYWtlVG9reS50b1NvdXJjZSgpLCBjbGlja3NBbGxJbWdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGxvYWRTY3JpcHRBbmRUaGVuKHVyaVRva3lTY3JpcHQsIGNsaWNrc0FsbEltZ3MpCg==</text>
+        <text encoding="base64">dmFyIHByZWNpb0NvbXAgPSBQQ0MuQ29tcG9uZW50LmluaXQoJ3ByZWNpbycsIHtwcmVjaW86ICcnfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9jYXRlZCBpbWFnZXMnKS8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">fTsKCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgIGNvbnNvbGUubG9nKCdsb2FkaW5nIHRva3kuLi4uJykvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgIC8vIGxvYWRTY3JpcHRBbmRUaGVuKGxvYWRGYWtlVG9reS50b1NvdXJjZSgpLCBjbGlja3NBbGxJbWdzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -473,6 +474,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
