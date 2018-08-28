@@ -257,8 +257,8 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535448565570">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1535451827127">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -304,11 +304,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="20" column="59" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.spec.js" timestamp="1535450799084">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="46" />
-        <mark key="^" line="20" column="46" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.spec.js" timestamp="1535451825573">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.NotificationCookies.js" timestamp="1533627518742">
         <mark key="[" line="4" column="0" />
@@ -327,7 +327,7 @@
         <mark key="]" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" timestamp="1535448452867">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" timestamp="1535451033083">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="58" />
         <mark key="^" line="20" column="58" />
@@ -423,46 +423,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>ung</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>ung</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgaXQoJ2ZhaWxzIGlmIG1pc3NpbmcgZGVwZW5kZW5jeScsIGZ1bmN0aW9uICgpIHsKICAgICAgICB2YXIgdGVzdENvbXBvbmVudCA9IE9iamVjdC5jcmVhdGUoUENDLkNvbXBvbmVudCkKICAgICAgICB0ZXN0Q29tcG9uZW50LmluaXQoJ3Rlc3ROYW1lJywgbnVsbCwgUENDLkJpbmRNYW5hZ2VyKQogICAgfSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKSAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBpdCgnY2FuIGJlIGludm9rZWQgaWYgaGF2ZSBhbGwgZGVwZW5kZW5jaWVzJywgZnVuY3Rpb24gKCkgewogICAgICAgIHZhciB0ZXN0Q29tcG9uZW50ID0gT2JqZWN0LmNyZWF0ZShQQ0MuQ29tcG9uZW50KQogICAgICAgIHRlc3RDb21wb25lbnQuaW5pdCgndGVzdE5hbWUnLCBQQ0MuRXZlbnRNYW5hZ2VyLCBQQ0MuQmluZE1hbmFnZXIpCiAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21wb25lbnQuaW5pdCgndGVzdE5hbWUnLCBQQ0MuRXZlbnRNYW5hZ2VyLCBQQ0MuQmluZE1hbmFnZXIpCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0Q29tcG9uZW50LmluaXQoJ3Rlc3ROYW1lJywgUENDLkV2ZW50TWFuYWdlciwgbnVsbCkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdGVzdENvbXBvbmVudCA9IE9iamVjdC5jcmVhdGUoUENDLkNvbXBvbmVudCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>(function createElementForComponent () {
-  var e = document.createElement('div')
-    e.setAttribute('class', '.js-component-testName-data')
-})()</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHZhciB0ZXN0Q29tcG9uZW50ID0gT2JqZWN0LmNyZWF0ZShQQ0MuQ29tcG9uZW50KQogICAgICAgIHRlc3RDb21wb25lbnQuaW5pdCgndGVzdE5hbWUnLCBudWxsLCBQQ0MuQmluZE1hbmFnZXIp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdGVzdENvbXBvbmVudCA9IE9iamVjdC5jcmVhdGUoUENDLkNvbXBvbmVudCkKICAgICAgICB0ZXN0Q29tcG9uZW50LmluaXQoJ3Rlc3ROYW1lJywgbnVsbCwgUENDLkJpbmRNYW5hZ2VyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9Ta2VsIHBhcmEgZWwgc2V0dXAgZGUgbG9zIHRlc3QgZGUgY3VhbHF1aWVyIENvbXBvbmVudGUgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRXJyb3IoJ1BDQy5Db21wb25lbnQgbWlzc2luZyBkZXBlbmRlbmN5OiBQQ0MuRXZlbnRNYW5hZ2VyIHJlcXVpcmVkJykK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
