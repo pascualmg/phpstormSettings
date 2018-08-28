@@ -304,10 +304,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="20" column="59" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.spec.js" timestamp="1535448411372">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.spec.js" timestamp="1535450799084">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+        <mark key="^" line="20" column="46" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.NotificationCookies.js" timestamp="1533627518742">
         <mark key="[" line="4" column="0" />
@@ -422,46 +423,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jest allow localhost as origin</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>jest allow localhost as origin</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UENDWydDb21wb25lbnQnXSA9IHJlcXVpcmUoJy4vcGNjLkNvbXBvbmVudC5qcycpLlBDQy5Db21wb25lbnQK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgaXQoJ2ZhaWxzIGlmIG1pc3NpbmcgZGVwZW5kZW5jeScsIGZ1bmN0aW9uICgpIHsKICAgICAgICB2YXIgdGVzdENvbXBvbmVudCA9IE9iamVjdC5jcmVhdGUoUENDLkNvbXBvbmVudCkKICAgICAgICB0ZXN0Q29tcG9uZW50LmluaXQoJ3Rlc3ROYW1lJywgbnVsbCwgUENDLkJpbmRNYW5hZ2VyKQogICAgfSk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21wb25lbnQuaW5pdCgndGVzdE5hbWUnLCBQQ0MuRXZlbnRNYW5hZ2VyLCBQQ0MuQmluZE1hbmFnZXIpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>(function createElementForComponent () {
   var e = document.createElement('div')
     e.setAttribute('class', '.js-component-testName-data')
 })()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9Ta2VsIHBhcmEgZWwgc2V0dXAgZGUgbG9zIHRlc3QgZGUgY3VhbHF1aWVyIENvbXBvbmVudGUgLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9Ta2VsIHBhcmEgZWwgc2V0dXAgZGUgbG9zIHRlc3QgZGUgY3VhbHF1aWVyIENvbXBvbmVudGUgLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
