@@ -12,10 +12,10 @@
       <file name="/fragment.js" timestamp="1535456893457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1535579894169">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1535582712049">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1534768683504">
         <mark key="[" line="0" column="0" />
@@ -66,7 +66,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1535577883704">
+      <file name="/PHP Console" timestamp="1535583234802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1535456686360">
@@ -304,8 +304,9 @@
       <jump line="43" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">R0VUIGh0dHA6Ly9sb2NhbGhvc3Q6OTA4MC9zdGFyZ2F0ZT91cmk9JTIyYXJ0aWNsZXMvMzEwNDYlMjIK</text>
+      <register name="&quot;" type="4">
+        <text>GET http://localhost:6080/user/conditions/1?access_token=Zjc2NTRjYjFlNjVkYWRiYmUwNTY0ZGM0MWI5MzE1OGE1ZmUxODYwZGUxNmNmMzQxYjEyODMxYjI3MjM0ZDVlMQ
+Accept: application/json</text>
       </register>
       <register name="-" type="4">
         <text>message</text>
@@ -316,32 +317,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXF1ZXN0LT5nZXQoJ3ByaXZhdGVQYXJhbWV0ZXJzJywgW10pLAo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>GET http://localhost:6080/user/conditions/1?access_token=Zjc2NTRjYjFlNjVkYWRiYmUwNTY0ZGM0MWI5MzE1OGE1ZmUxODYwZGUxNmNmMzQxYjEyODMxYjI3MjM0ZDVlMQ
+Accept: application/json</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">R0VUIGh0dHA6Ly9sb2NhbGhvc3Q6OTA4MC9zdGFyZ2F0ZT91cmk9JTIyYXJ0aWNsZXMvMzEwNDYlMjIK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PD4gMjAxOC0wOC0yOVQxMDU5MzYuNDAxLmpzb24KCiMjIw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGVudmlyb25tZW50Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG1ldGhvZAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAgJHBhcmFtZXRlcnMK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSAgICAgICAgJHVyaQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFN0YXJnYXRlQ29tbWFuZCBjb25zdHJ1Y3Rvci4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIFN0YXJnYXRlQ29tbWFuZCBjb25zdHJ1Y3Rvci4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
