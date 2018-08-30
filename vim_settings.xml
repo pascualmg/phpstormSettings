@@ -3,13 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1535576847353">
-        <mark key="[" line="0" column="60" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1535587746449">
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="0" column="62" />
+        <mark key="." line="0" column="62" />
       </file>
-      <file name="/fragment.js" timestamp="1535456893457">
+      <file name="/fragment.js" timestamp="1535586849192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1535582712049">
@@ -37,7 +36,7 @@
         <mark key="]" line="579" column="52" />
         <mark key="." line="579" column="52" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1535559503766">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/Stargate.php" timestamp="1535586867815">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
@@ -66,7 +65,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1535583234802">
+      <file name="/PHP Console" timestamp="1535587836008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1535456686360">
@@ -84,17 +83,11 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="6" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/.idea/httpRequests/2018-08-30T015328.200.json" timestamp="1535586921813" />
       <file name="/JSRegexp Fragment (article_detail.js:52437).regexp" timestamp="1534243287924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1535439924022">
-        <mark key="'" line="376" column="0" />
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="376" column="17" />
-        <mark key="^" line="305" column="28" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/http-client.env.json" timestamp="1535577133183" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/http-client.env.json" timestamp="1535587387092" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/UserManager.php" timestamp="1534927163240">
         <mark key="[" line="395" column="26" />
       </file>
@@ -124,9 +117,10 @@
       <file name="/JSRegexp Fragment (article_detail.js:49555).regexp" timestamp="1534243792734">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1535559683553">
+      <file name="/fragment.php" timestamp="1535586852901">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/phpunit.xml.dist" timestamp="1535587502463" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/managers/pcc.EventManager.js" timestamp="1535448476552">
         <mark key="[" line="136" column="17" />
         <mark key="]" line="136" column="16" />
@@ -305,11 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GET http://localhost:6080/user/conditions/1?access_token=Zjc2NTRjYjFlNjVkYWRiYmUwNTY0ZGM0MWI5MzE1OGE1ZmUxODYwZGUxNmNmMzQxYjEyODMxYjI3MjM0ZDVlMQ
-Accept: application/json</text>
+        <text>/1</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>/1</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
@@ -317,33 +310,33 @@ Accept: application/json</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXF1ZXN0LT5nZXQoJ3ByaXZhdGVQYXJhbWV0ZXJzJywgW10pLAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">PD4gMjAxOC0wOC0zMFQwMTU3MjYuNTAwLmh0bWwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PD4gMjAxOC0wOC0zMFQwMTU5NTQuNTAwLmh0bWwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PD4gMjAxOC0wOC0zMFQwMjAwMTUuNTAwLmh0bWwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PD4gMjAxOC0wOC0zMFQwMjAwNDUuNTAwLmh0bWwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PD4gMjAxOC0wOC0zMFQwMTUzMjguMjAwLmpzb24K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ego=</text>
+      </register>
+      <register name="7" type="4">
         <text>GET http://localhost:6080/user/conditions/1?access_token=Zjc2NTRjYjFlNjVkYWRiYmUwNTY0ZGM0MWI5MzE1OGE1ZmUxODYwZGUxNmNmMzQxYjEyODMxYjI3MjM0ZDVlMQ
 Accept: application/json</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">R0VUIGh0dHA6Ly9sb2NhbGhvc3Q6OTA4MC9zdGFyZ2F0ZT91cmk9JTIyYXJ0aWNsZXMvMzEwNDYlMjIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PD4gMjAxOC0wOC0yOVQxMDU5MzYuNDAxLmpzb24KCiMjIw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGVudmlyb25tZW50Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG1ldGhvZAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAgJHBhcmFtZXRlcnMK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAgICAgICAgJHVyaQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIFN0YXJnYXRlQ29tbWFuZCBjb25zdHJ1Y3Rvci4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
