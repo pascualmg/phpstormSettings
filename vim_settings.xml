@@ -70,7 +70,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1535618176691">
+      <file name="/PHP Console" timestamp="1535619490691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1535456686360">
@@ -141,11 +141,12 @@
         <mark key="^" line="261" column="13" />
         <mark key="." line="260" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1535618607618">
-        <mark key="[" line="106" column="38" />
-        <mark key="]" line="106" column="37" />
-        <mark key="." line="106" column="37" />
-        <mark key="^" line="106" column="37" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1535619803420">
+        <mark key="'" line="72" column="36" />
+        <mark key="[" line="72" column="111" />
+        <mark key="]" line="72" column="111" />
+        <mark key="." line="72" column="12" />
+        <mark key="^" line="67" column="69" />
       </file>
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/article/detail/article_detail.js" timestamp="1533724405413">
         <mark key="[" line="28" column="0" />
@@ -305,43 +306,44 @@
       <jump line="68" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.js" />
       <jump line="16" column="66" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.spec.js" />
       <jump line="43" column="11" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/base/pcc.Component.spec.js" />
+      <jump line="72" column="36" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[];</text>
+        <text>//todo: refactor la travel tiene que devolver una clase con una Interfaz no una stdClass al vuelo .</text>
       </register>
       <register name="-" type="4">
-        <text>[];</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
       </register>
       <register name="0" type="4">
-        <text>'prod' para activar los white/blackList</text>
+        <text>//todo: refactor la travel tiene que devolver una clase con una Interfaz no una stdClass al vuelo .</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoCiAgICAgICAgICAgIChuZXcgU3RhcmdhdGUobmV3IEFwaUNhbGxlcigpKSktPnRyYXZlbCgKICAgICAgICAgICAgICAgICR0aGlzLT5wYXJzZVN0YXJnYXRlQ29tbWFuZEZyb21SZXF1ZXN0KCRyZXF1ZXN0KQogICAgICAgICAgICApCiAgICAgICAgKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcnNlZEFzc29jQXJyYXlPckVtcHR5ID0ganNvbl9lbmNvZGUoJHBvc3NpYmxlUGFyYW1zLCB0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbigiSW52YWxpZCBNZXRob2QiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiZXh0LWpzb24iLWpzb27igJ06IOKAnCrigJ0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPmdldCgkcGFyc2VkQXNzb2NBcnJheU9yVm9pZCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcnNlZEFzc29jQXJyYXlPckVtcHR5ID0ganNvbl9lbmNvZGUoJHBvc3NpYmxlUGFyYW1zLCB0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
