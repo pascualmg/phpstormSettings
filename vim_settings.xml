@@ -70,7 +70,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1535619490691">
+      <file name="/PHP Console" timestamp="1535624698825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1535456686360">
@@ -100,7 +100,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535617678737">
+      <file name="/Dummy.txt" timestamp="1535624321398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -141,12 +141,12 @@
         <mark key="^" line="261" column="13" />
         <mark key="." line="260" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1535619803420">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1535624318974">
         <mark key="'" line="72" column="36" />
-        <mark key="[" line="72" column="111" />
-        <mark key="]" line="72" column="111" />
-        <mark key="." line="72" column="12" />
-        <mark key="^" line="67" column="69" />
+        <mark key="[" line="161" column="26" />
+        <mark key="]" line="161" column="26" />
+        <mark key="." line="161" column="26" />
+        <mark key="^" line="107" column="25" />
       </file>
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/article/detail/article_detail.js" timestamp="1533724405413">
         <mark key="[" line="28" column="0" />
@@ -216,8 +216,8 @@
         <mark key="^" line="64" column="6" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1535575426018">
-        <mark key="[" line="96" column="15" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1535624731936">
+        <mark key="[" line="95" column="34" />
         <mark key="]" line="96" column="15" />
         <mark key="." line="96" column="15" />
         <mark key="^" line="96" column="17" />
@@ -310,40 +310,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//todo: refactor la travel tiene que devolver una clase con una Interfaz no una stdClass al vuelo .</text>
+        <text>ExceptionIntoStargateUniformResponse</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>ExceptionIntoStargateUniformResponse</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
       </register>
       <register name="0" type="4">
-        <text>//todo: refactor la travel tiene que devolver una clase con una Interfaz no una stdClass al vuelo .</text>
+        <text>parseStargateCommandFromRequest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoCiAgICAgICAgICAgIChuZXcgU3RhcmdhdGUobmV3IEFwaUNhbGxlcigpKSktPnRyYXZlbCgKICAgICAgICAgICAgICAgICR0aGlzLT5wYXJzZVN0YXJnYXRlQ29tbWFuZEZyb21SZXF1ZXN0KCRyZXF1ZXN0KQogICAgICAgICAgICApCiAgICAgICAgKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gSnNvblJlc3BvbnNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZXhjZXB0aW9uIEFueSBFeGNlcHRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBFeGNlcHRpb24gJGV4Y2VwdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3RvZG86IHJlZmFjdG9yIGxhIHRyYXZlbCB0aWVuZSBxdWUgZGV2b2x2ZXIgdW5hIGNsYXNlIGNvbiB1bmEgSW50ZXJmYXogbm8gdW5hIHN0ZENsYXNzIGFsIHZ1ZWxvIC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcnNlZEFzc29jQXJyYXlPckVtcHR5ID0ganNvbl9lbmNvZGUoJHBvc3NpYmxlUGFyYW1zLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgU3RhcmdhdGUobmV3IEFwaUNhbGxlcigpKSktPnRyYXZlbCggLy90b2RvOiByZWZhY3RvciBsYSB0cmF2ZWwgdGllbmUgcXVlIGRldm9sdmVyIHVuYSBjbGFzZSBjb24gdW5hIEludGVyZmF6IG5vIHVuYSBzdGRDbGFzcyBhbCB2dWVsbyAuCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
