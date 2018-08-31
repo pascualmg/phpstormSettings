@@ -20,6 +20,11 @@
       <file name="/a.dummy" timestamp="1534768683504">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-buy-buttons.html.twig" timestamp="1535712114008">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/StargateCommand.php" timestamp="1535614489744">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="34" />
@@ -308,8 +313,8 @@
       <jump line="72" column="36" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Oi8vbG9jYWxob3N0OjkwODAvc3RhcmdhdGU/cHJpdmF0ZVVyaT1hcnRpY2xlcy8zMTA0NiZwcml2YXRlTWV0aG9kPUdFVA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGkgY2xhc3M9InBjY29tLWljb24iPiQ8L2k+CiAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Oi8vbG9jYWxob3N0OjkwODAvc3RhcmdhdGU/cHJpdmF0ZVVyaT1hcnRpY2xlcy8zMTA0NiZwcml2YXRlTWV0aG9kPUdFVA==</text>
@@ -321,31 +326,31 @@
         <text encoding="base64">UE9TVCBodHRwOi8vbG9jYWxob3N0OjkwODAvc3RhcmdhdGU/cHJpdmF0ZVVyaT1hcnRpY2xlcy8zMTA0NiZwcml2YXRlTWV0aG9kPUdFVAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGkgY2xhc3M9InBjY29tLWljb24iPiQ8L2k+CiAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+e3sgJ0HDsWFkaXIgYSBsaXN0YScgfCB0cmFucyB9fTwvc3Bhbj4KICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqCiAgICAgKi8KICB0aGlzLnRyYXZlbENhY2hlYWJsZSA9IGZ1bmN0aW9uIHRyYXZlbENhY2hlYWJsZSAoKSB7CgogIH0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LS1zdHJpY3QK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAvKioKICAgICAqCiAgICAgKi8KICB0aGlzLnRyYXZlbENhY2hlYWJsZSA9IGZ1bmN0aW9uIHRyYXZlbENhY2hlYWJsZSAoKSB7CgogIH0=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">LS1zdHJpY3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gSnNvblJlc3BvbnNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZXhjZXB0aW9uIEFueSBFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
