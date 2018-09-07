@@ -51,7 +51,7 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1536315684908">
+      <file name="/PHP Console" timestamp="1536319075660">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1535456686360">
@@ -78,6 +78,7 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="/return-modal.html.twig" timestamp="1536318666162" />
       <file name="$USER_HOME$/src/pccfront/bin/gjslint/gjslint.conf" timestamp="1535635384252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -88,6 +89,18 @@
       </file>
       <file name="/fragment.php" timestamp="1536139682366">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/orders/modals/return-modal.html.twig" timestamp="1536319484787">
+        <mark key="'" line="436" column="70" />
+        <mark key="[" line="356" column="68" />
+        <mark key="]" line="356" column="74" />
+        <mark key="." line="356" column="74" />
+        <mark key="^" line="356" column="74" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1536318114835">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/article/detail/article_detail.js" timestamp="1536043837889">
         <mark key="'" line="1549" column="20" />
@@ -201,13 +214,14 @@
       <jump line="57133" column="0" filename="$USER_HOME$/Downloads/PostalCodeSpain_List_2004october.txt" />
       <jump line="56906" column="21" filename="$USER_HOME$/Downloads/PostalCodeSpain_List_2004october.txt" />
       <jump line="864" column="31" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
+      <jump line="436" column="70" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/orders/modals/return-modal.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>alias</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>alias</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
@@ -216,31 +230,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ2NpdHknXSAgPSAkaXRlbVsnbm9tYnJlX2VudGlkYWRfc2luZ3VsYXInXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c2VsZWN0LXBpY2t1cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBzZXRQb2JsYWNpb24odmFsdWUpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBzZXRQb2JsYWNpb24odmFsdWUpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
