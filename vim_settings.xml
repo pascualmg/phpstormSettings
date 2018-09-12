@@ -27,7 +27,12 @@
       <file name="/a.dummy" timestamp="1534768683504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cms/CmsCategoriesController.php" timestamp="1536585007849" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cms/CmsCategoriesController.php" timestamp="1536587388428">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="34" column="35" />
+      </file>
       <file name="/Dummy.jql" timestamp="1535613693366">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,7 +42,7 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1536586473774">
+      <file name="/PHP Console" timestamp="1536587771872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1535456686360">
@@ -79,12 +84,12 @@
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Util/AlertBox.php" timestamp="1536348261551" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Exceptions/PccErrorMessage.php" timestamp="1536348465632" />
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Cms/Categories/cms-create-category.html.twig" timestamp="1536585374874" />
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Cms/Categories/pcc.Cms.Categories.js" timestamp="1536586457323">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="77" column="15" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Cms/Categories/cms-create-category.html.twig" timestamp="1536587282646" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Cms/Categories/pcc.Cms.Categories.js" timestamp="1536746563978">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="104" column="40" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1536582358158">
         <mark key="[" line="80" column="0" />
@@ -193,10 +198,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0ID0gZGQK</text>
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>$categories</text>
       </register>
       <register name="/" type="4">
         <text>lexi</text>
@@ -205,31 +210,49 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuaW50ZXJuYWxFcnJvcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0ID0gZGQK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuaW50ZXJuYWxFcnJvcik7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KG5ldyBQQ0MuU3RhcmdhdGUoKSkuZ2V0T0FqYXgoe3VyaToncGNibG9nL2NhdGVnb3JpZXMnfSkuc3Vic2NyaWJlKGZpbGxQYXJlbnRDYXRlZ29yeVNlbGVjdCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>var fillParentCategorySelect = function(result){
+    var categoryFatherSelect = document.querySelector('.form-category-father')
+    categoryFatherSelect.innerHTML = &quot;&quot;
+
+    var mapped  =  result.response.internalResponse.map(function(item){
+        var optionElem =  document.createElement('option');
+        optionElem.innerHTML = item.name
+        optionElem.setAttribute('data-id', item.id)
+        optionElem.setAttribute('data-name', item.name)
+        optionElem.setAttribute('data-published', item.published)
+        optionElem.setAttribute('data-category_father', item.category_father)
+        optionElem.setAttribute('data-post_count', item.post_count)
+
+        categoryFatherSelect.appendChild(optionElem);
+        return HTMLOptionElement
+
+    })
+}
+(new PCC.Stargate()).getOAjax({uri:'pcblog/categories'}).subscribe(fillParentCategorySelect)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIAogICAgbG9hZEZhdGhlckNhdGVnb3J5OiBmdW5jdGlvbiAoKSB7CiAgICAgICAgKG5ldyBTdGFyZ2F0ZSgpKS5nZXRPQWpheCh7dXJpOidwY2Jsb2cvY2F0ZWdvcmllcyd9KS5zdWJzY3JpYmUoZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0KSAKICAgIH0s</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCByZXNwb25zZS5pbnRlcm5hbEVycm9yICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuaW50ZXJuYWxFcnJvcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
