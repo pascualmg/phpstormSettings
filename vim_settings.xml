@@ -85,6 +85,9 @@
       <file name="/aux_compras_datos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423707461">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Cms/Categories/pcc.Cms.Categories.js" timestamp="1536916253839">
+        <mark key="[" line="97" column="46" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/send-if-ship-is-not-free.twig" timestamp="1533063068144">
         <mark key="[" line="5" column="65" />
         <mark key="]" line="5" column="91" />
@@ -117,7 +120,7 @@
       <file name="/tourline_agencias [componentes]" timestamp="1532425053257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1536830196171">
+      <file name="/PHP Console" timestamp="1536918337040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1532782061422">
@@ -132,10 +135,10 @@
       <file name="/dummy.sql" timestamp="1532344663117">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533059315760">
+      <file name="/Dummy.txt" timestamp="1536917513188">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/fragment.php" timestamp="1532500295776">
         <mark key="[" line="0" column="0" />
@@ -145,6 +148,11 @@
       </file>
       <file name="/api_compras_articulos [web@1.lectura.xgest.pccom.interno]" timestamp="1532423694910">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1536916801236">
+        <mark key="[" line="148" column="7" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/src/jsmoke/src/rx-of-sqlite.js" timestamp="1532779414469">
         <mark key="[" line="13" column="0" />
@@ -290,13 +298,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>36 - fix ajax headers</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>36 - fix ajax headers</text>
       </register>
       <register name="/" type="4">
         <text>articulos.datasheet.envio</text>
@@ -305,7 +313,7 @@
         <text>Euros en productos físicos.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -326,28 +334,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG8gc2kgaGFjZXMgcGVkaWRvIHN1cGVyaW9yIGEge3sgYW1vdW50Rm9yRnJlZSB9fSBFdXJvcyBlbiBwcm9kdWN0b3MgZsOtc2ljb3MuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5wYXJzZVVuaWZvcm1SZXNwb25zZUZyb21FeGNlcHRpb24oJGV4Y2VwdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyN0b2RvIHRyYWR1Y2Npb25lcyN9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRleGNlcHRpb24pIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG8gc2kgaGFjZXMgcGVkaWRvIHN1cGVyaW9yIGEge3sgYW1vdW50Rm9yRnJlZSB9fSBFdXJvcyBlbiBwcm9kdWN0b3MgZsOtc2ljb3MuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjfQo=</text>
+        <text encoding="base64">eyN0b2RvIHRyYWR1Y2Npb25lcyN9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7I21vY2sgYW1vdW50NGZyZWUgLCB0b2RvOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxIC4gU2kgdmllbmUgZGUgcHJpdmF0ZUFwaSAsIGJvcnJhciBkaXJlY3QgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
