@@ -1,8 +1,57 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Accepted language levels" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="AIR Packaging" shouldReadAloud="true" />
+    <notification groupId="Angular CLI" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Branch Context group" shouldReadAloud="true" />
+    <notification groupId="Browser Connection" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Clean artifact" shouldReadAloud="true" />
+    <notification groupId="Code style settings migration" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Compiler" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Find Problems" displayType="STICKY_BALLOON" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Framework Detection" shouldReadAloud="true" />
+    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Indexing" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="izhangzhihao.rainbow.brackets_UPDATE" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="JBA Cloud Config" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="JSCS Config Import" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="JSCS Messages" shouldReadAloud="true" />
+    <notification groupId="LiveEdit Enable" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Maven: non-managed pom.xml" shouldReadAloud="true" />
+    <notification groupId="Node.js interpreter" shouldReadAloud="true" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="PHP Interpreters" shouldReadAloud="true" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Plugin DevKit Deployment" shouldReadAloud="true" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Power Save Mode" shouldReadAloud="true" />
+    <notification groupId="Profiling" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Project Startup Tasks Messages" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Remote Desktop" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Required Plugins" shouldReadAloud="true" />
+    <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="SonarLint: Configuration update" shouldReadAloud="true" />
+    <notification groupId="SonarLint: Server Binding Errors" shouldReadAloud="true" />
+    <notification groupId="SonarLint: SonarQube Events" shouldReadAloud="true" />
+    <notification groupId="System Health" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Test Runner" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="V8 CPU Profiling Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="V8 Heap Snapshot Analysis Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
     <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldReadAloud="true" />
     <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
     <notification groupId="Vcs Notifications" shouldReadAloud="true" />
     <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Web Deployment" shouldReadAloud="true" />
+    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
+    <notification groupId="Webpack" displayType="NONE" shouldReadAloud="true" />
   </component>
 </application>
