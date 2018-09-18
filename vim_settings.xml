@@ -3,19 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1537266307773">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1537270165395">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="/fragment.js" timestamp="1536747515617">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/forms/nueva-direccion-facturacion.twig" timestamp="1537266262673">
-        <mark key="[" line="56" column="14" />
-        <mark key="]" line="57" column="7" />
-        <mark key="." line="57" column="7" />
-        <mark key="^" line="57" column="7" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/forms/nueva-direccion-facturacion.twig" timestamp="1537270151688">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/bin/gjslint/gjslint.conf" timestamp="1535635384252">
         <mark key="[" line="0" column="0" />
@@ -39,6 +38,12 @@
         <mark key="." line="34" column="35" />
         <mark key="^" line="34" column="35" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/forms/nueva-direccion-envio.twig" timestamp="1537269424984">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="193" column="7" />
+      </file>
       <file name="/fragment.php" timestamp="1536572288638">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,8 +66,13 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537266241125">
+      <file name="/PHP Console" timestamp="1537268515762">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1537268210447">
+        <mark key="[" line="842" column="0" />
+        <mark key="]" line="842" column="0" />
+        <mark key="." line="842" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1535456686360">
         <mark key="[" line="0" column="0" />
@@ -182,11 +192,11 @@
       <jump line="37" column="41" filename="$USER_HOME$/src/pccfront/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9ubHkgYXV0b0ZpbGwgaWYgdm9pZCAncG9ibGFjaW9uJw==</text>
       </register>
       <register name="-" type="4">
-        <text>6 , fix parameters constan</text>
+        <text encoding="base64">IG9ubHkgYXV0b0ZpbGwgaWYgdm9pZCAncG9ibGFjaW9uJw==</text>
       </register>
       <register name="/" type="4">
         <text>lexi</text>
@@ -195,49 +205,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuaW50ZXJuYWxFcnJvcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcmRkCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiBjb2wtbGctNiI+CiAgICAgICAgICAgICAgICAgICAge3sgZm9ybV93aWRnZXQobmV3YmlsbC5wb3N0YWxDb2RlKSB9fQogICAgICAgICAgICAgICAgPC9kaXY+</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogQlQtNTQwICwgYXV0b3JyZWxsZW5hciBwb2JsYWNpw7NuIGFsIGludHJvZHVjaXIgQy5QLgogICAgICAgICAqIEBwYXJhbSBjaXR5CiAgICAgICAgICovCiAgICAgICAgZnVuY3Rpb24gc2V0UG9ibGFjaW9uVmFsdWVJZlZvaWQgKGNpdHkpIHsKICAgICAgICAgICAgaWYgKHR5cGVvZiBjaXR5ID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAgICAgY2l0eUlucHV0ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3VzZXJOZXdTaGlwcGluZ0FkZHJlc3NfY2l0eScpCiAgICAgICAgICAgICAgICBpZiAodHlwZW9mIGNpdHlJbnB1dCA9PT0gJ29iamVjdCcgJiYgY2l0eUlucHV0LnZhbHVlID09PSAiIikgewogICAgICAgICAgICAgICAgICAgIGNpdHlJbnB1dC52YWx1ZSA9IGNpdHkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0ID0gZGQK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNvbGFtZW50ZSBzaSBsYSBsb2NhbGlkYWQgZXN0w6EgdmFjw61hIHNlIGF1dG9ycmVsbGVuYS4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KG5ldyBQQ0MuU3RhcmdhdGUoKSkuZ2V0T0FqYXgoe3VyaToncGNibG9nL2NhdGVnb3JpZXMnfSkuc3Vic2NyaWJlKGZpbGxQYXJlbnRDYXRlZ29yeVNlbGVjdCkK</text>
-      </register>
-      <register name="6" type="4">
-        <text>var fillParentCategorySelect = function(result){
-    var categoryFatherSelect = document.querySelector('.form-category-father')
-    categoryFatherSelect.innerHTML = &quot;&quot;
-
-    var mapped  =  result.response.internalResponse.map(function(item){
-        var optionElem =  document.createElement('option');
-        optionElem.innerHTML = item.name
-        optionElem.setAttribute('data-id', item.id)
-        optionElem.setAttribute('data-name', item.name)
-        optionElem.setAttribute('data-published', item.published)
-        optionElem.setAttribute('data-category_father', item.category_father)
-        optionElem.setAttribute('data-post_count', item.post_count)
-
-        categoryFatherSelect.appendChild(optionElem);
-        return HTMLOptionElement
-
-    })
-}
-(new PCC.Stargate()).getOAjax({uri:'pcblog/categories'}).subscribe(fillParentCategorySelect)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqICBNZWpvcmEgdMOpY25pY2EgcGFyYQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIAogICAgbG9hZEZhdGhlckNhdGVnb3J5OiBmdW5jdGlvbiAoKSB7CiAgICAgICAgKG5ldyBTdGFyZ2F0ZSgpKS5nZXRPQWpheCh7dXJpOidwY2Jsb2cvY2F0ZWdvcmllcyd9KS5zdWJzY3JpYmUoZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0KSAKICAgIH0s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
