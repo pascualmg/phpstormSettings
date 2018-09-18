@@ -3,13 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1537265747716">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="/fragment.js" timestamp="1536747515617">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1535636945588">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/src/pccfront/bin/gjslint/gjslint.conf" timestamp="1535635384252">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/JSRegexp Fragment (article_detail.js:49555).regexp" timestamp="1534243792734">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1534768683504">
         <mark key="[" line="0" column="0" />
@@ -25,47 +33,33 @@
         <mark key="." line="34" column="35" />
         <mark key="^" line="34" column="35" />
       </file>
-      <file name="/Dummy.jql" timestamp="1535613693366">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1536825049040">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1535456686360">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JSRegexp Fragment (article_detail.js:52437).regexp" timestamp="1534243287924">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/UserManager.php" timestamp="1534927163240">
-        <mark key="[" line="395" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1536582436486">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/bin/gjslint/gjslint.conf" timestamp="1535635384252">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/JSRegexp Fragment (article_detail.js:49555).regexp" timestamp="1534243792734">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.php" timestamp="1536572288638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/user/panel/orders/modals/return-modal.html.twig" timestamp="1536748109161">
         <mark key="[" line="355" column="53" />
       </file>
+      <file name="/Dummy.jql" timestamp="1535613693366">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1536566293588">
         <mark key="'" line="37" column="41" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1535636945588">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1536584755208">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1537265804675">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1535456686360">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Cms/Categories/pcc.Cms.Categories.js" timestamp="1536746563978">
         <mark key="[" line="104" column="0" />
@@ -73,8 +67,14 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="40" />
       </file>
+      <file name="/JSRegexp Fragment (article_detail.js:52437).regexp" timestamp="1534243287924">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1536747528437">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/UserManager.php" timestamp="1534927163240">
+        <mark key="[" line="395" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -176,11 +176,11 @@
       <jump line="37" column="41" filename="$USER_HOME$/src/pccfront/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0ID0gZGQK</text>
+      <register name="&quot;" type="4">
+        <text>6 , fix parameters constan</text>
       </register>
       <register name="-" type="4">
-        <text>$categories</text>
+        <text>6 , fix parameters constan</text>
       </register>
       <register name="/" type="4">
         <text>lexi</text>
