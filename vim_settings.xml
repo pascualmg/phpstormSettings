@@ -37,6 +37,7 @@
       <file name="/Dummy.jql" timestamp="1533023215329">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccadmin/src/Pcc/Bundle/WebBundle/Security/User/PCUserProvider.php" timestamp="1537189904641" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/OrderController.php" timestamp="1533026762128">
         <mark key="[" line="786" column="0" />
         <mark key="]" line="786" column="0" />
@@ -48,11 +49,11 @@
       <file name="$USER_HOME$/src/SessionStorageRepo/SessionStorageRepo.js" timestamp="1529864017059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccadmin/docker/local/.env" timestamp="1537187541577">
+      <file name="$USER_HOME$/src/pccadmin/docker/local/.env" timestamp="1537189544213">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/doubleclick-pixel.html.twig" timestamp="1532954176669">
@@ -121,6 +122,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4da88350-2fd4-4dba-a2cd-af6af1644c9f/console.sql" timestamp="1532424142424">
         <mark key="[" line="36" column="43" />
       </file>
+      <file name="$USER_HOME$/src/pccadmin/src/Pcc/Bundle/WebBundle/Controller/LoginController.php" timestamp="1537190010366" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Shopping/Order/order_detail.js" timestamp="1532510276135">
         <mark key="[" line="1385" column="0" />
         <mark key="]" line="1385" column="0" />
@@ -164,10 +166,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/src/pccadmin/app/config/parameters.yml" timestamp="1537187363352">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
+      <file name="$USER_HOME$/src/pccadmin/app/config/parameters.yml" timestamp="1537189579834">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="43" />
       </file>
       <file name="/fragment.php" timestamp="1532500295776">
         <mark key="[" line="0" column="0" />
@@ -333,13 +336,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>999</text>
+        <text>172.17.0.1:9000/'</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>999</text>
+        <text>172.17.0.1:9000/'</text>
       </register>
       <register name="/" type="4">
         <text>articulos.datasheet.envio</text>
