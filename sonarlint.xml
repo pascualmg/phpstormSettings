@@ -1,0 +1,22 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="excludedRules">
+      <set>
+        <option value="php:S1135" />
+        <option value="php:S125" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>dfc8df9fdf9bdf9adfc9df9fdf98dfc8dfcedfc8df9ddf92df9cdf9cdfc9dfcbdf98dfc9df9bdf9edfcfdfccdfcedf98df9edfcfdf9cdf9edfcfdf92df98df9bdf93dfccdf9cdfc9df9bdf9adf93df9d</token>
+          <option name="name" value="cloud" />
+          <organizationKey>pccom</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
