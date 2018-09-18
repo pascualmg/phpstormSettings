@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1537265747716">
-        <mark key="[" line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1537266307773">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
       <file name="/fragment.js" timestamp="1536747515617">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/forms/nueva-direccion-facturacion.twig" timestamp="1537266262673">
+        <mark key="[" line="56" column="14" />
+        <mark key="]" line="57" column="7" />
+        <mark key="." line="57" column="7" />
+        <mark key="^" line="57" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/bin/gjslint/gjslint.conf" timestamp="1535635384252">
         <mark key="[" line="0" column="0" />
@@ -55,7 +61,7 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537265804675">
+      <file name="/PHP Console" timestamp="1537266241125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1535456686360">
@@ -176,8 +182,8 @@
       <jump line="37" column="41" filename="$USER_HOME$/src/pccfront/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6 , fix parameters constan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>6 , fix parameters constan</text>
@@ -189,12 +195,21 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuaW50ZXJuYWxFcnJvcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0ID0gZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KG5ldyBQQ0MuU3RhcmdhdGUoKSkuZ2V0T0FqYXgoe3VyaToncGNibG9nL2NhdGVnb3JpZXMnfSkuc3Vic2NyaWJlKGZpbGxQYXJlbnRDYXRlZ29yeVNlbGVjdCkK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiBjb2wtbGctNiI+CiAgICAgICAgICAgICAgICAgICAge3sgZm9ybV93aWRnZXQobmV3YmlsbC5wb3N0YWxDb2RlKSB9fQogICAgICAgICAgICAgICAgPC9kaXY+</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0ID0gZGQK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">KG5ldyBQQ0MuU3RhcmdhdGUoKSkuZ2V0T0FqYXgoe3VyaToncGNibG9nL2NhdGVnb3JpZXMnfSkuc3Vic2NyaWJlKGZpbGxQYXJlbnRDYXRlZ29yeVNlbGVjdCkK</text>
+      </register>
+      <register name="6" type="4">
         <text>var fillParentCategorySelect = function(result){
     var categoryFatherSelect = document.querySelector('.form-category-father')
     categoryFatherSelect.innerHTML = &quot;&quot;
@@ -215,23 +230,14 @@
 }
 (new PCC.Stargate()).getOAjax({uri:'pcblog/categories'}).subscribe(fillParentCategorySelect)</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIAogICAgbG9hZEZhdGhlckNhdGVnb3J5OiBmdW5jdGlvbiAoKSB7CiAgICAgICAgKG5ldyBTdGFyZ2F0ZSgpKS5nZXRPQWpheCh7dXJpOidwY2Jsb2cvY2F0ZWdvcmllcyd9KS5zdWJzY3JpYmUoZmlsbFBhcmVudENhdGVnb3J5U2VsZWN0KSAKICAgIH0s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuaW50ZXJuYWxFcnJvcik7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
