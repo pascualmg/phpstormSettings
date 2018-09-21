@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_users.yml" timestamp="1537518424434" />
       <file name="/fragment.js" timestamp="1536747515617">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,15 +24,20 @@
       <file name="/Dummy.jql" timestamp="1535613693366">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/forms/caja-login-v2.twig" timestamp="1537519961301">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="33" />
+        <mark key="^" line="33" column="39" />
+        <mark key="." line="33" column="33" />
+      </file>
       <file name="/PHP Console" timestamp="1537268515762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1537362322018">
-        <mark key="'" line="823" column="96" />
-        <mark key="[" line="770" column="17" />
-        <mark key="]" line="770" column="105" />
-        <mark key="." line="770" column="17" />
-        <mark key="^" line="769" column="120" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" timestamp="1537520135992">
+        <mark key="[" line="474" column="17" />
+        <mark key="]" line="474" column="17" />
+        <mark key="." line="474" column="17" />
+        <mark key="^" line="175" column="30" />
       </file>
       <file name="/JSRegexp Fragment (article_detail.js:52437).regexp" timestamp="1534243287924">
         <mark key="[" line="0" column="0" />
@@ -39,8 +45,8 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/UserManager.php" timestamp="1534927163240">
         <mark key="[" line="395" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537513002339">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1537520490988">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -206,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgb25DaGFuZ2VQb3N0YWxDb2RlT2JzZXJ2YWJsZS5zdWJzY3JpYmUo</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>shipping Address flatMap refactor.</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>MAZARR</text>
@@ -217,32 +223,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICAgICAgICAgZGF0YTogJ2NvdW50cnk9JyArICQoJyN1c2VyTmV3QmlsbGluZ0FkZHJlc3NfY291bnRyeScpLnZhbCgpICsgJyZwb3N0YWxDb2RlPScgKyAkKCcjdXNlck5ld0JpbGxpbmdBZGRyZXNzX3Bvc3RhbENvZGUnKS52YWwoKSwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgb25DaGFuZ2VQb3N0YWxDb2RlT2JzZXJ2YWJsZS5zdWJzY3JpYmUo</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgIGZ1bmN0aW9uIChuKSB7fSwKICAgICAgICAgICAgZnVuY3Rpb24gKGUpIHt9LAogICAgICAgICAgICBmdW5jdGlvbiAoYykge30=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2VQb3N0YWxDb2RlT2JzZXJ2YWJsZS5zdWJzY3JpYmUoCiAgICAgICAgICAgICkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAvL0JULTU1MCBlbGltaW5hciBjYW1wb3MgZGVsIGxvZ2luIGFsIGVudmlhciBudWV2YSBjb250cmFzZcOxYQogICAgICAgICRkaXNhYmxlZEZpZWxkcyA9IChib29sKSRyZXF1ZXN0LT5nZXQoJ2Rpc2FibGVGaWVsZHMnLCBmYWxzZSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIChjKSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIChlKSB7fSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIChuKSB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgJGRpc2FibGVkRmllbGRzICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHppcCA9IHJ4anMub3BlcmF0b3JzLnppcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHVybCA9ICR0aGlzLT5nZW5lcmF0ZVVybCgnYmxvZ19zaG93JywgYXJyYXkoJ3NsdWcnID0+ICdteS1ibG9nLXBvc3QnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
