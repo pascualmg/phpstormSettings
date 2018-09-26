@@ -14,6 +14,7 @@
       <file name="/a.dummy" timestamp="1534768683504">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/transaction-ok.html.twig" timestamp="1537954127364" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/head.html.twig" timestamp="1537947570314">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -47,10 +48,10 @@
         <mark key="]" line="849" column="791156" />
         <mark key="." line="849" column="791156" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/ThankYou/TransactionOk/transaction-ok.html.twig" timestamp="1537952779327">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/ThankYou/TransactionOk/transaction-ok.html.twig" timestamp="1537953769324">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="16" column="15" />
       </file>
       <file name="/JSRegexp Fragment (article_detail.js:52437).regexp" timestamp="1534243287924">
@@ -75,7 +76,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmConversionScript.twig" timestamp="1537952814098">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmConversionScript.twig" timestamp="1537953690940">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -107,7 +108,7 @@
         <mark key="]" line="359" column="0" />
         <mark key="." line="359" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmGlobalScript.twig" timestamp="1537952857023">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmGlobalScript.twig" timestamp="1537953668780">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -251,8 +252,8 @@
       <jump line="849" column="933324" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sustituido script copypasteado original x nuevo Global</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9ndG1HbG9iYWxTY3JpcHQudHdpZycgJX0K</text>
       </register>
       <register name="-" type="4">
         <text>sustituido script copypasteado original x nuevo Global</text>
@@ -264,31 +265,31 @@
         <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9ndG1HbG9iYWxTY3JpcHQudHdpZycgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9ndG1HbG9iYWxTY3JpcHQudHdpZycgJX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVzaGVhbmRvIGNvbnZlcnNpb24nLCBjb252ZXJzaW9uRGF0YSkvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVzaGVhbmRvIGNvbnZlcnNpb24nLCBjb252ZXJzaW9uRGF0YSkvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7I3slIGVtYmVkICdAUGNjV2ViL3ZlbmRvci9jb25uZWN0aWYvY25fY2xpZW50X2luZm8vY25fY2xpZW50X2luZm8udHdpZycgJX17JSBlbmRlbWJlZCAlfSN9Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ3NlbmRfdG8nOiAnQVctOTUxNzY2MzE4L1lkY3JDUGUyX21rUXJwcnJ4UU0nLAogICAgICAgICAgICAgICAgJ3ZhbHVlJzoge3sgdG90YWxUb1BheSB9fSAsCiAgICAgICAgICAgICAgICAnY3VycmVuY3knOiAnRVVSJywKICAgICAgICAgICAgICAgICd0cmFuc2FjdGlvbl9pZCc6ICd7eyBpZFBlZGlkbyB9fScKICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9wdXNoZWEgYWwgZGF0YWxheWVyCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZWplY3V0YW5kbyBnb29nJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7I3slIGVtYmVkICdAUGNjV2ViL3ZlbmRvci9jb25uZWN0aWYvY25fY2xpZW50X2luZm8vY25fY2xpZW50X2luZm8udHdpZycgJX17JSBlbmRlbWJlZCAlfSN9Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ3NlbmRfdG8nOiAnQVctOTUxNzY2MzE4L1lkY3JDUGUyX21rUXJwcnJ4UU0nLAogICAgICAgICAgICAgICAgJ3ZhbHVlJzoge3sgdG90YWxUb1BheSB9fSAsCiAgICAgICAgICAgICAgICAnY3VycmVuY3knOiAnRVVSJywKICAgICAgICAgICAgICAgICd0cmFuc2FjdGlvbl9pZCc6ICd7eyBpZFBlZGlkbyB9fScKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgLy9wdXNoZWEgYWwgZGF0YWxheWVyCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZWplY3V0YW5kbyBnb29nJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRW52aWFuZG8gZXZlbnRvIGNvbnZlcnNpb24nICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
