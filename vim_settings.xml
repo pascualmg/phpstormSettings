@@ -64,6 +64,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmConversionScript.twig" timestamp="1537946650185">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/forms/nueva-direccion-facturacion.twig" timestamp="1537865454496">
         <mark key="[" line="193" column="0" />
         <mark key="]" line="193" column="0" />
@@ -90,15 +96,15 @@
         <mark key="]" line="359" column="0" />
         <mark key="." line="359" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmGlobalScript.twig" timestamp="1537945729240">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmGlobalScript.twig" timestamp="1537946657042">
+        <mark key="[" line="8" column="38" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/CartLayout/layout.html.twig" timestamp="1537945110547">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="68" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/CartLayout/layout.html.twig" timestamp="1537946622560">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1537864405189">
         <mark key="[" line="859" column="3" />
@@ -232,11 +238,11 @@
       <jump line="823" column="96" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsjR2xvYmFsIHNpdGUgdGFnIChndGFnLmpzKSAtIEdvb2dsZSBBZHM6IENPTlZFUlNJT05fSUQgI30K</text>
+      <register name="&quot;" type="4">
+        <text>PccWeb/vendor/googleTagManager/@PccWeb/vendor/googleTagManager/gtmConversionScript.twig.twig</text>
       </register>
       <register name="-" type="4">
-        <text>@PccWeb/vendor/googleTagManager/</text>
+        <text>PccWeb/vendor/googleTagManager/@PccWeb/vendor/googleTagManager/gtmConversionScript.twig.twig</text>
       </register>
       <register name="/" type="4">
         <text>MAZARR</text>
@@ -245,31 +251,31 @@
         <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9ndG1HbG9iYWxTY3JpcHQudHdpZycgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsjR2xvYmFsIHNpdGUgdGFnIChndGFnLmpzKSAtIEdvb2dsZSBBZHM6IENPTlZFUlNJT05fSUQgI30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvdmVuZG9yL2dvb2dsZVRhZ01hbmFnZXIvZ29vZ2xlVGFnTWFuYWdlclNjcmlwdC50d2lnJyAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvdmVuZG9yL2dvb2dsZVRhZ01hbmFnZXIvZ29vZ2xlVGFnTWFuYWdlclNjcmlwdC50d2lnJyAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9nb29nbGVUYWdNYW5hZ2VyU2NyaXB0LnR3aWcnICV9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PHNjcmlwdCBhc3luYyBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0YWcvanM/aWQ9QVctOTUxNzY2MzE4Ij48L3NjcmlwdD4KPHNjcmlwdD4gd2luZG93LmRhdGFMYXllciA9IHdpbmRvdy5kYXRhTGF5ZXIgfHwgW10KICAgIGZ1bmN0aW9uIGd0YWcgKCkgeyBkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpIH0KICAgIGd0YWcoJ2pzJywgbmV3IERhdGUoKSkKICAgIGd0YWcoJ2NvbmZpZycsICdBVy05NTE3NjYzMTgnKQo8L3NjcmlwdD4=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHsjR2xvYmFsIHNpdGUgdGFnIChndGFnLmpzKSAtIEdvb2dsZSBBZHM6IENPTlZFUlNJT05fSUQgI30K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvdmVuZG9yL2dvb2dsZVRhZ01hbmFnZXIvZ29vZ2xlVGFnTWFuYWdlclNjcmlwdC50d2lnJyAlfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAtLT4K</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvdmVuZG9yL2dvb2dsZVRhZ01hbmFnZXIvZ29vZ2xlVGFnTWFuYWdlclNjcmlwdC50d2lnJyAlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPgo=</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9nb29nbGVUYWdNYW5hZ2VyU2NyaXB0LnR3aWcnICV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
