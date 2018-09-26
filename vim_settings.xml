@@ -6,10 +6,10 @@
       <file name="/fragment.js" timestamp="1536747515617">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/TransactionOkLayout/layout.html.twig" timestamp="1537875105869">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/TransactionOkLayout/layout.html.twig" timestamp="1537945069786">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1534768683504">
         <mark key="[" line="0" column="0" />
@@ -23,10 +23,11 @@
       <file name="/Dummy.jql" timestamp="1535613693366">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/layout.html.twig" timestamp="1537875073191">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/layout.html.twig" timestamp="1537945042538">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/forms/caja-login-v2.twig" timestamp="1537775951908">
         <mark key="[" line="31" column="0" />
@@ -89,11 +90,15 @@
         <mark key="]" line="359" column="0" />
         <mark key="." line="359" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/CartLayout/layout.html.twig" timestamp="1537875064700">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="75" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmGlobalScript.twig" timestamp="1537945729240">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/CartLayout/layout.html.twig" timestamp="1537945110547">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="68" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/user/panel/panel.js" timestamp="1537864405189">
         <mark key="[" line="859" column="3" />
@@ -101,11 +106,11 @@
         <mark key="." line="94" column="61" />
         <mark key="^" line="94" column="61" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/googleTagManagerScript.twig" timestamp="1537874413318">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/googleTagManagerScript.twig" timestamp="1537944753835">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1537514173949">
         <mark key="[" line="33" column="0" />
@@ -120,11 +125,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/LoginLayout/layout.html.twig" timestamp="1537875051217">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="79" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/LoginLayout/layout.html.twig" timestamp="1537945123483">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -229,43 +233,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAtLT4K</text>
+        <text encoding="base64">ICAgIHsjR2xvYmFsIHNpdGUgdGFnIChndGFnLmpzKSAtIEdvb2dsZSBBZHM6IENPTlZFUlNJT05fSUQgI30K</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>@PccWeb/vendor/googleTagManager/</text>
       </register>
       <register name="/" type="4">
         <text>MAZARR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9nb29nbGVUYWdNYW5hZ2VyU2NyaXB0LnR3aWcnICV9Cg==</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9ndG1HbG9iYWxTY3JpcHQudHdpZycgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAtLT4K</text>
+        <text encoding="base64">ICAgIHsjR2xvYmFsIHNpdGUgdGFnIChndGFnLmpzKSAtIEdvb2dsZSBBZHM6IENPTlZFUlNJT05fSUQgI30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPgo=</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvdmVuZG9yL2dvb2dsZVRhZ01hbmFnZXIvZ29vZ2xlVGFnTWFuYWdlclNjcmlwdC50d2lnJyAlfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPgo=</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvdmVuZG9yL2dvb2dsZVRhZ01hbmFnZXIvZ29vZ2xlVGFnTWFuYWdlclNjcmlwdC50d2lnJyAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgLS0+Cg==</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnQFBjY1dlYi92ZW5kb3IvZ29vZ2xlVGFnTWFuYWdlci9nb29nbGVUYWdNYW5hZ2VyU2NyaXB0LnR3aWcnICV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgLS0+Cg==</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ0BQY2NXZWIvdmVuZG9yL2dvb2dsZVRhZ01hbmFnZXIvZ29vZ2xlVGFnTWFuYWdlclNjcmlwdC50d2lnJyAlfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAtLT4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
