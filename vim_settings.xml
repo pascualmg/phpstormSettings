@@ -71,10 +71,10 @@
         <mark key="^" line="527" column="3" />
         <mark key="." line="528" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537968257741">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1538127264495">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Doofinder/script.html.twig" timestamp="1537778001488">
         <mark key="[" line="46" column="0" />
@@ -261,11 +261,11 @@
       <jump line="2" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/googleTagManager/gtmGlobalScript.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBndGFnICgpIHsgZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKSB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>restore original gtm codes.</text>
       </register>
       <register name="-" type="4">
-        <text>varias veces.</text>
+        <text>restore original gtm codes.</text>
       </register>
       <register name="/" type="4">
         <text>30009</text>
