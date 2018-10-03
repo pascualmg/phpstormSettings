@@ -33,6 +33,9 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" timestamp="1538568605979">
+        <mark key="'" line="174" column="20" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Panel/OrdersAndReturnsController.php" timestamp="1538476809095">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -118,12 +121,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/tarjeta.html.twig" timestamp="1538565325603">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/tarjeta.html.twig" timestamp="1538569173865">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="31" column="55" />
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
+        <mark key="." line="15" column="51" />
+        <mark key="^" line="15" column="51" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/comments/article-comments-list.html.twig" timestamp="1538388367744">
         <mark key="[" line="11" column="0" />
@@ -226,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="109" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="110" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="112" column="57" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
@@ -326,19 +328,20 @@
       <jump line="16" column="48" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/tarjeta.html.twig" />
       <jump line="6" column="43" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/tarjeta.html.twig" />
       <jump line="45" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/tarjeta.html.twig" />
+      <jump line="174" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Twig/PccExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>30009</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgc2V0IG9mZmVyUHJpY2UgPSBvZmZlclByaWNlIHwgcHJpY2UgfCBkZWZhdWx0KCcnKSAgJX0K</text>
+        <text encoding="base64">eyUgc2V0IG9mZmVyVW5pdHNCYXJQY3QgPSBvZmZlclVuaXRzQmFyUGN0IHwgZGVmYXVsdCgnJykgICV9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
