@@ -87,6 +87,12 @@
       <file name="/web.comentarios_valoraciones [web@1.lectura.xgest.pccom.interno]" timestamp="1538484005388">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" timestamp="1538981404589">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/forms/nueva-direccion-envio.twig" timestamp="1537865444390">
         <mark key="[" line="195" column="0" />
         <mark key="]" line="195" column="116" />
@@ -103,6 +109,10 @@
       </file>
       <file name="/web.api_premium_subscription_login [web@1.lectura.xgest.pccom.interno]" timestamp="1538470389135">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1538981640994">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="67" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/CartLayout/layout.html.twig" timestamp="1538553730675">
         <mark key="[" line="3" column="0" />
@@ -147,11 +157,8 @@
       <file name="/web.actualizaciones_competencia [web@1.lectura.xgest.pccom.interno]" timestamp="1538470361662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/pre-black.html.twig" timestamp="1538556198987">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="68" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/pre-black.html.twig" timestamp="1538984116130">
+        <mark key="[" line="51" column="54" />
       </file>
       <file name="/dummy.sql" timestamp="1538650980016">
         <mark key="[" line="0" column="0" />
@@ -192,11 +199,16 @@
         <mark key="." line="91" column="54" />
         <mark key="^" line="91" column="53" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1538660472081">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/black.html.twig" timestamp="1538982208947">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1538981659528" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/footer.html.twig" timestamp="1538982251307">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/carousel.html.twig" timestamp="1538564745063">
         <mark key="[" line="25" column="25" />
@@ -336,44 +348,44 @@
       <jump line="66" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>maxlen</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>en</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjdXJybGVuID0gc3RybGVuKCRjdXJyLT5nZXROYW1lKCkpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCd2ZW5kb3Ivcnhqcy51bWQuanMnIHwganNfcmV2ICkgfX0iPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0ie3sgYXNzZXQoJ3ZlbmRvci90aW1lbWFjaGluZS5qcyd8anNfcmV2KSB9fSI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJ7eyBhc3NldCgncHJvbW90aW9ucy9ibGFjay1mcmlkYXktMTgvaW5kZXguanMnfGpzX3JldikgfX0iPjwvc2NyaXB0Pgo8c2NyaXB0PgogICAgZnVuY3Rpb24gbG9hZFNjcmlwdCAodXJpLCBvbkxvYWQpIHsKICAgICAgICB2YXIgYVNjcmlwdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpCiAgICAgICAgYVNjcmlwdC50eXBlID0gJ3RleHQvamF2YXNjcmlwdCcKICAgICAgICBhU2NyaXB0LnNyYyA9IHVyaQogICAgICAgIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQoYVNjcmlwdCkKICAgICAgICBhU2NyaXB0Lm9ubG9hZCA9IG9uTG9hZAogICAgfQogICAgbG9hZFNjcmlwdCgiaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvT3dsQ2Fyb3VzZWwyLzIuMy40L293bC5jYXJvdXNlbC5taW4uanMiLCBQQ0MuQkYxOC5nZXRUaW1lQW5kTG9hZEJGKQo8L3NjcmlwdD4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRtYXhBcnRpY2xlTGlzdEl0ZW0pOyAK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGRpZTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBsb2FkU2NyaXB0KAogICAgICAgIGZ1bmN0aW9uICgpIHsKICAgICAgICBQQ0MuQkYxOC5nZXRUaW1lQW5kTG9hZEJGKCkKICAgIH0p</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAkcHJvbW9zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbmxvYWQ9IlBDQy5CRjE4LmdldFRpbWVBbmRMb2FkQkYoKSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoZnVuY3Rpb24oJG5hbWUpewo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gbG9hZFNjcmlwdCAodXJpLCBvbkxvYWQpIHsKdmFyIGFTY3JpcHQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKQphU2NyaXB0LnR5cGUgPSAndGV4dC9qYXZhc2NyaXB0JwphU2NyaXB0LnNyYyA9IHVyaQpkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKGFTY3JpcHQpCmFTY3JpcHQub25sb2FkID0gb25Mb2FkCn0KIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmV0dXJuIHN0cmxlbigkaXRlbS0+Z2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
