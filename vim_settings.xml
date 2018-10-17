@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1535636945588">
@@ -58,11 +58,12 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1542115909557">
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="42" column="23" />
-        <mark key="." line="42" column="23" />
-        <mark key="^" line="51" column="31" />
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1539781630879">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" timestamp="1542643125299">
         <mark key="[" line="154" column="24" />
@@ -141,9 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/pruebecilla/src/zapalevi/view/miView.java" />
-      <jump line="23" column="30" filename="$USER_HOME$/IdeaProjects/pruebecilla/src/zapalevi/event/pinchaPulsado.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/IdeaProjects/pruebecilla/src/zapalevi/event/pinchaPulsado.java" />
       <jump line="121" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="309" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="88" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
@@ -241,16 +239,19 @@
       <jump line="43" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" />
       <jump line="215" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" />
+      <jump line="20" column="27" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="38" column="4" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="41" column="4" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>lexi</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkKCcjbWFpbicpLmNzcyggImJhY2tncm91bmQtY29sb3IiLCAid2hpdGUiKTsK</text>
@@ -287,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lexi</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>lexi</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -301,6 +302,7 @@
         <entry>erro</entry>
         <entry>sync</entry>
         <entry>lexi</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
