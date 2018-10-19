@@ -32,11 +32,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1539974683308">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="25" column="59" />
-        <mark key="^" line="25" column="59" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1539977444004">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/DFPS_SCRIPTS_18.html.twig" timestamp="1542626673767">
         <mark key="[" line="29" column="0" />
@@ -56,7 +56,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BLACK_FRIDAY_PROMOTION</text>
+        <text encoding="base64">CgogICAgICAgICRjdXN0b21pemF0aW9uID0gKG5ldyBDdXN0b21pemF0aW9uTWFuYWdlcigKICAgICAgICAgICAgbmV3IExhbmRpbmdDdXN0b21pemF0aW9uUmVwb3NpdG9yeSgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0KCdwY2NfbG9jYWxlJyktPmdldExvY2FsZSgpCiAgICAgICAgKSktPmdldEN1c3RvbWl6YXRpb24oJ2JsYWNrJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BLACK_FRIDAY_PROMOTION</text>
@@ -64,8 +64,8 @@
       <register name="/" type="4">
         <text>firefox</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEJMQUNLX0ZSSURBWV9QUk9NT1RJT04gPSAxNjsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgogICAgICAgICRjdXN0b21pemF0aW9uID0gKG5ldyBDdXN0b21pemF0aW9uTWFuYWdlcigKICAgICAgICAgICAgbmV3IExhbmRpbmdDdXN0b21pemF0aW9uUmVwb3NpdG9yeSgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0KCdwY2NfbG9jYWxlJyktPmdldExvY2FsZSgpCiAgICAgICAgKSktPmdldEN1c3RvbWl6YXRpb24oJ2JsYWNrJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -94,6 +94,9 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgIGFsZ28oKXsK</text>
       </register>
+      <register name=":" type="4">
+        <text>!git status</text>
+      </register>
     </registers>
     <search>
       <last-search>firefox</last-search>
@@ -106,7 +109,9 @@
       <history-search>
         <entry>firefox</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>!git status</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
