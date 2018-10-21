@@ -32,11 +32,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1540145048819">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="21" column="10" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1540145825052">
+        <mark key="[" line="345" column="5" />
+        <mark key="]" line="346" column="7" />
+        <mark key="." line="346" column="7" />
+        <mark key="^" line="346" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/DFPS_SCRIPTS_18.html.twig" timestamp="1542626673767">
         <mark key="[" line="29" column="0" />
@@ -56,43 +56,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgICAgICRjdXN0b21pemF0aW9uID0gKG5ldyBDdXN0b21pemF0aW9uTWFuYWdlcigKICAgICAgICAgICAgbmV3IExhbmRpbmdDdXN0b21pemF0aW9uUmVwb3NpdG9yeSgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0KCdwY2NfbG9jYWxlJyktPmdldExvY2FsZSgpCiAgICAgICAgKSktPmdldEN1c3RvbWl6YXRpb24oJ2JsYWNrJyk7Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>BLACK_FRIDAY_PROMOTION</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>firefox</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgogICAgICAgICRjdXN0b21pemF0aW9uID0gKG5ldyBDdXN0b21pemF0aW9uTWFuYWdlcigKICAgICAgICAgICAgbmV3IExhbmRpbmdDdXN0b21pemF0aW9uUmVwb3NpdG9yeSgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0KCdwY2NfbG9jYWxlJyktPmdldExvY2FsZSgpCiAgICAgICAgKSktPmdldEN1c3RvbWl6YXRpb24oJ2JsYWNrJyk7Cg==</text>
+        <text encoding="base64">CgogICAgLyoqCiAgICAgKiBDYXJnYSBsYSBsYW5kaW5nIGRlIFByZS1ibGFjawogICAgICogQHJldHVybiBcU3ltZm9ueVxDb21wb25lbnRcSHR0cEZvdW5kYXRpb25cUmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGJmQWN0aW9uKCkKICAgIHsKICAgICAgICAkYnJlYWRDcnVtYiA9IG5ldyBUd2lnQnJlYWRDcnVtYigpOwogICAgICAgICRicmVhZENydW1iLT5hZGQoJ0hvbWUnLCAkdGhpcy0+Z2VuZXJhdGVVcmwoJ3BjY193ZWJfaG9tZScpKTsKICAgICAgICAkYnJlYWRDcnVtYi0+YWRkKAogICAgICAgICAgICAkdGhpcy0+Z2V0KCd0cmFuc2xhdG9yJyktPnRyYW5zKCdCbGFja0ZyaWRheScpLAogICAgICAgICAgICAkdGhpcy0+Z2VuZXJhdGVVcmwoJ3BjY193ZWJfYmxhY2tfZnJpZGF5JykKICAgICAgICApOwoKICAgICAgICAkYmFzZSA9IG5ldyBUd2lnQmFzZSgpOwogICAgICAgICRiYXNlLT5zZXRoZWFkVGl0bGUoJHRoaXMtPmdldCgndHJhbnNsYXRvcicpLT50cmFucygnQmxhY2tGcmlkYXknKSk7CiAgICAgICAgJGJhc2UtPnNldEhpc3RvcnlFbmFibGVkKHRydWUpOwogICAgICAgICRiYXNlLT5zZXRCcmVhZENydW1iKCRicmVhZENydW1iKTsKICAgICAgICAkYmFzZS0+c2V0Qm9keUlkKCcnKTsKICAgICAgICAkYmFzZS0+c2V0Qm9keUNsYXNzKCcnKTsKCiAgICAgICAgJGN1c3RvbWl6YXRpb24gPSAobmV3IEN1c3RvbWl6YXRpb25NYW5hZ2VyKAogICAgICAgICAgICBuZXcgTGFuZGluZ0N1c3RvbWl6YXRpb25SZXBvc2l0b3J5KCksCiAgICAgICAgICAgICR0aGlzLT5nZXQoJ3BjY19sb2NhbGUnKS0+Z2V0TG9jYWxlKCkKICAgICAgICApKS0+Z2V0Q3VzdG9taXphdGlvbignYmxhY2snKTsKCiAgICAgICAgJGlkUHJvbW90aW9uID0gJHRoaXMtPmdldFByb21vdGlvbklkKCk7CiAgICAgICAgJGJsYWNrRnJpZGF5TWFuYWdlciA9IG5ldyBCbGFja0ZyaWRheU1hbmFnZXIoKTsKICAgICAgICAkZmFtaWxpZXNGaWx0ZXJzID0gJGJsYWNrRnJpZGF5TWFuYWdlci0+Z2V0TWVudSgkaWRQcm9tb3Rpb24pOwogICAgICAgICRmaWx0ZXJzTWVudSA9IG5ldyBGYW1pbGllc1RyYWRlbWFya3NNZW51TWFwcGVyKCk7CgogICAgICAgIGlmIChmYWxzZSA9PT0gZW1wdHkoJGZhbWlsaWVzRmlsdGVycykpIHsKICAgICAgICAgICAgJGZpbHRlcnNNZW51LT5sb2FkKCRmYW1pbGllc0ZpbHRlcnMpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZW5kZXIoJ0BQY2NXZWIvc3RhdGljcy9sYW5kaW5nL2JsYWNrLWZyaWRheS0yMDE4L2JsYWNrL2JsYWNrLmh0bWwudHdpZycsIFsKICAgICAgICAgICAgJ2Jhc2UnID0+ICRiYXNlLAogICAgICAgICAgICAnY3VzdG9taXphdGlvbicgPT4gJGN1c3RvbWl6YXRpb24sCiAgICAgICAgICAgICdmZWF0dXJlZEFydGljbGVzJyA9PiAkYmxhY2tGcmlkYXlNYW5hZ2VyLT5nZXRBcnRpY2xlc0ZlYXR1cmVkKCRpZFByb21vdGlvbiksCiAgICAgICAgICAgICdzcG9uc29yZWRBcnRpY2xlcycgPT4gJGJsYWNrRnJpZGF5TWFuYWdlci0+Z2V0U3BvbnNvcmVkQXJ0aWNsZXMoJGlkUHJvbW90aW9uKSwKICAgICAgICAgICAgJ25vcm1hbEFydGljbGVzJyA9PiAkYmxhY2tGcmlkYXlNYW5hZ2VyLT5nZXRBcnRpY2xlc1Byb21vdGlvbigkaWRQcm9tb3Rpb24pLAogICAgICAgICAgICAnZmlsdGVyTWVudUdyb3VwcycgPT4gJGZpbHRlcnNNZW51LT5nZXRHcm91cHMoKSwKICAgICAgICAgICAgJ3BhZ2luYXRvcicgPT4gJGJsYWNrRnJpZGF5TWFuYWdlci0+Z2V0QXJ0aWNsZXNQcm9tb3Rpb24oJGlkUHJvbW90aW9uKS0+Z2V0UGFnaW5hdG9yKCksCiAgICAgICAgICAgICdub0FydGljbGVzJyA9PiBmYWxzZSwKICAgICAgICAgICAgJ3Nob3dCdXR0b25zJyA9PiBmYWxzZSwKICAgICAgICAgICAgJ2N1cnJlbnREYXRlJyA9PiAkbm93ID0gQ2xvY2s6Om5vdygpLT5mb3JtYXQoJ1UnKQovLyAgICAgICAgICAgICdhcnRpY2xlTGlzdCcgPT4gJHNvcnRlZEFydGljbGVzLAovLyAgICAgICAgICAgICdwcmVfZW5kJyA9PiBuZXcgXERhdGVUaW1lKCR0aGlzLT5nZXRQYXJhbWV0ZXIoJ2JmJylbJ3ByZV9lbmQnXSksCi8vICAgICAgICAgICAgJ2RheVBvc2l0aW9uJyA9PiAkZGF5UG9zaXRpb24sCi8vICAgICAgICAgICAgJ2N1cnJlbnREYXRlJyA9PiBDbG9jazo6bm93KCksCiAgICAgICAgXSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldCgndHJhbnNsYXRvcicpLT50cmFucygnQmxhY2tGcmlkYXknKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRlID0gbm9ybWFsaXplRGF0ZUZvcm1hdChjZC5kYXRhc2V0LmNvdW50ZG93bikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZQo=</text>
+        <text encoding="base64">ICAgICAgICBvbwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRlID0gbm9ybWFsaXplRGF0ZUZvcm1hdChjZC5kYXRhc2V0LmNvdW50ZG93bikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZ28oKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!git status</text>
@@ -121,6 +121,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
