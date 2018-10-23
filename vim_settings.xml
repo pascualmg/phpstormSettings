@@ -9,8 +9,10 @@
         <mark key="^" line="169" column="7" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542659629131">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1542929404417">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1542621312245">
         <mark key="[" line="72" column="0" />
@@ -64,12 +66,12 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1540226187267">
-        <mark key="'" line="180" column="95" />
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="^" line="330" column="11" />
-        <mark key="." line="330" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542929691717">
+        <mark key="'" line="179" column="95" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="329" column="11" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/DFPS_SCRIPTS_18.html.twig" timestamp="1542626673767">
         <mark key="[" line="29" column="0" />
@@ -88,12 +90,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/cybermonday/cyberMonday.html.twig" timestamp="1542636198801">
-        <mark key="[" line="30" column="73" />
-        <mark key="]" line="30" column="73" />
-        <mark key="." line="30" column="73" />
-        <mark key="^" line="30" column="73" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/abierto/tarjeta.html.twig" timestamp="1542621268921">
         <mark key="]" line="18" column="0" />
@@ -133,11 +129,11 @@
       <jump line="180" column="95" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Hacer landing CyberMonday</text>
       </register>
       <register name="-" type="4">
-        <text>blackfriday_bottom</text>
+        <text>Hacer landing CyberMonday</text>
       </register>
       <register name="/" type="4">
         <text>cyber</text>
@@ -146,31 +142,31 @@
         <text encoding="base64">ICAgIGRlZmF1bHRzOiB7IF9jb250cm9sbGVyOiBQY2NXZWJCdW5kbGU6U3RhdGljcy9CbGFja0ZyaWRheTIwMTgvQmxhY2tGcmlkYXkyMDE4OmN5YmVyTW9uZGF5IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">e3tkdW1wKCl9fQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQY2MvQnVuZGxlL1dlYkJ1bmRsZS9SZXNvdXJjZXMvdmlld3Mvc3RhdGljcy9sYW5kaW5nL2JsYWNrLWZyaWRheS0yMDE4L2N5YmVybW9uZGF5L2N5YmVyTW9uZGF5LnR3aWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgiIG1pZXJkYSAiKSA7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICBQY2MvQnVuZGxlL1dlYkJ1bmRsZS9SZXNvdXJjZXMvdmlld3Mvc3RhdGljcy9sYW5kaW5nL2JsYWNrLWZyaWRheS0yMDE4L2N5YmVybW9uZGF5L2N5YmVyTW9uZGF5LnR3aWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCIgbWllcmRhICIpIDtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgiIG1pZXJkYSAiKSA7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRzOiB7IF9jb250cm9sbGVyOiBQY2NXZWJCdW5kbGU6U3RhdGljcy9CbGFja0ZyaWRheTIwMTgvQmxhY2tGcmlkYXkyMDE4OmN5YmVyTW9uZGF5IH0K</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCIgbWllcmRhICIpIDtkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!git status</text>
