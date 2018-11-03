@@ -43,7 +43,7 @@
       <file name="/PHP Console" timestamp="1543192658317">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1541245691815">
+      <file name="/JavaScript Console" timestamp="1541248926118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/common/pcc.Browser.js" timestamp="1542631019150">
@@ -93,12 +93,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/scripts/lesgo.js" timestamp="1541245949199">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/Landings/ComparadorController.php" timestamp="1542633947409">
         <mark key="[" line="40" column="0" />
@@ -171,11 +165,11 @@
       <jump line="251" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>secundaria</text>
@@ -184,31 +178,31 @@
         <text encoding="base64">ICAgICAgICAkbm93ID0gQ2xvY2s6Om5vdygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9ic2VydmVyLm5leHQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG8K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IE9ic2VydmFibGUuY3JlYXRlKGZ1bmN0aW9uKG9ic2VydmVyLCBjbWRTdHIpIHsKICAgICAgb2JzZXJ2ZXIubmV4dChjbWRTdHIpCiAgICAgIC8vdGhpcy5leGVjID0gZXhlYyh0aGlzLmNtZFN0ciwgKGVycm9yLHN0ZG91dCxzdGRlcnIpID0+IHtjb25zb2xlLmxvZyhwYXJzZUludChzdGRvdXQsMTApKX0pCiAgICAgIHJldHVybiB7IHVuc3Vic2NyaWJlIDogZnVuY3Rpb24gKCkgeyBjb25zb2xlLmxvZygnZGVzdXNjcml0byBUT0RPJyl9fQogICAgfSk7</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB0aGlzLmNtZFN0ciA9IG5ldyBTdHJpbmcoY21kU3RyKQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZihudWxsID09PSAkbm93KXsKICAgICAgICAgICAkbm93ID0gQ2xvY2s6Om5vdygpOwogICAgICAgIH0KICAgICAgICAkYmZQYXJhbXMgPSAkdGhpcy0+Z2V0UGFyYW1ldGVyKCdiZicpOwogICAgICAgICRjbVN0YXJ0RGF0ZSA9IG5ldyBcRGF0ZVRpbWVJbW11dGFibGUoJGJmUGFyYW1zWydibGFja19lbmQnXSk7CiAgICAgICAgJGNtRW5kRGF0ZSA9IG5ldyBcRGF0ZVRpbWVJbW11dGFibGUoJGJmUGFyYW1zWydjeWJlcm1vbmRheV9lbmQnXSk7CiAgICAgICAgcmV0dXJuICRub3cgPj0gJGNtU3RhcnREYXRlICYmICRub3cgPCAkY21FbmREYXRlOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9ic2VydmVyLmVycm9yKGVycm9yKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9ic2VydmVyLmNvbXBsZXQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgb2JzZXJ2ZXIubmV4dChjbWRTdHIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICByZXR1cm4gZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICB0aGlzLmNtZFN0ciA9IGNtZFN0cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
