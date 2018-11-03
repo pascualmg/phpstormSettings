@@ -34,6 +34,12 @@
         <mark key="." line="2" column="74" />
         <mark key="^" line="2" column="74" />
       </file>
+      <file name="$USER_HOME$/src/scripts/config.json" timestamp="1541267575151">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1543179712974">
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="33" />
@@ -43,7 +49,7 @@
       <file name="/PHP Console" timestamp="1543192658317">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1541249904235">
+      <file name="/JavaScript Console" timestamp="1541267706471">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/common/pcc.Browser.js" timestamp="1542631019150">
@@ -165,47 +171,47 @@
       <jump line="251" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVidWdnZXIK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>secundaria</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gQ2xvY2s6Om5vdygpOwo=</text>
+        <text encoding="base64">Y29uc3QgT09DbWRTdGFydERvY2tlcnMgPSBPT0NtZEZyb21TdHIoQ01ELlNUQVJUX0RPQ0tFUlMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld1ZhciA9IHtlbnY6IHtQV0Q6IENPTkZJRy5TUkNfRElSfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb2JzZXJ2ZXIuY29tcGxldGUgPSBmdW5jdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbHMgPSBPT0NtZEZyb21TdHIoQ01ELkxTKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgT09DbWRTdGFydERvY2tlcnMgPSBPT0NtZEZyb21TdHIoQ01ELlNUQVJUX0RPQ0tFUlMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9ic2VydmVyLm5leHQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG8K</text>
+        <text encoding="base64">Y29uc3QgYWxsQ21kID0gb2YoT09DbWRIb2xhTXVuZG8pCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9ic2VydmVyLmVycm9yKGVycm9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9ic2VydmVyLmNvbXBsZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -227,8 +233,8 @@
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
