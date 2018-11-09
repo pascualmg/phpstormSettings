@@ -28,11 +28,6 @@
       <file name="/Dummy.jql" timestamp="1542043869685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/OOShell/routes/shell.js" timestamp="1541750114772">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/control-list.html.twig" timestamp="1543237974872">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -52,8 +47,11 @@
       <file name="/JavaScript Console" timestamp="1541267706471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/OOShell/routes/index.js" timestamp="1541753508970">
+      <file name="$USER_HOME$/src/OOShell/routes/index.js" timestamp="1541754442691">
         <mark key="[" line="8" column="24" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/black.html.twig" timestamp="1543196130514">
         <mark key="[" line="47" column="0" />
@@ -162,6 +160,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/OOShell/public/index.html" timestamp="1541755262612">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" timestamp="1542884225878">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="106" column="52" />
@@ -225,11 +229,11 @@
       <jump line="64" column="54" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.subscribe(console.log)</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>.subscribe(console.log)</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
@@ -241,28 +245,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbWcnLCBmbGF0TWFwKE9PRXhlYygibHMiKSkuc3Vic2NyaWJlKGNvbnNvbGUubG9nKSApOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuc3Vic2NyaWJlKCkK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgIHJlcy5qc29uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvZih0cnVlKS5waXBlKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcChyZXMuanNvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbWcnLCBmbGF0TWFwKE9PRXhlYygibHMiKSkuc3Vic2NyaWJlKGNvbnNvbGUubG9nKSApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
