@@ -129,7 +129,8 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/mnt/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1541849788455">
+      <file name="/mnt/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1541850946910">
+        <mark key="'" line="76" column="59" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -230,6 +231,7 @@
       <jump line="258" column="34" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
       <jump line="63" column="8" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
       <jump line="64" column="54" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
+      <jump line="76" column="59" filename="/mnt/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -342,6 +344,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
