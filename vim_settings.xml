@@ -64,12 +64,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1543179712974">
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="33" />
-        <mark key="." line="62" column="33" />
-        <mark key="^" line="43" column="24" />
-      </file>
       <file name="/PHP Console" timestamp="1541876266077">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,16 +234,18 @@
       <jump line="98" column="0" filename="/mnt/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
       <jump line="210" column="0" filename="/mnt/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
       <jump line="3" column="19" filename="/mnt/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/rxjs/tOOlz.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>9999</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>9999</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>call</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbGxOb25lOiBhbGxOb25lLAo=</text>
@@ -286,9 +282,9 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>call</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>call</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -301,6 +297,9 @@
         <entry>redirec</entry>
         <entry>monday</entry>
         <entry>secundaria</entry>
+        <entry>toky</entry>
+        <entry>apica</entry>
+        <entry>call</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
