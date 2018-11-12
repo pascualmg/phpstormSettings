@@ -242,6 +242,7 @@
       <jump line="3" column="19" filename="/mnt/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/rxjs/tOOlz.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="32" column="27" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -251,7 +252,7 @@
         <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>call</text>
+        <text>caller</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbGxOb25lOiBhbGxOb25lLAo=</text>
@@ -288,9 +289,9 @@
       </register>
     </registers>
     <search>
-      <last-search>call</last-search>
+      <last-search>caller</last-search>
       <last-offset />
-      <last-pattern>call</last-pattern>
+      <last-pattern>caller</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -306,6 +307,7 @@
         <entry>toky</entry>
         <entry>apica</entry>
         <entry>call</entry>
+        <entry>caller</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
