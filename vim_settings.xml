@@ -265,6 +265,7 @@
       <jump line="34" column="47" filename="$USER_HOME$/src/pccfront/app/AppKernel.php" />
       <jump line="38" column="48" filename="$USER_HOME$/src/pccfront/app/AppKernel.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/config_dev.yml" />
+      <jump line="266" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/pcc.blackfriday2018.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -274,7 +275,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>lex</text>
+        <text>carou</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaW5fYXJyYXkoJHRoaXMtPmdldEVudmlyb25tZW50KCksIGFycmF5KCdkZXYnLCAndGVzdCcpLCB0cnVlKSkgewo=</text>
@@ -311,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lex</last-search>
+      <last-search>carou</last-search>
       <last-offset />
-      <last-pattern>lex</last-pattern>
+      <last-pattern>carou</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -335,6 +336,7 @@
         <entry>transla</entry>
         <entry>ation</entry>
         <entry>lex</entry>
+        <entry>carou</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
