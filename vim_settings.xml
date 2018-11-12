@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccfront/docker/local/docker-compose.yml" timestamp="1542006365787">
-        <mark key="[" line="28" column="60" />
-        <mark key="]" line="28" column="60" />
-        <mark key="." line="28" column="60" />
+      <file name="$USER_HOME$/src/pccfront/docker/local/docker-compose.yml" timestamp="1542006969938">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1535636945588">
@@ -58,6 +58,11 @@
         <mark key="." line="4" column="39" />
         <mark key="^" line="4" column="51" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/pre-black.html.twig" timestamp="1542008419262">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="71" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1542643526363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -97,6 +102,10 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/order-detail.html.twig" timestamp="1542645168170">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="71" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/black.html.twig" timestamp="1542008402488">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="71" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542639209443">
         <mark key="[" line="4" column="0" />
@@ -241,16 +250,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndmVuZG9yL3RpbWVtYWNoaW5lLmpzJ3xqc19yZXYpIH19Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAuLi8uLjovdmFyL3d3dy9odG1sOmNhY2hlZAo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndmVuZG9yL3RpbWVtYWNoaW5lLmpzJ3xqc19yZXYpIH19Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -284,9 +293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -299,6 +308,7 @@
         <entry>sync</entry>
         <entry>lexi</entry>
         <entry>api</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
