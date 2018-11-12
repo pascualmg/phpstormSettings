@@ -14,6 +14,12 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/config_dev.yml" timestamp="1542032785615">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/bloqueado/index.html.twig" timestamp="1542043629900">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="11" />
@@ -61,6 +67,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/routing_dev.yml" timestamp="1542032892121">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/scripts/config.json" timestamp="1541267575151">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -87,11 +98,6 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/pcc.blackfriday2018.js" timestamp="1543226210313">
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.Browser.js" timestamp="1539972923566">
         <mark key="[" line="164" column="0" />
@@ -249,55 +255,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="32" column="27" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="53" column="5" filename="$USER_HOME$/src/pccfront/app/AppKernel.php" />
+      <jump line="57" column="45" filename="$USER_HOME$/src/pccfront/app/AppKernel.php" />
+      <jump line="34" column="47" filename="$USER_HOME$/src/pccfront/app/AppKernel.php" />
+      <jump line="38" column="48" filename="$USER_HOME$/src/pccfront/app/AppKernel.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/config_dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>thir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByZWZpeDogICAvdHJhbnMK</text>
       </register>
       <register name="-" type="4">
-        <text>thir</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>caller</text>
+        <text>lex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxOb25lOiBhbGxOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5fYXJyYXkoJHRoaXMtPmdldEVudmlyb25tZW50KCksIGFycmF5KCdkZXYnLCAndGVzdCcpLCB0cnVlKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBhcGlfdGhpcmRfcGFydHlfc2VydmljZXNfc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgIHByZWZpeDogICAvdHJhbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlOiAiQExleGlrVHJhbnNsYXRpb25CdW5kbGUvUmVzb3VyY2VzL2NvbmZpZy9yb3V0aW5nLnltbCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENZQkVSX01PTkRBWV9QUk9NT1RJT04gPSAxOTsK</text>
+        <text encoding="base64">bGV4aWtfdHJhbnNsYXRpb25fZWRpdGlvbjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGVybyBxdWUgCg==</text>
+        <text encoding="base64">ICAgIG1hbmFnZWRfbG9jYWxlczogW2VzLCBwdCwgZW4sIGZyLCBpdF0gIyAocmVxdWlyZWQpIGxvY2FsZXMgdGhhdCB0aGUgYnVuZGxlIGhhdmUgdG8gbWFuYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIGZhbGxiYWNrX2xvY2FsZTogW2VzXSAgICAgICAgICMgKHJlcXVpcmVkKSBkZWZhdWx0IGxvY2FsZShzKSB0byB1c2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV4aWtfdHJhbnNsYXRpb246Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdob2xhIGNhcmFjb2xhICcpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">IyBMZXhpa1RyYW5zbGF0aW9uQnVuZGxlIENvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJ1bmRsZXNbXSA9IG5ldyBMZXhpa1xCdW5kbGVcVHJhbnNsYXRpb25CdW5kbGVcTGV4aWtUcmFuc2xhdGlvbkJ1bmRsZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>caller</last-search>
+      <last-search>lex</last-search>
       <last-offset />
-      <last-pattern>caller</last-pattern>
+      <last-pattern>lex</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -314,6 +325,11 @@
         <entry>apica</entry>
         <entry>call</entry>
         <entry>caller</entry>
+        <entry>lexy</entry>
+        <entry>lexik</entry>
+        <entry>transla</entry>
+        <entry>ation</entry>
+        <entry>lex</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
