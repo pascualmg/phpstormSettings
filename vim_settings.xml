@@ -44,11 +44,11 @@
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="71" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1539864800158">
-        <mark key="'" line="41" column="4" />
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1542643825048">
+        <mark key="'" line="92" column="8" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
         <mark key="^" line="41" column="43" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/abierto/index.html.twig" timestamp="1542646830320">
@@ -62,6 +62,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml.dist" timestamp="1542643728118" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/carousel.html.twig" timestamp="1542639879823">
         <mark key="[" line="4" column="46" />
         <mark key="]" line="4" column="50" />
@@ -138,9 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
-      <jump line="309" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
-      <jump line="88" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="108" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="109" column="21" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
       <jump line="110" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/ArticlesController.php" />
@@ -238,10 +236,13 @@
       <jump line="20" column="27" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="38" column="4" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="41" column="4" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="30" column="46" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="84" column="8" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8080</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>8080</text>
@@ -259,25 +260,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicHJvbW90aW9ucy9ibGFjay1mcmlkYXktMTgvaW5kZXguanMiOiAicHJvbW90aW9ucy9ibGFjay1mcmlkYXktMTgvaW5kZXgtZDIxY2VmNDRlZi5qcyIsCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA8bGluayByZWw9XCJzdHlsZXNoZWV0XCIKICAgICAgICAgIGhyZWY9XCJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9Pd2xDYXJvdXNlbDIvMi4zLjQvYXNzZXRzL293bC5jYXJvdXNlbC5taW4uY3NzXCIvPg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAicHJvbW90aW9ucy9ibGFjay1mcmlkYXktMTgvaW5kZXguanMiOiAicHJvbW90aW9ucy9ibGFjay1mcmlkYXktMTgvaW5kZXgtZDIxY2VmNDRlZi5qcyIsCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICA8bGluayByZWw9XCJzdHlsZXNoZWV0XCIKICAgICAgICAgIGhyZWY9XCJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9Pd2xDYXJvdXNlbDIvMi4zLjQvYXNzZXRzL293bC5jYXJvdXNlbC5taW4uY3NzXCIvPg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjJykgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBodHRwOi8vMTkyLjE2OC4xMy44OjkwODAvYmxhY2stZnJpZGF5Iwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjJykgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBodHRwOi8vMTkyLjE2OC4xMy44OjkwODAvYmxhY2stZnJpZGF5Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
