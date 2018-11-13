@@ -6,7 +6,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/opt/phpcs.phar" />
+      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/opt/phpcs.phar" timeout="30000" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
@@ -15,7 +15,7 @@
       <interpreter home="/usr/local/Cellar/php71/7.1.11_22/bin/php" id="7f510db6-d733-42be-8f0e-0a532079f1b3" name="PHP 7.1 mac" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php5.6" id="3448bcee-df95-46bb-a352-344ac66c0f6a" name="PHP 5.6 ubuntu" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php7.1" id="4fbeb353-1148-4f38-b38a-209a8aabb76d" name="PHP 7.1 ubuntu" debugger_id="php.debugger.XDebug" />
-      <interpreter home="\usr\local\bin\php" id="efc6fdd5-8ac0-4bb6-bdec-89562004f499" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/bin/php" id="efc6fdd5-8ac0-4bb6-bdec-89562004f499" name="PHP" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\Users\Pascual\Downloads\php716win\php.exe" id="2afe76fb-71f0-49cb-954c-5980d6caf609" name="PHP 7.1, Guindows" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
