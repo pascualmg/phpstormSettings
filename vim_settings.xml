@@ -290,7 +290,7 @@
         <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
-        <text>carou</text>
+        <text>informacion relativa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaW5fYXJyYXkoJHRoaXMtPmdldEVudmlyb25tZW50KCksIGFycmF5KCdkZXYnLCAndGVzdCcpLCB0cnVlKSkgewo=</text>
@@ -327,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>carou</last-search>
+      <last-search>informacion relativa</last-search>
       <last-offset />
-      <last-pattern>carou</last-pattern>
+      <last-pattern>informacion relativa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -352,6 +352,7 @@
         <entry>ation</entry>
         <entry>lex</entry>
         <entry>carou</entry>
+        <entry>informacion relativa</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
