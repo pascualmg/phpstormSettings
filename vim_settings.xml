@@ -78,6 +78,11 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/abierto/listado/index.html.twig" timestamp="1543241923130">
         <mark key="[" line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/src/monadas/__tests__/index.test.js" timestamp="1542198625094">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/DFPS_SCRIPTS_18.html.twig" timestamp="1543196898443">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -304,11 +309,11 @@
       <jump line="23597" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">NCBjYW1iaWFkbyB0eHQgY29uZGljaW9uZXMgbW9kYWwgbWt0cGxhY2Ug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">NCBjYW1iaWFkbyB0eHQgY29uZGljaW9uZXMgbW9kYWwgbWt0cGxhY2Ug</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>mosca</text>
@@ -320,31 +325,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ25Cb21iYXMnLCBuQm9tYmFzKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">dmFyIGl0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRpb24gPSB0cnVlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZG9jdW1lbnQucXVlcnlTZWxlY3RvcigpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ25Cb21iYXMnLCBuQm9tYmFzKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRpb24gPSB0cnVlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZG9jdW1lbnQucXVlcnlTZWxlY3RvcigpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -378,8 +383,8 @@
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
