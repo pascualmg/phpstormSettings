@@ -302,6 +302,8 @@
       <jump line="49" column="26" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="20660" column="37" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
       <jump line="23597" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="51" column="16" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet.html.twig" />
+      <jump line="101" column="55" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -311,7 +313,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>mosca</text>
+        <text>precioMain</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxNDgwOnsKICAgICAgICAgICAgICAgICAgICAgICAgbmF2IDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgfQog</text>
@@ -348,16 +350,14 @@
       </register>
     </registers>
     <search>
-      <last-search>mosca</last-search>
+      <last-search>precioMain</last-search>
       <last-offset />
-      <last-pattern>mosca</last-pattern>
+      <last-pattern>precioMain</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>firefox</entry>
-        <entry>black</entry>
         <entry>cyber</entry>
         <entry>promoBF</entry>
         <entry>redirec</entry>
@@ -375,6 +375,9 @@
         <entry>carou</entry>
         <entry>informacion relativa</entry>
         <entry>mosca</entry>
+        <entry>price</entry>
+        <entry>price-offer</entry>
+        <entry>precioMain</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
