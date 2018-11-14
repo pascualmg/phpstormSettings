@@ -20,6 +20,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/docker/local/.env" timestamp="1542182742439">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/bloqueado/index.html.twig" timestamp="1542043629900">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="11" />
@@ -78,7 +84,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="/PHP Console" timestamp="1542153801323">
+      <file name="/PHP Console" timestamp="1542183077461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1541267706471">
@@ -98,6 +104,11 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/breadcrumbs/breadcrumbs-direct-links.html.twig" timestamp="1542184406547">
+        <mark key="[" line="39" column="128" />
+        <mark key="]" line="39" column="128" />
+        <mark key="." line="39" column="128" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4309558d-3310-4429-8a0b-6067c2144b0c/console.sql" timestamp="1542054617281">
         <mark key="[" line="1" column="41" />
@@ -198,7 +209,6 @@
       <file name="/web.actualizaciones_cab [desarrollo]" timestamp="1542017392649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542180308957" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" timestamp="1543238635595">
         <mark key="'" line="227" column="4" />
         <mark key="[" line="12" column="0" />
@@ -281,55 +291,56 @@
       <jump line="2138" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/UserPanelController.php" />
       <jump line="6212" column="86" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
       <jump line="20630" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="49" column="26" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.13.8</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>informacion relativa</text>
+        <text>mosca</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaW5fYXJyYXkoJHRoaXMtPmdldEVudmlyb25tZW50KCksIGFycmF5KCdkZXYnLCAndGVzdCcpLCB0cnVlKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzKTsK</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVsIGlkPSJtc2dUYWJzIiBjbGFzcz0ibmF2IG5hdi10YWJzIiByb2xlPSJ0YWJsaXN0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsgYWN0aXZlIiBocmVmPSIjdGFiLTAwMSIgZGF0YS10b2dnbGU9InRhYiIgPlBDQ09NUE9ORU5URVM8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIjdGFiLTAwMiIgZGF0YS10b2dnbGU9InRhYiI+TUFSS0VUUExBQ0U8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>informacion relativa</last-search>
+      <last-search>mosca</last-search>
       <last-offset />
-      <last-pattern>informacion relativa</last-pattern>
+      <last-pattern>mosca</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -353,11 +364,12 @@
         <entry>lex</entry>
         <entry>carou</entry>
         <entry>informacion relativa</entry>
+        <entry>mosca</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
