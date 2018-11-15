@@ -308,61 +308,64 @@
       <jump line="78" column="65" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/order-detail.html.twig" />
       <jump line="92" column="49" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/order-detail.html.twig" />
       <jump line="91" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/order-detail.html.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/googlePay.md" />
+      <jump line="87" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/googlePay.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>callback</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>callback</text>
+        <text>src/Pcc/Bundle/WebBundle/Resources/public/raw/js/ordersPanel/Paynow/pay-now.js</text>
       </register>
       <register name="/" type="4">
-        <text>Google</text>
+        <text>gpay</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxNDgwOnsKICAgICAgICAgICAgICAgICAgICAgICAgbmF2IDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgfQog</text>
+        <text>```bash
+    src/Pcc/Bundle/WebBundle/Resources/public/raw/js/ordersPanel/Paynow/pay-now.js
+```</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3BhcnNlZCAnLCBwYXJzZWQgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3VybCcsIHVybCApOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">RGVzZGUgZXN0ZSB0d2lnIHNlIGRlY2lkZSBxdWUgdmVyc2lvbiBjYXJnYXIgLiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXJsLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZm9vJykK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZm9vKCl7Cg==</text>
+        <text encoding="base64">YGBgYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Google</last-search>
+      <last-search>gpay</last-search>
       <last-offset />
-      <last-pattern>Google</last-pattern>
+      <last-pattern>gpay</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>secundaria</entry>
         <entry>toky</entry>
         <entry>apica</entry>
         <entry>call</entry>
@@ -382,6 +385,7 @@
         <entry>googlePay</entry>
         <entry>google</entry>
         <entry>Google</entry>
+        <entry>gpay</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
