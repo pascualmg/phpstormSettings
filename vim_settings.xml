@@ -205,6 +205,12 @@
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/src/monadas/Monoid.js" timestamp="1542361412371">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/StargateCommand.php" timestamp="1542879091809">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -313,44 +319,44 @@
       <jump line="87" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/googlePay.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>barcos</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>barcos</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>gpay</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIGdldFJhbmRvbU51bWJlciA9ICgpID0+IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIDEwMDApCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScsIGEgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleHBlY3QoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgppdCgnTG9zIGVsZW1lbnRvcyBkZSB1biBzZW1pZ3J1cG8gY3VtcGxlbiBlc3RhIGxleTogJyArCiAgJ2lzIGEgU2VtaUdyb3VwICwgY29uY2F0IDo6IFNlbWlncm91cCBhID0+IGEgfj4gYSAtPiBhJywgZnVuY3Rpb24gKCkgewoKICB2YXIgYSA9IG5ldyBTZW1pR3JvdXBPZk9wZXJhdGlvbihzdW1hKShnZXRSYW5kb21OdW1iZXIoKSkKICB2YXIgYiA9IG5ldyBTZW1pR3JvdXBPZk9wZXJhdGlvbihzdW1hKShnZXRSYW5kb21OdW1iZXIoKSkKCgogIGV4cGVjdCgKfSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NvbmNhdE9wZXJhdGlvbicsIENvbmNhdE9wZXJhdGlvbiApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgYyA9IG5ldyBTZW1pR3JvdXBPZk9wZXJhdGlvbihzdW1hKShnZXRSYW5kb21OdW1iZXIoKSkK</text>
+        <text encoding="base64">dmFyIGdldFJhbmRvbU51bWJlciA9ICgpID0+IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIDEwMDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGdldFJhbmRvbU51bWJlciA9ICgpID0+IChNYXRoLnJhbmRvbSgpICogMTApPjU/WzEsMiwzXTpbNCw1LDZdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAudG9FcXVhbCggKHBvc3NpYmxlU2VtaWdyb3VwT2ZTdW0xMC5jb25jYXQocG9zc2libGVTZW1pZ3JvdXBPZlN1bTUpKS52YWx1ZSgpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBleHBlY3QoIChwb3NzaWJsZVNlbWlncm91cE9mU3VtNS5jb25jYXQocG9zc2libGVTZW1pZ3JvdXBPZlN1bTEwKSkudmFsdWUoKSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYicsIGIgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScsIGEgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgcG9zc2libGVTZW1pZ3JvdXBPZlN1bTUgPSBuZXcgU2VtaUdyb3VwT2ZPcGVyYXRpb24oc3VtYSkoNSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycsIGMgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgcG9zc2libGVTZW1pZ3JvdXBPZlN1bTEwID0gbmV3IFNlbWlHcm91cE9mT3BlcmF0aW9uKHN1bWEpKDEwKQo=</text>
+        <text encoding="base64">ICBleHBlY3QoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
