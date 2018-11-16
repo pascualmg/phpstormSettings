@@ -177,7 +177,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4309558d-3310-4429-8a0b-6067c2144b0c/console.sql" timestamp="1542054617281">
         <mark key="[" line="1" column="41" />
       </file>
-      <file name="/dummy.sql" timestamp="1542134462282">
+      <file name="/dummy.sql" timestamp="1542362440086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.Browser.js" timestamp="1539972923566">
@@ -210,6 +210,9 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="/api_third_party_services_status [desarrollo]" timestamp="1542362124513">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Stargate/StargateCommand.php" timestamp="1542879091809">
         <mark key="[" line="33" column="0" />
@@ -317,62 +320,64 @@
       <jump line="91" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/Shopping/Order/order-detail.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/googlePay.md" />
       <jump line="87" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/header/googlePay.md" />
+      <jump line="116" column="22" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="115" column="26" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="69" column="2" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="84" column="36" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnb29nbGVfdGFnX3BhcmFtcycsIGdvb2dsZV90YWdfcGFyYW1zKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>gpay</text>
+        <text>GT-962</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnYScsIGEgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnb29nbGVfdGFnX3BhcmFtcycsIGdvb2dsZV90YWdfcGFyYW1zKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NvbmNhdE9wZXJhdGlvbicsIENvbmNhdE9wZXJhdGlvbiApOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGdldFJhbmRvbU51bWJlciA9ICgpID0+IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIDEwMDApCg==</text>
+        <text encoding="base64">ICAgIHsjYm9ycmEgZXN0ZSBpZiBwYXJhIHF1aXRhciBHVC05NjIjfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGdldFJhbmRvbU51bWJlciA9ICgpID0+IChNYXRoLnJhbmRvbSgpICogMTApPjU/WzEsMiwzXTpbNCw1LDZdCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHslIGVuZGlmICV9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYicsIGIgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBpZiBpc1ByZUJsYWNrQW5kQmxhY2tGcmlkYXlMYW5kaW5nIG9yIG5vdCBpc0N5YmVyTW9uZGF5TGFuZGluZyAlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScsIGEgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgeyNib3JyYW1lIGhhc3RhIGFxdWkgI30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycsIGMgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgIHslIHNldCBpc1ByZUJsYWNrQW5kQmxhY2tGcmlkYXlMYW5kaW5nID0gaXNQcmVCbGFja1BlcmlvZCBhbmQgaXNCbGFja0ZyaWRheUxhbmRpbmcgJX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleHBlY3QoCg==</text>
+        <text encoding="base64">ICAgIHslIHNldCBpc1ByZUJsYWNrUGVyaW9kID0gY3VycmVudERhdGUgPiBwcmVfc3RhcnQgYW5kIGN1cnJlbnREYXRlIDwgcHJlX2VuZCAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gpay</last-search>
+      <last-search>GT-962</last-search>
       <last-offset />
-      <last-pattern>gpay</last-pattern>
+      <last-pattern>GT-962</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toky</entry>
-        <entry>apica</entry>
         <entry>call</entry>
         <entry>caller</entry>
         <entry>lexy</entry>
@@ -391,6 +396,8 @@
         <entry>google</entry>
         <entry>Google</entry>
         <entry>gpay</entry>
+        <entry>933</entry>
+        <entry>GT-962</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
