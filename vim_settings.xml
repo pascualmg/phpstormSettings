@@ -132,6 +132,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/ajax-articles-bf.js" timestamp="1542471461547">
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="115" column="46" />
+        <mark key="^" line="115" column="46" />
+        <mark key="." line="115" column="46" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/cybermonday/bomba-abierta.html.twig" timestamp="1543206364165">
         <mark key="[" line="20" column="68" />
         <mark key="]" line="20" column="71" />
@@ -168,6 +174,12 @@
       <file name="/black.html.twig" timestamp="1543196130514">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="74" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Repository/SeoCompoundRepository.php" timestamp="1542472882009">
+        <mark key="[" line="25" column="165" />
+        <mark key="]" line="25" column="167" />
+        <mark key="." line="25" column="167" />
+        <mark key="^" line="25" column="167" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4309558d-3310-4429-8a0b-6067c2144b0c/console.sql" timestamp="1542054617281">
         <mark key="[" line="1" column="41" />
@@ -315,11 +327,11 @@
       <jump line="84" column="36" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2luZGV4IFBlcmVyYScsIGluZGV4ICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>GT-962</text>
@@ -397,40 +409,40 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -439,7 +451,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
