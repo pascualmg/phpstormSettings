@@ -41,11 +41,11 @@
       <file name="/JavaScript Console" timestamp="1535456686360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/pre-black.html.twig" timestamp="1542040012643">
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="30" column="68" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/pre-black.html.twig" timestamp="1542639175397">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="30" column="23" />
       </file>
       <file name="/JSRegexp Fragment (article_detail.js:52437).regexp" timestamp="1534243287924">
         <mark key="[" line="0" column="0" />
@@ -53,10 +53,10 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/UserManager.php" timestamp="1534927163240">
         <mark key="[" line="395" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542043327826">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1542638981871">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1542115909557">
         <mark key="[" line="42" column="25" />
@@ -103,16 +103,22 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/carousel.html.twig" timestamp="1542647745904">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="4" column="48" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542638934250">
+        <mark key="[" line="155" column="74" />
+        <mark key="]" line="155" column="74" />
+        <mark key="." line="155" column="74" />
+        <mark key="^" line="177" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/carousel.html.twig" timestamp="1542639045995">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="63" />
+        <mark key="." line="4" column="75" />
         <mark key="^" line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/abierto/carousel.html.twig" timestamp="1542117465189">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/abierto/carousel.html.twig" timestamp="1542638539393">
+        <mark key="[" line="3" column="63" />
+        <mark key="]" line="3" column="63" />
+        <mark key="." line="3" column="63" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Cms/Categories/pcc.Cms.Categories.js" timestamp="1536746563978">
         <mark key="[" line="104" column="0" />
@@ -228,11 +234,11 @@
       <jump line="37" column="41" filename="$USER_HOME$/src/pccfront/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0UG9zaXRpb246IGxhc3RCb21iCg==</text>
+      <register name="&quot;" type="4">
+        <text>idLastBomb</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>idLastBomb</text>
       </register>
       <register name="/" type="4">
         <text>lexi</text>
@@ -241,31 +247,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0UG9zaXRpb246IGxhc3RCb21iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0UG9zaXRpb246IGxhc3RCb21iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBkdW1wKCRpbmRleExhc3RCb21iKTtkaWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduOiBjZW50ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgQXJ0aWNsZUxpc3QgJGFydGljbGVzICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxhc3RCb21iSW5kZXggPSBjb3VudCgkYXJ0aWNsZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0UG9zaXRpb246IGxhc3RCb21iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYXJnYW5kbyBlbCBjYXJvdXNlbCBkZWwgYmxhY2sgJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduOiBjZW50ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyM8L3NjcmlwdD4jfQo=</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsjY29uc29sZS5sb2coJ2lkTGFzdEJvbWInLCB7eyBpZExhc3RCb21iIH19ICk7Ly9UT0RPOiBib3JyYW1lLiN9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYXJnYW5kbyBlbCBjYXJvdXNlbCBkZWwgYmxhY2sgJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyM8c2NyaXB0PiN9Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
