@@ -19,11 +19,11 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/src/maybe/Monad.php" timestamp="1542664277851">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/src/maybe/Monad.php" timestamp="1542665804315">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="/Dummy.jql" timestamp="1542043869685">
         <mark key="[" line="0" column="0" />
@@ -52,11 +52,20 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/maybe/Applicative.php" timestamp="1542664201755">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-        <mark key="^" line="8" column="9" />
+      <file name="$USER_HOME$/src/maybe/Applicative.php" timestamp="1542665402766">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/maybe/Functor.php" timestamp="1542664886325">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/maybe/Chain.php" timestamp="1542665696182">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/src/maybe/Nothing.php" timestamp="1542655742329">
         <mark key="[" line="1" column="0" />
@@ -255,8 +264,14 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542664178178">
+      <file name="/Dummy.txt" timestamp="1542665496353">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/maybe/Apply.php" timestamp="1542665241807">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/src/OOShell/routes/index.js" timestamp="1541754442691">
         <mark key="[" line="8" column="24" />
@@ -343,10 +358,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>GT-962</text>
@@ -355,31 +370,31 @@
         <text encoding="base64">aXQoJ01heWJlICAgICcsIGZ1bmN0aW9uICgpIHsKICBleHBlY3QoTWF5YmUub2YoYSkubWFwKGlkZW50aXR5KSkudG9FcXVhbChNYXliZS5vZihhKSkKfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICRwcm95ZWN0aW9uKHNlbGYpCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmdW5jdGlvbiBvZigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgZnVuY3Rpb24gbWFwKCRwcm95ZWN0aW9uKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogVGltZTogMjA6MjcK</text>
+        <text encoding="base64">ICAgICAgICRwcm95ZWN0aW9uKHNlbGYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogRGF0ZTogMTkvMTEvMjAxOAo=</text>
+        <text encoding="base64">ICAgZnVuY3Rpb24gbWFwKCRwcm95ZWN0aW9uKXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVXNlcjogUGFzY3VhbAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
+        <text encoding="base64">ICogVGltZTogMjA6MjcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
