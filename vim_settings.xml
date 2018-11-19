@@ -43,11 +43,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/monadas/dist/Maybe.js" timestamp="1542638731289" />
-      <file name="$USER_HOME$/src/monadas/src/Maybe.spec.js" timestamp="1542639101386">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="15" column="55" />
+      <file name="$USER_HOME$/src/monadas/src/Maybe.spec.js" timestamp="1542640178108">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="/JavaScript Console" timestamp="1542636162950">
         <mark key="[" line="0" column="0" />
@@ -83,41 +83,43 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>Functor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="-" type="4">
         <text>Functor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJiYWJlbCBzcmMgLS1leHBlcmltZW50YWwgLS1zb3VyY2UtbWFwcy1pbmxpbmUgLWQgZGlzdCIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">aXQoJ01heWJlICAgICcsIGZ1bmN0aW9uICgpIHsKICBleHBlY3QoTWF5YmUub2YoYSkubWFwKGlkZW50aXR5KSkudG9FcXVhbChNYXliZS5vZihhKSkKfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">fSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgYSA9ICdhYmNkJwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>const g = function(item) {
+  return Maybe.of(item.length)
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXQoJycsIGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gdHJ1ZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U2VtaUdyb3VwT2ZPcGVyYXRpb24uc3BlYy5qcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
