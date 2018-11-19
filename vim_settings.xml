@@ -29,6 +29,11 @@
         <mark key="." line="163" column="26" />
         <mark key="^" line="163" column="26" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/Landings/ComparadorController.php" timestamp="1542633947409">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542077760159">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
@@ -39,8 +44,16 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" timestamp="1542634145351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -49,40 +62,58 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRlID0gbm9ybWFsaXplRGF0ZUZvcm1hdChjZC5kYXRhc2V0LmNvdW50ZG93bikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsZ28oKXsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXR0Cg==</text>
+        <text encoding="base64">ICAgIGFsZ28oKXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
+      <register name="/" type="4">
+        <text>firefox</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>firefox</last-search>
+      <last-offset />
+      <last-pattern>firefox</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>firefox</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
