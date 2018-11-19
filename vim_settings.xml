@@ -19,6 +19,12 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/src/maybe/Monad.php" timestamp="1542664277851">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/Dummy.jql" timestamp="1542043869685">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,6 +51,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/maybe/Applicative.php" timestamp="1542664201755">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/src/maybe/Nothing.php" timestamp="1542655742329">
         <mark key="[" line="1" column="0" />
@@ -199,7 +211,6 @@
       <file name="/JavaScript Console" timestamp="1542636162950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/es6express/package.json" timestamp="1542655296401" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/bloqueado/index.html.twig" timestamp="1542043629900">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="11" />
@@ -244,7 +255,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542655696506">
+      <file name="/Dummy.txt" timestamp="1542664178178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/OOShell/routes/index.js" timestamp="1541754442691">
@@ -295,11 +306,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/maybe/Maybe.php" timestamp="1542656323576">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="18" />
+      <file name="$USER_HOME$/src/maybe/Maybe.php" timestamp="1542664080135">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/preblack/pre-black.html.twig" timestamp="1542623400990">
         <mark key="[" line="53" column="0" />
@@ -331,11 +342,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>GT-962</text>
@@ -344,31 +355,31 @@
         <text encoding="base64">aXQoJ01heWJlICAgICcsIGZ1bmN0aW9uICgpIHsKICBleHBlY3QoTWF5YmUub2YoYSkubWFwKGlkZW50aXR5KSkudG9FcXVhbChNYXliZS5vZihhKSkKfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogVGltZTogMjA6MjcK</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogRGF0ZTogMTkvMTEvMjAxOAo=</text>
+        <text encoding="base64">ICAgICAgICRwcm95ZWN0aW9uKHNlbGYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogVXNlcjogUGFzY3VhbAo=</text>
+        <text encoding="base64">ICAgZnVuY3Rpb24gbWFwKCRwcm95ZWN0aW9uKXsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogVGltZTogMjA6MjcK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICogRGF0ZTogMTkvMTEvMjAxOAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVGltZTogMjA6MjgK</text>
+        <text encoding="base64">ICogVXNlcjogUGFzY3VhbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogRGF0ZTogMTkvMTEvMjAxOAo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
