@@ -86,11 +86,6 @@
       <file name="/web.actualizaciones_cab [desarrollo]" timestamp="1542017392649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542183476021">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" timestamp="1543238635595">
         <mark key="'" line="227" column="4" />
         <mark key="[" line="12" column="0" />
@@ -157,7 +152,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="/PHP Console" timestamp="1542183077461">
+      <file name="/PHP Console" timestamp="1542191563682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1541267706471">
@@ -166,6 +161,12 @@
       <file name="/black.html.twig" timestamp="1543196130514">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="74" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/pcc.blackfriday2018.js" timestamp="1542629824310">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="63" column="103" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4309558d-3310-4429-8a0b-6067c2144b0c/console.sql" timestamp="1542054617281">
         <mark key="[" line="1" column="41" />
@@ -179,10 +180,10 @@
         <mark key="^" line="169" column="7" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542187259543">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1542629839041">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/filters.html.twig" timestamp="1541192294909">
         <mark key="[" line="1" column="0" />
@@ -221,9 +222,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/app/logs/dev.log" timestamp="1542151934224">
-        <mark key="[" line="20703" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/Landings/ComparadorController.php" timestamp="1542633947409">
         <mark key="[" line="40" column="0" />
@@ -302,46 +300,48 @@
       <jump line="6212" column="86" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
       <jump line="20630" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
       <jump line="49" column="26" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="20660" column="37" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="23597" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>64 cambiado txt condiciones modal mktplace .</text>
+        <text encoding="base64">NCBjYW1iaWFkbyB0eHQgY29uZGljaW9uZXMgbW9kYWwgbWt0cGxhY2Ug</text>
       </register>
       <register name="-" type="4">
-        <text>64 cambiado txt condiciones modal mktplace .</text>
+        <text encoding="base64">NCBjYW1iaWFkbyB0eHQgY29uZGljaW9uZXMgbW9kYWwgbWt0cGxhY2Ug</text>
       </register>
       <register name="/" type="4">
         <text>mosca</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5fYXJyYXkoJHRoaXMtPmdldEVudmlyb25tZW50KCksIGFycmF5KCdkZXYnLCAndGVzdCcpLCB0cnVlKSkgewo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxNDgwOnsKICAgICAgICAgICAgICAgICAgICAgICAgbmF2IDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgfQog</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ25Cb21iYXMnLCBuQm9tYmFzKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRpb24gPSB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZG9jdW1lbnQucXVlcnlTZWxlY3RvcigpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCJhbGdvIik7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGR1bXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
