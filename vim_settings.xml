@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/common/pcc.Browser.js" timestamp="1542631361875">
+        <mark key="[" line="163" column="4" />
+        <mark key="]" line="163" column="5" />
+        <mark key="^" line="163" column="5" />
+        <mark key="." line="163" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542631374921">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/family/superfamilies/index-multimedia.html.twig" timestamp="1542627010290" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/bloqueado/index.html.twig" timestamp="1542043629900">
         <mark key="[" line="0" column="12" />
@@ -14,6 +23,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/black.html.twig" timestamp="1542076261637" />
+      <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/common/pcc.Browser.js" timestamp="1542631019150">
+        <mark key="[" line="163" column="26" />
+        <mark key="]" line="163" column="26" />
+        <mark key="." line="163" column="26" />
+        <mark key="^" line="163" column="26" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542077760159">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
@@ -28,19 +43,22 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">a2trCg==</text>
+      <register name="&quot;" type="4">
+        <text>checkIfBrowserIsFirefox</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXR0Cg==</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZXR0Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>checkIfBrowserIsFirefox</text>
       </register>
     </registers>
     <search>
