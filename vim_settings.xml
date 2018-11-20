@@ -42,11 +42,12 @@
       <file name="/PHP Console" timestamp="1542624671179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/monadas/src/Maybe.spec.js" timestamp="1542709720826">
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="33" column="6" />
-        <mark key="." line="27" column="1" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/src/monadas/src/Maybe.spec.js" timestamp="1542712667798">
+        <mark key="a" line="43" column="20" />
+        <mark key="i" line="6" column="6" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1542636162950">
         <mark key="[" line="0" column="0" />
@@ -68,11 +69,11 @@
         <mark key="." line="151" column="0" />
         <mark key="^" line="151" column="73" />
       </file>
-      <file name="$USER_HOME$/src/monadas/src/Maybe.js" timestamp="1542709190416">
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="64" column="25" />
-        <mark key="." line="64" column="25" />
-        <mark key="^" line="64" column="25" />
+      <file name="$USER_HOME$/src/monadas/src/Maybe.js" timestamp="1542711891775">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="21" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/abierto/tarjeta.html.twig" timestamp="1542623608981">
         <mark key="[" line="37" column="53" />
@@ -84,43 +85,41 @@
       <jump line="32" column="12" filename="$USER_HOME$/src/monadas/src/Maybe.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBpdCgKICAgICdBIHZhbHVlIHRoYXQgaW1wbGVtZW50cyB0aGUgQXBwbHkgc3BlY2lmaWNhdGlvbiBtdXN0IGFsc28gaW1wbGVtZW50IHRoZSBGdW5jdG9yIHNwZWNpZmljYXRpb24uXG4nICsKICAgICd2LmFwKHUuYXAoYS5tYXAoZiA9PiBnID0+IHggPT4gZihnKHgpKSkpKSBpcyBlcXVpdmFsZW50IHRvIHYuYXAodSkuYXAoYSkgKGNvbXBvc2l0aW9uKVxuJyArCiAgICAnYXAgbWV0aG9kXG4nICsKICAgICdhcCA6OiBBcHBseSBmID0+IGYgYSB+PiBmIChhIC0+IGIpIC0+IGYgYicsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KCkudG9FcXVhbCgpCiAgICB9KQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy9tYXliZSg4KQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>//maybe(8)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ01heWJlIGlzIGEgTW9uYWQsIE1vbmFkIGlzIGEgRnVuY3RvcicsIGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">Y29uc3QgZmEgPSBNYXliZS5vZihhKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBpdCgKICAgICdBIHZhbHVlIHRoYXQgaW1wbGVtZW50cyB0aGUgQXBwbHkgc3BlY2lmaWNhdGlvbiBtdXN0IGFsc28gaW1wbGVtZW50IHRoZSBGdW5jdG9yIHNwZWNpZmljYXRpb24uXG4nICsKICAgICd2LmFwKHUuYXAoYS5tYXAoZiA9PiBnID0+IHggPT4gZihnKHgpKSkpKSBpcyBlcXVpdmFsZW50IHRvIHYuYXAodSkuYXAoYSkgKGNvbXBvc2l0aW9uKVxuJyArCiAgICAnYXAgbWV0aG9kXG4nICsKICAgICdhcCA6OiBBcHBseSBmID0+IGYgYSB+PiBmIChhIC0+IGIpIC0+IGYgYicsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KCkudG9FcXVhbCgpCiAgICB9KQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy9tYXliZSg4KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdcbicgKwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXRlbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgICAgdmFyIGZvbyA9IGZ1bmN0aW9uIGZvbyAoaXRlbSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmJywgZiApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAgCg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYSA9ICdhYmNkJwo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>const g = function(item) {
-  return Maybe.of(item.length)
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
