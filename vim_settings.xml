@@ -42,12 +42,11 @@
       <file name="/PHP Console" timestamp="1542624671179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/monadas/dist/Maybe.js" timestamp="1542638731289" />
-      <file name="$USER_HOME$/src/monadas/src/Maybe.spec.js" timestamp="1542640178108">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/src/monadas/src/Maybe.spec.js" timestamp="1542709720826">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1542636162950">
         <mark key="[" line="0" column="0" />
@@ -57,11 +56,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/monadas/package.json" timestamp="1542637759535">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/src/monadas/package.json" timestamp="1542709629191">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="48" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542627122457">
         <mark key="[" line="151" column="0" />
@@ -69,7 +68,7 @@
         <mark key="." line="151" column="0" />
         <mark key="^" line="151" column="73" />
       </file>
-      <file name="$USER_HOME$/src/monadas/src/Maybe.js" timestamp="1542636816320">
+      <file name="$USER_HOME$/src/monadas/src/Maybe.js" timestamp="1542709190416">
         <mark key="[" line="64" column="16" />
         <mark key="]" line="64" column="25" />
         <mark key="." line="64" column="25" />
@@ -81,45 +80,47 @@
         <mark key="." line="37" column="53" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="32" column="12" filename="$USER_HOME$/src/monadas/src/Maybe.spec.js" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBpdCgKICAgICdBIHZhbHVlIHRoYXQgaW1wbGVtZW50cyB0aGUgQXBwbHkgc3BlY2lmaWNhdGlvbiBtdXN0IGFsc28gaW1wbGVtZW50IHRoZSBGdW5jdG9yIHNwZWNpZmljYXRpb24uXG4nICsKICAgICd2LmFwKHUuYXAoYS5tYXAoZiA9PiBnID0+IHggPT4gZihnKHgpKSkpKSBpcyBlcXVpdmFsZW50IHRvIHYuYXAodSkuYXAoYSkgKGNvbXBvc2l0aW9uKVxuJyArCiAgICAnYXAgbWV0aG9kXG4nICsKICAgICdhcCA6OiBBcHBseSBmID0+IGYgYSB+PiBmIChhIC0+IGIpIC0+IGYgYicsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KCkudG9FcXVhbCgpCiAgICB9KQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Functor</text>
+        <text encoding="base64">Jywg</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aXQoJ01heWJlICAgICcsIGZ1bmN0aW9uICgpIHsKICBleHBlY3QoTWF5YmUub2YoYSkubWFwKGlkZW50aXR5KSkudG9FcXVhbChNYXliZS5vZihhKSkKfSkK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVzY3JpYmUoJ01heWJlIGlzIGEgTW9uYWQsIE1vbmFkIGlzIGEgRnVuY3RvcicsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBpdCgKICAgICdBIHZhbHVlIHRoYXQgaW1wbGVtZW50cyB0aGUgQXBwbHkgc3BlY2lmaWNhdGlvbiBtdXN0IGFsc28gaW1wbGVtZW50IHRoZSBGdW5jdG9yIHNwZWNpZmljYXRpb24uXG4nICsKICAgICd2LmFwKHUuYXAoYS5tYXAoZiA9PiBnID0+IHggPT4gZihnKHgpKSkpKSBpcyBlcXVpdmFsZW50IHRvIHYuYXAodSkuYXAoYSkgKGNvbXBvc2l0aW9uKVxuJyArCiAgICAnYXAgbWV0aG9kXG4nICsKICAgICdhcCA6OiBBcHBseSBmID0+IGYgYSB+PiBmIChhIC0+IGIpIC0+IGYgYicsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KCkudG9FcXVhbCgpCiAgICB9KQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdcbicgKwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAgCg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYSA9ICdhYmNkJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>const g = function(item) {
-  return Maybe.of(item.length)
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgYSA9ICdhYmNkJwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>const g = function(item) {
+  return Maybe.of(item.length)
+}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
