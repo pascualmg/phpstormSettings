@@ -9,11 +9,23 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/src/monad/src/Reality/Maybe.php" timestamp="1542789006354">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+      </file>
       <file name="$USER_HOME$/src/monadas/src/.babelrc" timestamp="1542635590290">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/monad/src/Reality/Nothing.php" timestamp="1542788491905">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/src/monadas/index.js" timestamp="1542634739834">
         <mark key="[" line="0" column="51" />
@@ -53,6 +65,11 @@
       <file name="/JavaScript Console" timestamp="1542636162950">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/monad/src/Reality/Just.php" timestamp="1542789030788">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/src/monadas/Nothing.js" timestamp="1542628591045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -86,41 +103,41 @@
       <jump line="32" column="12" filename="$USER_HOME$/src/monadas/src/Maybe.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYXAoKSBtZXRob2QuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>f</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZmEgPSBNYXliZS5vZihhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAubWFwKGZvbykK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYXAoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuYXAoTWF5YmUub2YoZnVuY3Rpb24gKCkgeyB9KQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhcChBcHBseSAkcG9zc2libGVGdW5jdGlvbik6IEFwcGx5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy9tYXliZSg4KQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbWFwKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXRlbQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGZvbyA9IGZ1bmN0aW9uIGZvbyAoaXRlbSkgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgYXMgPSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vbmFtZWQgY29uc3RydWN0b3IgOiBvZgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmJywgZiApOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHNlbGYoJHZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
