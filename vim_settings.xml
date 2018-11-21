@@ -9,11 +9,18 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/src/monad/src/Reality/Maybe.php" timestamp="1542789006354">
-        <mark key="[" line="18" column="55" />
-        <mark key="]" line="18" column="52" />
-        <mark key="." line="18" column="52" />
-        <mark key="^" line="18" column="52" />
+      <file name="/Dummy.txt" timestamp="1542793371184">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/monad/src/index.php" timestamp="1542792241095">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/monad/src/Reality/Maybe.php" timestamp="1542793368213">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="12" column="33" />
       </file>
       <file name="$USER_HOME$/src/monadas/src/.babelrc" timestamp="1542635590290">
         <mark key="[" line="1" column="1" />
@@ -21,11 +28,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/monad/src/Reality/Nothing.php" timestamp="1542788491905">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
+      <file name="$USER_HOME$/src/monad/src/Reality/Nothing.php" timestamp="1542793533360">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="12" column="9" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/src/monadas/index.js" timestamp="1542634739834">
         <mark key="[" line="0" column="51" />
@@ -65,11 +72,18 @@
       <file name="/JavaScript Console" timestamp="1542636162950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/monad/src/Reality/Just.php" timestamp="1542791630328">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="6" />
-        <mark key="." line="29" column="6" />
-        <mark key="^" line="29" column="6" />
+      <file name="$USER_HOME$/src/monad/src/Reality/Just.php" timestamp="1542793687369">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/monad/src/FantasyLand/Apply.php" timestamp="1542792079273">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/src/monadas/Nothing.js" timestamp="1542628591045">
         <mark key="[" line="0" column="0" />
@@ -102,54 +116,63 @@
     </filemarks>
     <jumps>
       <jump line="32" column="12" filename="$USER_HOME$/src/monadas/src/Maybe.spec.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/src/monad/src/Reality/Just.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYXAoKSBtZXRob2QuCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>f</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZmEgPSBNYXliZS5vZihhKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYXAoKSBtZXRob2QuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhcChBcHBseSAkcG9zc2libGVGdW5jdGlvbik6IEFwcGx5Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbWFwKCkgbWV0aG9kLgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYXMgPSAK</text>
+      <register name="-" type="4">
+        <text>value</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vbmFtZWQgY29uc3RydWN0b3IgOiBvZgo=</text>
+      <register name="/" type="4">
+        <text>any</text>
       </register>
-      <register name="8" type="2">
+      <register name="0" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJG1hcHBlZCBpbnN0YW5jZW9mIEp1c3QgKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIG1hcCgkcHJveWVjdGlvbkZ1bmN0aW9uKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHNlbGYoJHZhbHVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>any</last-search>
+      <last-offset />
+      <last-pattern>any</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>any</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
