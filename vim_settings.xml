@@ -9,18 +9,20 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542793371184">
+      <file name="/Dummy.txt" timestamp="1542796433937">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/monad/src/index.php" timestamp="1542792241095">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/src/monad/src/Reality/Maybe.php" timestamp="1542793368213">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="33" />
+      <file name="$USER_HOME$/src/monad/src/Reality/Maybe.php" timestamp="1542796547495">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/src/monadas/src/.babelrc" timestamp="1542635590290">
         <mark key="[" line="1" column="1" />
@@ -58,7 +60,7 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="/PHP Console" timestamp="1542624671179">
+      <file name="/PHP Console" timestamp="1542794449998">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/monadas/src/Maybe.spec.js" timestamp="1542742003976">
@@ -72,12 +74,12 @@
       <file name="/JavaScript Console" timestamp="1542636162950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/monad/src/Reality/Just.php" timestamp="1542793687369">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="29" column="15" />
+      <file name="$USER_HOME$/src/monad/src/Reality/Just.php" timestamp="1542796579935">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="34" column="71" />
+        <mark key="]" line="34" column="74" />
+        <mark key="." line="34" column="74" />
+        <mark key="^" line="34" column="74" />
       </file>
       <file name="$USER_HOME$/src/monad/src/FantasyLand/Apply.php" timestamp="1542792079273">
         <mark key="[" line="6" column="16" />
@@ -119,11 +121,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/src/monad/src/Reality/Just.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Nothing</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>Nothing</text>
       </register>
       <register name="/" type="4">
         <text>any</text>
@@ -132,7 +134,7 @@
         <text encoding="base64">dmFyX2R1bXAoJG1hcHBlZCBpbnN0YW5jZW9mIEp1c3QgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEZhbnRhc3lMYW5kXEFwcGxpY2F0aXZlOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -144,19 +146,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIG1hcCgkcHJveWVjdGlvbkZ1bmN0aW9uKQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIG1hcCgkcHJveWVjdGlvbkZ1bmN0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
