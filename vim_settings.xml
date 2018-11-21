@@ -44,7 +44,6 @@
         <mark key="." line="0" column="51" />
         <mark key="^" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1542808661046" />
       <file name="$USER_HOME$/src/monadas/Maybe.js" timestamp="1542634498435">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -128,6 +127,7 @@
     <jumps>
       <jump line="32" column="12" filename="$USER_HOME$/src/monadas/src/Maybe.spec.js" />
       <jump line="33" column="0" filename="$USER_HOME$/src/monad/src/Reality/Just.php" />
+      <jump line="61" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -202,6 +202,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
