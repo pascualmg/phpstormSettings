@@ -65,10 +65,11 @@
       <file name="/JavaScript Console" timestamp="1542636162950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/monad/src/Reality/Just.php" timestamp="1542789030788">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/src/monad/src/Reality/Just.php" timestamp="1542791630328">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+        <mark key="^" line="29" column="6" />
       </file>
       <file name="$USER_HOME$/src/monadas/Nothing.js" timestamp="1542628591045">
         <mark key="[" line="0" column="0" />
@@ -164,6 +165,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
