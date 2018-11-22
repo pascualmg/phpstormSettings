@@ -9,16 +9,16 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542843455791">
+      <file name="/Dummy.txt" timestamp="1542845599666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/monad/src/index.php" timestamp="1542844159350">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="17" />
-        <mark key="^" line="23" column="17" />
+      <file name="$USER_HOME$/src/monad/src/index.php" timestamp="1542845591434">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/src/monad/src/Reality/Maybe.php" timestamp="1542843160463">
         <mark key="[" line="18" column="25" />
@@ -32,11 +32,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/monad/src/Reality/Nothing.php" timestamp="1542808100407">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="20" />
+      <file name="$USER_HOME$/src/monad/src/Reality/Nothing.php" timestamp="1542844561286">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/src/monadas/index.js" timestamp="1542634739834">
         <mark key="[" line="0" column="51" />
@@ -139,31 +139,33 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">JHBldGEuc3Vic2NyaWJlKCdwcmludF9yJyk7Cg==</text>
+        <text encoding="base64">dXNlIEZhbnRhc3lMYW5kXE1vbmFkOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>Cha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0+Y2hhaW4oZnVuY3Rpb24oJGl0ZW0pe3JldHVybiBNYXliZTo6b2YoJGl0ZW0pO30pCg==</text>
+        <text encoding="base64">JHBldGEgPSBPYnNlcnZhYmxlOjpvZihNYXliZTo6b2YoWzIsMyw0XSktPnZhbHVlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHBldGEuc3Vic2NyaWJlKCdwcmludF9yJyk7Cg==</text>
+        <text encoding="base64">dXNlIEZhbnRhc3lMYW5kXE1vbmFkOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">JGxvb3AgPSBGYWN0b3J5OjpjcmVhdGUoKTsK</text>
+      <register name="2" type="4">
+        <text>quitado el map del just por que sale gratis en la clase padre abstracta
+con ap(of(f))</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">U2NoZWR1bGVyOjpzZXREZWZhdWx0RmFjdG9yeShmdW5jdGlvbiAoKSB1c2UgKCRsb29wKXsKICAgIHJldHVybiBuZXcgU2NoZWR1bGVyXEV2ZW50TG9vcFNjaGVkdWxlcigkbG9vcCk7Cn0pOwo=</text>
+        <text>quitado el map del just por que sale gratis en la clase padre abstracta
+con ap(of(f))</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDEK</text>
+      <register name="5" type="4">
+        <text encoding="base64">T2JzZXJ2YWJsZTo6aW50ZXJ2YWwoMTAwMCkKICAgIC0+dGFrZSg1KQogICAgLT5mbGF0bWFw</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -172,10 +174,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgIC0+bWFwKGZ1bmNpb24oKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
