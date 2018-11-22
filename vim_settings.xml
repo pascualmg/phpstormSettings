@@ -28,6 +28,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/routing.yml" timestamp="1542885404541">
+        <mark key="'" line="64" column="54" />
+        <mark key="[" line="130" column="4" />
+        <mark key="]" line="130" column="5" />
+        <mark key="." line="130" column="5" />
+        <mark key="^" line="130" column="5" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/cybermonday/cuadricula-enlaces.html.twig" timestamp="1542637070523">
         <mark key="[" line="2" column="57" />
         <mark key="]" line="2" column="74" />
@@ -62,7 +69,7 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="74" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1542882108834">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1542885325550">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -197,16 +204,20 @@
       <jump line="8" column="43" filename="$USER_HOME$/src/OOExec/README.md" />
       <jump line="102" column="6" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" />
       <jump line="133" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/Stargate/Stargate.js" />
+      <jump line="130" column="4" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
+      <jump line="258" column="34" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
+      <jump line="63" column="8" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
+      <jump line="64" column="54" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uri</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>uri</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>ajaxconfig</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgKyAnP3ByaXZhdGVVcmk9JyArIGNoYXVyb24udXJpCg==</text>
@@ -243,9 +254,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ajaxconfig</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>ajaxconfig</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -259,6 +270,7 @@
         <entry>monday</entry>
         <entry>secundaria</entry>
         <entry>ajaxconfig</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
