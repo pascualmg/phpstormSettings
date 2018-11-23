@@ -40,7 +40,7 @@
         <mark key="^" line="64" column="23" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Application/Search/SearchArticleApp.php" timestamp="1542964648751" />
-      <file name="/PHP Console" timestamp="1542973301374">
+      <file name="/PHP Console" timestamp="1542974622820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/monadas/src/Maybe.spec.js" timestamp="1542895256234">
@@ -73,6 +73,9 @@
         <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1542964493587" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4309558d-3310-4429-8a0b-6067c2144b0c/console.sql" timestamp="1542974297513">
+        <mark key="[" line="9" column="39" />
+      </file>
       <file name="$USER_HOME$/src/monadas/src/Maybe.js" timestamp="1542716174608">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -107,7 +110,12 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1542973309664" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Controller/Search/SearchArticlesController.php" timestamp="1542974983746">
+        <mark key="[" line="133" column="18" />
+        <mark key="]" line="133" column="16" />
+        <mark key="." line="133" column="16" />
+        <mark key="^" line="133" column="16" />
+      </file>
       <file name="$USER_HOME$/src/monad/src/Reality/Just.php" timestamp="1542886311784">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="25" column="0" />
@@ -144,11 +152,11 @@
       <jump line="6" column="9" filename="$USER_HOME$/src/monadas/src/Maybe.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>homomorphism</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkY21kKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>homomorphism</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>Cha</text>
@@ -157,31 +165,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2N1cnJlbnQ6JywgY3VycmVudCApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBjdXJyZW50ID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkY21kKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGN1cnJlbnQpLnRvRXF1YWwoZXhwZWN0ZWQpLnRvRXF1YWwoZXhwZWN0ZWRNYXApCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgiY2FjYSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGV4cGVjdGVkID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIHZhciBjdXJyZW50ID0gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGN1cnJlbnQgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGN1cnJlbnQpLnRvRXF1YWwoZXhwZWN0ZWQpLnRvRXF1YWwoZXhwZWN0ZWRNYXApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGV4cGVjdGVkID0gbnVsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSkpKQo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGN1cnJlbnQgPSBudWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgfSkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gdmFsdWVnKHZhbHVlZih2YWx1ZWEpKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
