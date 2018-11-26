@@ -130,6 +130,14 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/abierto/listado/index.html.twig" timestamp="1543241923130">
+        <mark key="[" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/statics/landing/black-friday-2018/black/abierto/abierto.html.twig" timestamp="1543241881645">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/Landings/ComparadorController.php" timestamp="1542633947409">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -140,7 +148,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1542877479358">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/BlackFriday2018/BlackFriday2018Controller.php" timestamp="1543242206174">
         <mark key="'" line="249" column="44" />
         <mark key="[" line="232" column="7" />
         <mark key="]" line="246" column="6" />
@@ -158,7 +166,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1542881692109" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/promotions/black-friday-18/index.js" />
@@ -210,8 +217,8 @@
       <jump line="64" column="54" filename="$USER_HOME$/src/pccfront/app/config/routing.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICd3ZWVrRGF5JyA6IAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -223,7 +230,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgKyAnP3ByaXZhdGVVcmk9JyArIGNoYXVyb24udXJpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd3ZWVrRGF5JyA6IAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -235,16 +242,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2coJ2VudmlhbmRvIHJ4QWpheGNvbmZpZyAnLCByeEFqYXhDb25maWcgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2coJ2VudmlhbmRvIHJ4QWpheGNvbmZpZyAnLCByeEFqYXhDb25maWcgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudHJhbmRvIHNnIHBvciAnLCBzdGFyR2F0ZU1ldGhvZCApOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudHJhbmRvIHNnIHBvciAnLCBzdGFyR2F0ZU1ldGhvZCApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -269,8 +276,6 @@
         <entry>redirec</entry>
         <entry>monday</entry>
         <entry>secundaria</entry>
-        <entry>ajaxconfig</entry>
-        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>!git status</entry>
