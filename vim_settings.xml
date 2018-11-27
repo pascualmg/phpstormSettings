@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1543317046149">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1543317168790">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1543226213592">
         <mark key="[" line="0" column="0" />
       </file>
@@ -12,9 +20,6 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/list/ajax-articles.js" timestamp="1543226077310" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1543226595892">
         <mark key="[" line="64" column="68" />
-        <mark key="]" line="67" column="63" />
-        <mark key="." line="67" column="63" />
-        <mark key="^" line="67" column="63" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4309558d-3310-4429-8a0b-6067c2144b0c/console.sql" timestamp="1543422140160">
         <mark key="[" line="1" column="4" />
@@ -30,53 +35,71 @@
         <mark key="." line="3" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="69" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+    </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+cGFyc2VTdGFyZ2F0ZUNvbW1hbmRGcm9tUmVxdWVzdCgkcmVxdWVzdCkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5wYXJzZVVuaWZvcm1SZXNwb25zZUZyb21FeGNlcHRpb24oJGV4Y2VwdGlvbik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRleGNlcHRpb24pIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">e3sgZHVtcCgiYWxnbyIpIH19Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gImFsZ28iOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9lbmNvZGUoanNvbl9kZWNvZGUoJGNtZCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZHVtcCgkY21kKTtkaWU7Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHslIGVsc2UgJX0K</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
+      <register name="/" type="4">
+        <text>conn</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+cGFyc2VTdGFyZ2F0ZUNvbW1hbmRGcm9tUmVxdWVzdCgkcmVxdWVzdCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHslIGVsc2UgJX0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">eyUgZWxzZSAlfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHslIGVuZGlmICV9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHslIGlmIGlzQ3liZXJNb25kYXlMYW5kaW5nIG9yIGlzQmxhY2tGcmlkYXlMYW5kaW5nIG9yIGlzSG9tZSAlfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">eyUgc2V0IGlzSG9tZSAgPSBhcHAucmVxdWVzdC5nZXQoJ19yb3V0ZScpID09ICJwY2Nfd2ViX2hvbWUiICV9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">eyUgc2V0IGlzQmxhY2tGcmlkYXlMYW5kaW5nICA9IGFwcC5yZXF1ZXN0LmdldCgnX3JvdXRlJykgPT0gInBjY193ZWJfYmxhY2tfZnJpZGF5IiAlfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">eyUgc2V0IGlzQ3liZXJNb25kYXlMYW5kaW5nICA9IGFwcC5yZXF1ZXN0LmdldCgnX3JvdXRlJykgPT0gInBjY193ZWJfY3liZXJfbW9uZGF5IiAlfQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">eyUgc2V0IGlzQmxhY2tGcmlkYXlMYW5kaW5nICA9IGFwcC5yZXF1ZXN0LmdldCgnX3JvdXRlJykgPT0gInBjY193ZWJfYmxhY2tfZnJpZGF5IiAlfQo=</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>conn</last-search>
+      <last-offset />
+      <last-pattern>conn</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>conn</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
