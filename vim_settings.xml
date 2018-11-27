@@ -3,25 +3,48 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543317046149">
+      <file name="/Dummy.txt" timestamp="1543307005481">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1543320609625">
-        <mark key="[" line="91" column="70" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1543226213592">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" timestamp="1543390257298" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543308340207">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="/fragment.php" timestamp="1543225567008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/article/list/ajax-articles.js" timestamp="1543226077310" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/main/MainLinks/principal-links.es.xlf" timestamp="1543307114236">
+        <mark key="'" line="28" column="18" />
+      </file>
+      <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543308333084">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/MainLinks/principal-links.html.twig" timestamp="1543308209832">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+      </file>
+      <file name="/PHP Console" timestamp="1543226213592">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1543390920504">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="/principal-links.html.twig" timestamp="1543305901704">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="99" column="5" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/StargateController.php" timestamp="1543226595892">
         <mark key="[" line="64" column="68" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4309558d-3310-4429-8a0b-6067c2144b0c/console.sql" timestamp="1543422140160">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4309558d-3310-4429-8a0b-6067c2144b0c/console.sql" timestamp="1543308323097">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
@@ -34,62 +57,73 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1543308333673">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="90" column="48" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/main/MainLinks/principal-links.es.xlf" />
+      <jump line="28" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/main/MainLinks/principal-links.es.xlf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHslIGVsc2UgJX0K</text>
-      </register>
-      <register name="-" type="4">
-        <text>)</text>
-      </register>
-      <register name="/" type="4">
-        <text>conn</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+cGFyc2VTdGFyZ2F0ZUNvbW1hbmRGcm9tUmVxdWVzdCgkcmVxdWVzdCkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHslIGVsc2UgJX0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">eyUgZWxzZSAlfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>ofertas</text>
+      </register>
+      <register name="/" type="4">
+        <text>ofer</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiBjb2wtc20tNiBjb2wtbWQtMyBtLXQtMSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImVubGFjZXMtY2xhdmVfX3RhcmpldGEiPgogICAgICAgICAgICAgICAgPGEgaWQ9IkdUTS1ob21lLUJGIiBocmVmPSIvb2ZlcnRhcy1lc3BlY2lhbGVzIj48aQogICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0icGNjb20taWNvbiBwdWxsLXhzLWxlZnQiPmk8L2k+e3sgJ2luZGV4LnByaW5jaXBhbC5vZmVydGFzJ3x0cmFucyB9fTxpCiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJwY2NvbS1pY29uIHB1bGwteHMtcmlnaHQgaGlkZGVuLWxnLWRvd24iPi08L2k+PC9hPjwvZGl2PgogICAgICAgIDwvZGl2Pgog</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyNDTiBQTEVJU0pPREVSI30K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyNDTiBQTEVJU0pPREVSI30K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGlmICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7I0NOIFBMRUlTSk9ERVIjfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHslIGlmIGlzQ3liZXJNb25kYXlMYW5kaW5nIG9yIGlzQmxhY2tGcmlkYXlMYW5kaW5nIG9yIGlzSG9tZSAlfQo=</text>
+        <text encoding="base64">ICAgICAgICB7I0NOIFBMRUlTSk9ERVIjfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyUgc2V0IGlzSG9tZSAgPSBhcHAucmVxdWVzdC5nZXQoJ19yb3V0ZScpID09ICJwY2Nfd2ViX2hvbWUiICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyUgc2V0IGlzQmxhY2tGcmlkYXlMYW5kaW5nICA9IGFwcC5yZXF1ZXN0LmdldCgnX3JvdXRlJykgPT0gInBjY193ZWJfYmxhY2tfZnJpZGF5IiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyUgc2V0IGlzQ3liZXJNb25kYXlMYW5kaW5nICA9IGFwcC5yZXF1ZXN0LmdldCgnX3JvdXRlJykgPT0gInBjY193ZWJfY3liZXJfbW9uZGF5IiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyUgc2V0IGlzQmxhY2tGcmlkYXlMYW5kaW5nICA9IGFwcC5yZXF1ZXN0LmdldCgnX3JvdXRlJykgPT0gInBjY193ZWJfYmxhY2tfZnJpZGF5IiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>conn</last-search>
+      <last-search>ofer</last-search>
       <last-offset />
-      <last-pattern>conn</last-pattern>
+      <last-pattern>ofer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>conn</entry>
+        <entry>conne</entry>
+        <entry>ofer</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -103,6 +137,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
