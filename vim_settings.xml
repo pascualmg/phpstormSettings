@@ -31,8 +31,20 @@
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543308333084">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1543486563319">
+        <mark key="[" line="76" column="34" />
+        <mark key="]" line="76" column="56" />
+        <mark key="." line="76" column="56" />
+        <mark key="^" line="76" column="56" />
+      </file>
       <file name="/PHP Console" timestamp="1543226213592">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1543486744563">
+        <mark key="[" line="34" column="3" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="34" column="11" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1543390920504">
         <mark key="[" line="28" column="0" />
@@ -75,17 +87,17 @@
       <jump line="51" column="4" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>doofinder</text>
       </register>
       <register name="-" type="4">
-        <text>sudo</text>
+        <text>doofinder</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwdGl0dWRlIFwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICRzbmFwc2hvdCA9IG5ldyBBcnRpY2xlc1NuYXBzaG90KAogICAgICAgICAgICAkdGhpcy0+Z2V0KCdzbmNfcmVkaXMuc25hcHNob3QnKQogICAgICAgICk7CiAgICAgICAgJGFydGljbGVzID0gJHNuYXBzaG90LT5nZXRBcnRpY2xlcygKICAgICAgICAgICAgJHJlcXVlc3QtPmdldExvY2FsZSgpLAogICAgICAgICAgICA1MDAKICAgICAgICApOwoKICAgICAgICAkZmVlZCA9ICR0aGlzLT5yZW5kZXIoCiAgICAgICAgICAgICdAUGNjV2ViL2ZlZWQvZG9vZmluZGVyLnhtbC50d2lnJywKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2FydGljbGVzJyA9PiAkYXJ0aWNsZXMsCiAgICAgICAgICAgICAgICAnYXJ0aWNsZXNCbGFja0xpc3QnID0+ICR0aGlzLT5hcnRpY2xlc0JsYWNrTGlzdCgkcmVxdWVzdC0+Z2V0TG9jYWxlKCkpLAogICAgICAgICAgICAgICAgJ2ZhbWlseUJsYWNrTGlzdCcgPT4gc2VsZjo6ZmFtaWx5QmxhY2tMaXN0KCksCiAgICAgICAgICAgIF0KICAgICAgICApLT5nZXRDb250ZW50KCk7CgogICAgICAgICRyZXNwb25zZSA9IG5ldyBSZXNwb25zZShnemVuY29kZSgkZmVlZCkpOwoKICAgICAgICAkcmVzcG9uc2UtPmhlYWRlcnMtPnNldCgnQ29udGVudC1EaXNwb3NpdGlvbicsICRyZXNwb25zZS0+aGVhZGVycy0+bWFrZURpc3Bvc2l0aW9uKAogICAgICAgICAgICBSZXNwb25zZUhlYWRlckJhZzo6RElTUE9TSVRJT05fQVRUQUNITUVOVCwKICAgICAgICAgICAgJ2Rvb2ZpbmRlci54bWwuZ3onCiAgICAgICAgKSk7CgogICAgICAgIHJldHVybiAkcmVzcG9uc2U7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -94,25 +106,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG5wbSBpIGd1bHAtc2FzcyAtRVMgLS11bnNhZmUtcGVybT10cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbjIuNyBcCg==</text>
+        <text encoding="base64">UlVOIG5wbSBpIGd1bHAtc2FzcyAtRVMgLS11bnNhZmUtcGVybT10cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbjIuNyBcCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC15IG5vZGVqcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3VybCAtc0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfMTAueCB8IGJhc2ggLQo=</text>
+        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC15IG5vZGVqcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBVc2luZyBEZWJpYW4sIGFzIHJvb3QK</text>
+        <text encoding="base64">Y3VybCAtc0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfMTAueCB8IGJhc2ggLQo=</text>
       </register>
     </registers>
     <search>
