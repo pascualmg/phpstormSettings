@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" timestamp="1543484956030">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" timestamp="1543485975621">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1543483932925">
         <mark key="[" line="0" column="0" />
@@ -76,10 +76,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbjIuNyBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>aptitude</text>
+        <text>sudo</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
@@ -88,31 +88,31 @@
         <text encoding="base64">ICAgIGFwdGl0dWRlIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbjIuNyBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpIGd1bHAtc2FzcyAtRVMgLS11bnNhZmUtcGVybT10cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC15IG5vZGVqcwo=</text>
+        <text encoding="base64">ICAgIHB5dGhvbjIuNyBcCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3VybCAtc0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfMTAueCB8IGJhc2ggLQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBVc2luZyBEZWJpYW4sIGFzIHJvb3QK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC15IG5vZGVqcwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgbm9kZWpzCg==</text>
+        <text encoding="base64">Y3VybCAtc0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfMTAueCB8IGJhc2ggLQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3VybCAtc0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfMTAueCB8IHN1ZG8gLUUgYmFzaCAtCg==</text>
+        <text encoding="base64">IyBVc2luZyBEZWJpYW4sIGFzIHJvb3QK</text>
       </register>
     </registers>
     <search>
