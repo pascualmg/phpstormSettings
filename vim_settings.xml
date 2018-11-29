@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543310844273">
+      <file name="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" timestamp="1543484956030">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543483932925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -12,6 +18,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1543484144515">
+        <mark key="[" line="10" column="51" />
       </file>
       <file name="/fragment.php" timestamp="1543225567008">
         <mark key="[" line="0" column="0" />
@@ -53,7 +62,6 @@
       <file name="/dummy.sql" timestamp="1543316164144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/gaApi/gaApi.js" timestamp="1543482038899" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" />
@@ -61,54 +69,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/main/MainLinks/principal-links.es.xlf" />
       <jump line="28" column="18" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/main/MainLinks/principal-links.es.xlf" />
       <jump line="10" column="42" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="7" column="19" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
+      <jump line="49" column="42" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
+      <jump line="50" column="27" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
+      <jump line="51" column="4" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, quitada logica de exclusion de carga de connectif de landings 
-bf y cyber.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB5dGhvbjIuNyBcCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>aptitude</text>
       </register>
       <register name="/" type="4">
-        <text>ofer</text>
+        <text>node</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiBjb2wtc20tNiBjb2wtbWQtMyBtLXQtMSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNuX2Jhbm5lcl9wbGFjZWhvbGRlciIgaWQ9ImNuX2Jhbm5lcl9ob21lX2tleTAxIj48L2Rpdj4KICAgICAgICA8L2Rpdj4KIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFwdGl0dWRlIFwK</text>
       </register>
-      <register name="1" type="4">
-        <text>, quitada logica de exclusion de carga de connectif de landings 
-bf y cyber.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB5dGhvbjIuNyBcCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiBjb2wtc20tNiBjb2wtbWQtMyBtLXQtMSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNuX2Jhbm5lcl9wbGFjZWhvbGRlciIgaWQ9ImNuX2Jhbm5lcl9ob21lX2tleTAyIj48L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTYgY29sLXNtLTYgY29sLW1kLTMgbS10LTEiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbl9iYW5uZXJfcGxhY2Vob2xkZXIiIGlkPSJjbl9iYW5uZXJfaG9tZV9rZXkwMyI+PC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTYgY29sLXNtLTYgY29sLW1kLTMgbS10LTEiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbl9iYW5uZXJfcGxhY2Vob2xkZXIiIGlkPSJjbl9iYW5uZXJfaG9tZV9rZXkwNCI+PC9kaXY+CiAgICAgICAgPC9kaXY+CiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiBjb2wtc20tNiBjb2wtbWQtMyBtLXQtMSI+Cg==</text>
+        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC15IG5vZGVqcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Y3VybCAtc0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfMTAueCB8IGJhc2ggLQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiBjb2wtc20tNiBjb2wtbWQtMyBtLXQtMSI+Cg==</text>
+        <text encoding="base64">IyBVc2luZyBEZWJpYW4sIGFzIHJvb3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PC9kaWc+Cg==</text>
+        <text encoding="base64">c3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgbm9kZWpzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3VybCAtc0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfMTAueCB8IHN1ZG8gLUUgYmFzaCAtCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>ofer</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>ofer</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -117,6 +127,7 @@ bf y cyber.</text>
         <entry>conn</entry>
         <entry>conne</entry>
         <entry>ofer</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd />
       <history-expr />
