@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" timestamp="1543485975621">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="45" column="42" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" timestamp="1543491563052">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1543483932925">
         <mark key="[" line="0" column="0" />
@@ -19,8 +20,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1543484144515">
-        <mark key="[" line="10" column="51" />
+      <file name="$USER_HOME$/src/pccfront/package.json" timestamp="1543493059504">
+        <mark key="'" line="83" column="5" />
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="66" column="7" />
+        <mark key="^" line="66" column="7" />
+        <mark key="." line="66" column="7" />
       </file>
       <file name="/fragment.php" timestamp="1543225567008">
         <mark key="[" line="0" column="0" />
@@ -31,7 +36,7 @@
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543308333084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1543489509410" />
+      <file name="/Refactor.md" timestamp="1543493030385" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_feed.yml" timestamp="1543488768074">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="29" />
@@ -85,25 +90,49 @@
       <jump line="49" column="42" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
       <jump line="50" column="27" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
       <jump line="51" column="4" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
+      <jump line="64" column="0" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
+      <jump line="48" column="13" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
+      <jump line="54" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="55" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="56" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="57" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="58" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="59" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="60" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="61" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="62" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="63" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="64" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="65" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="67" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="68" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="69" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="70" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="71" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="12" column="14" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="66" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="84" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="25" column="14" filename="$USER_HOME$/src/pccfront/package.json" />
+      <jump line="83" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ese</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>ese</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>webpack</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImlkIiA9PiAiaWRlbnRpZmljYWRvciIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8sIHBhcnNlIHRlbXBsYXRlRmllbGQgZnJvbSByZXF1ZXN0Lgo=</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCBndWxwLXNhc3MgLUVTIC0tdW5zYWZlLXBlcm09dHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlkIiA9PiAiaWRlbnRpZmljYWRvciIsCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8sIHBhcnNlIHRlbXBsYXRlRmllbGQgZnJvbSByZXF1ZXN0Lgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImlkIiA9PiAiaWRlbnRpZmljYWRvciIsCg==</text>
@@ -128,9 +157,9 @@
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>webpack</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>webpack</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -140,6 +169,8 @@
         <entry>conne</entry>
         <entry>ofer</entry>
         <entry>node</entry>
+        <entry>gulp</entry>
+        <entry>webpack</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -166,6 +197,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
