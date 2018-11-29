@@ -27,11 +27,11 @@
         <mark key="^" line="66" column="7" />
         <mark key="." line="66" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/react/components/Input.js" timestamp="1543494071900">
+      <file name="$USER_HOME$/src/pccfront/react/components/Input.js" timestamp="1543498367106">
         <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="21" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="/fragment.php" timestamp="1543225567008">
         <mark key="[" line="0" column="0" />
@@ -42,6 +42,12 @@
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543308333084">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1543499305180">
+        <mark key="[" line="61" column="33" />
+        <mark key="]" line="61" column="33" />
+        <mark key="." line="61" column="33" />
+        <mark key="^" line="61" column="32" />
+      </file>
       <file name="/Refactor.md" timestamp="1543493030385" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_feed.yml" timestamp="1543488768074">
         <mark key="[" line="28" column="29" />
@@ -51,11 +57,11 @@
       <file name="/PHP Console" timestamp="1543226213592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1543486744563">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/doofinder.xml.twig" timestamp="1543499218098">
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/scripts/connectif_initialize.html.twig" timestamp="1543390920504">
         <mark key="[" line="28" column="0" />
@@ -129,44 +135,44 @@
       <jump line="83" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uKCl7fSwK</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlkIiA9PiAiaWRlbnRpZmljYWRvciIsCg==</text>
+        <text encoding="base64">ICAgICAgeyUgaWYgdGVtcGxhdGVBcnJbImlkIl0gJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uKCl7fSwK</text>
+        <text encoding="base64">ICAgICAgICB0ZW0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2NhZ2FuZG8gaW5kZXgnKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uKCl7fSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvdmlkZXIgfSBmcm9tICJyZWFjdC1yZWR1eCI7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NhZ2FuZG8gaW5kZXgnKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHsgUHJvdmlkZXIgfSBmcm9tICJyZWFjdC1yZWR1eCI7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NIGZyb20gInJlYWN0LWRvbSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJvdmlkZXIgfSBmcm9tICJyZWFjdC1yZWR1eCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gIi4vc3RvcmUiOwo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NIGZyb20gInJlYWN0LWRvbSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudFZhbHVlIGZyb20gIi4vY29tcG9uZW50cy9WYWx1ZSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gIi4vc3RvcmUiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudElucHV0IGZyb20gIi4vY29tcG9uZW50cy9JbnB1dCI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbXBvbmVudFZhbHVlIGZyb20gIi4vY29tcG9uZW50cy9WYWx1ZSI7Cg==</text>
       </register>
     </registers>
     <search>
