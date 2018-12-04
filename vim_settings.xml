@@ -18,7 +18,8 @@
         <mark key="^" line="49" column="45" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/DealArticlesController.php" timestamp="1543938116533">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/DealArticlesController.php" timestamp="1543942378002">
+        <mark key="'" line="148" column="9" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
@@ -234,6 +235,7 @@
       <jump line="86" column="19" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="2" column="33" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="148" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/DealArticlesController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,7 +245,7 @@
         <text>added flag deal , todo: intl</text>
       </register>
       <register name="/" type="4">
-        <text>localhost</text>
+        <text>ajax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+e3sgJ3Byb2R1Y3QuY2FyZC5ub3ZlZGFkJyB8IHRyYW5zIH19PC9zcGFuPgo=</text>
@@ -277,9 +279,9 @@
       </register>
     </registers>
     <search>
-      <last-search>localhost</last-search>
+      <last-search>ajax</last-search>
       <last-offset />
-      <last-pattern>localhost</last-pattern>
+      <last-pattern>ajax</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -300,6 +302,7 @@
         <entry>CommentsMana</entry>
         <entry>if article.type</entry>
         <entry>localhost</entry>
+        <entry>ajax</entry>
       </history-search>
       <history-cmd />
       <history-expr />
