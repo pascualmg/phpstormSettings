@@ -64,7 +64,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544477863376">
+      <file name="/Dummy.txt" timestamp="1544482961696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -93,21 +93,21 @@
         <mark key="." line="192" column="33" />
         <mark key="^" line="192" column="32" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544477935744">
+      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544483788850">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543915066790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisFromKkey.js" timestamp="1544478439596">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="13" column="52" />
-        <mark key="." line="10" column="2" />
+      <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisFromKkey.js" timestamp="1544483670434">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="4" column="58" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/featuresRepo.js" timestamp="1544452077868">
         <mark key="[" line="3" column="0" />
@@ -179,11 +179,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/src/noderedisbackend/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>const</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -194,29 +194,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBjb25zdCByZWRpc0NvbmZpZyA9IE9iamVjdC5mcmVlemUoey8vdG9kbyByZWZhY3RvciAyIGNvbmZpZyBmaWxlLgogICAgICBpcDogJzE5Mi4xNjguNTAuMzgnLAogICAgICBwb3J0OiAnNjM3OScsCiAgICB9KQoKICAgIGNvbnN0IHJjbGllbnQgPSByZWRpcy5jcmVhdGVDbGllbnQocmVkaXNDb25maWcucG9ydCwgcmVkaXNDb25maWcuaXAp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBnZXRPT1JlZGlzRnJvbUtleSgnY29zYScsIHJjbGllbnQpLnN1YnNjcmliZShyZXMuanNvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gT09SZWRpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLmdldCgnLycsIChyZXEsIHJlcykgPT4gcmNsaWVudC5nZXQoImNvc2EiLGZ1bmN0aW9uIChlcnIsIHJlc3VsdCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgT09SZWRpc0Zyb21LZXlDb3NhID0gZ2V0T09SZWRpc0Zyb21LZXkoImNvc2EiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgc29tZWtleSA9ICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJjbGllbnQgZnJvbSAnLi9QY2NSZWRpc05vZGVDbGllbnQuanMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAKY29uc3QgcmVkaXNDb25maWcgPSBPYmplY3QuZnJlZXplKHsvL3RvZG8gcmVmYWN0b3IgMiBjb25maWcgZmlsZS4KICBpcDogJzE5Mi4xNjguNTAuMzgnLAogIHBvcnQ6ICc2Mzc5JywKfSkKCiAgY29uc3QgcmNsaWVudCA9IHJlZGlzLmNyZWF0ZUNsaWVudChyZWRpc0NvbmZpZy5wb3J0LCByZWRpc0NvbmZpZy5pcCkKIA==</text>
+        <text encoding="base64">ICBhcHAuZ2V0KCcvb2JzJywgZnVuY3Rpb24gKHJlcSwgcmVzKSB7CiAgICAgIGNvbnN0IHJlZGlzQ29uZmlnID0gT2JqZWN0LmZyZWV6ZSh7Ly90b2RvIHJlZmFjdG9yIDIgY29uZmlnIGZpbGUuCiAgICBpcDogJzE5Mi4xNjguNTAuMzgnLAogICAgcG9ydDogJzYzNzknLAogIH0pCgogIGxldCByY2xpZW50ID0gcmVkaXMuY3JlYXRlQ2xpZW50KHJlZGlzQ29uZmlnLnBvcnQsIHJlZGlzQ29uZmlnLmlwKQogIGdldE9PUmVkaXNGcm9tS2V5KCJjb3NhIixyY2xpZW50KS5zdWJzY3JpYmUocmVzLmpzb24pCn0p</text>
       </register>
     </registers>
     <search>
