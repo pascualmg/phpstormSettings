@@ -16,11 +16,10 @@
         <mark key="." line="85" column="22" />
         <mark key="^" line="82" column="18" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/PccRedisNodeClient.js" timestamp="1544466528184">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="9" column="1" />
+      <file name="$USER_HOME$/src/noderedisbackend/src/PccRedisNodeClient.js" timestamp="1544470530657">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/dist/PccRedisNodeClient.js" timestamp="1544466462254" />
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544449899116">
@@ -91,15 +90,19 @@
         <mark key="." line="192" column="33" />
         <mark key="^" line="192" column="32" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544466619817">
+      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544470747260">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
       </file>
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543915066790">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/noderedisbackend/dist/index.js" timestamp="1544470632279">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/featuresRepo.js" timestamp="1544452077868">
         <mark key="[" line="3" column="0" />
@@ -172,10 +175,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>example</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -184,31 +187,31 @@
         <text encoding="base64">ICAgIHRoaXMucmVkaXNDbGllbnQgPSByZWRpc0NsaWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvL21vY2tlZCBkYXRhLgo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICByZXMuc2VuZCggKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXSwK</text>
+        <text encoding="base64">YXBwLmdldCgnL2ZlYXR1cmVzJywgKHJlcSwgcmVzKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICdjcmVhdGVkX2F0JzogJzIwMTgtMDYtMDZUMDg6MjE6MzMuMDE4WicsCg==</text>
+        <text encoding="base64">Ly8vUm91dGVzIC4uLi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICdxdWFudGl0eSc6IDAsCg==</text>
+        <text encoding="base64">YXBwLmdldCgnLycsIChyZXEsIHJlcykgPT4gcmVzLmpzb24oImhpIikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICByY2xpZW50Lm9uKCdjb25uZWN0JywgKCkgPT4gewogICAgY29uc29sZS5sb2coJ2NvbmVjdGFkbyBhIHJlZGlzJywgcmVkaXNDb25maWcuaXAsIHJlZGlzQ29uZmlnLnBvcnQpCiAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICByY2xpZW50Lm9uKCdjb25uZWN0JywgKCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnd2VpZ2h0JzogMCwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
     <search>
@@ -267,6 +270,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
