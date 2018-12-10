@@ -16,10 +16,10 @@
         <mark key="." line="85" column="22" />
         <mark key="^" line="82" column="18" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/PccRedisNodeClient.js" timestamp="1544470530657">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/noderedisbackend/src/PccRedisNodeClient.js" timestamp="1544473954682">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/dist/PccRedisNodeClient.js" timestamp="1544466462254" />
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544449899116">
@@ -93,20 +93,15 @@
         <mark key="." line="192" column="33" />
         <mark key="^" line="192" column="32" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544473071128">
+      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544475266304">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="8" column="1" />
-        <mark key="^" line="7" column="25" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="47" column="54" />
+        <mark key="." line="47" column="54" />
+        <mark key="^" line="47" column="53" />
       </file>
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543915066790">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/noderedisbackend/dist/index.js" timestamp="1544470632279">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="33" />
-        <mark key="." line="25" column="33" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/featuresRepo.js" timestamp="1544452077868">
         <mark key="[" line="3" column="0" />
@@ -179,43 +174,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgT09SZWRpcyA9IE9ic2VydmFibGUuY3JlYXRlKGZ1bmN0aW9uIChvYnNlcnZlcikgewogIGNvbnN0IGhhcmNvZGVkS2V5ID0gJ2Nvc2EnIC8vdG9kbyByZWZhY3RvciBleHRyYWN0IDIgcGFyYW0KICByY2xpZW50LmdldChoYXJjb2RlZEtleSwgZnVuY3Rpb24gKGVyciwgcmVzdWx0KSB7CiAgICBvYnNlcnZlci5uZXh0KHJlc3VsdCkKICAgIG9ic2VydmVyLmVycm9yKGVycikKICB9KQogIHJldHVybiB7CiAgICB1bnN1YnNjcmliZTogZnVuY3Rpb24gKCkgewogICAgICAvL3JjbGllbnQuZW5kID8KICAgICAgY29uc29sZS5sb2coJ2ZpbmFsaXphbmRvIGNvbnN1bHRhIGEgcmVkaXMnKQogICAgfSwKICB9Cn0pCg==</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>//TODO: borrame.</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXBvfSBmcm9tICcuL1JlcG8uanMnCg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y29uc3QgT09SZWRpcyA9IE9ic2VydmFibGUuY3JlYXRlKGZ1bmN0aW9uIChvYnNlcnZlcikgewogIGNvbnN0IGhhcmNvZGVkS2V5ID0gJ2Nvc2EnIC8vdG9kbyByZWZhY3RvciBleHRyYWN0IDIgcGFyYW0KICByY2xpZW50LmdldChoYXJjb2RlZEtleSwgZnVuY3Rpb24gKGVyciwgcmVzdWx0KSB7CiAgICBvYnNlcnZlci5uZXh0KHJlc3VsdCkKICAgIG9ic2VydmVyLmVycm9yKGVycikKICB9KQogIHJldHVybiB7CiAgICB1bnN1YnNjcmliZTogZnVuY3Rpb24gKCkgewogICAgICAvL3JjbGllbnQuZW5kID8KICAgICAgY29uc29sZS5sb2coJ2ZpbmFsaXphbmRvIGNvbnN1bHRhIGEgcmVkaXMnKQogICAgfSwKICB9Cn0pCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgT09SZWRpc0Zyb21LZXlDb3NhID0gZ2V0T09SZWRpc0Zyb21LZXkoImNvc2EiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBsZXQgc29tZWtleSA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXBvfSBmcm9tICcuL1JlcG8uanMnCg==</text>
+        <text encoding="base64">aW1wb3J0IHJjbGllbnQgZnJvbSAnLi9QY2NSZWRpc05vZGVDbGllbnQuanMnCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">fSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAKY29uc3QgcmVkaXNDb25maWcgPSBPYmplY3QuZnJlZXplKHsvL3RvZG8gcmVmYWN0b3IgMiBjb25maWcgZmlsZS4KICBpcDogJzE5Mi4xNjguNTAuMzgnLAogIHBvcnQ6ICc2Mzc5JywKfSkKCiAgY29uc3QgcmNsaWVudCA9IHJlZGlzLmNyZWF0ZUNsaWVudChyZWRpc0NvbmZpZy5wb3J0LCByZWRpc0NvbmZpZy5pcCkKIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXMuc2VuZCggKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmNvbnN0IHJlZGlzQ29uZmlnID0gT2JqZWN0LmZyZWV6ZSh7Ly90b2RvIHJlZmFjdG9yIDIgY29uZmlnIGZpbGUuCiAgaXA6ICcxOTIuMTY4LjUwLjM4JywKICBwb3J0OiAnNjM3OScsCn0pCgogIGNvbnN0IHJjbGllbnQgPSByZWRpcy5jcmVhdGVDbGllbnQocmVkaXNDb25maWcucG9ydCwgcmVkaXNDb25maWcuaXAp</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXBwLmdldCgnL2ZlYXR1cmVzJywgKHJlcSwgcmVzKSA9PiB7Cg==</text>
+      <register name="7" type="4">
+        <text>const OORedisFromKeyCosa = getOORedisFromKey(&quot;cosa&quot;)
+.subscribe(console.log, console.log, console.log)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cgpjb25zdCBPT1JlZGlzRnJvbUtleUNvc2EgPSBnZXRPT1JlZGlzRnJvbUtleSgiY29zYSIpCi5zdWJzY3JpYmUoY29uc29sZS5sb2csIGNvbnNvbGUubG9nLCBjb25zb2xlLmxvZyk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8vUm91dGVzIC4uLi4K</text>
+        <text encoding="base64">LnN1YnNjcmliZShjb25zb2xlLmxvZywgY29uc29sZS5sb2csIGNvbnNvbGUubG9nKQo=</text>
       </register>
     </registers>
     <search>
