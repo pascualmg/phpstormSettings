@@ -66,8 +66,8 @@
         <mark key="^" line="333" column="111" />
         <mark key="." line="333" column="111" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544433302536">
-        <mark key="'" line="2" column="33" />
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544441912577">
+        <mark key="'" line="11" column="46" />
         <mark key="[" line="43" column="15" />
         <mark key="]" line="43" column="15" />
         <mark key="." line="43" column="15" />
@@ -85,6 +85,9 @@
         <mark key="]" line="61" column="4" />
         <mark key="." line="61" column="4" />
         <mark key="^" line="61" column="4" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1544442486228">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/detail/datasheet/article-datasheet.html.twig" timestamp="1543908227331">
         <mark key="[" line="364" column="59" />
@@ -119,8 +122,17 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544439972110">
-        <mark key="[" line="0" column="10" />
+      <file name="$USER_HOME$/src/noderedisbackend/.gitignore" timestamp="1544441297096">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/noderedisbackend/src/PccRedis.js" timestamp="1544443284668">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544441304770">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -168,6 +180,13 @@
         <mark key="." line="192" column="33" />
         <mark key="^" line="192" column="32" />
       </file>
+      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544443236457">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543915066790">
         <mark key="[" line="0" column="0" />
       </file>
@@ -195,10 +214,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/ArticleList/ArticleListBuilder.php" timestamp="1543924631653">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="100" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/ArticleList/Builder/Detail/Flags/FlagsArticleListIntegration.php" timestamp="1544432556198" />
     </filemarks>
@@ -261,52 +276,54 @@
       <jump line="2" column="33" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="148" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/DealArticlesController.php" />
       <jump line="32" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card.html.twig" />
+      <jump line="11" column="46" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/noderedisbackend/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>included coutry in footer address info.</text>
+        <text>redis.createClient(redisConfig.port, redisConfig.ip);</text>
       </register>
       <register name="-" type="4">
-        <text>included coutry in footer address info.</text>
+        <text>redis.createClient(redisConfig.port, redisConfig.ip);</text>
       </register>
       <register name="/" type="4">
-        <text>trans</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2JjYmNiOwo=</text>
+        <text encoding="base64">cmNsaWVudC5nZXQoJ3VzZXJibG9ja2VkJyAsIChlcnJvciwgcmVzdWx0KSA9PiB7Y29uc29sZS5sb2coZXJyb3IscmVzdWx0KTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudCh0byByaWdodCwgI2ZmNjAwMCAwJSwjZmNhODAwIDEwMCUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlZ3JvdTogI2YwZjBmMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3JjbGllbnQgY3JlYWRvICAnLCByY2xpZW50ICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICYubGFiZWwtYmxhY2stZnJpZGF5IHsKICAgICAgICAvL2JhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudCh0byByaWdodCwgI2ZmNjAwMCAwJSwjZmNhODAwIDEwMCUpOwogICAgICAgIGJhY2tncm91bmQ6ICMwMDA7CiAgICB9CiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">cmNsaWVudC4vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyNUT0RPOiBpbnRsI30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+UmVhY29uZGljaW9uYWRvPC9zcGFuPgo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3JlZGlzJywgcmVkaXMpLy9UT0RPOiBib1JyYW1lLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRhcmdldD5SZWFjb25kaWNpb25hZG88L3RhcmdldD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbHNlICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2JhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudCh0byByaWdodCwgI2ZmNjAwMCAwJSwjZmNhODAwIDEwMCUpOwo=</text>
       </register>
     </registers>
     <search>
-      <last-search>trans</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>trans</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -329,6 +346,7 @@
         <entry>localhost</entry>
         <entry>ajax</entry>
         <entry>trans</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd />
       <history-expr />
