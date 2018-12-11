@@ -9,7 +9,7 @@
         <mark key="." line="85" column="22" />
         <mark key="^" line="85" column="34" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" timestamp="1544436050531">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" timestamp="1544530704735">
         <mark key="'" line="33" column="29" />
         <mark key="[" line="85" column="22" />
         <mark key="]" line="85" column="22" />
@@ -21,7 +21,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544449899116">
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544530391002">
         <mark key="'" line="11" column="46" />
         <mark key="[" line="43" column="15" />
         <mark key="]" line="43" column="15" />
@@ -69,7 +69,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544523862321">
+      <file name="/Dummy.txt" timestamp="1544530234489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -82,7 +82,7 @@
       <file name="$USER_HOME$/src/noderedisbackend/package.json" timestamp="1544471750054">
         <mark key="[" line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card.html.twig" timestamp="1544439939403">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card.html.twig" timestamp="1544530370807">
         <mark key="'" line="32" column="20" />
         <mark key="[" line="41" column="71" />
         <mark key="]" line="41" column="71" />
@@ -92,6 +92,7 @@
       <file name="/fragment.php" timestamp="1543225567008">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/User/Panel/Marketplace/OrderMessageController.php" timestamp="1544530840755" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/footer.html.twig" timestamp="1544438248639">
         <mark key="[" line="192" column="33" />
         <mark key="]" line="192" column="33" />
@@ -107,6 +108,12 @@
       <file name="$USER_HOME$/.npm/_logs/2018-12-11T09_12_12_716Z-debug.log" timestamp="1544519661461" />
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543915066790">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/MarketPlace/Order/MarketPlaceOrderManager.php" timestamp="1544530976990">
+        <mark key="[" line="111" column="37" />
+        <mark key="]" line="111" column="29" />
+        <mark key="." line="111" column="29" />
+        <mark key="^" line="111" column="28" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/dist/getOORedisFromKkey.js" timestamp="1544515745896">
         <mark key="[" line="15" column="51" />
@@ -196,11 +203,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/src/noderedisbackend/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -209,31 +216,31 @@
         <text encoding="base64">fSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCAkcmVzdWx0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfcmV2ZXJzZShyZXN1bHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZlci5lcnJvcihlcnIpCg==</text>
+        <text encoding="base64">YXBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZlci5uZXh0KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvCg==</text>
+        <text encoding="base64">ICAgICAgICBvYnNlcnZlci5lcnJvcihlcnIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHJlcy5qc29uLAo=</text>
+        <text encoding="base64">ICAgICAgICBvYnNlcnZlci5uZXh0KHJlc3VsdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChlcnJvcikgPT4ge2NvbnNvbGUubG9nKGVycm9yKX0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIC8vIHJlcy5qc29uLAo=</text>
       </register>
     </registers>
     <search>
