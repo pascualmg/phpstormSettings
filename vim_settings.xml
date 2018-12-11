@@ -63,7 +63,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544482961696">
+      <file name="/Dummy.txt" timestamp="1544520922899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -92,12 +92,12 @@
         <mark key="." line="192" column="33" />
         <mark key="^" line="192" column="32" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544516890165">
-        <mark key="[" line="21" column="54" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-        <mark key="^" line="21" column="53" />
+      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544520750111">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/.npm/_logs/2018-12-11T09_12_12_716Z-debug.log" timestamp="1544519661461" />
       <file name="/web.api_third_party_services_status [desarrollo]" timestamp="1543915066790">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,11 +107,11 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisFromKkey.js" timestamp="1544516655432">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="49" />
-        <mark key="^" line="15" column="49" />
+      <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisFromKkey.js" timestamp="1544520698951">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/featuresRepo.js" timestamp="1544452077868">
         <mark key="[" line="3" column="0" />
@@ -184,43 +184,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>try to get Observable from Redis simple key, not working :(</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>try to get Observable from Redis simple key, not working :(</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhcHAuZ2V0KCcvJywgKHJlcSwgcmVzKSA9PiByY2xpZW50LmdldCgiY29zYSIsZnVuY3Rpb24gKGVyciwgcmVzdWx0KSB7Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIChuZXh0KSB7cmVzLmpzb24obmV4dCl9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHJlcy5qc29uLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChlcnJvcikgPT4ge2NvbnNvbGUubG9nKGVycm9yKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGNvbnN0IHJlZGlzQ29uZmlnID0gT2JqZWN0LmZyZWV6ZSh7Ly90b2RvIHJlZmFjdG9yIDIgY29uZmlnIGZpbGUuCiAgICBpcDogJzE5Mi4xNjguNTAuMzgnLAogICAgcG9ydDogJzYzNzknLAogIH0pCiAgY29uc3QgcmNsaWVudCA9IHJlZGlzLmNyZWF0ZUNsaWVudChyZWRpc0NvbmZpZy5wb3J0LCByZWRpc0NvbmZpZy5pcCkKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uICgpIHtjb25zb2xlLmxvZygnZmluYWxpemFkbyBvYnNlcnZhYmxlJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgcmVzdWx0ID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG51bGwsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldE9PUmVkaXNGcm9tS2V5KCdjb3NhJywgcmNsaWVudCkuc3Vic2NyaWJlKHJlcy5qc29uKQo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIChlcnJvcikge3Jlcy5qc29uKGVycm9yKX0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGlzIGZyb20gJ3JlZGlzJwo=</text>
+        <text encoding="base64">ICAgIChuZXh0KSA9PiByZXMuanNvbihuZXh0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgpID0+IHt9Cg==</text>
       </register>
     </registers>
     <search>
@@ -282,6 +282,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
