@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" timestamp="1544615980896">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" timestamp="1544624531878">
         <mark key="'" line="7" column="52" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" timestamp="1544530704735">
@@ -48,7 +48,7 @@
       <file name="$USER_HOME$/src/noderedisbackend/.gitignore" timestamp="1544441297096">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544535233894">
+      <file name="/Dummy.txt" timestamp="1544625121272">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -94,6 +94,12 @@
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="29" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/CartLayout/footer.html.twig" timestamp="1544625106224">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="9" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/setOORedisOf.js" timestamp="1544524125385">
         <mark key="[" line="11" column="49" />
@@ -167,11 +173,11 @@
       <jump line="7" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>39 , show MP messages with reverse order in user panel .</text>
       </register>
       <register name="-" type="4">
-        <text>ext</text>
+        <text>39 , show MP messages with reverse order in user panel .</text>
       </register>
       <register name="/" type="4">
         <text>product-card</text>
@@ -180,31 +186,31 @@
         <text encoding="base64">ICAgIChuZXh0KSA9PiB7cmVzLmpzb24obmV4dCl9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKQo=</text>
+        <text encoding="base64">ICAgIHslIGVtYmVkICdAUGNjV2ViL3ZlbmRvci9jb25uZWN0aWYvZGl2cy9kaXZfY25faGlkZGVuX2RhdGEuaHRtbC50d2lnJyAlfSB7JSBlbmRlbWJlZCAlfQo8L2Zvb3Rlcj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHppcChPT2V4ZWMoKSkK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHppcChPT2V4ZWMoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAobmV4dCkgPT4ge3Jlcy5qc29uKG5leHQpfSwK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
     </registers>
     <search>
