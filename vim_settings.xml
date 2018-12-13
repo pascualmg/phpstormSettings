@@ -18,11 +18,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/react-redis-front/src/App.js" timestamp="1544688559300">
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="32" />
-        <mark key="^" line="42" column="32" />
-        <mark key="." line="42" column="32" />
+      <file name="$USER_HOME$/src/react-redis-front/src/App.js" timestamp="1544689678306">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/hmsetOORedis.js" timestamp="1544686654289">
         <mark key="[" line="12" column="36" />
@@ -189,11 +188,11 @@
       <jump line="29" column="29" filename="$USER_HOME$/src/noderedisbackend/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd0b29nbGVzOicgLCBuZXh0LnJlc3Bub3MpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
         <text>su</text>
@@ -202,31 +201,31 @@
         <text encoding="base64">ICAgIChuZXh0KSA9PiB7cmVzLmpzb24obmV4dCl9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd0b29nbGVzOicgLCBuZXh0LnJlc3Bub3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3Rvb3RsZXM6IG5leHQucmVzcG9uc2UpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXNkZmFkc2YK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudHJhbmRvIGVuIHB1dGFzIHkgYmFyY29zJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtaWVyZmQ7a2xhc2RmaG5qYTtka2hmCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3Rvb3RsZXM6IG5leHQucmVzcG9uc2UpfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b2dnbGVzOgo=</text>
+        <text encoding="base64">YXNkZmFkc2YK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZSA9IHsK</text>
+        <text encoding="base64">ICAgICAgICBtaWVyZmQ7a2xhc2RmaG5qYTtka2hmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHRvb2dsZXM6W10K</text>
+        <text encoding="base64">ICAgICAgICB0b2dnbGVzOgo=</text>
       </register>
     </registers>
     <search>
