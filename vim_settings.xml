@@ -35,6 +35,11 @@
         <mark key="." line="41" column="71" />
         <mark key="^" line="41" column="70" />
       </file>
+      <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisCmd.js" timestamp="1544780699479">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/src/react-redis-front/src/App.js" timestamp="1544707644548">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -64,12 +69,6 @@
         <mark key="]" line="15" column="50" />
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544530391002">
-        <mark key="'" line="11" column="46" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/setOORedisOfKey.js" timestamp="1544523309640">
         <mark key="[" line="3" column="24" />
@@ -164,11 +163,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWxnbyoK</text>
+      <register name="&quot;" type="4">
+        <text>hmgetAllOORedis</text>
       </register>
       <register name="-" type="4">
-        <text>refactor, app keeps array of features in state and then are used as props.</text>
+        <text>hmgetAllOORedis</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
