@@ -3,9 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccfrontv2/src/index.js" timestamp="1544699613227" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" timestamp="1544624531878">
         <mark key="'" line="7" column="52" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544707888736">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" timestamp="1544530704735">
         <mark key="'" line="33" column="29" />
@@ -14,41 +18,10 @@
         <mark key="." line="85" column="22" />
         <mark key="^" line="82" column="18" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontv2/src/app.js" timestamp="1544701052017" />
       <file name="$USER_HOME$/src/noderedisbackend/src/PccRedisNodeClient.js" timestamp="1544616134050">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/react-redis-front/src/App.js" timestamp="1544707644548">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="45" />
-      </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/hmsetOORedis.js" timestamp="1544686654289">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="26" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544530391002">
-        <mark key="'" line="11" column="46" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
-      </file>
-      <file name="restClient/response1.json" timestamp="1544709443789" />
-      <file name="$USER_HOME$/src/noderedisbackend/src/setOORedisOfKey.js" timestamp="1544523309640">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1544707888736">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/FeaturesRepo.js" timestamp="1544453471700">
         <mark key="[" line="0" column="0" />
@@ -62,6 +35,12 @@
         <mark key="." line="41" column="71" />
         <mark key="^" line="41" column="70" />
       </file>
+      <file name="$USER_HOME$/src/react-redis-front/src/App.js" timestamp="1544707644548">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="45" />
+      </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544698568951">
         <mark key="'" line="32" column="29" />
         <mark key="[" line="7" column="0" />
@@ -74,11 +53,29 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/src/noderedisbackend/src/hmsetOORedis.js" timestamp="1544686654289">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+      </file>
       <file name="$USER_HOME$/src/noderedisbackend/dist/getOORedisFromKkey.js" timestamp="1544515745896">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="50" />
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1544530391002">
+        <mark key="'" line="11" column="46" />
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/noderedisbackend/src/setOORedisOfKey.js" timestamp="1544523309640">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisFromKkey.js" timestamp="1544686749739">
         <mark key="[" line="11" column="21" />
@@ -165,8 +162,8 @@
       <jump line="29" column="29" filename="$USER_HOME$/src/noderedisbackend/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>refactor, app keeps array of features in state and then are used as props.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWxnbyoK</text>
       </register>
       <register name="-" type="4">
         <text>refactor, app keeps array of features in state and then are used as props.</text>
@@ -178,10 +175,10 @@
         <text encoding="base64">ICAgICAgYXJyLnB1c2goZmVhdHVyZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZlYXR1cmUnLCBmZWF0dXJlLCBhbGxGZWF0dXJlc1tmZWF0dXJlXSkK</text>
+        <text encoding="base64">YWxnbyoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZlYXR1cmUnLCBmZWF0dXJlLCBhbGxGZWF0dXJlc1tmZWF0dXJlXSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -190,19 +187,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFyciA9IHRoaXMuZ2V0RmVhdHVyZXNBcnJheSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2hlYWRlcj4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFyciA9IHRoaXMuZ2V0RmVhdHVyZXNBcnJheSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2hlYWRlcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2JvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Ym9keT4K</text>
+        <text encoding="base64">ICAgICAgICA8L2JvZHk+Cg==</text>
       </register>
     </registers>
     <search>
