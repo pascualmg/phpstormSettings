@@ -6,22 +6,16 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" timestamp="1544624531878">
         <mark key="'" line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" timestamp="1544530704735">
-        <mark key="'" line="33" column="29" />
-        <mark key="[" line="85" column="22" />
-        <mark key="]" line="85" column="22" />
-        <mark key="." line="85" column="22" />
-        <mark key="^" line="82" column="18" />
-      </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/PccRedisNodeClient.js" timestamp="1544616134050">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisCmd.js" timestamp="1544780699479">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisCmd.js" timestamp="1544867872644">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/src/react-redis-front/src/App.js" timestamp="1544707644548">
         <mark key="[" line="32" column="0" />
@@ -34,6 +28,9 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
+      </file>
+      <file name="/PHP Console" timestamp="1544869392628">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/setOORedisOfKey.js" timestamp="1544523309640">
         <mark key="[" line="3" column="24" />
@@ -52,12 +49,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544698568951">
-        <mark key="'" line="32" column="29" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544868414533">
+        <mark key="'" line="36" column="29" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/MarketPlace/Order/MarketPlaceOrderManager.php" timestamp="1544535228804">
         <mark key="[" line="111" column="0" />
@@ -157,28 +154,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBPT1JlZGlzQ21kKCdobWdldGFsbCcsJ2ZlYXR1cmVzJykK</text>
       </register>
       <register name="-" type="4">
-        <text>hmgetAllOORedis</text>
+        <text>hmsetOORedis</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXJyLnB1c2goZmVhdHVyZSkK</text>
+        <text encoding="base64">aW1wb3J0IGhtc2V0T09SZWRpcyBmcm9tICcuL2htc2V0T09SZWRpcy5qcycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBPT1JlZGlzQ21kKCdobWdldGFsbCcsJ2ZlYXR1cmVzJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWxnbyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZlYXR1cmUnLCBmZWF0dXJlLCBhbGxGZWF0dXJlc1tmZWF0dXJlXSkK</text>
+        <text encoding="base64">YWxnbyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZlYXR1cmUnLCBmZWF0dXJlLCBhbGxGZWF0dXJlc1tmZWF0dXJlXSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -187,13 +184,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFyciA9IHRoaXMuZ2V0RmVhdHVyZXNBcnJheSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2hlYWRlcj4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFyciA9IHRoaXMuZ2V0RmVhdHVyZXNBcnJheSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2hlYWRlcj4K</text>
       </register>
     </registers>
     <search>
