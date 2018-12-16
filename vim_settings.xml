@@ -21,6 +21,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns.txt" timestamp="1544946649544">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisCmd.js" timestamp="1544867872644">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -170,8 +175,8 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>created .gitignore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">a2V5cyAqCg==</text>
       </register>
       <register name="-" type="4">
         <text>created .gitignore</text>
@@ -182,23 +187,23 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGhtc2V0T09SZWRpcyBmcm9tICcuL2htc2V0T09SZWRpcy5qcycK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">a2V5cyAqCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIGNvbnN0IHJlZGlzQ29uZmlnID0gT2JqZWN0LmZyZWV6ZSh7Ly90b2RvIHJlZmFjdG9yIDIgY29uZmlnIGZpbGUuCiAgICAgIGlwOiAnMTkyLjE2OC41MC4zOCcsCiAgICAgIHBvcnQ6ICc2Mzc5JywKICAgIH0p</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBPT1JlZGlzQ21kKCdobWdldGFsbCcsJ2ZlYXR1cmVzJykK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">YWxnbyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZlYXR1cmUnLCBmZWF0dXJlLCBhbGxGZWF0dXJlc1tmZWF0dXJlXSkK</text>
+        <text encoding="base64">YWxnbyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZlYXR1cmUnLCBmZWF0dXJlLCBhbGxGZWF0dXJlc1tmZWF0dXJlXSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -207,7 +212,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFyciA9IHRoaXMuZ2V0RmVhdHVyZXNBcnJheSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
