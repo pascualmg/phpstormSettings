@@ -11,11 +11,11 @@
       <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/.gitignore" timestamp="1544872242295">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/OORedis.js" timestamp="1544951275322">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="9" column="6" />
+      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/OORedis.js" timestamp="1544956717721">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="63" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns.txt" timestamp="1544946649544">
         <mark key="[" line="0" column="0" />
@@ -195,11 +195,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9ic2VydmVyLmVycm9yKCByZWRpc0NtZE5hbWUgKyAnIGlzIG5vdCBhIHZhbGlkIGNvbW1hbmQnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -208,31 +208,31 @@
         <text encoding="base64">aW1wb3J0IE9PUmVkaXNDbWQgZnJvbSAnLi9PT1JlZGlzQ21kLmpzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9ic2VydmVyLmVycm9yKCByZWRpc0NtZE5hbWUgKyAnIGlzIG5vdCBhIHZhbGlkIGNvbW1hbmQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgb2JzZXJ2ZXIuZXJyb3IoIHJlZGlzQ21kTmFtZSArICcgaXMgbm90IGEgdmFsaWQgY29tbWFuZCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KSkK</text>
+        <text encoding="base64">ICAgICAgb2JzZXJ2ZXIuZXJyb3IobWF5YmVGdW5jdGlvbiArICcgaXMgbm90IGEgbWV0aG9kIG9mJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIGlmICghdHlwZW9mIG9ialttYXliZUZ1bmN0aW9uXSA9PT0gJ2Z1bmN0aW9uJykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcHAuZ2V0KCcvJywgKHJlcSwgcmVzKSA9PiByY2xpZW50LmdldCgnZmVhdHVyZXMnLCBmdW5jdGlvbiAoZXJyLCByZXN1bHQpIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOy8vdG9kbyBpbXBsZW1lbnQgYXNzZXJ0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY29uZWN0YWRvIGEgcmVkaXMgYW50ZXMgZGUgZXNjdWNoYXIgcGV0aXMnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmluYWxpemFuZG8gY29uc3VsdGEgYSByZWRpcycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmNsaWVudC5vbignY29ubmVjdCcsICgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAvL3JjbGllbnQuZW5kID8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJjbGllbnQgZnJvbSAnLi9QY2NSZWRpc05vZGVDbGllbnQuanMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
