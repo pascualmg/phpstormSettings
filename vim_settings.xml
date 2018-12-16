@@ -11,17 +11,17 @@
       <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/.gitignore" timestamp="1544872242295">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/OORedis.js" timestamp="1544979306086">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="10" column="12" />
+      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/OORedis.js" timestamp="1544986591146">
+        <mark key="[" line="6" column="76" />
+        <mark key="]" line="8" column="70" />
+        <mark key="." line="8" column="70" />
+        <mark key="^" line="8" column="70" />
       </file>
-      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/test.js" timestamp="1544984966081">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
-        <mark key="^" line="12" column="8" />
+      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/test.js" timestamp="1544987359747">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns.txt" timestamp="1544946649544">
         <mark key="[" line="0" column="0" />
@@ -79,7 +79,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544979820074">
+      <file name="/Dummy.txt" timestamp="1544986755126">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,11 +89,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/package.json" timestamp="1544979973638">
+      <file name="$USER_HOME$/src/noderedisbackend/package.json" timestamp="1544986908208">
         <mark key="[" line="40" column="37" />
-        <mark key="]" line="40" column="42" />
+        <mark key="]" line="40" column="37" />
         <mark key="^" line="40" column="42" />
-        <mark key="." line="40" column="42" />
+        <mark key="." line="40" column="37" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/OORedisCmd.js" timestamp="1544949166052">
         <mark key="[" line="18" column="6" />
@@ -101,12 +101,12 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544976958996">
+      <file name="$USER_HOME$/src/noderedisbackend/src/index.js" timestamp="1544987148684">
         <mark key="'" line="39" column="29" />
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-        <mark key="^" line="13" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="30" column="2" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/MarketPlace/Order/MarketPlaceOrderManager.php" timestamp="1544535228804">
         <mark key="[" line="111" column="0" />
@@ -119,7 +119,7 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/package.json" timestamp="1544979945362">
+      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/package.json" timestamp="1544986628959">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -212,43 +212,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Foo</text>
+        <text>setmierda</text>
       </register>
       <register name="-" type="4">
-        <text>Foo</text>
+        <text>setmierda</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2V0Rm9vJC5zdWJzY3JpYmUoY29uc29sZS5sb2cpCg==</text>
+        <text encoding="base64">c2V0bWllcmRhJC5zdWJzY3JpYmUoY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9ic2VydmVyLmNvbXBsZXRlKCkK</text>
+        <text encoding="base64">dmFyIHNldEZvbyQgPSBPT3JlZGlzKCdzZXQnLCBbJ2Zvb2tleScsJ2Zvb3ZhbCddLGNvbmYpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9ic2VydmVyLmNvbXBsZXRlKCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVzdWx0IGluIG9ic2VydmFibGU6JywgcmVzdWx0KS8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBmdW5jdGlvbiBhc3NlcnRJc1ZhbGlkUmVkaXNDbGllbnRDbWQgKCkgewogICAgaWYgKCAhdHlwZW9mIHJjbGllbnRbcmVkaXNDbWROYW1lXSA9PT0gJ2Z1bmN0aW9uJyApICB7CiAgICAgIG9ic2VydmVyLmVycm9yKCByZWRpc0NtZE5hbWUgKyAnIGlzIG5vdCBhIHZhbGllJykKICAgIH0KICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdHlwZW9mIHJjbGllbnRbcmVkaXNDbWROYW1lXSA9PT0gJ2Z1bmN0aW9uJwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHR5cGVvZiByY2xpZW50W3JlZGlzQ21kTmFtZV0gPT09ICdmdW5jdGlvbicK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGVzY29uZWN0YW5kbyBkZSByZWRpcycgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb2JzZXJ2ZXIuY29tcGxldGUoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZlci5jb21wbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgb2JzZXJ2ZXIuY29tcGxldGUoKQo=</text>
       </register>
     </registers>
     <search>
