@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/features.http" timestamp="1545047211448">
+        <mark key="[" line="5" column="109" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/PccRedisNodeClient.js" timestamp="1544616134050">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -49,9 +54,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1544869530321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544869465372">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1545047102754">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="25" />
       </file>
       <file name="/PHP Console" timestamp="1544869392628">
         <mark key="[" line="0" column="0" />
@@ -219,11 +224,11 @@
       <jump line="90" column="0" filename="$USER_HOME$/src/rxjs-observable-of-redis-cmd/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVmYWN0b3IgbmFtZWQgcGFyYW0gaXAgLT4gaG9zdCAoIGNhbiBkbyBkbnMgKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHRyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVmYWN0b3IgbmFtZWQgcGFyYW0gaXAgLT4gaG9zdCAoIGNhbiBkbyBkbnMgKQ==</text>
+        <text>httpbin.org/ip</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -232,31 +237,31 @@
         <text encoding="base64">YGBgamF2YXNjcmlwdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cHRyCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">QWNjZXB0OiBhcHBsaWNhdGlvbi9qc29uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">R0VUIGh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9mZWF0dXJlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">PD4gMjAxOC0xMi0xN1QxMjQ2MTUuMjAwLmpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHRyIyMjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkpCg==</text>
+        <text encoding="base64">cHRycAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjcmVkZW50aWFsczogZmFsc2UsCg==</text>
+        <text encoding="base64">cHRyIyMjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvcmlnaW46IFsnaHR0cDovL2xvY2FsaG9zdDozMDAwJ10sCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
