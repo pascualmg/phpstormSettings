@@ -17,11 +17,11 @@
         <mark key="." line="8" column="70" />
         <mark key="^" line="8" column="70" />
       </file>
-      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/test.js" timestamp="1545029847266">
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="14" column="88" />
+      <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/test.js" timestamp="1545032160488">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns.txt" timestamp="1544946649544">
         <mark key="[" line="0" column="0" />
@@ -211,10 +211,8 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>function (item) {
-    return 
-  })</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXF1aXJlKCdyeGpzL29wZXJhdG9ycycpLm1hcChKU09OLmRlY29kZSkK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -225,34 +223,34 @@
       <register name="0" type="2">
         <text encoding="base64">T09yZWRpcygnc2V0JywgWydmZWF0dXJlOjAwMScsIEpTT04uc3RyaW5naWZ5KHthY3RpdmU6dHJ1ZSwgbmFtZTonZmVhdHVyZU5hbWVJbnNpZGVKc29uJ30pXSwgY29uZikuc3Vic2NyaWJlKGNvbnNvbGUubG9nKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICByZXF1aXJlKCdyeGpzL29wZXJhdG9ycycpLm1hcChKU09OLmRlY29kZSkK</text>
+      </register>
+      <register name="2" type="4">
         <text>function (item) {
     return 
   })</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Zm9vewo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cGVyb3F1ZSBwYXNhIGNvbiBsbyBjYXBhY2l0aXZvICBlcyBxdWUgbGUgcHVlZGVzIGRhciBtdWNobyBtJ2FzIHJhcGlkbyBxdWUgY3VhbmRvIG5vIGxvIHRpZW5lcyBsbyBxdWUgcGFzYSBlcyBxdWUgc2kgbm8gc2FiZXMgY29tbyB1c2FybG8gcHVlcyAsIHRpZW5lcyBxdWUgYWNvc3R1bWJyYXJ0ZSB1biBwb2NvICcK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">T09yZWRpcygnc2V0JywgWydmZWF0dXJlOmZlYXR1cmVOYW1lMDA5JywgJ3RydWUnXSwgY29uZikuc3Vic2NyaWJlKGNvbnNvbGUubG9nKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">T09yZWRpcygnc2V0JywgWydmZWF0dXJlOmZlYXR1cmVOYW1lMDA4JywgJ2ZhbHNlJ10sIGNvbmYpLnN1YnNjcmliZShjb25zb2xlLmxvZykK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">T09yZWRpcygnc2V0JywgWydmZWF0dXJlOmZlYXR1cmVOYW1lMDA3JywgJ3RydWUnXSwgY29uZikuc3Vic2NyaWJlKGNvbnNvbGUubG9nKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">T09yZWRpcygnc2V0JywgWydmZWF0dXJlOmZlYXR1cmVOYW1lMDA2JywgJ3RydWUnXSwgY29uZikuc3Vic2NyaWJlKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">T09yZWRpcygnc2V0JywgWydmZWF0dXJlOmZlYXR1cmVOYW1lMDA3JywgJ3RydWUnXSwgY29uZikuc3Vic2NyaWJlKGNvbnNvbGUubG9nKQo=</text>
       </register>
     </registers>
     <search>
