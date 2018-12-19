@@ -25,6 +25,7 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
+      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Button/index.jsx" timestamp="1545225577801" />
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns.txt" timestamp="1544946649544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -76,8 +77,8 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1545223955807">
-        <mark key="'" line="123" column="0" />
+      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1545225358917">
+        <mark key="'" line="56" column="17" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="27" />
       </file>
@@ -169,11 +170,12 @@
         <mark key="^" line="61" column="22" />
         <mark key="." line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/src/stories/index.js" timestamp="1545223831421">
-        <mark key="[" line="84" column="9" />
-        <mark key="]" line="84" column="9" />
-        <mark key="." line="84" column="9" />
-        <mark key="^" line="81" column="0" />
+      <file name="$USER_HOME$/src/pccadminstorybook/src/stories/index.js" timestamp="1545225601767">
+        <mark key="'" line="96" column="24" />
+        <mark key="[" line="96" column="25" />
+        <mark key="]" line="96" column="33" />
+        <mark key="." line="96" column="33" />
+        <mark key="^" line="96" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -244,13 +246,15 @@
       <jump line="64" column="0" filename="$USER_HOME$/src/rxjs-observable-of-redis-cmd/README.md" />
       <jump line="90" column="0" filename="$USER_HOME$/src/rxjs-observable-of-redis-cmd/README.md" />
       <jump line="123" column="0" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="56" column="17" filename="$USER_HOME$/src/frontst/src/App.js" />
+      <jump line="96" column="24" filename="$USER_HOME$/src/pccadminstorybook/src/stories/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRPb2x6IGZyb20gJ2pzdG9vbHonCg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -259,31 +263,31 @@
         <text encoding="base64">aW1wb3J0IHRPb2x6IGZyb20gJ2pzdG9vbHonCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxJbnB1dCB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iSW5wdXQgZGlzYWJsZWQiIGRpc2FibGVkIC8+Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRWRpdCA8Y29kZT5zcmMvQXBwLmpzPC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCg==</text>
+        <text encoding="base64">IHJldHVybiA8ZGl2PkNvbXBvbmVudGUgZGUgcHJ1ZWJhPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdidCcsIEJ1dHRvbik7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gQ29tcG9uZW50NHRlc3QgKHByb3BzKSB7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBjb25zdCBnZW5lcmF0ZVJhbWRvbUlkID0gZnVuY3Rpb24gZ2VuZXJhdGVSYW1kb21JZCAoc2VlZFN0cikgewogICAgY29uc3QgbGVuID0gc2VlZFN0ci5sZW5ndGgKICAgIGlmIChsZW4gPD0gMSkgewogICAgICByZXR1cm4gc2VlZFN0cgogICAgfQogICAgY29uc3QgcmFuZG9tVmFsaWRJbmRleCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIGxlbikKICAgIGNvbnN0IHJhbmRvbUNoYXIgPSBzZWVkU3RyW3JhbmRvbVZhbGlkSW5kZXhdCiAgICBjb25zdCBjaHVuazEgPSBzZWVkU3RyLnNsaWNlKDAsIHJhbmRvbVZhbGlkSW5kZXgpCiAgICBjb25zdCBjaHVuazIgPSBzZWVkU3RyLnNsaWNlKHJhbmRvbVZhbGlkSW5kZXggKyAxKQogICAgY29uc3QgcG9zc2libGVTdHJXaXRob3V0UmFuZG9tQ2hhciA9IGNodW5rMS5jb25jYXQoY2h1bmsyKQoKICAgIHJldHVybiByYW5kb21DaGFyICsgZ2VuZXJhdGVSYW1kb21JZChwb3NzaWJsZVN0cldpdGhvdXRSYW5kb21DaGFyKQogIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2NvbnNvbGUubG9nKCdlc3RpbG9zJywgZXN0aWxvcyl9Cg==</text>
+        <text encoding="base64">ICAgIDxJbnB1dCB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iSW5wdXQgZGlzYWJsZWQiIGRpc2FibGVkIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRWRpdCA8Y29kZT5zcmMvQXBwLmpzPC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWRpc2tleXMnLCApOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdidCcsIEJ1dHRvbik7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHAuZ2V0KCdlbmRwb25pbnQnKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAge2NvbnNvbGUubG9nKCdlc3RpbG9zJywgZXN0aWxvcyl9Cg==</text>
       </register>
     </registers>
     <search>
@@ -353,6 +357,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
