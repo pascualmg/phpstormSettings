@@ -105,10 +105,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545326515862">
+      <file name="/Dummy.txt" timestamp="1545331778525">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/README.md" timestamp="1545086494759">
         <mark key="'" line="90" column="0" />
@@ -202,11 +202,11 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/README.md" timestamp="1545326476308">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/src/pccadminstorybook/README.md" timestamp="1545331763821">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="37" column="2" />
+        <mark key="^" line="37" column="2" />
+        <mark key="." line="37" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -284,21 +284,26 @@
       <jump line="472" column="9" filename="$USER_HOME$/src/pccadminstorybook/src/components/GlobalStyle/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IVthbHQgdGV4dF0oLi9kb2Mvc25hcHNob3RzL2NyZWF0ZS1yZWFjdC1hcHAtMDAyLnBuZyAiRnJvbSBzY3JhdGNoIikK</text>
+      <register name="&quot;" type="4">
+        <text>Merge remote-tracking branch 'origin/feature/GT-1087-crear-documentacion-importar-los' into feature/GT-1087-crear-documentacion-importar-los
+
+# Conflicts:
+#	README.md</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC9ob21lL3Bhc3NoL3NyYy90ZXN0LXN0eWxlZC8=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IVthbHQgdGV4dF0oLi9kb2Mvc25hcHNob3RzL2NyZWF0ZS1yZWFjdC1hcHAtMDAyLnBuZyAiRnJvbSBzY3JhdGNoIikK</text>
+        <text encoding="base64">bnBtIGkgJgo=</text>
       </register>
       <register name="1" type="4">
-        <text>snapshot has to be local 
-https://stackoverflow.com/questions/41604263/how-to-display-local-image-in-markdown/41912122</text>
+        <text>Merge remote-tracking branch 'origin/feature/GT-1087-crear-documentacion-importar-los' into feature/GT-1087-crear-documentacion-importar-los
+
+# Conflicts:
+#	README.md</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -307,22 +312,25 @@ https://stackoverflow.com/questions/41604263/how-to-display-local-image-in-markd
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZHNsZmE7c2RmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHt0aGVtZX0gZnJvbSAnLi9jb21wb25lbnRzL3N0eWxlcy90aGVtZS5qcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjoge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyeGpzIjogIl42LjIuMiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJlbW90aW9uIjogIl45LjIuNiIsCg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -355,7 +363,9 @@ https://stackoverflow.com/questions/41604263/how-to-display-local-image-in-markd
         <entry>su</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
