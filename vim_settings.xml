@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccadminstorybook/.env" timestamp="1545349747038">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/features.http" timestamp="1545047211448">
         <mark key="[" line="5" column="109" />
         <mark key="]" line="14" column="0" />
@@ -105,11 +111,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/start-docker.sh" timestamp="1545348498425">
+      <file name="$USER_HOME$/src/pccadminstorybook/start-docker.sh" timestamp="1545349376625">
         <mark key="[" line="1" column="84" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/Dockerfile" timestamp="1545348434592">
         <mark key="[" line="15" column="29" />
@@ -122,8 +128,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545347275515">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1545350214902">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -350,7 +356,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -385,6 +391,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
