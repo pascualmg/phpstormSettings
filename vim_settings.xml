@@ -61,6 +61,11 @@
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="25" />
       </file>
+      <file name="$USER_HOME$/temp/backend/src/requestHandlers.js" timestamp="1545593615701">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="75" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/src/frontst/package.json" timestamp="1545302888196">
         <mark key="[" line="19" column="3" />
         <mark key="]" line="19" column="3" />
@@ -77,6 +82,9 @@
         <mark key="]" line="19" column="1" />
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1545593576777">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/test-styled/src/App.js" timestamp="1545299147570">
         <mark key="[" line="18" column="86" />
@@ -105,11 +113,6 @@
         <mark key="[" line="5" column="89" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/src/frontst/src/App.js" timestamp="1545225358917">
-        <mark key="'" line="56" column="17" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/start-docker.sh" timestamp="1545351286689">
         <mark key="[" line="1" column="0" />
@@ -316,44 +319,44 @@
       <jump line="472" column="9" filename="$USER_HOME$/src/pccadminstorybook/src/components/GlobalStyle/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VqZWN1dGFuZG8gY2InLCBkaXJzKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RVhQT1NFIDg4ODgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgICAgY2FsbGJhY2soZGlycyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9ja2VyIHN0b3Agc3Rvcnlib29rCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VqZWN1dGFuZG8gY2InLCBkaXJzKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxsYmFjayhkaXJzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkb2NrZXItY29tcG9zZSB1cCAtZCAtLWJ1aWxkIHN0b3J5Ym9vayAK</text>
+        <text encoding="base64">ZG9ja2VyIHN0b3Agc3Rvcnlib29rCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RVJSISBkb2NrZXIgY29udGFpbmVyIG9yIG9uIGEgQ0ksIHlvdSBuZWVkIHRvIHBhc3MgdGhlICctLWNpJyBmbGFnIHRvIHByZXZlbnQgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkb2NrZXItY29tcG9zZSB1cCAtZCAtLWJ1aWxkIHN0b3J5Ym9vayAK</text>
       </register>
-      <register name="6" type="4">
-        <text>Merge remote-tracking branch 'origin/feature/GT-1087-crear-documentacion-importar-los' into feature/GT-1087-crear-documentacion-importar-los
-
-# Conflicts:
-#	README.md</text>
+      <register name="6" type="2">
+        <text encoding="base64">RVJSISBkb2NrZXIgY29udGFpbmVyIG9yIG9uIGEgQ0ksIHlvdSBuZWVkIHRvIHBhc3MgdGhlICctLWNpJyBmbGFnIHRvIHByZXZlbnQgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Merge remote-tracking branch 'origin/feature/GT-1087-crear-documentacion-importar-los' into feature/GT-1087-crear-documentacion-importar-los
+
+# Conflicts:
+#	README.md</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,6 +438,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
