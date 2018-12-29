@@ -197,17 +197,19 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccadminstorybook/node_modules/jstoolz/index.js" timestamp="1546086046304" />
       <file name="$USER_HOME$/src/test-styled/package.json" timestamp="1545996564533">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="20" />
         <mark key="^" line="5" column="108" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Table/index.jsx" timestamp="1546084581741">
-        <mark key="[" line="76" column="26" />
-        <mark key="]" line="76" column="26" />
-        <mark key="." line="76" column="26" />
-        <mark key="^" line="72" column="30" />
+      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Table/index.jsx" timestamp="1546086678861">
+        <mark key="'" line="65" column="4" />
+        <mark key="[" line="75" column="73" />
+        <mark key="]" line="75" column="89" />
+        <mark key="." line="75" column="89" />
+        <mark key="^" line="75" column="89" />
       </file>
       <file name="$USER_HOME$/src/test-styled/src/App.js" timestamp="1546083810106">
         <mark key="[" line="45" column="14" />
@@ -350,61 +352,61 @@
       <jump line="126" column="21" filename="$USER_HOME$/src/pccadminstorybook/src/stories/index.js" />
       <jump line="2" column="7" filename="$USER_HOME$/src/pccadminstorybook/src/components/GlobalStyle/index.jsx" />
       <jump line="472" column="9" filename="$USER_HOME$/src/pccadminstorybook/src/components/GlobalStyle/index.jsx" />
+      <jump line="65" column="4" filename="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Table/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>generateRandomId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>generateRandomId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRcPg==</text>
+        <text>genera</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgKCkgPT4ge30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc3QgZ2VuZXJhdGVSYW1kb21JZCA9IGpzdG9vbHMuZ2VuZXJhdGVSYW5kb21JZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoKSA9PiB7fSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoKSA9PiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKSA9PiB7fSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKSA9PiB7fSwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3Bvc3RzOlt7ImlkIjoxLCJjcmVhdGVkT24iOiIyMDE4LTA4LTE0VDE0OjIxOjUxKzAyOjAwIiwidGl0bGUiOiJmaXJzdCBwb3N0Iiwic3RhdHVzIjoiUFVCTElTSEVEIiwiY2F0ZWdvcnkiOiJjYXRlZ29yaWEgcGFwaSIsImF1dGhvciI6InBhYmxvIn0seyJpZCI6MiwiY3JlYXRlZE9uIjoiMjAxOC0wOC0xNlQxMDozMDoyMSswMjowMCIsInRpdGxlIjoiZmlyc3QgcG9zdCIsInN0YXR1cyI6IlBVQkxJU0hFRCIsImNhdGVnb3J5IjoiY2F0ZWdvcmlhIHBhcGkiLCJhdXRob3IiOiJwYWJsbyJ9LHsiaWQiOjMsImNyZWF0ZWRPbiI6IjIwMTgtMDgtMTdUMDk6MjU6NTUrMDI6MDAiLCJ0aXRsZSI6InRlc3QgcG9zdCIsInN0YXR1cyI6IlBVQkxJU0hFRCIsImNhdGVnb3J5IjoiY2F0ZWdvcmlhIHBhcGkiLCJhdXRob3IiOiJwYWJsbyJ9LHsiaWQiOjQsImNyZWF0ZWRPbiI6IjIwMTgtMDgtMjBUMTU6NDI6NDYrMDI6MDAiLCJ0aXRsZSI6ImZpcnN0IHBvc3QiLCJzdGF0dXMiOiJQVUJMSVNIRUQiLCJjYXRlZ29yeSI6ImNhdGVnb3JpYSBwYXBpIiwiYXV0aG9yIjoicGFibG8ifSx7ImlkIjo1LCJjcmVhdGVkT24iOiIyMDE4LTA5LTIwVDA4OjU5OjUwKzAyOjAwIiwidGl0bGUiOiJhIiwic3RhdHVzIjoiUFVCTElTSEVEIiwiY2F0ZWdvcnkiOiJTaW4gQ2F0ZWdvcsOtYSIsImF1dGhvciI6Ikpvc2VsaXRvIn0seyJpZCI6NiwiY3JlYXRlZE9uIjoiMjAxOC0wOS0yNFQxMjozMDo0MSswMjowMCIsInRpdGxlIjoiQmlkYSBob2JyYSB5IG1pbCBhZ3JvcyIsInN0YXR1cyI6IlBVQkxJU0hFRCIsImNhdGVnb3J5IjoiQ2FudGltcGxvcmFzIiwiYXV0aG9yIjoiSm9zZWxpdG8ifSx7ImlkIjo3LCJjcmVhdGVkT24iOiIyMDE4LTA5LTI0VDEyOjU3OjA5KzAyOjAwIiwidGl0bGUiOiJNaXN0ZXJpb3MgZGUgbGEgbWVudGEgc2h1cm1hbmEiLCJzdGF0dXMiOiJQVUJMSVNIRUQiLCJjYXRlZ29yeSI6IlNpbiBDYXRlZ29yw61hIiwiYXV0aG9yIjoiSm9zZWxpdG8ifSx7ImlkIjo4LCJjcmVhdGVkT24iOiIyMDE4LTA5LTI1VDExOjM5OjU2KzAyOjAwIiwidGl0bGUiOiJDcsOzbmljYXMgbGl0ZXJhcmlhcyIsInN0YXR1cyI6IlBVQkxJU0hFRCIsImNhdGVnb3J5IjoiU2luIENhdGVnb3LDrWEiLCJhdXRob3IiOiJKb3NlbGl0byJ9LHsiaWQiOjksImNyZWF0ZWRPbiI6IjIwMTgtMDktMjVUMTU6MDk6NTQrMDI6MDAiLCJ0aXRsZSI6IlBydWViYSBjaHVuZ2EiLCJzdGF0dXMiOiJQVUJMSVNIRUQiLCJjYXRlZ29yeSI6ImNhdGVnb3JpYTMuMCIsImF1dGhvciI6Ikpvc2VsaXRvIn0seyJpZCI6MTAsImNyZWF0ZWRPbiI6IjIwMTgtMDktMjVUMTU6MTI6NDArMDI6MDAiLCJ0aXRsZSI6Ik9oIG1vbiBhbWkiLCJzdGF0dXMiOiJQVUJMSVNIRUQiLCJjYXRlZ29yeSI6IlNpbiBDYXRlZ29yw61hIiwiYXV0aG9yIjoiSm9zZWxpdG8ifSx7ImlkIjoxMSwiY3JlYXRlZE9uIjoiMjAxOC0wOS0yNlQwOTowMjo0OSswMjowMCIsInRpdGxlIjoiVGl0dWxvIEZ1ZWxsYSIsInN0YXR1cyI6IlBVQkxJU0hFRCIsImNhdGVnb3J5IjoiU2luIENhdGVnb3LDrWEiLCJhdXRob3IiOiJBdXRvciAzIn1dfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRcPg==</last-search>
+      <last-search>genera</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRcPg==</last-pattern>
+      <last-pattern>genera</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ofer</entry>
         <entry>node</entry>
         <entry>gulp</entry>
         <entry>webpack</entry>
@@ -424,6 +426,7 @@
         <entry>product-card</entry>
         <entry>su</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
+        <entry>genera</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
