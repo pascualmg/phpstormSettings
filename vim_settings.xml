@@ -222,6 +222,12 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/actions/categoryList/index.js" timestamp="1546514159409">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+      </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/getOORedisCmd.js" timestamp="1544867872644">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -278,6 +284,12 @@
         <mark key="]" line="25" column="12" />
         <mark key="." line="25" column="12" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CategoryList/index.jsx" timestamp="1546516317329">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1546512279900">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -307,11 +319,11 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/App.js" timestamp="1546512377096">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
+      <file name="$USER_HOME$/src/cmsadmin/src/App.js" timestamp="1546516363893">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+        <mark key="." line="30" column="17" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Header/index.jsx" timestamp="1545907028503">
         <mark key="[" line="3" column="0" />
@@ -325,6 +337,12 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CategoryList/ducks.js" timestamp="1546514734667">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/test-styled/node_modules/pccadminstorybook/src/components/molecules/Modal/index.jsx" timestamp="1546278936909">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -335,6 +353,12 @@
         <mark key="]" line="15" column="50" />
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers.js" timestamp="1546514809355">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/ajax/GetAllCategories/index.js" timestamp="1546435191638">
         <mark key="[" line="4" column="0" />
@@ -443,43 +467,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getAllCategories</text>
+        <text>default AppForm</text>
       </register>
       <register name="-" type="4">
-        <text>getAllCategories</text>
+        <text>default AppForm</text>
       </register>
       <register name="/" type="4">
         <text>blo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLmdldCgnL3BjYmxvZy9wb3N0cycsIChyZXEsIHJlcykgPT4gewo=</text>
+        <text encoding="base64">ICBmb3JtOiBmb3JtUmVkdWNlciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdWJtaXR0aW5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pfT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1N1Ym1pdHRpbmc6ICcsIHZhbHVlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvRm9ybT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHthamF4fSBmcm9tICdyeGpzL2FqYXgnCg==</text>
+        <text encoding="base64">ICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlQ2F0ZWdvcnkkCg==</text>
+        <text encoding="base64">ICAgICAgICBTdWJtaXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGNyZWF0ZUNhdGVnb3J5KDEsImxvcXVlc2VhIiwgImh0dHA6Ly9jZG4ucGNjb21wb25lbnRlcy5jb20vYWxnbyIsIG51bGwsIG51bGwsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgPEJ1dHRvbiB0eXBlPSJzdWJtaXQiIGRpc2FibGVkPXtzdWJtaXR0aW5nfT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2luZG93LmNyZWF0ZWNhdCA9IGNyZWF0ZUNhdGVnb3J5JAo=</text>
+        <text encoding="base64">ICAgICAgPC9Gb3JtRmllbGQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
