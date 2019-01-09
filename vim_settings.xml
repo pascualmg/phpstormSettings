@@ -136,8 +136,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547024668182">
-        <mark key="[" line="11" column="15" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547029254790">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/package.json" timestamp="1544986628959">
         <mark key="[" line="2" column="18" />
@@ -270,7 +273,7 @@
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547025002165">
+      <file name="/Dummy.txt" timestamp="1547029265096">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -460,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Id</text>
+        <text>fix getOnePostBySlug url generator</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>fix getOnePostBySlug url generator</text>
       </register>
       <register name="/" type="4">
         <text>jsto</text>
@@ -472,31 +475,31 @@
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc2x1ZyA9PiBhamF4LmdldEpTT04odXJsLmNvbmNhdChzbHVnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdXJsID0gYCR7Y29uZmlnLmhvc3R9OiR7Y29uZmlnLnBvcnR9L3BjYmxvZy9jYXRlZ29yaWVzYAo=</text>
+        <text encoding="base64">ICAgIC8vICAgICBjb25zb2xlLmVycm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICBpZCA9PiBkaXNwYXRjaChhZGRDYXRlZ29yeUFjdGlvbkNyZWF0b3IoeyBpZCwgLi4uY2F0ZWdvcnkgfSkpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi8uLi9jb25maWcnCg==</text>
+        <text encoding="base64">ICAgIC8vICAgLnN1YnNjcmliZSgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWpheCB9IGZyb20gJ3J4anMvYWpheCcK</text>
+        <text encoding="base64">ICAgIC8vICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgYWpheC5nZXRKU09OKHVybENyZWF0b3IoYXBpUGF0aHMucG9zdHMpKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgbWFwKHJlc3VsdCA9PiByZXN1bHQuaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgbWFwKHJlc3VsdCA9PiByZXN1bHQucmVzcG9uc2UpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc2x1ZyA9PiBhamF4LmdldEpTT04odXJsLmNvbmNhdChzbHVnKSkK</text>
+        <text encoding="base64">ICAgIC8vIGNyZWF0ZUNhdGVnb3J5KGNhdGVnb3J5RmF0aGVyLCBuYW1lLCBpbWFnZVVybCwgaW1hZ2VBbHQsIGltYWdlVGl0bGUsIHRpdGxlKS5waXBlKAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
