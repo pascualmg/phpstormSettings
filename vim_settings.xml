@@ -141,10 +141,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547029254790">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547112392671">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/package.json" timestamp="1544986628959">
         <mark key="[" line="2" column="18" />
@@ -254,6 +255,9 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="/JavaScript Console" timestamp="1547111904062">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/test-styled/src/App.js" timestamp="1546420538839">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -266,13 +270,19 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/RenderFieldFormPart.jsx" timestamp="1547115432925">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/CategoryController.php" timestamp="1546427485180">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547108053636">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1547115482126">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="o" line="0" column="0" />
@@ -312,11 +322,11 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" timestamp="1547108910724">
-        <mark key="[" line="12" column="53" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" timestamp="1547114866448">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Header/index.jsx" timestamp="1545907028503">
         <mark key="[" line="3" column="0" />
@@ -467,8 +477,8 @@
       <jump line="11" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/CreateCategoryService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+      <register name="&quot;" type="4">
+        <text>delete unused code after migrate to epic</text>
       </register>
       <register name="-" type="4">
         <text>delete unused code after migrate to epic</text>
@@ -476,35 +486,35 @@
       <register name="/" type="4">
         <text>jsto</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1UaXRsZSBmcm9tICcuL2NvbXBvbmVudHMvYXRvbXMvRm9ybVRpdGxlJwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIDxGb3JtIG9uU3VibWl0PXtoYW5kbGVTdWJtaXQoKHZhbHVlcykgPT4gYWRkQ2F0ZWdvcnkodmFsdWVzKSl9PgogICAgICA8Um93PgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0idGl0bGUiIG1kPSI0IiB0aXRsZT0iVMOtdHVsbyIKICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17KHByb3BzKSA9PiAoPElucHV0IHR5cGU9InRleHQiIHsuLi5wcm9wc30vPil9CiAgICAgICAgICBjb21wb25lbnQ9e1JlbmRlckZpZWxkfQogICAgICAgIC8+CgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0ibmFtZSIgbWQ9IjQiIHRpdGxlPSJOb21icmUiCiAgICAgICAgICByZW5kZXJDb21wb25lbnQ9eyhwcm9wcykgPT4gKDxJbnB1dCB0eXBlPSJ0ZXh0IiB7Li4ucHJvcHN9Lz4pfQogICAgICAgICAgY29tcG9uZW50PXtSZW5kZXJGaWVsZH0KICAgICAgICAvPgoKICAgICAgICA8RmllbGQKICAgICAgICAgIG5hbWU9ImNhdGVnb3J5RmF0aGVyIiBtZD0iNCIgdGl0bGU9IkNhdGVnb3LDrWEgUGFkcmUiCiAgICAgICAgICByZW5kZXJDb21wb25lbnQ9eyhwcm9wcykgPT4gKDxTZWxlY3Qgey4uLnByb3BzfT57b3B0aW9uc0Zyb21DYXRlZ29yaWVzfTwvU2VsZWN0Pil9CiAgICAgICAgICBjb21wb25lbnQ9e1JlbmRlckZpZWxkfQogICAgICAgIC8+CgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0iaW1hZ2VUaXRsZSIgbWQ9IjQiIHRpdGxlPSJUw610dWxvIGRlIGxhIGltYWdlbiIKICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17KHByb3BzKSA9PiAoPElucHV0IHR5cGU9InRleHQiIHsuLi5wcm9wc30vPil9CiAgICAgICAgICBjb21wb25lbnQ9e1JlbmRlckZpZWxkfQogICAgICAgIC8+CgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0iaW1hZ2VBbHQiIG1kPSI0IiB0aXRsZT0iQWx0IGRlIGxhIGltYWdlbiIKICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17KHByb3BzKSA9PiAoPElucHV0IHR5cGU9InRleHQiIHsuLi5wcm9wc30vPil9CiAgICAgICAgICBjb21wb25lbnQ9e1JlbmRlckZpZWxkfQogICAgICAgIC8+CgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0iaW1hZ2UiIG1kPSIxMiIgdGl0bGU9IkltYWdlbiIKICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17KHByb3BzKSA9PiAoPEltYWdlUHJldmlldyB7Li4ucHJvcHN9Lz4pfQogICAgICAgICAgY29tcG9uZW50PXtSZW5kZXJGaWVsZH0KICAgICAgICAvPgoKICAgICAgICA8RmllbGQKICAgICAgICAgIG5hbWU9InB1Ymxpc2hlZCIgbWQ9IjQiIHRpdGxlPSJQdWJsaWNhZGEiCiAgICAgICAgICByZW5kZXJDb21wb25lbnQ9eyhwcm9wcykgPT4gKDxDaGVja2JveCB7Li4ucHJvcHN9Lz4pfQogICAgICAgICAgY29tcG9uZW50PXtSZW5kZXJGaWVsZH0KICAgICAgICAvPgogICAgICA8L1Jvdz4KCiAgICAgIDxSb3c+CiAgICAgICAgPENvbCBtZD0iNCI+CiAgICAgICAgICA8QnV0dG9uIHR5cGU9InN1Ym1pdCIgaXNGbHVpZD4KICAgICAgICAgICAgQWRkIENhdGVnb3J5CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L0NvbD4KICAgICAgPC9Sb3c+CiAgICA8L0Zvcm0+CiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">Cgpjb25zdCBtYXBFcnJvcjJGb3JtTWVzc2FnZSA9IChlcnJvcikgPT4gewogIGVycm9yLm1hcCgoaXRlbSkgPT4gewogICAgY29uc29sZS5sb2coJ2l0ZW0nLCBpdGVtKTsvL1RPRE86IGJvcnJhbWUuCiAgICAKICAgIDxGb3JtTWVzc2FnZT57aXRlbX08L0Zvcm1NZXNzYWdlPgogIH0pCn0=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBjb25zb2xlLmVycm9yCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBpZCA9PiBkaXNwYXRjaChhZGRDYXRlZ29yeUFjdGlvbkNyZWF0b3IoeyBpZCwgLi4uY2F0ZWdvcnkgfSkpLAo=</text>
+        <text encoding="base64">ICAgICAge2lmICgpe319Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgLnN1YnNjcmliZSgK</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKn19Ki99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICkK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vICAgZGlzYWJsZWQ6IHRydWUsIC8vIGxpa2UgdGhpcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgbWFwKHJlc3VsdCA9PiByZXN1bHQuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHByb3BzPXt7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgbWFwKHJlc3VsdCA9PiByZXN1bHQucmVzcG9uc2UpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
