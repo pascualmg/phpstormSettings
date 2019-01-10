@@ -142,10 +142,10 @@
         <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547117783915">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="86" column="18" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="91" column="18" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/package.json" timestamp="1544986628959">
         <mark key="[" line="2" column="18" />
@@ -278,10 +278,9 @@
         <mark key="^" line="23" column="11" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/RenderFieldFormPart.jsx" timestamp="1547115659650">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="18" column="44" />
-        <mark key="." line="23" column="26" />
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/CategoryController.php" timestamp="1546427485180">
         <mark key="[" line="20" column="12" />
@@ -328,6 +327,12 @@
         <mark key="]" line="40" column="42" />
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" timestamp="1547121021628">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Header/index.jsx" timestamp="1545907028503">
         <mark key="[" line="3" column="0" />
@@ -479,11 +484,11 @@
       <jump line="70" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/validator/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4IHByb3BzIGxpbmsgJiBmaWVsZCBuYW1lIGRpc2FibGVkIC8gbWlycm9yZWQgYnkgdGl0bGUgLiBhZnRlciBQTyByZXZpZXcu</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>isURL</text>
