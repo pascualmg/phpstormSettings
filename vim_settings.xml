@@ -141,11 +141,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547112392671">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="9" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547117783915">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="86" column="18" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/src/rxjs-observable-of-redis-cmd/package.json" timestamp="1544986628959">
         <mark key="[" line="2" column="18" />
@@ -249,6 +249,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/node_modules/validator/index.js" timestamp="1547116785878">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/src/test-styled/package.json" timestamp="1545996564533">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="20" />
@@ -270,19 +277,19 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/RenderFieldFormPart.jsx" timestamp="1547115432925">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="44" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/RenderFieldFormPart.jsx" timestamp="1547115659650">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
         <mark key="^" line="18" column="44" />
-        <mark key="." line="18" column="44" />
+        <mark key="." line="23" column="26" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/CategoryController.php" timestamp="1546427485180">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547115482126">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1547117786071">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="o" line="0" column="0" />
@@ -321,12 +328,6 @@
         <mark key="]" line="40" column="42" />
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
-      </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" timestamp="1547114866448">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="16" />
-        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Header/index.jsx" timestamp="1545907028503">
         <mark key="[" line="3" column="0" />
@@ -475,63 +476,61 @@
       <jump line="49" column="14" filename="$USER_HOME$/src/cmsadmin/src/App.js" />
       <jump line="2" column="21" filename="$USER_HOME$/src/pccadminstorybook/src/components/molecules/Modal/index.jsx" />
       <jump line="11" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/CreateCategoryService.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/validator/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>delete unused code after migrate to epic</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>delete unused code after migrate to epic</text>
+        <text encoding="base64">Zml4IHByb3BzIGxpbmsgJiBmaWVsZCBuYW1lIGRpc2FibGVkIC8gbWlycm9yZWQgYnkgdGl0bGUgLiBhZnRlciBQTyByZXZpZXcu</text>
       </register>
       <register name="/" type="4">
-        <text>jsto</text>
+        <text>isURL</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIDxGb3JtIG9uU3VibWl0PXtoYW5kbGVTdWJtaXQoKHZhbHVlcykgPT4gYWRkQ2F0ZWdvcnkodmFsdWVzKSl9PgogICAgICA8Um93PgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0idGl0bGUiIG1kPSI0IiB0aXRsZT0iVMOtdHVsbyIKICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17KHByb3BzKSA9PiAoPElucHV0IHR5cGU9InRleHQiIHsuLi5wcm9wc30vPil9CiAgICAgICAgICBjb21wb25lbnQ9e1JlbmRlckZpZWxkfQogICAgICAgIC8+CgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0ibmFtZSIgbWQ9IjQiIHRpdGxlPSJOb21icmUiCiAgICAgICAgICByZW5kZXJDb21wb25lbnQ9eyhwcm9wcykgPT4gKDxJbnB1dCB0eXBlPSJ0ZXh0IiB7Li4ucHJvcHN9Lz4pfQogICAgICAgICAgY29tcG9uZW50PXtSZW5kZXJGaWVsZH0KICAgICAgICAvPgoKICAgICAgICA8RmllbGQKICAgICAgICAgIG5hbWU9ImNhdGVnb3J5RmF0aGVyIiBtZD0iNCIgdGl0bGU9IkNhdGVnb3LDrWEgUGFkcmUiCiAgICAgICAgICByZW5kZXJDb21wb25lbnQ9eyhwcm9wcykgPT4gKDxTZWxlY3Qgey4uLnByb3BzfT57b3B0aW9uc0Zyb21DYXRlZ29yaWVzfTwvU2VsZWN0Pil9CiAgICAgICAgICBjb21wb25lbnQ9e1JlbmRlckZpZWxkfQogICAgICAgIC8+CgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0iaW1hZ2VUaXRsZSIgbWQ9IjQiIHRpdGxlPSJUw610dWxvIGRlIGxhIGltYWdlbiIKICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17KHByb3BzKSA9PiAoPElucHV0IHR5cGU9InRleHQiIHsuLi5wcm9wc30vPil9CiAgICAgICAgICBjb21wb25lbnQ9e1JlbmRlckZpZWxkfQogICAgICAgIC8+CgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0iaW1hZ2VBbHQiIG1kPSI0IiB0aXRsZT0iQWx0IGRlIGxhIGltYWdlbiIKICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17KHByb3BzKSA9PiAoPElucHV0IHR5cGU9InRleHQiIHsuLi5wcm9wc30vPil9CiAgICAgICAgICBjb21wb25lbnQ9e1JlbmRlckZpZWxkfQogICAgICAgIC8+CgogICAgICAgIDxGaWVsZAogICAgICAgICAgbmFtZT0iaW1hZ2UiIG1kPSIxMiIgdGl0bGU9IkltYWdlbiIKICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17KHByb3BzKSA9PiAoPEltYWdlUHJldmlldyB7Li4ucHJvcHN9Lz4pfQogICAgICAgICAgY29tcG9uZW50PXtSZW5kZXJGaWVsZH0KICAgICAgICAvPgoKICAgICAgICA8RmllbGQKICAgICAgICAgIG5hbWU9InB1Ymxpc2hlZCIgbWQ9IjQiIHRpdGxlPSJQdWJsaWNhZGEiCiAgICAgICAgICByZW5kZXJDb21wb25lbnQ9eyhwcm9wcykgPT4gKDxDaGVja2JveCB7Li4ucHJvcHN9Lz4pfQogICAgICAgICAgY29tcG9uZW50PXtSZW5kZXJGaWVsZH0KICAgICAgICAvPgogICAgICA8L1Jvdz4KCiAgICAgIDxSb3c+CiAgICAgICAgPENvbCBtZD0iNCI+CiAgICAgICAgICA8QnV0dG9uIHR5cGU9InN1Ym1pdCIgaXNGbHVpZD4KICAgICAgICAgICAgQWRkIENhdGVnb3J5CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L0NvbD4KICAgICAgPC9Sb3c+CiAgICA8L0Zvcm0+CiA=</text>
+        <text>!validator.isUrl(values.image)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cgpjb25zdCBtYXBFcnJvcjJGb3JtTWVzc2FnZSA9IChlcnJvcikgPT4gewogIGVycm9yLm1hcCgoaXRlbSkgPT4gewogICAgY29uc29sZS5sb2coJ2l0ZW0nLCBpdGVtKTsvL1RPRE86IGJvcnJhbWUuCiAgICAKICAgIDxGb3JtTWVzc2FnZT57aXRlbX08L0Zvcm1NZXNzYWdlPgogIH0pCn0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndmFsdWVzLmltYWdlJywgdmFsdWVzLmltYWdlKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaXNVUkwnLCBpc1VSTCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAge2lmICgpe319Cg==</text>
+        <text encoding="base64">ICB2YXIgaXNWYWxpZCA9IGlzVXJsKHZhbHVlcy5pbWFnZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKn19Ki99Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndmFsaWRhdG9yJywgdmFsaWRhdG9yICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vICAgZGlzYWJsZWQ6IHRydWUsIC8vIGxpa2UgdGhpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHByb3BzPXt7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jsto</last-search>
+      <last-search>isURL</last-search>
       <last-offset />
-      <last-pattern>jsto</last-pattern>
+      <last-pattern>isURL</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>label-pill</entry>
-        <entry>deal</entry>
-        <entry>reacon</entry>
         <entry>novedad</entry>
         <entry>CommentsMana</entry>
         <entry>if article.type</entry>
@@ -549,6 +548,9 @@
         <entry>webpa</entry>
         <entry>blo</entry>
         <entry>jsto</entry>
+        <entry>isUrl</entry>
+        <entry>url</entry>
+        <entry>isURL</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -596,6 +598,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
