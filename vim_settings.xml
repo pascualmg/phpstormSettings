@@ -266,16 +266,15 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/RenderFieldFormPart.jsx" timestamp="1547106641689" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/CategoryController.php" timestamp="1546427485180">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547106724084">
+      <file name="/Dummy.txt" timestamp="1547108053636">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/.env.local" timestamp="1546943119379">
@@ -313,10 +312,11 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" timestamp="1546944087491">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" timestamp="1547108910724">
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Header/index.jsx" timestamp="1545907028503">
         <mark key="[" line="3" column="0" />
@@ -467,11 +467,11 @@
       <jump line="11" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/CreateCategoryService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>delete unused code after migrate to epic</text>
       </register>
       <register name="/" type="4">
         <text>jsto</text>
@@ -480,31 +480,31 @@
         <text encoding="base64">aW1wb3J0IEZvcm1UaXRsZSBmcm9tICcuL2NvbXBvbmVudHMvYXRvbXMvRm9ybVRpdGxlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBjb25zb2xlLmVycm9yCg==</text>
+        <text encoding="base64">ICAgIC8vICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBpZCA9PiBkaXNwYXRjaChhZGRDYXRlZ29yeUFjdGlvbkNyZWF0b3IoeyBpZCwgLi4uY2F0ZWdvcnkgfSkpLAo=</text>
+        <text encoding="base64">ICAgIC8vICAgICBjb25zb2xlLmVycm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgLnN1YnNjcmliZSgK</text>
+        <text encoding="base64">ICAgIC8vICAgICBpZCA9PiBkaXNwYXRjaChhZGRDYXRlZ29yeUFjdGlvbkNyZWF0b3IoeyBpZCwgLi4uY2F0ZWdvcnkgfSkpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICkK</text>
+        <text encoding="base64">ICAgIC8vICAgLnN1YnNjcmliZSgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgbWFwKHJlc3VsdCA9PiByZXN1bHQuaWQpCg==</text>
+        <text encoding="base64">ICAgIC8vICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgbWFwKHJlc3VsdCA9PiByZXN1bHQucmVzcG9uc2UpLAo=</text>
+        <text encoding="base64">ICAgIC8vICAgbWFwKHJlc3VsdCA9PiByZXN1bHQuaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNyZWF0ZUNhdGVnb3J5KGNhdGVnb3J5RmF0aGVyLCBuYW1lLCBpbWFnZVVybCwgaW1hZ2VBbHQsIGltYWdlVGl0bGUsIHRpdGxlKS5waXBlKAo=</text>
+        <text encoding="base64">ICAgIC8vICAgbWFwKHJlc3VsdCA9PiByZXN1bHQucmVzcG9uc2UpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
