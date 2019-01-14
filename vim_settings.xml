@@ -187,6 +187,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547468660077">
+        <mark key="'" line="71" column="17" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="81" column="22" />
+      </file>
       <file name="$USER_HOME$/src/test-styled/node_modules/pccadminstorybook/src/components/atoms/Button/index.jsx" timestamp="1545214361655">
         <mark key="[" line="60" column="25" />
         <mark key="]" line="61" column="22" />
@@ -387,6 +392,9 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/PcBlog/Post/CreatePost/CreatePostCommand.php" timestamp="1547468678298">
+        <mark key="'" line="243" column="22" />
+      </file>
       <file name="$USER_HOME$/src/pccadminstorybook/src/components/molecules/FormCheckbox/index.jsx" timestamp="1546942128200">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="41" />
@@ -489,19 +497,73 @@
       <jump line="2" column="21" filename="$USER_HOME$/src/pccadminstorybook/src/components/molecules/Modal/index.jsx" />
       <jump line="11" column="6" filename="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/CreateCategoryService.php" />
       <jump line="70" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/validator/index.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/PcBlog/Post/CreatePost/CreatePostCommand.php" />
+      <jump line="243" column="22" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/PcBlog/Post/CreatePost/CreatePostCommand.php" />
+      <jump line="46" column="50" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" />
+      <jump line="71" column="17" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Category</text>
+      <register name="&quot;" type="8">
+        <text>title = $reque
+content = $req
+categoryId = $
+styleSheetId =
+publisher = $r
+author = $requ
+status = $requ
+typePage = $re
+nameImage = $r
+urlImage = $re
+altImage = $re
+              
+tags = $reques
+metaTitle = $r
+metaDescriptio
+canonicalSlug 
+slug = $reques
+metaKeywords =
+              
+titleFamily = 
+familyId = $re
+orderFamily = 
+enabledFamily 
+              
+index = $reque
+follow = $requ</text>
       </register>
       <register name="-" type="4">
         <text>Category</text>
       </register>
       <register name="/" type="4">
-        <text>isURL</text>
+        <text>typeP</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBDUkVBVEVfQ0FURUdPUlk6ICdjcmVhdGVDYXRlZ29yeScsCg==</text>
+      <register name="0" type="8">
+        <text>title = $reque
+content = $req
+categoryId = $
+styleSheetId =
+publisher = $r
+author = $requ
+status = $requ
+typePage = $re
+nameImage = $r
+urlImage = $re
+altImage = $re
+              
+tags = $reques
+metaTitle = $r
+metaDescriptio
+canonicalSlug 
+slug = $reques
+metaKeywords =
+              
+titleFamily = 
+familyId = $re
+orderFamily = 
+enabledFamily 
+              
+index = $reque
+follow = $requ</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IFJlbmRlckZpZWxkIGZyb20gJy4vUmVuZGVyRmllbGRGb3JtUGFydCc7Cg==</text>
@@ -535,16 +597,14 @@
       </register>
     </registers>
     <search>
-      <last-search>isURL</last-search>
+      <last-search>typeP</last-search>
       <last-offset />
-      <last-pattern>isURL</last-pattern>
+      <last-pattern>typeP</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>novedad</entry>
-        <entry>CommentsMana</entry>
         <entry>if article.type</entry>
         <entry>localhost</entry>
         <entry>ajax</entry>
@@ -563,6 +623,8 @@
         <entry>isUrl</entry>
         <entry>url</entry>
         <entry>isURL</entry>
+        <entry>PostInd</entry>
+        <entry>typeP</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
