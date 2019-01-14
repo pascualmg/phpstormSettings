@@ -21,11 +21,12 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1547475747606">
-        <mark key="'" line="5" column="36" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1547477154560">
+        <mark key="'" line="6" column="36" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="28" column="1" />
       </file>
       <file name="$USER_HOME$/src/pccfrontv2-mock-server/package.json" timestamp="1546512072969">
         <mark key="[" line="7" column="17" />
@@ -89,6 +90,12 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/categoryList.js" timestamp="1547476763711">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/src/jstoolz/package.json" timestamp="1546112052915">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
@@ -104,6 +111,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1547476480429">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/FeaturesRepo.js" timestamp="1544453471700">
         <mark key="[" line="0" column="0" />
@@ -245,6 +258,12 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/Post.js" timestamp="1547476898661">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/categoryList/index.js" timestamp="1546514159409">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="39" />
@@ -302,8 +321,8 @@
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547474595788">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1547477013356">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="o" line="0" column="0" />
@@ -313,6 +332,12 @@
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/actions/Post.js" timestamp="1547476589195">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/ajax/GetAllPost/index.js" timestamp="1546435218602">
         <mark key="[" line="3" column="50" />
@@ -513,44 +538,44 @@
       <jump line="5" column="36" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dGFyZWEgfSBmcm9tICdwY2NhZG1pbnN0b3J5Ym9vay9zcmMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>ajaxPostCreatePostActionCreator</text>
       </register>
       <register name="-" type="4">
-        <text>título</text>
+        <text>ajaxPostCreatePostActionCreator</text>
       </register>
       <register name="/" type="4">
         <text>formNa</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgPENvbCBtZD0iOCI+CiAgICAgICAgICA8RmllbGQKICAgICAgICAgICAgbmFtZT0idGl0bGUiCiAgICAgICAgICAgIHRpdGxlPSJ0w610dWxvIgogICAgICAgICAgICByZW5kZXJDb21wb25lbnQ9e3Byb3BzID0+ICg8SW5wdXQgdHlwZT0idGV4dCIgey4uLnByb3BzfSAvPil9CiAgICAgICAgICAgIGNvbXBvbmVudD17UmVuZGVyRmllbGR9CiAgICAgICAgICAvPgogICAgICAgIDwvQ29sPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYWpheEdldENhdGVnb3J5TGlzdEFjdGlvbkNyZWF0b3IgfSBmcm9tICcuLi8uLi9hY3Rpb25DcmVhdG9ycy9jYXRlZ29yeUxpc3QnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dGFyZWEgfSBmcm9tICdwY2NhZG1pbnN0b3J5Ym9vay9zcmMnCg==</text>
+        <text encoding="base64">ICBwYXlsb2FkOiBwb3N0LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Tm9tYnJlCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vdG9kbyBjYW1iaWFyCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkZENhdGVnb3J5LAo=</text>
+        <text encoding="base64">aW1wb3J0IGlzVVJMIGZyb20gJ3ZhbGlkYXRvci9saWIvaXNVUkwnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldENhdGVnb3J5TGlzdCwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dGFyZWEgfSBmcm9tICdwY2NhZG1pbnN0b3J5Ym9vay9zcmMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyB0b2RvOiB2YWxpZGF0aW9ucyBmb3JtIGNyZWF0ZSBQb3N0Cg==</text>
+        <text encoding="base64">Tm9tYnJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGFkZENhdGVnb3J5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
