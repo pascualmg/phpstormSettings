@@ -359,7 +359,6 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" timestamp="1547548140954" />
       <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Header/index.jsx" timestamp="1545907028503">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -401,12 +400,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547552127466">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547554106133">
         <mark key="'" line="123" column="38" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="244" column="23" />
+        <mark key="[" line="43" column="58" />
+        <mark key="]" line="43" column="58" />
+        <mark key="." line="43" column="58" />
+        <mark key="^" line="43" column="62" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/Post/GetOnePostService.php" timestamp="1546451585407">
         <mark key="[" line="28" column="49" />
@@ -428,11 +427,8 @@
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1547553163539">
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="32" column="24" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1547554914031">
+        <mark key="'" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/setOORedisOf.js" timestamp="1544655748224">
         <mark key="[" line="3" column="51" />
@@ -536,61 +532,61 @@
       <jump line="71" column="17" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" />
       <jump line="5" column="36" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
       <jump line="123" column="38" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="7" column="20" filename="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>este camp</text>
+        <text>createPost</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFjdGlvbi5wYXlsb2FkLnRpdGxlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbi5wYXlsb2FkLnRpdGxlLAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbi5wYXlsb2FkLnRpdGxlLAo=</text>
+        <text encoding="base64">Ly8gKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Ly8gICBtYXAoYWpheEdldENhdGVnb3J5TGlzdEFjdGlvbkNyZWF0b3IpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICB9KSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlcGljb29vJywgYWN0aW9uKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgcHVibGlzaGVkKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgdGl0bGUsCiAgICAgICAgY29udGVudCwKICAgICAgICBjYXRlZ29yeUlkLAogICAgICAgIHN0eWxlU2hlZXRJZCwKICAgICAgICBwdWJsaXNoZXIsCiAgICAgICAgYXV0aG9yLAogICAgICAgIHN0YXR1cywKICAgICAgICB0eXBlUGFnZSwKICAgICAgICB1cmxJbWFnZSwKICAgICAgICBhbHRJbWFnZSwKICAgICAgICB0YWdzLAogICAgICAgIG1ldGFUaXRsZSwKICAgICAgICBtZXRhRGVzY3JpcHRpb24sCiAgICAgICAgY2Fub25pY2FsU2x1ZywKICAgICAgICBzbHVnLAogICAgICAgIG1ldGFLZXl3b3JkcywKICAgICAgICB0aXRsZUZhbWlseSwKICAgICAgICBmYW1pbHlJZCwKICAgICAgICBvcmRlckZhbWlseSwKICAgICAgICBlbmFibGVkRmFtaWx5LAogICAgICAgIGluZGV4LAogICAgICAgIGZvbGxvdywKICAgIH0g</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgIHJldHVybiBjcmVhdGVDYXRlZ29yeShjYXRlZ29yeUZhdGhlciwgbmFtZSwgaW1hZ2UsIGltYWdlQWx0LCBpbWFnZVRpdGxlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgIH0gPSBhY3Rpb24ucGF5bG9hZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgY2F0ZWdvcnlGYXRoZXIsIG5hbWUsIGltYWdlLCBpbWFnZUFsdCwgaW1hZ2VUaXRsZSwgcHVibGlzaGVkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbi5wYXlsb2FkID0gewo=</text>
+        <text encoding="base64">Ly8gICAgIGNvbnN0IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>este camp</last-search>
+      <last-search>createPost</last-search>
       <last-offset />
-      <last-pattern>este camp</last-pattern>
+      <last-pattern>createPost</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>trans</entry>
         <entry>redis</entry>
         <entry>id=&quot;articleListContent&quot;</entry>
         <entry>product-card</entry>
@@ -610,6 +606,7 @@
         <entry>formnam</entry>
         <entry>formNa</entry>
         <entry>este camp</entry>
+        <entry>createPost</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
