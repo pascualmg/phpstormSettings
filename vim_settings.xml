@@ -312,7 +312,7 @@
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547552226835">
+      <file name="/Dummy.txt" timestamp="1547560429583">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -377,11 +377,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547558833768">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="4" />
-        <mark key="^" line="45" column="32" />
-        <mark key="." line="52" column="4" />
+      <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547559849024">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
       </file>
       <file name="$USER_HOME$/src/test-styled/node_modules/pccadminstorybook/src/components/molecules/Modal/index.jsx" timestamp="1546278936909">
         <mark key="[" line="6" column="0" />
@@ -536,10 +536,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ajaxCreatePostEpic alpha</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ajaxCreatePostEpic alpha</text>
       </register>
       <register name="/" type="4">
         <text>createPost</text>
@@ -548,31 +548,31 @@
         <text>['tag01', 'tag02', 'tag03'],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIG1ldGFLZXl3b3JkczogSlNPTi5zdHJpbmdpZnkoWydtZXRhdGFnMDEnLCAnbWV0YXRhZzAyJywgJ21ldGF0YWcwMyddKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gKTsK</text>
+        <text encoding="base64">ICAgIHRhZ3M6IEpTT04uc3RyaW5naWZ5KFsndGFnMDEnLCAndGFnMDInLCAndGFnMDMnXSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICBtYXAoYWpheEdldENhdGVnb3J5TGlzdEFjdGlvbkNyZWF0b3IpLAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICB9KSwK</text>
+        <text encoding="base64">Ly8gKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgcHVibGlzaGVkKTsK</text>
+        <text encoding="base64">Ly8gICBtYXAoYWpheEdldENhdGVnb3J5TGlzdEFjdGlvbkNyZWF0b3IpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgIHJldHVybiBjcmVhdGVDYXRlZ29yeShjYXRlZ29yeUZhdGhlciwgbmFtZSwgaW1hZ2UsIGltYWdlQWx0LCBpbWFnZVRpdGxlLAo=</text>
+        <text encoding="base64">Ly8gICB9KSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgIH0gPSBhY3Rpb24ucGF5bG9hZDsK</text>
+        <text encoding="base64">Ly8gICAgICAgcHVibGlzaGVkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgY2F0ZWdvcnlGYXRoZXIsIG5hbWUsIGltYWdlLCBpbWFnZUFsdCwgaW1hZ2VUaXRsZSwgcHVibGlzaGVkLAo=</text>
+        <text encoding="base64">Ly8gICAgIHJldHVybiBjcmVhdGVDYXRlZ29yeShjYXRlZ29yeUZhdGhlciwgbmFtZSwgaW1hZ2UsIGltYWdlQWx0LCBpbWFnZVRpdGxlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgIGNvbnN0IHsK</text>
+        <text encoding="base64">Ly8gICAgIH0gPSBhY3Rpb24ucGF5bG9hZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
