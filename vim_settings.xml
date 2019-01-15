@@ -377,11 +377,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547552628315">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="15" />
+      <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547558833768">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="^" line="45" column="32" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="$USER_HOME$/src/test-styled/node_modules/pccadminstorybook/src/components/molecules/Modal/index.jsx" timestamp="1546278936909">
         <mark key="[" line="6" column="0" />
@@ -427,7 +427,7 @@
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1547554914031">
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1547557864828">
         <mark key="'" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/setOORedisOf.js" timestamp="1544655748224">
@@ -544,8 +544,8 @@
       <register name="/" type="4">
         <text>createPost</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbi5wYXlsb2FkLnRpdGxlLAo=</text>
+      <register name="0" type="4">
+        <text>['tag01', 'tag02', 'tag03'],</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8K</text>
