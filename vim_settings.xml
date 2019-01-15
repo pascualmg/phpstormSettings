@@ -195,7 +195,6 @@
         <mark key="^" line="46" column="67" />
         <mark key="." line="46" column="67" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/RenderFieldFormPart.jsx" timestamp="1547474834368" />
       <file name="$USER_HOME$/src/pccadminstorybook/src/components/molecules/FormRadio/index.jsx" timestamp="1545901130288">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -315,16 +314,15 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/RenderFieldFormPart.jsx" timestamp="1547474763188" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/CategoryController.php" timestamp="1546427485180">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547477013356">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1547478042571">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/.env.local" timestamp="1546943119379">
@@ -386,9 +384,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547473527088">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="15" />
+      <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547540105263">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
@@ -409,11 +407,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547475715056">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547540248318">
+        <mark key="[" line="79" column="11" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="79" column="11" />
+        <mark key="^" line="80" column="17" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/Post/GetOnePostService.php" timestamp="1546451585407">
         <mark key="[" line="28" column="49" />
@@ -539,43 +537,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ajaxPostCreatePostActionCreator</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>ajaxPostCreatePostActionCreator</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>formNa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWpheEdldENhdGVnb3J5TGlzdEFjdGlvbkNyZWF0b3IgfSBmcm9tICcuLi8uLi9hY3Rpb25DcmVhdG9ycy9jYXRlZ29yeUxpc3QnOwo=</text>
+        <text encoding="base64">ICBzdHlsZVNoZWV0SWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXlsb2FkOiBwb3N0LAo=</text>
+        <text encoding="base64">ICAgICAgICA8U2VsZWN0IHsuLi5wcm9wc30+e29wdGlvbnNGcm9tQ2F0ZWdvcmllc308L1NlbGVjdD4pfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U2VsZWN0IHsuLi5wcm9wc30+e29wdGlvbnNGcm9tQ2F0ZWdvcmllc308L1NlbGVjdD4pfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vdG9kbyBjYW1iaWFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyQ29tcG9uZW50PXtwcm9wcyA9PiAoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlzVVJMIGZyb20gJ3ZhbGlkYXRvci9saWIvaXNVUkwnOwo=</text>
+        <text encoding="base64">ICBwYXlsb2FkOiBwb3N0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dGFyZWEgfSBmcm9tICdwY2NhZG1pbnN0b3J5Ym9vay9zcmMnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Tm9tYnJlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vdG9kbyBjYW1iaWFyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGlzVVJMIGZyb20gJ3ZhbGlkYXRvci9saWIvaXNVUkwnOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFkZENhdGVnb3J5LAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dGFyZWEgfSBmcm9tICdwY2NhZG1pbnN0b3J5Ym9vay9zcmMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
