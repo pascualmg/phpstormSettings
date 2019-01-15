@@ -377,11 +377,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547559849024">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="27" column="1" />
-        <mark key="." line="27" column="1" />
-        <mark key="^" line="27" column="1" />
+      <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547562203282">
+        <mark key="[" line="51" column="3" />
+        <mark key="]" line="51" column="3" />
+        <mark key="." line="51" column="3" />
+        <mark key="^" line="51" column="3" />
       </file>
       <file name="$USER_HOME$/src/test-styled/node_modules/pccadminstorybook/src/components/molecules/Modal/index.jsx" timestamp="1546278936909">
         <mark key="[" line="6" column="0" />
@@ -418,8 +418,11 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/PcBlog/Post/CreatePost/CreatePostCommand.php" timestamp="1547468678298">
-        <mark key="'" line="243" column="22" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/PcBlog/Post/CreatePost/CreatePostCommand.php" timestamp="1547562334129">
+        <mark key="'" line="241" column="22" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/src/components/molecules/FormCheckbox/index.jsx" timestamp="1546942128200">
         <mark key="[" line="5" column="0" />
@@ -535,11 +538,11 @@
       <jump line="7" column="20" filename="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ajaxCreatePostEpic alpha</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkbWV0YUtleXdvcmRzLCAnTWV0YSBLZXl3b3JkcyBtdXN0IGJlIHN0cmluZycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ajaxCreatePostEpic alpha</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>createPost</text>
@@ -548,31 +551,31 @@
         <text>['tag01', 'tag02', 'tag03'],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1ldGFLZXl3b3JkczogSlNPTi5zdHJpbmdpZnkoWydtZXRhdGFnMDEnLCAnbWV0YXRhZzAyJywgJ21ldGF0YWcwMyddKSwK</text>
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkbWV0YUtleXdvcmRzLCAnTWV0YSBLZXl3b3JkcyBtdXN0IGJlIHN0cmluZycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhZ3M6IEpTT04uc3RyaW5naWZ5KFsndGFnMDEnLCAndGFnMDInLCAndGFnMDMnXSksCg==</text>
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkdGFncywgJ1RhZ3Mgc2x1ZyBtdXN0IGJlIHN0cmluZycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIG1ldGFLZXl3b3JkczogSlNPTi5zdHJpbmdpZnkoWydtZXRhdGFnMDEnLCAnbWV0YXRhZzAyJywgJ21ldGF0YWcwMyddKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gKTsK</text>
+        <text encoding="base64">ICAgIHRhZ3M6IEpTT04uc3RyaW5naWZ5KFsndGFnMDEnLCAndGFnMDInLCAndGFnMDMnXSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICBtYXAoYWpheEdldENhdGVnb3J5TGlzdEFjdGlvbkNyZWF0b3IpLAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICB9KSwK</text>
+        <text encoding="base64">Ly8gKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgcHVibGlzaGVkKTsK</text>
+        <text encoding="base64">Ly8gICBtYXAoYWpheEdldENhdGVnb3J5TGlzdEFjdGlvbkNyZWF0b3IpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgIHJldHVybiBjcmVhdGVDYXRlZ29yeShjYXRlZ29yeUZhdGhlciwgbmFtZSwgaW1hZ2UsIGltYWdlQWx0LCBpbWFnZVRpdGxlLAo=</text>
+        <text encoding="base64">Ly8gICB9KSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgIH0gPSBhY3Rpb24ucGF5bG9hZDsK</text>
+        <text encoding="base64">Ly8gICAgICAgcHVibGlzaGVkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
