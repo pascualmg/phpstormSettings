@@ -312,10 +312,10 @@
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547560429583">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1547562722122">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/.env.local" timestamp="1546943119379">
@@ -400,12 +400,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547554106133">
-        <mark key="'" line="123" column="38" />
-        <mark key="[" line="43" column="58" />
-        <mark key="]" line="43" column="58" />
-        <mark key="." line="43" column="58" />
-        <mark key="^" line="43" column="62" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547562678040">
+        <mark key="'" line="64" column="31" />
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="24" />
+        <mark key="^" line="85" column="24" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/Post/GetOnePostService.php" timestamp="1546451585407">
         <mark key="[" line="28" column="49" />
@@ -536,19 +536,20 @@
       <jump line="5" column="36" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
       <jump line="123" column="38" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="7" column="20" filename="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" />
+      <jump line="64" column="31" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkbWV0YUtleXdvcmRzLCAnTWV0YSBLZXl3b3JkcyBtdXN0IGJlIHN0cmluZycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGVwaWMgY3JlYXRlUG9zdCBhbHBoYQ==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IGVwaWMgY3JlYXRlUG9zdCBhbHBoYQ==</text>
       </register>
       <register name="/" type="4">
-        <text>createPost</text>
+        <text>publi</text>
       </register>
       <register name="0" type="4">
-        <text>['tag01', 'tag02', 'tag03'],</text>
+        <text encoding="base64">ICA8Q29sIG1kPSI0Ij4KICAgICAgICAgIDxGaWVsZAogICAgICAgICAgICBuYW1lPSJwdWJsaXNoZXIiCiAgICAgICAgICAgIHRpdGxlPSJwdWJsaXNoZXIiCiAgICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17cHJvcHMgPT4gKDxJbnB1dCB0eXBlPSJ0ZXh0IiB7Li4ucHJvcHN9IC8+KX0KICAgICAgICAgICAgY29tcG9uZW50PXtSZW5kZXJGaWVsZH0KICAgICAgICAgIC8+CiAgICAgICAgPC9Db2w+CiAgICAgICA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkbWV0YUtleXdvcmRzLCAnTWV0YSBLZXl3b3JkcyBtdXN0IGJlIHN0cmluZycpOwo=</text>
@@ -582,15 +583,14 @@
       </register>
     </registers>
     <search>
-      <last-search>createPost</last-search>
+      <last-search>publi</last-search>
       <last-offset />
-      <last-pattern>createPost</last-pattern>
+      <last-pattern>publi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>redis</entry>
         <entry>id=&quot;articleListContent&quot;</entry>
         <entry>product-card</entry>
         <entry>su</entry>
@@ -610,6 +610,7 @@
         <entry>formNa</entry>
         <entry>este camp</entry>
         <entry>createPost</entry>
+        <entry>publi</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
