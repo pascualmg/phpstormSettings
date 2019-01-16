@@ -152,6 +152,7 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/PcBlog/Post/CreatePreviewPost/CreatePreviewPostTest.php" timestamp="1547631785689" />
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547551648282">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -179,6 +180,12 @@
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="2" />
         <mark key="." line="4" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/TemplateCreatePostService.php" timestamp="1547632375080">
+        <mark key="[" line="249" column="15" />
+        <mark key="]" line="249" column="20" />
+        <mark key="." line="249" column="20" />
+        <mark key="^" line="249" column="20" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/CartLayout/footer.html.twig" timestamp="1544786676712">
         <mark key="[" line="46" column="162" />
@@ -291,7 +298,7 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547625637159">
+      <file name="/JavaScript Console" timestamp="1547631375623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/test-styled/src/App.js" timestamp="1546420538839">
@@ -373,9 +380,9 @@
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547626835672">
         <mark key="[" line="53" column="9" />
-        <mark key="]" line="85" column="3" />
-        <mark key="." line="85" column="3" />
-        <mark key="^" line="85" column="3" />
+        <mark key="]" line="87" column="3" />
+        <mark key="." line="87" column="3" />
+        <mark key="^" line="87" column="3" />
       </file>
       <file name="$USER_HOME$/src/test-styled/node_modules/pccadminstorybook/src/components/molecules/Modal/index.jsx" timestamp="1546278936909">
         <mark key="[" line="6" column="0" />
@@ -394,12 +401,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547626722898">
-        <mark key="'" line="64" column="31" />
-        <mark key="[" line="220" column="19" />
-        <mark key="]" line="220" column="19" />
-        <mark key="^" line="219" column="27" />
-        <mark key="." line="220" column="28" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547632014390">
+        <mark key="'" line="124" column="32" />
+        <mark key="[" line="64" column="31" />
+        <mark key="]" line="68" column="31" />
+        <mark key="^" line="68" column="31" />
+        <mark key="." line="68" column="31" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/Post/GetOnePostService.php" timestamp="1546451585407">
         <mark key="[" line="28" column="49" />
@@ -419,8 +426,11 @@
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1547557864828">
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1547631183286">
         <mark key="'" line="7" column="20" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/src/noderedisbackend/src/setOORedisOf.js" timestamp="1544655748224">
         <mark key="[" line="3" column="51" />
@@ -526,61 +536,61 @@
       <jump line="123" column="38" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="7" column="20" filename="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" />
       <jump line="64" column="31" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="125" column="32" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>descriptionTldr</text>
+        <text>Families</text>
       </register>
       <register name="-" type="4">
-        <text>descriptionTldr</text>
+        <text>Families</text>
       </register>
       <register name="/" type="4">
-        <text>publi</text>
+        <text>style</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICA8Q29sIG1kPSI0Ij4KICAgICAgICAgIDxGaWVsZAogICAgICAgICAgICBuYW1lPSJkZXNjcmlwdGlvblRsZHIiCiAgICAgICAgICAgIHRpdGxlPSJkZXNjcmlwdGlvblRsZHIiCiAgICAgICAgICAgIHJlbmRlckNvbXBvbmVudD17cHJvcHMgPT4gKDxJbnB1dCB0eXBlPSJ0ZXh0IiB7Li4ucHJvcHN9IC8+KX0KICAgICAgICAgICAgY29tcG9uZW50PXtSZW5kZXJGaWVsZH0KICAgICAgICAgIC8+CiAgICAgICAgPC9Db2w+Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyQ29tcG9uZW50PXtwcm9wcyA9PiAoPElucHV0IHR5cGU9InRleHQiIHsuLi5wcm9wc30gLz4pfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmFtaWx5SWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkbWV0YUtleXdvcmRzLCAnTWV0YSBLZXl3b3JkcyBtdXN0IGJlIHN0cmluZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyQ29tcG9uZW50PXtwcm9wcyA9PiAoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkdGFncywgJ1RhZ3Mgc2x1ZyBtdXN0IGJlIHN0cmluZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U2VsZWN0IHsuLi5wcm9wc30+e29wdGlvbnNGcm9tQ2F0ZWdvcmllc308L1NlbGVjdD4pfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1ldGFLZXl3b3JkczogSlNPTi5zdHJpbmdpZnkoWydtZXRhdGFnMDEnLCAnbWV0YXRhZzAyJywgJ21ldGF0YWcwMyddKSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhZ3M6IEpTT04uc3RyaW5naWZ5KFsndGFnMDEnLCAndGFnMDInLCAndGFnMDMnXSksCg==</text>
+        <text encoding="base64">ZmFtaWx5SWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkbWV0YUtleXdvcmRzLCAnTWV0YSBLZXl3b3JkcyBtdXN0IGJlIHN0cmluZycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gKTsK</text>
+        <text encoding="base64">ICAgICAgICBQY2NBc3NlcnRpb246OnN0cmluZygkdGFncywgJ1RhZ3Mgc2x1ZyBtdXN0IGJlIHN0cmluZycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICBtYXAoYWpheEdldENhdGVnb3J5TGlzdEFjdGlvbkNyZWF0b3IpLAo=</text>
+        <text encoding="base64">ICAgIG1ldGFLZXl3b3JkczogSlNPTi5zdHJpbmdpZnkoWydtZXRhdGFnMDEnLCAnbWV0YXRhZzAyJywgJ21ldGF0YWcwMyddKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICB9KSwK</text>
+        <text encoding="base64">ICAgIHRhZ3M6IEpTT04uc3RyaW5naWZ5KFsndGFnMDEnLCAndGFnMDInLCAndGFnMDMnXSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>publi</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>publi</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id=&quot;articleListContent&quot;</entry>
         <entry>product-card</entry>
         <entry>su</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
@@ -600,6 +610,7 @@
         <entry>este camp</entry>
         <entry>createPost</entry>
         <entry>publi</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
