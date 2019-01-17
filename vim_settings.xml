@@ -3,16 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547717636806">
+      <file name="/Dummy.txt" timestamp="1547721019989">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="o" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/package.json" timestamp="1547717863585">
-        <mark key="[" line="32" column="34" />
+      <file name="$USER_HOME$/src/cmsadmin/package.json" timestamp="1547719574112">
+        <mark key="[" line="33" column="74" />
+        <mark key="]" line="33" column="74" />
+        <mark key="." line="33" column="74" />
+        <mark key="^" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547710774138" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1547719882253" />
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1547632014390">
         <mark key="'" line="124" column="32" />
         <mark key="[" line="64" column="31" />
@@ -20,11 +20,11 @@
         <mark key="^" line="68" column="31" />
         <mark key="." line="68" column="31" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CategoryList/CategoryList.jsx" timestamp="1547712142565">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="13" />
-        <mark key="^" line="21" column="27" />
-        <mark key="." line="21" column="13" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CategoryList/CategoryList.jsx" timestamp="1547720338447">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/TemplateCreatePostService.php" timestamp="1547716973854">
         <mark key="[" line="249" column="15" />
@@ -35,19 +35,26 @@
       <file name="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Table/index.jsx" timestamp="1547712251208">
         <mark key="[" line="97" column="65" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547637871485">
+      <file name="/JavaScript Console" timestamp="1547720768110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Table/index.jsx" timestamp="1547717629525">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Table/index.jsx" timestamp="1547720831449">
+        <mark key="[" line="100" column="10" />
+        <mark key="]" line="100" column="10" />
+        <mark key="." line="100" column="10" />
+        <mark key="^" line="100" column="36" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547626835672">
         <mark key="[" line="53" column="9" />
         <mark key="]" line="87" column="3" />
         <mark key="." line="87" column="3" />
         <mark key="^" line="87" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Table/index.jsx" timestamp="1547720413066">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="26" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1547631183286">
         <mark key="'" line="7" column="20" />
@@ -150,11 +157,11 @@
       <jump line="125" column="32" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZ2V0JzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dHlwZW9mIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Families</text>
+        <text encoding="base64">dHlwZW9mIA==</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
@@ -163,31 +170,35 @@
         <text encoding="base64">aW1wb3J0IGlzTmlsIGZyb20gJ2xvZGFzaC9pc05pbCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZ2V0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdob2xhJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlzTmlsIGZyb20gJ2xvZGFzaC9pc05pbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW1ba2V5XSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB8fCB0eXBlb2YgaXRlbVtrZXldID09PSAndW5kZWZpbmVkJwo=</text>
+      <register name="3" type="4">
+        <text>Merge branch 'develop' into feature/GT-1068-crear-editar-post-en-cms
+
+# Conflicts:
+#	package-lock.json
+#	src/actions/index.js</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGVvZiBpdGVtW2tleV0udG9TdHJpbmcgPT09ICdmdW5jdGlvbicK</text>
+        <text encoding="base64">ICAgICJhbGdvIjogImVjaG8gJ2hvbGEgY2FyYWNvbGEnIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB8fCB0eXBlb2YgaXRlbVtrZXldID09PSAndW5kZWZpbmVkJwogICAgICAgICAgdHlwZW9mIGl0ZW1ba2V5XS50b1N0cmluZyA9PT0gJ2Z1bmN0aW9uJwo=</text>
+        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZ2V0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlzRW1wdHkgZnJvbSAnbG9kYXNoL2lzRW1wdHknCg==</text>
+        <text encoding="base64">aW1wb3J0IGlzTmlsIGZyb20gJ2xvZGFzaC9pc05pbCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB8fCB0eXBlb2YgaXRlbVtrZXldID09PSAndW5kZWZpbmVkJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyQ29tcG9uZW50PXtwcm9wcyA9PiAoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGVvZiBpdGVtW2tleV0udG9TdHJpbmcgPT09ICdmdW5jdGlvbicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8U2VsZWN0IHsuLi5wcm9wc30+e29wdGlvbnNGcm9tQ2F0ZWdvcmllc308L1NlbGVjdD4pfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB8fCB0eXBlb2YgaXRlbVtrZXldID09PSAndW5kZWZpbmVkJwogICAgICAgICAgdHlwZW9mIGl0ZW1ba2V5XS50b1N0cmluZyA9PT0gJ2Z1bmN0aW9uJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
