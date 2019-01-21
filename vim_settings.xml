@@ -9,7 +9,7 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/package.json" timestamp="1547723219670">
+      <file name="$USER_HOME$/src/cmsadmin/package.json" timestamp="1548077418102">
         <mark key="[" line="35" column="19" />
         <mark key="]" line="35" column="18" />
         <mark key="." line="35" column="18" />
@@ -32,6 +32,9 @@
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548077168903">
+        <mark key="'" line="967" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/styleSheetEpic.js" timestamp="1548066074731">
         <mark key="[" line="3" column="32" />
@@ -61,10 +64,10 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548073459296">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1548077506605">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1547806528028">
         <mark key="[" line="2" column="33" />
@@ -109,9 +112,9 @@
         <mark key="^" line="937" column="60" />
         <mark key="." line="937" column="60" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548072646562">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548077081157">
         <mark key="'" line="357" column="20" />
-        <mark key="[" line="73" column="40" />
+        <mark key="[" line="73" column="48" />
         <mark key="]" line="73" column="46" />
         <mark key="^" line="73" column="46" />
         <mark key="." line="73" column="46" />
@@ -142,9 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
-      <jump line="48" column="13" filename="$USER_HOME$/src/pccfront/docker/local/fpm_frontweb/Dockerfile" />
-      <jump line="54" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="55" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="56" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="57" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
@@ -242,13 +242,16 @@
       <jump line="357" column="20" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="924" column="48" filename="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
       <jump line="967" column="0" filename="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
+      <jump line="24" column="12" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
+      <jump line="967" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>booleans in tables.</text>
+        <text>some fields not required for validation</text>
       </register>
       <register name="-" type="4">
-        <text>booleans in tables.</text>
+        <text>some fields not required for validation</text>
       </register>
       <register name="/" type="4">
         <text>conten</text>
