@@ -36,6 +36,9 @@
       <file name="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548077168903">
         <mark key="'" line="967" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccadminstorybook/.babelrc" timestamp="1548144618960">
+        <mark key="[" line="2" column="48" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/styleSheetEpic.js" timestamp="1548066074731">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
@@ -56,6 +59,11 @@
         <mark key="]" line="20" column="26" />
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/pccadminstorybook/package.json" timestamp="1548144805809">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/postActionCreators.js" timestamp="1547813383066">
         <mark key="[" line="7" column="35" />
@@ -104,8 +112,11 @@
         <mark key="." line="5" column="2" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548073426247">
+      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548144738895">
         <mark key="'" line="54" column="0" />
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548080949662">
         <mark key="'" line="357" column="20" />
@@ -242,11 +253,11 @@
       <jump line="967" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix inputs after reduxForm refactor in storybook</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMiOiAiXjcuMy4wIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>fix inputs after reduxForm refactor in storybook</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>conten</text>
@@ -255,31 +266,31 @@
         <text encoding="base64">IHsuLi5wcm9wc30gLz4pfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMiOiAiXjcuMy4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
+        <text encoding="base64">ICAiYmFiZWwiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsb2dnZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLAo=</text>
+        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGFqYXguZ2V0SlNPTignaHR0cDovL2xvY2FsaG9zdDo2MDgwL3BjYmxvZy9zdHlsZXNoZWV0cz9hY2Nlc3NfdG9rZW49WmpjMk5UUmpZakZsTmpWa1lXUmlZbVV3TlRZMFpHTTBNV0k1TXpFMU9HRTFabVV4T0RZd1pHVXhObU5tTXpReFlqRXlPRE14WWpJM01qTTBaRFZsTVEnKS5waXBlKAo=</text>
+        <text encoding="base64">ICBsb2dnZXIsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cgpjb25zdCBsb2dnZXIgPSBtYXAoKHZhbHVlKSA9PiB7CiAgY29uc29sZS5sb2codmFsdWUpOwogIHJldHVybiB2YWx1ZTsKfSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGFqYXguZ2V0SlNPTignaHR0cDovL2xvY2FsaG9zdDo2MDgwL3BjYmxvZy9zdHlsZXNoZWV0cz9hY2Nlc3NfdG9rZW49WmpjMk5UUmpZakZsTmpWa1lXUmlZbVV3TlRZMFpHTTBNV0k1TXpFMU9HRTFabVV4T0RZd1pHVXhObU5tTXpReFlqRXlPRE14WWpJM01qTTBaRFZsTVEnKS5waXBlKAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cgpjb25zdCBsb2dnZXIgPSBtYXAoKHZhbHVlKSA9PiB7CiAgY29uc29sZS5sb2codmFsdWUpOwogIHJldHVybiB2YWx1ZTsKfSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
