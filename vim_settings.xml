@@ -72,10 +72,10 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548153270462">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1548157736238">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1547806528028">
         <mark key="[" line="2" column="33" />
@@ -113,18 +113,14 @@
         <mark key="^" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548151583011">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="4" column="33" />
+        <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548153194187">
-        <mark key="'" line="88" column="17" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="32" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548157857061">
+        <mark key="'" line="89" column="36" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="61" column="37" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/UserController.php" timestamp="1547724823680">
         <mark key="[" line="22" column="5" />
@@ -152,8 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
-      <jump line="62" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="63" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="64" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="65" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
@@ -252,61 +246,62 @@
       <jump line="17" column="5" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
       <jump line="25" column="19" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
       <jump line="88" column="17" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="55" column="32" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="89" column="36" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG1pc3NpbmcgcHJvcHMgd2l0aCBvbkNoYW5nZQ==</text>
+        <text>parsing correctly wysigwyg content.(ternary refactor)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1pc3NpbmcgcHJvcHMgd2l0aCBvbkNoYW5nZQ==</text>
+        <text>parsing correctly wysigwyg content.(ternary refactor)</text>
       </register>
       <register name="/" type="4">
-        <text>react</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codmFsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWVzLmZpbHRlcihpdGVtID0+IGl0ZW0gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29udmVydFRvUmF3IH0gZnJvbSAnZHJhZnQtanMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgY29uc29sZS5sb2coJ3RyYW5zZm9ybScsIHRyYW5zZm9ybWVkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgY29uc3QgdHJhbnNmb3JtZWQgPSBkcmFmdFRvSHRtbCh2YWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzcmMvY29tcG9uZW50cy9DcmVhdGVQb3N0L0NyZWF0ZVBvc3QuanN4Ojg0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgY29uc29sZS5sb2coJ29yaWcnLCB2YWwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3VibWl0VmFsdWVzID0gIHZhbHVlcy5maWx0ZXIoKGl0ZW0pPT5pdGVtICE9PSAnY29udGVudCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9uQ2hhbmdlPXtmdW5jdGlvbiAodmFsKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3VibWl0VmFsdWVzID0ge30K</text>
+        <text encoding="base64">aW1wb3J0IHsgZHJhZ1N0YXJ0TW9jayB9IGZyb20gJ3JlZHV4LWZvcm0vZXMvdXRpbC9ldmVudE1vY2tzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyQ29tcG9uZW50PXtwcm9wcyA9PiAoPFd5c2l3eWcgZGVidWcgey4uLnByb3BzLmlucHV0fSB7Li4ucHJvcHN9IC8+KX0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Byb2Nlc2FuZG8nLCBwYXJzZWQgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9wdXRvIHdpc2lndWlnCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>react</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>react</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jsto</entry>
         <entry>isUrl</entry>
         <entry>url</entry>
         <entry>isURL</entry>
@@ -326,6 +321,7 @@
         <entry>conte</entry>
         <entry>conten</entry>
         <entry>react</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
