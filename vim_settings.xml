@@ -15,7 +15,7 @@
         <mark key="." line="37" column="18" />
         <mark key="^" line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1548072025158">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1548158507477">
         <mark key="[" line="101" column="41" />
         <mark key="]" line="101" column="41" />
         <mark key="." line="101" column="41" />
@@ -32,6 +32,12 @@
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" timestamp="1548158877341">
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="23" column="54" />
+        <mark key="^" line="23" column="54" />
+        <mark key="." line="23" column="54" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548077168903">
         <mark key="'" line="967" column="0" />
@@ -53,6 +59,17 @@
       </file>
       <file name="/JavaScript Console" timestamp="1547811169186">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccadminstorybook/src/components/molecules/Table/index.jsx" timestamp="1548159537949">
+        <mark key="[" line="104" column="24" />
+        <mark key="]" line="104" column="24" />
+        <mark key="^" line="103" column="12" />
+        <mark key="." line="104" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Table/index.jsx" timestamp="1548159267144">
+        <mark key="[" line="10" column="116" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/categoryList.js" timestamp="1548066195254">
         <mark key="[" line="20" column="26" />
@@ -115,7 +132,7 @@
       <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548151583011">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548157857061">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548158304126">
         <mark key="'" line="89" column="36" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -148,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="64" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="65" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="67" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
@@ -248,46 +264,47 @@
       <jump line="88" column="17" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="55" column="32" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="89" column="36" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="24" column="5" filename="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parsing correctly wysigwyg content.(ternary refactor)</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>parsing correctly wysigwyg content.(ternary refactor)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codmFsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICYmIHR5cGVvZiBpdGVtW2tleV0udG9TdHJpbmcgPT09ICdmdW5jdGlvbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPyBpdGVtW2tleV0udG9TdHJpbmcoKSA6ICctJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPyBpdGVtW2tleV0udG9TdHJpbmcoKSA6ICctJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgY29uc29sZS5sb2coJ3RyYW5zZm9ybScsIHRyYW5zZm9ybWVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICYmIHR5cGVvZiBpdGVtW2tleV0gIT09ICdvYmplY3QnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgY29uc3QgdHJhbnNmb3JtZWQgPSBkcmFmdFRvSHRtbCh2YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICYmIHR5cGVvZiBpdGVtW2tleV0udG9TdHJpbmcgPT09ICdmdW5jdGlvbicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgY29uc29sZS5sb2coJ29yaWcnLCB2YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICYmIHR5cGVvZiBpdGVtW2tleV0gIT09ICd1bmRlZmluZWQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9uQ2hhbmdlPXtmdW5jdGlvbiAodmFsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJ1dHRvbjogPEJ1dHRvbi8+LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZHJhZ1N0YXJ0TW9jayB9IGZyb20gJ3JlZHV4LWZvcm0vZXMvdXRpbC9ldmVudE1vY2tzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Byb2Nlc2FuZG8nLCBwYXJzZWQgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgY29uc29sZS5sb2coJ3RyYW5zZm9ybScsIHRyYW5zZm9ybWVkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
