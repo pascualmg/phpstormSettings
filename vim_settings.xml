@@ -60,7 +60,8 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/package.json" timestamp="1548148646263">
+      <file name="$USER_HOME$/src/pccadminstorybook/package.json" timestamp="1548151200301">
+        <mark key="'" line="25" column="19" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -71,10 +72,10 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548149031372">
+      <file name="/Dummy.txt" timestamp="1548149948563">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1547806528028">
         <mark key="[" line="2" column="33" />
@@ -111,15 +112,19 @@
         <mark key="." line="5" column="2" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548148707277">
+      <file name="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548151132287">
         <mark key="'" line="50" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548080949662">
-        <mark key="'" line="357" column="20" />
-        <mark key="[" line="73" column="48" />
-        <mark key="]" line="73" column="48" />
-        <mark key="^" line="73" column="48" />
-        <mark key="." line="73" column="48" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548150692087">
+        <mark key="'" line="358" column="20" />
+        <mark key="[" line="76" column="37" />
+        <mark key="]" line="76" column="29" />
+        <mark key="^" line="76" column="29" />
+        <mark key="." line="76" column="29" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/UserController.php" timestamp="1547724823680">
         <mark key="[" line="22" column="5" />
@@ -133,6 +138,7 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/RenderFieldFormPart.jsx" timestamp="1548150552392" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
         <mark key="]" line="280" column="0" />
@@ -147,11 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
-      <jump line="56" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
-      <jump line="57" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
-      <jump line="58" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
-      <jump line="59" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="60" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="61" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
       <jump line="62" column="5" filename="$USER_HOME$/src/pccfront/package.json" />
@@ -247,61 +248,65 @@
       <jump line="24" column="12" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
       <jump line="967" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
+      <jump line="9" column="32" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
+      <jump line="15" column="5" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
+      <jump line="16" column="5" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
+      <jump line="17" column="5" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
+      <jump line="25" column="19" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">R1QtMDAwICwgZml4IHcgaW5wdXQK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uRWRpdG9yU3RhdGVDaGFuZ2U9e3RoaXMub25FZGl0b3JTdGF0ZUNoYW5nZX0K</text>
       </register>
       <register name="-" type="4">
-        <text>onEditorStateChange</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>conten</text>
+        <text>react</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMub25FZGl0b3JTdGF0ZUNoYW5nZSA9IHRoaXMub25FZGl0b3JTdGF0ZUNoYW5nZS5iaW5kKHRoaXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R1QtMDAwICwgZml4IHcgaW5wdXQK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uRWRpdG9yU3RhdGVDaGFuZ2U9e3RoaXMub25FZGl0b3JTdGF0ZUNoYW5nZX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZT17ZHJhZnRUb0h0bWwoY29udmVydFRvUmF3KGVkaXRvclN0YXRlLmdldEN1cnJlbnRDb250ZW50KCkpKX0K</text>
+        <text encoding="base64">ICAgICAgICAgIGVkaXRvclN0YXRlPXtlZGl0b3JTdGF0ZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVkaXRvckNsYXNzTmFtZT0iZGVtby1lZGl0b3IiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdyYXBwZXJDbGFzc05hbWU9ImRlbW8td3JhcHBlciIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZWRpdG9yU3RhdGUgfSA9IHRoaXMuc3RhdGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuYWRkRGVjb3JhdG9yKFRoZW1lV3JhcHBlcikK</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3Rvcmllc09mKCdXeXNpd3lnIHdpdGggdGV4dCBkZWJ1Z2dlcicsIG1vZHVsZSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conten</last-search>
+      <last-search>react</last-search>
       <last-offset />
-      <last-pattern>conten</last-pattern>
+      <last-pattern>react</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>blo</entry>
         <entry>jsto</entry>
         <entry>isUrl</entry>
         <entry>url</entry>
@@ -321,6 +326,7 @@
         <entry>contenido</entry>
         <entry>conte</entry>
         <entry>conten</entry>
+        <entry>react</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
