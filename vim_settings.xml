@@ -3,17 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/index.jsx" timestamp="1547810335722">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
+      <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1548327705753">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/package.json" timestamp="1548151845869">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="39" column="18" />
         <mark key="." line="39" column="18" />
         <mark key="^" line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/hoc/withTwoButtons.jsx" timestamp="1548328803843">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1548324559851">
         <mark key="[" line="11" column="0" />
@@ -35,7 +41,8 @@
       <file name="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" timestamp="1548324543098">
         <mark key="'" line="35" column="1" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" timestamp="1548166758398">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" timestamp="1548327744277">
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="2" column="51" />
         <mark key="]" line="57" column="0" />
         <mark key="^" line="57" column="0" />
@@ -67,18 +74,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1548323445702">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/src/components/molecules/Table/index.jsx" timestamp="1548166129092">
-        <mark key="[" line="99" column="6" />
-        <mark key="]" line="99" column="8" />
-        <mark key="." line="99" column="8" />
-        <mark key="^" line="99" column="8" />
-      </file>
-      <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Table/index.jsx" timestamp="1548164182266">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/categoryList.js" timestamp="1548066195254">
         <mark key="[" line="20" column="26" />
@@ -135,6 +130,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/index.jsx" timestamp="1548327876162">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/styleSheetsActionCreators.js" timestamp="1547807646851">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="2" />
@@ -146,12 +147,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548325007545">
-        <mark key="'" line="414" column="0" />
-        <mark key="[" line="367" column="13" />
-        <mark key="]" line="59" column="31" />
-        <mark key="^" line="59" column="31" />
-        <mark key="." line="59" column="31" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548328992540">
+        <mark key="'" line="403" column="26" />
+        <mark key="[" line="257" column="38" />
+        <mark key="]" line="257" column="38" />
+        <mark key="^" line="257" column="37" />
+        <mark key="." line="257" column="38" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/UserController.php" timestamp="1547724823680">
         <mark key="[" line="22" column="5" />
@@ -179,8 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="27" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleListItem.php" />
-      <jump line="533" column="30" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleListItem.php" />
       <jump line="535" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleListItem.php" />
       <jump line="44" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleListItem.php" />
       <jump line="151" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/ArticleList/ArticleDealListBuilder.php" />
@@ -265,7 +264,6 @@
       <jump line="384" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="40" column="9" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="400" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
-      <jump line="403" column="16" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="40" column="11" filename="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" />
       <jump line="136" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" />
       <jump line="35" column="1" filename="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" />
@@ -279,61 +277,63 @@
       <jump line="62" column="32" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="414" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="3" column="26" filename="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" />
+      <jump line="403" column="26" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buttons in postList stub</text>
+        <text>familia</text>
       </register>
       <register name="-" type="4">
-        <text>buttons in postList stub</text>
+        <text>familia</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>family</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWxpZDogUFQuYm9vbCwK</text>
+        <text encoding="base64">ICAgIDxCdXR0b24vPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IAogIHZhbGlkOiBQVC5ib29sLAogIGRpcnR5OiBQVC5ib29sLAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWxpZDogUFQuYm8K</text>
+        <text encoding="base64">ICAgIDwvZGl2PikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsb2FkaW5nOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uPkNhbmNlbGFyPC9CdXR0b24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2FkaW5nOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uPkFjZXB0YXI8L0J1dHRvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9hZERhdGFQcm9wVHlwZXMgfSBmcm9tICcuLi8uLi9ob2Mvd2l0aERhdGFMb2FkJzsK</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMb2FkaW5nRXJyb3IsCg==</text>
+        <text encoding="base64">ICAgIDwvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9hZGVyLCBMb2dvIH0gZnJvbSAncGNjYWRtaW5zdG9yeWJvb2svc3JjJzsK</text>
+        <text encoding="base64">ICAgIDw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>family</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>family</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isUrl</entry>
         <entry>url</entry>
         <entry>isURL</entry>
         <entry>PostInd</entry>
@@ -353,6 +353,7 @@
         <entry>conten</entry>
         <entry>react</entry>
         <entry>,</entry>
+        <entry>family</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
