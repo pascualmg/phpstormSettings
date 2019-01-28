@@ -57,14 +57,6 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" timestamp="1548336658143">
-        <mark key="'" line="125" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/index.js" timestamp="1548339168246">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/UserManager.php" timestamp="1548675947925" />
       <file name="$USER_HOME$/src/cmsadmin/src/actions/LoginActions.js" timestamp="1548677769168">
         <mark key="[" line="2" column="17" />
@@ -77,9 +69,6 @@
         <mark key="]" line="0" column="49" />
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" timestamp="1548077168903">
-        <mark key="'" line="967" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/.babelrc" timestamp="1548144618960">
         <mark key="[" line="2" column="48" />
@@ -98,6 +87,12 @@
       </file>
       <file name="/JavaScript Console" timestamp="1548323445702">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548678379303">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Security/User/PCUser.php" timestamp="1548675494171">
         <mark key="[" line="132" column="5" />
@@ -143,15 +138,7 @@
         <mark key="^" line="34" column="21" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/CreateCategory.jsx" timestamp="1548324897709">
-        <mark key="'" line="44" column="15" />
-      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/App/index.jsx" timestamp="1548673812202" />
-      <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Wysiwyg/index.jsx" timestamp="1548148484454">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547797542730">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -172,11 +159,6 @@
         <mark key="^" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/postsActions.js" timestamp="1548677666953" />
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1548323765899">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548673227386">
         <mark key="'" line="355" column="8" />
         <mark key="[" line="23" column="78" />
@@ -202,11 +184,11 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/index.js" timestamp="1548065577606">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="22" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/index.js" timestamp="1548678483556">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -325,16 +307,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clean unused fields</text>
+        <text>editPost</text>
       </register>
       <register name="-" type="4">
-        <text>clean unused fields</text>
+        <text>editPost</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExvZ2luQWN0aW9uQ3JlYXRvciA9ICh1c2VyLCBwYXNzd29yZCkgPT4gKHsKICB0eXBlOiBhY3Rpb25zLkxPR0lOX0xPR0lOLAogIHBheWxvYWQ6IHsgdXNlciwgcGFzc3dvcmQgfSwKfSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYWpheEdldFBvc3RCeUlkLCBhamF4UHV0UG9zdCB9IGZyb20gJy4vZWRpdFBvc3QnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwYXlsb2FkOiB7IHVzZXIsIHBhc3N3b3JkIH0sCg==</text>
