@@ -33,6 +33,12 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="34" column="26" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/config.js" timestamp="1548670117603">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="34" column="1" />
+        <mark key="." line="34" column="1" />
+        <mark key="^" line="34" column="1" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/constants/EnumOrderFamily.js" timestamp="1547735136321">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -105,10 +111,10 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548664305413">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1548670309319">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1547806528028">
         <mark key="[" line="2" column="33" />
@@ -142,7 +148,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/index.jsx" timestamp="1548664291239">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/index.jsx" timestamp="1548669776358">
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="4" />
@@ -159,9 +165,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548339647087">
-        <mark key="'" line="52" column="60" />
-        <mark key="[" line="47" column="6" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548670248415">
+        <mark key="'" line="355" column="8" />
+        <mark key="[" line="23" column="78" />
         <mark key="]" line="47" column="11" />
         <mark key="." line="47" column="11" />
         <mark key="^" line="47" column="11" />
@@ -192,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="50" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card.html.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" />
       <jump line="32" column="86" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" />
       <jump line="33" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" />
       <jump line="11" column="46" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/DealArticlesController.php" />
@@ -292,61 +296,62 @@
       <jump line="14" column="1" filename="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" />
       <jump line="125" column="0" filename="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" />
       <jump line="28" column="16" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
+      <jump line="56" column="25" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/config.js" />
+      <jump line="355" column="8" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Input</text>
+        <text>hoc stub with2buttons</text>
       </register>
       <register name="-" type="4">
-        <text>Input</text>
+        <text>hoc stub with2buttons</text>
       </register>
       <register name="/" type="4">
-        <text>hand</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBJbnB1dCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBGb3JtRmllbGQsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBGb3JtRmllbGQsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYnRDYW5jZWwgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj47Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29uc3QgYnRBY2NlcHQgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQWNjZXB0fT57YWNjZXB0VGV4dH08L0J1dHRvbj4KY29uc3QgYnRDYW5jZWwgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj4K</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uQWNjZXB0fT57YWNjZXB0VGV4dH08L0J1dHRvbj4KICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj4KIA==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyAgIGVycm9ycy5mb2xsb3dpbmRleCA9ICdSZXF1aXJlZCc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBpZiAoIXZhbHVlcy5mb2xsb3cpIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyAgIGVycm9ycy5pbmRleCA9ICdSZXF1aXJlZCc7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPEFwcCAvPgo=</text>
+        <text encoding="base64">ICAvLyBpZiAoIXZhbHVlcy5pbmRleCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8QXBwIC8+Cg==</text>
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC8+Cg==</text>
+        <text encoding="base64">ICAvLyAgIGVycm9ycy5lbmFibGVkRmFtaWx5ID0gJ1JlcXVpcmVkJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hand</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>hand</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isURL</entry>
         <entry>PostInd</entry>
         <entry>typeP</entry>
         <entry>formnam</entry>
@@ -366,6 +371,7 @@
         <entry>,</entry>
         <entry>family</entry>
         <entry>hand</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
