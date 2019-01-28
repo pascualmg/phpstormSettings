@@ -1,8 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/index.jsx" timestamp="1548335884329">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1548327705753">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="15" column="0" />
@@ -15,16 +21,17 @@
         <mark key="." line="39" column="18" />
         <mark key="^" line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/hoc/withTwoButtons.jsx" timestamp="1548332848234">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="11" />
-        <mark key="^" line="17" column="11" />
+      <file name="$USER_HOME$/src/cmsadmin/src/hoc/withTwoButtons.jsx" timestamp="1548339745923">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="58" />
+        <mark key="^" line="3" column="98" />
+        <mark key="." line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1548324559851">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1548338965041">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/constants/EnumOrderFamily.js" timestamp="1547735136321">
         <mark key="[" line="6" column="0" />
@@ -38,8 +45,13 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" timestamp="1548324543098">
-        <mark key="'" line="35" column="1" />
+      <file name="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" timestamp="1548336658143">
+        <mark key="'" line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/index.js" timestamp="1548339168246">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" timestamp="1548327744277">
         <mark key="'" line="62" column="0" />
@@ -93,7 +105,7 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548325077614">
+      <file name="/Dummy.txt" timestamp="1548336507059">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -147,12 +159,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548328992540">
-        <mark key="'" line="403" column="26" />
-        <mark key="[" line="257" column="38" />
-        <mark key="]" line="257" column="38" />
-        <mark key="^" line="257" column="37" />
-        <mark key="." line="257" column="38" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548339647087">
+        <mark key="'" line="52" column="60" />
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="47" column="11" />
+        <mark key="." line="47" column="11" />
+        <mark key="^" line="47" column="11" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/UserController.php" timestamp="1547724823680">
         <mark key="[" line="22" column="5" />
@@ -180,11 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="24" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleListItem.php" />
-      <jump line="44" column="15" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleListItem.php" />
-      <jump line="151" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/ArticleList/ArticleDealListBuilder.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Article/ArticleListItem.php" />
-      <jump line="82" column="59" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card.html.twig" />
       <jump line="44" column="50" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" />
       <jump line="32" column="86" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/translations/article/list/common/product-card.es.xlf" />
@@ -280,61 +287,65 @@
       <jump line="3" column="26" filename="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" />
       <jump line="62" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" />
       <jump line="403" column="26" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="365" column="17" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="52" column="60" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
+      <jump line="14" column="1" filename="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" />
+      <jump line="28" column="16" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>acceptText</text>
+        <text>Accept</text>
       </register>
       <register name="-" type="4">
-        <text>acceptText</text>
+        <text>Accept</text>
       </register>
       <register name="/" type="4">
-        <text>family</text>
+        <text>hand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhY2NlcHRUZXh0OiBQcm9wVHlwZXMuc3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIGJ0QWNjZXB0LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgYnRDYW5jZWwgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj47Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y29uc3QgYnRBY2NlcHQgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQWNjZXB0fT57YWNjZXB0VGV4dH08L0J1dHRvbj4KY29uc3QgYnRDYW5jZWwgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZGl2PikK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uQWNjZXB0fT57YWNjZXB0VGV4dH08L0J1dHRvbj4KICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj4KIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uPkNhbmNlbGFyPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uPkFjZXB0YXI8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgPEFwcCAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QXBwIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICApOwo=</text>
+        <text encoding="base64">ICAgICAgPC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvPgo=</text>
+        <text encoding="base64">ICAgICAgPD4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDw+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB3aXRoVHdvQnV0dG9ucygKICAgICgpID0+IHsgY29uc29sZS5sb2coJ2FjZXB0YWRvJyk7IH0sCiAgICAoKSA9PiB7IGNvbnNvbGUubG9nKCdjYW5jZWxhZG8nKTsgfSwKICAgICdhY2VwdGFyJywKICAgICdjYW5jZWxhcicsCiAgKSw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>family</last-search>
+      <last-search>hand</last-search>
       <last-offset />
-      <last-pattern>family</last-pattern>
+      <last-pattern>hand</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry>isURL</entry>
         <entry>PostInd</entry>
         <entry>typeP</entry>
@@ -354,6 +365,7 @@
         <entry>react</entry>
         <entry>,</entry>
         <entry>family</entry>
+        <entry>hand</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
