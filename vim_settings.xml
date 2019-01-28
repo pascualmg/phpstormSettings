@@ -66,12 +66,11 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/UserManager.php" timestamp="1548675947925" />
-      <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" timestamp="1548327744277">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/actions/LoginActions.js" timestamp="1548677769168">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/config/ids.js" timestamp="1548322660591">
         <mark key="[" line="0" column="35" />
@@ -115,16 +114,22 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548673909953">
+      <file name="/Dummy.txt" timestamp="1548678090162">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1547806528028">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/LoginActionCreators.js" timestamp="1548677991682">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1548677632119">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/reducers/postsReducers.js" timestamp="1547798635803">
         <mark key="[" line="5" column="28" />
@@ -166,6 +171,7 @@
         <mark key="." line="5" column="2" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/actions/postsActions.js" timestamp="1548677666953" />
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreateCategory/index.jsx" timestamp="1548323765899">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -319,43 +325,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redux-form refactor</text>
+        <text>clean unused fields</text>
       </register>
       <register name="-" type="4">
-        <text>redux-form refactor</text>
+        <text>clean unused fields</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxGaWVsZAogICAgICAgICAgICBuYW1lPSJlbWFpbCIKICAgICAgICAgICAgdGl0bGU9ImVtYWlsIgogICAgICAgICAgICByZW5kZXJDb21wb25lbnQ9e3Byb3BzID0+ICg8SW5wdXQgdHlwZT0iZW1haWwiIGlkPSJlbWFpbCIgey4uLnByb3BzfSAvPil9CiAgICAgICAgICAgIGNvbXBvbmVudD17UmVuZGVyRmllbGR9CiAgICAgICAgICAvPgog</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IExvZ2luQWN0aW9uQ3JlYXRvciA9ICh1c2VyLCBwYXNzd29yZCkgPT4gKHsKICB0eXBlOiBhY3Rpb25zLkxPR0lOX0xPR0lOLAogIHBheWxvYWQ6IHsgdXNlciwgcGFzc3dvcmQgfSwKfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXlsb2FkOiB7IHVzZXIsIHBhc3N3b3JkIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMYWJlbCwK</text>
+        <text encoding="base64">YWN0aW9ucy5MT0dJTl9MT0dJTgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBGb3JtRmllbGQsCg==</text>
+        <text encoding="base64">ICBQT1NUX0FKQVhfUFVUOiAnUE9TVF9BSkFYX1BVVCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvRm9ybUZpZWxkPgo=</text>
+        <text encoding="base64">ICBQT1NUX0FKQVhfR0VUX0JZX0lEOiAnUE9TVF9BSkFYX0dFVF9CWV9JRCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9InBhc3N3b3JkIj5Db250cmFzZcOxYTwvTGFiZWw+Cg==</text>
+        <text encoding="base64">ICBQT1NUX0NSRUFURV9ORVc6ICdQT1NUX0NSRUFURV9ORVcnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtRmllbGQ+Cg==</text>
+        <text encoding="base64">ICBQT1NUX0NSRUFURUQ6ICdQT1NUX0NSRUFURUQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoYW5kbGVTdWJtaXQ6ICgpID0+IHt9LAo=</text>
+        <text encoding="base64">ICBQT1NUX0FKQVhfR0VUX0xJU1Q6ICdQT1NUX0FKQVhfR0VUX0xJU1QnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8SW5wdXQgdHlwZT0icGFzc3dvcmQiIGlkPSJwYXNzd29yZCIgYXV0b2NvbXBsZXRlPSJjdXJyZW50LXBhc3N3b3JkIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
