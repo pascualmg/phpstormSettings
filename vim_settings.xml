@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/index.jsx" timestamp="1548335884329">
@@ -105,8 +105,8 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548336507059">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1548664305413">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -142,11 +142,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/index.jsx" timestamp="1548327876162">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="4" column="23" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/index.jsx" timestamp="1548664291239">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/styleSheetsActionCreators.js" timestamp="1547807646851">
         <mark key="[" line="5" column="2" />
@@ -295,43 +295,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Accept</text>
+        <text>Input</text>
       </register>
       <register name="-" type="4">
-        <text>Accept</text>
+        <text>Input</text>
       </register>
       <register name="/" type="4">
         <text>hand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ0QWNjZXB0LAo=</text>
+        <text encoding="base64">ICBJbnB1dCwK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBGb3JtRmllbGQsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBGb3JtRmllbGQsCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Y29uc3QgYnRDYW5jZWwgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj47Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Y29uc3QgYnRBY2NlcHQgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQWNjZXB0fT57YWNjZXB0VGV4dH08L0J1dHRvbj4KY29uc3QgYnRDYW5jZWwgPSA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uQWNjZXB0fT57YWNjZXB0VGV4dH08L0J1dHRvbj4KICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uQ2FuY2VsfT57Y2FuY2VsVGV4dH08L0J1dHRvbj4KIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPEFwcCAvPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8QXBwIC8+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgPC8+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPD4K</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB3aXRoVHdvQnV0dG9ucygKICAgICgpID0+IHsgY29uc29sZS5sb2coJ2FjZXB0YWRvJyk7IH0sCiAgICAoKSA9PiB7IGNvbnNvbGUubG9nKCdjYW5jZWxhZG8nKTsgfSwKICAgICdhY2VwdGFyJywKICAgICdjYW5jZWxhcicsCiAgKSw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
