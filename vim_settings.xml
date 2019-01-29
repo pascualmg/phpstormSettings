@@ -70,11 +70,11 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducers.js" timestamp="1548760326830">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="47" />
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducers.js" timestamp="1548763905343">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/.babelrc" timestamp="1548144618960">
         <mark key="[" line="2" column="48" />
@@ -121,10 +121,10 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548762333045">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1548764204362">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1548677632119">
         <mark key="[" line="10" column="0" />
@@ -144,6 +144,12 @@
         <mark key="^" line="34" column="21" />
         <mark key="." line="38" column="32" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/index.js" timestamp="1548763642787">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547797542730">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -155,11 +161,11 @@
         <mark key="]" line="10" column="2" />
         <mark key="." line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/store.js" timestamp="1548760150169">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="47" />
-        <mark key="." line="10" column="46" />
+      <file name="$USER_HOME$/src/cmsadmin/src/config/store.js" timestamp="1548763873202">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="10" column="50" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/styleSheetsActionCreators.js" timestamp="1547807646851">
         <mark key="[" line="5" column="2" />
@@ -179,6 +185,12 @@
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548764159200">
+        <mark key="[" line="5" column="74" />
+        <mark key="]" line="18" column="2" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="18" column="2" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/Login/LoginForm.jsx" timestamp="1548755782688">
         <mark key="'" line="43" column="24" />
@@ -321,11 +333,11 @@
       <jump line="43" column="24" filename="$USER_HOME$/src/cmsadmin/src/components/Login/LoginForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>urlCreatorWithout token created for oauth 1st request.</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>urlCreatorWithout token created for oauth 1st request.</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -337,28 +349,28 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
+        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAncmVkdXgtbG9nZ2VyJzsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAncmVkdXgtbG9nZ2VyJzsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBsb2dnZXIgfSAK</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAncmVkdXgtbG9nZ2VyJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChwcm9jZXNzLmVudi5OT0RFX0VOViAhPT0gJ2RldmVsb3BtZW50JykgPyBsb2dnZXIgOjtdCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBsb2dnZXIgfSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
