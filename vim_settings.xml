@@ -94,11 +94,11 @@
       <file name="/JavaScript Console" timestamp="1548753892867">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548759570960">
-        <mark key="[" line="18" column="83" />
-        <mark key="]" line="18" column="83" />
-        <mark key="." line="18" column="83" />
-        <mark key="^" line="18" column="82" />
+      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548768128057">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Security/User/PCUser.php" timestamp="1548675494171">
         <mark key="[" line="132" column="5" />
@@ -115,13 +115,13 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/LoginActionCreators.js" timestamp="1548758220251">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/LoginActionCreators.js" timestamp="1548768423594">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
         <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="0" />
+        <mark key="." line="13" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548764204362">
+      <file name="/Dummy.txt" timestamp="1548769248911">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -186,11 +186,11 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548764159200">
-        <mark key="[" line="5" column="74" />
-        <mark key="]" line="18" column="2" />
-        <mark key="^" line="18" column="2" />
-        <mark key="." line="18" column="2" />
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548769245875">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/Login/LoginForm.jsx" timestamp="1548755782688">
         <mark key="'" line="43" column="24" />
@@ -211,11 +211,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548759470096">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548768524819">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -334,43 +334,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urlCreatorWithout token created for oauth 1st request.</text>
+        <text>fixed error control in epic</text>
       </register>
       <register name="-" type="4">
-        <text>urlCreatorWithout token created for oauth 1st request.</text>
+        <text>fixed error control in epic</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVybENyZWF0b3IgPSBwYXRoID0+IGAke2NvbmZpZy5ob3N0fToke2NvbmZpZy5wb3J0fSR7cGF0aH0/YWNjZXNzX3Rva2VuPSR7Y29uZmlnLmFjY2Vzc190b2tlbn1gOwo=</text>
+        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICcnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvZ291dCcsIGFjdGlvbi5wYXlsb2FkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAuLi5zdGF0ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ0xPR0lOX0ZBSUwnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
+        <text encoding="base64">ICBncmFudF90eXBlOiAncGFzc3dvcmQnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnRfc2VjcmV0OiAnODI3Z3N2YWEwY3dzODAwMHNzYzR3ODR3bzhrMGt3dzhrb2dzODQ0MHc0NHMwb2NzcycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAncmVkdXgtbG9nZ2VyJzsK</text>
+        <text encoding="base64">ICBjbGllbnRfaWQ6ICcxMV9ydjZqMW8wd2Uyc2cwd2c0b2t3a2c0NGN3Z2cwdzRnNGdzYzA4dzhjNHc0azBnNDg0JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAncmVkdXgtbG9nZ2VyJzsK</text>
+        <text encoding="base64">ICBwb3J0OiAnNjA4MCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBsb2dnZXIgfSAK</text>
+        <text encoding="base64">ICBob3N0OiAnaHR0cDovL2xvY2FsaG9zdCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
