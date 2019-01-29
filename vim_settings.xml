@@ -70,11 +70,11 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducers.js" timestamp="1548747484441">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducers.js" timestamp="1548760326830">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/src/pccadminstorybook/.babelrc" timestamp="1548144618960">
         <mark key="[" line="2" column="48" />
@@ -94,7 +94,7 @@
       <file name="/JavaScript Console" timestamp="1548753892867">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548756136261">
+      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548759570960">
         <mark key="[" line="18" column="83" />
         <mark key="]" line="18" column="83" />
         <mark key="." line="18" column="83" />
@@ -115,16 +115,16 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/LoginActionCreators.js" timestamp="1548755909764">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/LoginActionCreators.js" timestamp="1548758220251">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548755921373">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1548759573777">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/index.js" timestamp="1548677632119">
         <mark key="[" line="10" column="0" />
@@ -160,6 +160,12 @@
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="2" />
         <mark key="." line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/config/store.js" timestamp="1548760150169">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="46" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/styleSheetsActionCreators.js" timestamp="1547807646851">
         <mark key="[" line="5" column="2" />
@@ -199,11 +205,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548756960127">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="52" />
-        <mark key="." line="15" column="52" />
-        <mark key="^" line="15" column="52" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548759470096">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -321,11 +327,11 @@
       <jump line="43" column="24" filename="$USER_HOME$/src/cmsadmin/src/components/Login/LoginForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -334,33 +340,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IHVybENyZWF0b3IgPSBwYXRoID0+IGAke2NvbmZpZy5ob3N0fToke2NvbmZpZy5wb3J0fSR7cGF0aH0/YWNjZXNzX3Rva2VuPSR7Y29uZmlnLmFjY2Vzc190b2tlbn1gOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc3QgTG9naW5Gb3JtID0gKCkgPT4gKDxCdXR0b24gLz4pOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>login epic stub 
-(some errors caused by missing params grantType )
-linked in epics composition</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Zm9ybSBsaW5rIGhhbmRsZVN1Ym1pdChkb0xvZ2luQWpheCkKUHJvcFR5cGVzICwgZml4IGZpZWxkIG5hbWUgZW1haWwtPnVzZXI=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGFkZGVkIGhhcmNvZGVkIGNvbmZpZy4gCkRlbGV0ZSBleHBvcnQgZGVmYXVsdA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAncmVkdXgtbG9nZ2VyJzsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29uZmlnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAncmVkdXgtbG9nZ2VyJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkb0xvZ2luQWpheCwK</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBsb2dnZXIgfSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoYW5kbGVTdWJtaXQ6ICgpID0+IHt9Cg==</text>
+        <text encoding="base64">ICAgIChwcm9jZXNzLmVudi5OT0RFX0VOViAhPT0gJ2RldmVsb3BtZW50JykgPyBsb2dnZXIgOjtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
