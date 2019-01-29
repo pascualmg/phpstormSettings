@@ -94,11 +94,11 @@
       <file name="/JavaScript Console" timestamp="1548753892867">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548768128057">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548771678340">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Security/User/PCUser.php" timestamp="1548675494171">
         <mark key="[" line="132" column="5" />
@@ -115,13 +115,13 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/LoginActionCreators.js" timestamp="1548768423594">
+      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/LoginActionCreators.js" timestamp="1548771157497">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="22" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548769248911">
+      <file name="/Dummy.txt" timestamp="1548770394905">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -186,13 +186,13 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548769245875">
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-        <mark key="." line="26" column="31" />
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548771566406">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/LoginForm.jsx" timestamp="1548755782688">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/LoginForm.jsx" timestamp="1548771019069">
         <mark key="'" line="43" column="24" />
         <mark key="[" line="25" column="22" />
         <mark key="]" line="12" column="0" />
@@ -211,7 +211,7 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548768524819">
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548771387672">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="23" />
         <mark key="." line="20" column="23" />
@@ -333,44 +333,44 @@
       <jump line="43" column="24" filename="$USER_HOME$/src/cmsadmin/src/components/Login/LoginForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fixed error control in epic</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>fixed error control in epic</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICcnLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG9hdXRoQ29uZmlnID0gT2JqZWN0LmZyZWV6ZSh7CiAgY2xpZW50X2lkOiAnMTFfcnY2ajFvMHdlMnNnMHdnNG9rd2tnNDRjd2dnMHc0ZzRnc2MwOHc4YzR3NGswZzQ4NCcsCiAgY2xpZW50X3NlY3JldDogJzgyN2dzdmFhMGN3czgwMDBzc2M0dzg0d284azBrd3c4a29nczg0NDB3NDRzMG9jc3MnLAogIGdyYW50X3R5cGU6ICdwYXNzd29yZCcsCn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvZ291dCcsIGFjdGlvbi5wYXlsb2FkKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAuLi5zdGF0ZSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ0xPR0lOX0ZBSUwnLCBhY3Rpb24ucGF5bG9hZCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBncmFudF90eXBlOiAncGFzc3dvcmQnLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjbGllbnRfc2VjcmV0OiAnODI3Z3N2YWEwY3dzODAwMHNzYzR3ODR3bzhrMGt3dzhrb2dzODQ0MHc0NHMwb2NzcycsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjbGllbnRfaWQ6ICcxMV9ydjZqMW8wd2Uyc2cwd2c0b2t3a2c0NGN3Z2cwdzRnNGdzYzA4dzhjNHc0azBnNDg0JywK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAuLi5zdGF0ZSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGUuZXJyb3JzLnB1c2gK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGUuZXJyb3IucHVzaCgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gNCB0aGUgZnV0dXJlOiBodHRwczovL3d3dy5vYXV0aC5jb20vb2F1dGgyLXNlcnZlcnMvYWNjZXNzLXRva2Vucy9yZWZyZXNoaW5nLWFjY2Vzcy10b2tlbnMvCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwb3J0OiAnNjA4MCcsCg==</text>
+        <text encoding="base64">ICBncmFudF90eXBlOiAncmVmcmVzaF90b2tlbicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBob3N0OiAnaHR0cDovL2xvY2FsaG9zdCcsCg==</text>
+        <text encoding="base64">ICBjbGllbnRfc2VjcmV0OiBvYXV0aENvbmZpZy5jbGllbnRfc2VjcmV0LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
