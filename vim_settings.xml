@@ -33,11 +33,11 @@
         <mark key="^" line="3" column="98" />
         <mark key="." line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/config.js" timestamp="1548843959644">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="38" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="2" column="38" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/config.js" timestamp="1548849960600">
+        <mark key="[" line="2" column="73" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="2" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1548843621385">
         <mark key="[" line="35" column="17" />
@@ -132,8 +132,8 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548844019593">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1548849961632">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -185,11 +185,11 @@
         <mark key="^" line="10" column="50" />
         <mark key="." line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/postsList.js" timestamp="1548848586088">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="17" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/postsList.js" timestamp="1548849797160">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
         <mark key="^" line="19" column="51" />
-        <mark key="." line="7" column="17" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/styleSheetsActionCreators.js" timestamp="1547807646851">
         <mark key="[" line="5" column="2" />
@@ -353,10 +353,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urlCreator</text>
+        <text encoding="base64">IHRhcCwgZmlsdGVyLA==</text>
       </register>
       <register name="-" type="4">
-        <text>urlCreator</text>
+        <text encoding="base64">IHRhcCwgZmlsdGVyLA==</text>
       </register>
       <register name="/" type="4">
         <text>setPostsList</text>
@@ -365,16 +365,16 @@
         <text>`${config.host}:${config.port}${path}?access_token=${config.access_token}`;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBmaWx0ZXIoYWN0aW9uID0+IGFjdGlvbi5sb2dpbi5pc0xvZ2dlZCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBgJHtjb25maWcuaG9zdH06JHtjb25maWcucG9ydH0ke3BhdGh9YDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsvKntsb2dpbi5pc0xvZ2dlZCAmJiBjb25zb2xlLmxvZygnbG9nZ2VhZG8nLCBsb2dpbil9Ki99Cg==</text>
+        <text encoding="base64">ICBgJHtjb25maWcuaG9zdH06JHtjb25maWcucG9ydH0ke3BhdGh9YDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
+        <text encoding="base64">ICAgIHsvKntsb2dpbi5pc0xvZ2dlZCAmJiBjb25zb2xlLmxvZygnbG9nZ2VhZG8nLCBsb2dpbil9Ki99Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
@@ -383,13 +383,13 @@
         <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9naW4nLCBsb2dpbik7Ly8gVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7Y29uc29sZS5sb2cobG9naW4pfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9naW4nLCBsb2dpbik7Ly8gVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
