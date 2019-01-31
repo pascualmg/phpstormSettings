@@ -47,12 +47,7 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/constants/messages.js" timestamp="1548926022867">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="18" column="2" />
-      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/constants/messages.js" timestamp="1548926022867" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Security/User/PCUser.php" timestamp="1548675494171">
         <mark key="[" line="132" column="5" />
       </file>
@@ -136,11 +131,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548925811419">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548929430751">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -243,11 +238,11 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/constants/allowedRoles.js" timestamp="1548925689676">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="1" column="56" />
-        <mark key="." line="0" column="32" />
+      <file name="$USER_HOME$/src/cmsadmin/src/constants/allowedRoles.js" timestamp="1548929581329">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1548678512921">
         <mark key="[" line="9" column="47" />
@@ -360,45 +355,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>POST_CREATED</text>
+        <text encoding="base64">IHRhcA==</text>
       </register>
       <register name="-" type="4">
-        <text>POST_CREATED</text>
+        <text encoding="base64">IHRhcA==</text>
       </register>
       <register name="/" type="4">
         <text>Stat</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHBvc3RNZXNzYWdlcyA9IE9iamVjdC5mcmVlemUoewogIFBPU1RfQ1JFQVRFRDogJ1Bvc3QgY3JlYWRvJywKICBQT1NUX1VQREFURUQ6ICdQb3N0IGFjdHVhbGl6YWRvJywKICBQT1NUX0VSUk9SOiAnRXJyb3IgYWwgZ3VhcmRhciBlbCBwb3N0JywKfSk7Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICByb2xlID09PSBST0xFLkNNU19XUklURVIgJiYK</text>
       </register>
-      <register name="1" type="4">
-        <text>snapshot 1st refactor approach after ouauth login active.
-component PostList.</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>snapshot 1st refactor approach after ouauth login active.
-component PostList.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG1hcChMb2dpblN1Y2Nlc3NBY3Rpb25DcmVhdG9yKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlcl9hcHAK</text>
+        <text encoding="base64">J2Ntc193cml0ZXIgY21zX3N1cGVyX2FkbWluIGFub24gY21zX3dyaXRlciBjbXNfc3VwZXJfYWRtaW4gdXNlcl9hcHAnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgYWxsb3dlZFJvbGVzID0gcm9sZSA9PiByb2xlID09PSAndXNlcl9hcHA4PT1EJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtZXRhS2V5d29yZHM6ICdhbGdvLCBjb3NhLCBtaWVyZGEnLAo=</text>
+        <text encoding="base64">ICBDTVNfV1JJVEVSOidjbXNfd3JpdGVyJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb2xsb3c6IGZhbHNlLAo=</text>
+        <text encoding="base64">Y29uc3QgQ01TX1NVUEVSCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
