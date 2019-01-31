@@ -41,6 +41,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" timestamp="1548937626606">
+        <mark key="'" line="92" column="9" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/styleSheetEpic.js" timestamp="1548066074731">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
@@ -131,11 +134,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548936121110">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="2" column="29" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548937636151">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -252,8 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="9" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Article/DealArticlesController.php" />
-      <jump line="32" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card.html.twig" />
       <jump line="11" column="46" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/src/noderedisbackend/src/index.js" />
       <jump line="10" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" />
@@ -352,62 +353,63 @@
       <jump line="160" column="72" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="321" column="23" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="27" column="59" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
+      <jump line="64" column="11" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
+      <jump line="92" column="9" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fHwgcm9sZSA9PT0gUk9MRS5DTVNfVVNFUjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>//tap,</text>
       </register>
       <register name="/" type="4">
-        <text>Stat</text>
+        <text>push</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB8fCByb2xlID09PSBST0xFLkNNU19VU0VSOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fHwgcm9sZSA9PT0gUk9MRS5DTVNfVVNFUjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRhcChjb25zb2xlLmxvZyksCg==</text>
+        <text encoding="base64">fHwgcm9sZSA9PT0gUk9MRS5DTVNfVVNFUjsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIHRhcChjb25zb2xlLmxvZyksCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>include roles logic in loginEpic 
 reducer refactor.</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcChMb2dpblN1Y2Nlc3NBY3Rpb25DcmVhdG9yKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcChMb2dpblN1Y2Nlc3NBY3Rpb25DcmVhdG9yKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J2Ntc193cml0ZXIgY21zX3N1cGVyX2FkbWluIGFub24gY21zX3dyaXRlciBjbXNfc3VwZXJfYWRtaW4gdXNlcl9hcHAnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Stat</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern>Stat</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>este camp</entry>
         <entry>createPost</entry>
         <entry>publi</entry>
         <entry>style</entry>
@@ -427,6 +429,7 @@ reducer refactor.</text>
         <entry>setPostsList</entry>
         <entry>No</entry>
         <entry>Stat</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
