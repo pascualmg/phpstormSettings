@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1548672712655">
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="6" column="11" />
-      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1548860135815">
         <mark key="'" line="31" column="59" />
       </file>
@@ -41,8 +35,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" timestamp="1548937626606">
-        <mark key="'" line="92" column="9" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" timestamp="1548941153166">
+        <mark key="'" line="8" column="45" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/styleSheetEpic.js" timestamp="1548066074731">
         <mark key="[" line="3" column="32" />
@@ -91,6 +85,12 @@
         <mark key="^" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/EditPost/index.jsx" timestamp="1548921703317" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/NotificationArea/NotificationArea.jsx" timestamp="1548944030213">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/reducers/index.js" timestamp="1548763642787">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
@@ -121,24 +121,15 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548922699170">
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548944952258">
         <mark key="'" line="24" column="27" />
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/index.js" timestamp="1548678546551">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548937636151">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548945625016">
+        <mark key="^" line="30" column="70" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -203,7 +194,7 @@
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="/JavaScript Console" timestamp="1548921601951">
+      <file name="/JavaScript Console" timestamp="1548942176059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548931408691">
@@ -224,16 +215,22 @@
         <mark key="^" line="23" column="25" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548931304128">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1548945658920">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/ajax/post/createPost/index.js" timestamp="1547797542730">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/categoryEpics.js" timestamp="1548941930875">
+        <mark key="[" line="38" column="40" />
+        <mark key="]" line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="38" column="39" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/UserController.php" timestamp="1547724823680">
         <mark key="[" line="22" column="5" />
@@ -255,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="46" filename="$USER_HOME$/src/pccfront/app/config/parameters.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/src/noderedisbackend/src/index.js" />
       <jump line="10" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" />
       <jump line="7" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" />
@@ -355,47 +351,47 @@
       <jump line="27" column="59" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
       <jump line="64" column="11" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
       <jump line="92" column="9" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
+      <jump line="8" column="45" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUk9VVEVTIGZyb20gJy4uL2NvbmZpZy9yb3V0ZXMnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>//tap,</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB8fCByb2xlID09PSBST0xFLkNNU19VU0VSOwo=</text>
+        <text encoding="base64">ICAgICAgOiBvZihsb2dpbkZhaWx1cmVBY3Rpb25DcmVhdG9yKHsgbWVzc2FnZTogJ0ludmFsaWQgdXNlciBSb2xlczogJy5jb25jYXQocmVzcG9uc2Uuc2NvcGUpIH0pKSkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUk9VVEVTIGZyb20gJy4uL2NvbmZpZy9yb3V0ZXMnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fHwgcm9sZSA9PT0gUk9MRS5DTVNfVVNFUjsK</text>
+        <text encoding="base64">ICAgIHsvKmFsZ28qL30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHRhcChjb25zb2xlLmxvZyksCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>include roles logic in loginEpic 
-reducer refactor.</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcHVzaCB9IGZyb20gJ2Nvbm5lY3RlZC1yZWFjdC1yb3V0ZXInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlTm90aWZpY2F0aW9uIH0gZnJvbSAnLi4vYWN0aW9uQ3JlYXRvcnMvbm90aWZpY2F0aW9uQWN0aW9uQ3JlYXRvcnMnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcChMb2dpblN1Y2Nlc3NBY3Rpb25DcmVhdG9yKQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUk9VVEVTIGZyb20gJy4uL2NvbmZpZy9yb3V0ZXMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlTm90aWZpY2F0aW9uIH0gZnJvbSAnLi4vYWN0aW9uQ3JlYXRvcnMvbm90aWZpY2F0aW9uQWN0aW9uQ3JlYXRvcnMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZ2V0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -480,6 +476,9 @@ reducer refactor.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
