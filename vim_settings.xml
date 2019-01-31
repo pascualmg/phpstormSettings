@@ -40,11 +40,7 @@
         <mark key="." line="4" column="2" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" timestamp="1548860135815">
-        <mark key="'" line="27" column="59" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="26" />
+        <mark key="'" line="31" column="59" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/config.js" timestamp="1548670117603">
         <mark key="[" line="3" column="48" />
@@ -108,7 +104,7 @@
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="/JavaScript Console" timestamp="1548835718683">
+      <file name="/JavaScript Console" timestamp="1548921601951">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548848492229">
@@ -126,11 +122,11 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/config.jsx" timestamp="1548860303788">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="23" column="25" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/config.jsx" timestamp="1548922216081">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
         <mark key="^" line="23" column="25" />
-        <mark key="." line="23" column="25" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/postActionCreators.js" timestamp="1548844126742">
         <mark key="[" line="10" column="11" />
@@ -173,6 +169,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/EditPost/index.jsx" timestamp="1548921703317" />
       <file name="$USER_HOME$/src/cmsadmin/src/reducers/index.js" timestamp="1548763642787">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
@@ -191,12 +188,6 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="53" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/store.js" timestamp="1548763873202">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/postsList.js" timestamp="1548849797160">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="33" />
@@ -209,25 +200,17 @@
         <mark key="." line="5" column="2" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/hoc/asPureComponent.jsx" timestamp="1548843464343" />
-      <file name="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" timestamp="1548860185901">
-        <mark key="'" line="321" column="23" />
-        <mark key="[" line="321" column="23" />
-        <mark key="]" line="321" column="23" />
-        <mark key="." line="321" column="23" />
-        <mark key="^" line="321" column="23" />
-      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/config/formNames.js" timestamp="1548671738634">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548855122871">
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/login.js" timestamp="1548922699170">
         <mark key="'" line="24" column="27" />
-        <mark key="[" line="13" column="95" />
-        <mark key="]" line="13" column="96" />
-        <mark key="." line="13" column="95" />
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
         <mark key="^" line="13" column="57" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/Login/LoginForm.jsx" timestamp="1548842845318">
@@ -248,6 +231,12 @@
         <mark key="]" line="18" column="11" />
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548923375975">
+        <mark key="[" line="25" column="63" />
+        <mark key="]" line="25" column="65" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="25" column="65" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -366,11 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>snapshot 1st refactor approach after ouauth login active.
-component PostList.</text>
+        <text>role</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>role</text>
       </register>
       <register name="/" type="4">
         <text>Stat</text>
@@ -378,33 +366,33 @@ component PostList.</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQWpheFJlc3BvbnNlID0+IG9mKExvZ2luU3VjY2Vzc0FjdGlvbkNyZWF0b3IoQWpheFJlc3BvbnNlKSksCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBtZXRhS2V5d29yZHM6ICdhbGdvLCBjb3NhLCBtaWVyZGEnLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBmb2xsb3c6IGZhbHNlLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbmRleDogdHJ1ZSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGluaXRpYWxWYWx1ZXMgPSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>snapshot 1st refactor approach after ouauth login active.
 component PostList.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGluaXRpYWxTdGF0ZSBmcm9tICcuL2NvbmZpZycK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bGV0IGxvY2FsU3RvcmFnZSA9IGxvY2FsU3RvcmFnZSB8fCB7fQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgLy8gaWlmKEFqYXhSZXNwb25zZSA9PiBBamF4UmVzcG9uc2UucmVzcG9uc2Uuc2NvcGUuaW5kZXhPZigndXNlcl9hcHAnKSAhPT0gLTEsCiAgICAvLyAgIEFqYXhSZXNwb25zZSA9PiBvZihMb2dpblN1Y2Nlc3NBY3Rpb25DcmVhdG9yKEFqYXhSZXNwb25zZSkpLAogICAgLy8gICBBamF4UmVzcG9uc2UgPT4gb2YoTG9naW5GYWlsdXJlQWN0aW9uQ3JlYXRvcihBamF4UmVzcG9uc2UpKQogICAgLy8gKQogIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb2YoTG9naW5GYWlsdXJlQWN0aW9uQ3JlYXRvcikpLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGZpbHRlcigoQWpheFJlc3BvbnNlKSA9PiBBamF4UmVzcG9uc2UucmVzcG9uc2Uuc2NvcGUuaW5kZXhPZigiIikpLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvY2FsU3RvcmFnZSBmcm9tICcnCg==</text>
+        <text encoding="base64">aW1wb3J0IGluaXRpYWxTdGF0ZSBmcm9tICcuL2NvbmZpZycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
