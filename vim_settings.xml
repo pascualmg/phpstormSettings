@@ -131,11 +131,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548929430751">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="20" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548931137414">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -203,10 +203,10 @@
       <file name="/JavaScript Console" timestamp="1548921601951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548848492229">
-        <mark key="[" line="24" column="105" />
-        <mark key="]" line="24" column="109" />
-        <mark key="." line="24" column="109" />
+      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1548931408691">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="24" column="109" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/categoryList.js" timestamp="1548066195254">
@@ -221,7 +221,7 @@
         <mark key="^" line="23" column="25" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548925829904">
+      <file name="/Dummy.txt" timestamp="1548931304128">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -238,11 +238,11 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/constants/allowedRoles.js" timestamp="1548929581329">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/constants/allowedRoles.js" timestamp="1548931111745">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
         <mark key="^" line="6" column="23" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" timestamp="1548678512921">
         <mark key="[" line="9" column="47" />
@@ -354,11 +354,11 @@
       <jump line="27" column="59" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRhcA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRhcA==</text>
+        <text>//tap,</text>
       </register>
       <register name="/" type="4">
         <text>Stat</text>
@@ -367,31 +367,32 @@
         <text encoding="base64">ICByb2xlID09PSBST0xFLkNNU19XUklURVIgJiYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
+        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcChMb2dpblN1Y2Nlc3NBY3Rpb25DcmVhdG9yKQo=</text>
+      <register name="2" type="4">
+        <text>include roles logic in loginEpic 
+reducer refactor.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcChMb2dpblN1Y2Nlc3NBY3Rpb25DcmVhdG9yKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">J2Ntc193cml0ZXIgY21zX3N1cGVyX2FkbWluIGFub24gY21zX3dyaXRlciBjbXNfc3VwZXJfYWRtaW4gdXNlcl9hcHAnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J2Ntc193cml0ZXIgY21zX3N1cGVyX2FkbWluIGFub24gY21zX3dyaXRlciBjbXNfc3VwZXJfYWRtaW4gdXNlcl9hcHAnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDTVNfV1JJVEVSOidjbXNfd3JpdGVyJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQ01TX1NVUEVSCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
