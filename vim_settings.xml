@@ -109,11 +109,12 @@
       <file name="/JavaScript Console" timestamp="1548942176059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1549017179235">
+      <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1549019418358">
         <mark key="'" line="4" column="0" />
-        <mark key="]" line="30" column="2" />
-        <mark key="^" line="30" column="2" />
-        <mark key="." line="30" column="2" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/categoryList.js" timestamp="1548066195254">
         <mark key="[" line="20" column="26" />
@@ -228,8 +229,11 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1548945625016">
-        <mark key="^" line="30" column="70" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1549019027705">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
@@ -354,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="-" type="4">
-        <text>`${config.host}:${config.port}${path}?access_token=${optionalToken || getTokenFromLocalStorage()}`;</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
@@ -366,31 +370,31 @@
         <text encoding="base64">ICAgICAgOiBvZihsb2dpbkZhaWx1cmVBY3Rpb25DcmVhdG9yKHsgbWVzc2FnZTogJ0ludmFsaWQgdXNlciBSb2xlczogJy5jb25jYXQocmVzcG9uc2Uuc2NvcGUpIH0pKSkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDogYCR7Y29uZmlnLmhvc3R9OiR7Y29uZmlnLnBvcnR9JHtwYXRofWA7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgpjb25zdCBnZXRUb2tlbkZyb21Mb2NhbFN0b3JhZ2UgPSAoKSA9PiBnZXQoCiAgSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnc3RhdGUnKSksCiAgJ2xvZ2luLmFjY2Vzc190b2tlbicsCiAgdW5kZWZpbmVkLAopOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVybENyZWF0b3JXaXRob3V0VG9rZW4gPSBwYXRoID0+IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHJldHVybnMge3N0cmluZ30K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWNjZXNzX3Rva2VuJywgYWNjZXNzVG9rZW4gKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG9wdGlvbmFsVG9rZW4K</text>
+        <text encoding="base64">ICBjb25zdCBhY2Nlc3NUb2tlbiA9IG9wdGlvbmFsVG9rZW4gfHwgZ2V0VG9rZW5Gcm9tTG9jYWxTdG9yYWdlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHBhdGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
