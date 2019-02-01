@@ -18,6 +18,7 @@
         <mark key="." line="34" column="1" />
         <mark key="^" line="34" column="1" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/index.js" timestamp="1549023087786" />
       <file name="$USER_HOME$/src/cmsadmin/src/actions/LoginActions.js" timestamp="1548686226933">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -41,8 +42,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" timestamp="1549020924142">
-        <mark key="'" line="8" column="45" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" timestamp="1549022367252">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="17" />
         <mark key="^" line="10" column="17" />
@@ -132,17 +133,22 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1549021026571">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" timestamp="1549023858560">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/PostController.php" timestamp="1547724708475">
         <mark key="[" line="280" column="0" />
         <mark key="]" line="280" column="0" />
         <mark key="." line="280" column="0" />
         <mark key="^" line="278" column="74" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/Login.jsx" timestamp="1549023807357">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/PostsList/index.jsx" timestamp="1548844227330">
         <mark key="[" line="12" column="85" />
@@ -210,9 +216,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1549020815439">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/categoryList.js" timestamp="1548066195254">
         <mark key="[" line="20" column="26" />
@@ -237,11 +243,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/categoryEpics.js" timestamp="1549020885800">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
+      <file name="$USER_HOME$/src/cmsadmin/src/config/store.js" timestamp="1549022598728" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/categoryEpics.js" timestamp="1549023870008">
+        <mark key="[" line="27" column="80" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/PcBlog/UserController.php" timestamp="1547724823680">
         <mark key="[" line="22" column="5" />
@@ -263,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="53" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" />
       <jump line="7" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/generic-list.html.twig" />
       <jump line="29" column="29" filename="$USER_HOME$/src/noderedisbackend/src/index.js" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" />
@@ -363,13 +366,14 @@
       <jump line="92" column="9" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
       <jump line="8" column="45" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/cmsadmin/src/config/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWVyZ2UgY29uIDEyMzUgJiBzb2x2ZWQgY29uZmxpY3Rz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvZihwdXNoKCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVyZ2UgY29uIDEyMzUgJiBzb2x2ZWQgY29uZmxpY3Rz</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
@@ -378,31 +382,31 @@
         <text encoding="base64">ICAgICAgOiBvZihsb2dpbkZhaWx1cmVBY3Rpb25DcmVhdG9yKHsgbWVzc2FnZTogJ0ludmFsaWQgdXNlciBSb2xlczogJy5jb25jYXQocmVzcG9uc2Uuc2NvcGUpIH0pKSkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvZihwdXNoKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwb3J0OiAnNjA4MCcsCg==</text>
+        <text encoding="base64">ICBhY2Nlc3NfdG9rZW46ICdaamMyTlRSallqRmxOalZrWVdSaVltVXdOVFkwWkdNME1XSTVNekUxT0dFMVptVXhPRFl3WkdVeE5tTm1NelF4WWpFeU9ETXhZakkzTWpNMFpEVmxNUScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBob3N0OiAnaHR0cDovL2xvY2FsaG9zdCcsCg==</text>
+        <text encoding="base64">ICBwb3J0OiAnNjA4MCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gT2JqZWN0LmZyZWV6ZSh7Cg==</text>
+        <text encoding="base64">ICBob3N0OiAnaHR0cDovL2xvY2FsaG9zdCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gT2JqZWN0LmZyZWV6ZSh7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
