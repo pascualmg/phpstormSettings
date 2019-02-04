@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1549290965386">
+      <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1549291835590">
         <mark key="'" line="36" column="22" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="42" />
         <mark key="^" line="36" column="22" />
-        <mark key="." line="21" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="vm:526" timestamp="1549287006931">
         <mark key="[" line="0" column="0" />
@@ -23,7 +23,7 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/LogOut/index.jsx" timestamp="1549290316556">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/LogOut/index.jsx" timestamp="1549291733330">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -65,11 +65,11 @@
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/index.js" timestamp="1549290831864">
         <mark key="[" line="7" column="15" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/Login.jsx" timestamp="1549287099573">
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Login/Login.jsx" timestamp="1549291638774">
         <mark key="'" line="15" column="8" />
         <mark key="[" line="48" column="16" />
         <mark key="]" line="49" column="34" />
@@ -91,15 +91,16 @@
       <file name="/JavaScript Console" timestamp="1549289310706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549273882008">
+      <file name="/Dummy.txt" timestamp="1549292147663">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/LogOut/LogOut.jsx" timestamp="1549290763416">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/LogOut/LogOut.jsx" timestamp="1549291779609">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/LogOut/Login.jsx" timestamp="1549288622074">
         <mark key="[" line="13" column="5" />
@@ -111,7 +112,7 @@
       <file name="extensions::messaging" timestamp="1549287064392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1549290875286">
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1549292173597">
         <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="10" />
         <mark key="." line="36" column="10" />
@@ -221,11 +222,11 @@
       <jump line="36" column="22" filename="$USER_HOME$/src/cmsadmin/src/config/routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>implementar-login-appd</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>implementar-login-appd</text>
       </register>
       <register name="/" type="4">
         <text>errar</text>
@@ -234,31 +235,31 @@
         <text encoding="base64">ICBvZlR5cGUoYWN0aW9ucy5MT0dJTl9BSkFYKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IExvZ091dCBmcm9tICcuLi9jb21wb25lbnRzL0xvZ091dCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXAoYWN0aW9uID0+IGNvbnNvbGUubG9nKGFjdGlvbikpLAo=</text>
+        <text encoding="base64">aW1wb3J0IFJlZGlyZWN0IGZyb20gJyc7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdXNoKCcvbG9naW4nKSwK</text>
+        <text encoding="base64">ICBtYXAoYWN0aW9uID0+IGNvbnNvbGUubG9nKGFjdGlvbikpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwo=</text>
+        <text encoding="base64">ICBwdXNoKCcvbG9naW4nKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aXRoUm91dGVyLAo=</text>
+        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dGhSZXF1aXJlZDogaXNBbm9uLAo=</text>
+        <text encoding="base64">ICB3aXRoUm91dGVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
