@@ -1,8 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="snap" type="JSX Harmony" />
+      <removed_mapping ext="snap" approved="true" type="Jest Snapshot" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="ant" approved="true" type="XML" />
+      <removed_mapping ext="snap" approved="true" type="Jest Snapshot" />
       <removed_mapping ext="ant" approved="true" type="XML" />
     </extensionMap>
   </component>
