@@ -32,11 +32,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/Permission/config.js" timestamp="1549368942302">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="49" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Permission/config.js" timestamp="1549374499084">
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" timestamp="1549280654213">
         <mark key="'" line="4572" column="17" />
@@ -126,6 +126,11 @@
         <mark key="]" line="18" column="8" />
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Permission/Permission.jsx" timestamp="1549374565062">
+        <mark key="]" line="35" column="23" />
+        <mark key="^" line="35" column="23" />
+        <mark key="." line="35" column="23" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/Login/Login.jsx" timestamp="1549291638774">
         <mark key="'" line="15" column="8" />
@@ -238,8 +243,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stub asyncValidate and urlcreator fix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBnZXRMb2dpbkluZm8kLnN1YnNjcmliZShjb25zb2xlLmxvZywgY29uc29sZS5sb2cpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>stub asyncValidate and urlcreator fix</text>
@@ -251,31 +256,31 @@
         <text encoding="base64">ICAgICA8bGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InJhZGlvdGVzdCIgey4uLnByb3BzfSAvPgogICAgICAgICAgICAgICAgICAgICAgYWxnbwogICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R1QtMTI3NCBuYW1lIHJlZmFjdG9yIGxvZ2luIC0+IGxvZ0luCg==</text>
+        <text encoding="base64">ICBnZXRMb2dpbkluZm8kLnN1YnNjcmliZShjb25zb2xlLmxvZywgY29uc29sZS5sb2cpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZ2V0VG9rZW5Gcm9tTG9jYWxTdG9yYWdlKCknLCBnZXRUb2tlbkZyb21Mb2NhbFN0b3JhZ2UoKSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICBjb25zdCBnZXRMb2dpbkluZm8kID0gYWpheC5nZXRKU09OKHVybCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndXJsJywgdXJsKTsvLyBUT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoKQo=</text>
+        <text encoding="base64">R1QtMTI3NCBuYW1lIHJlZmFjdG9yIGxvZ2luIC0+IGxvZ0luCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndXJpR2VsbGVyJywgdXJpR2VsbGVyKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXRMb2dpbkluZm8kLnN1YnNjcmliZShoYW5kbGVyKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZ2V0VG9rZW5Gcm9tTG9jYWxTdG9yYWdlKCknLCBnZXRUb2tlbkZyb21Mb2NhbFN0b3JhZ2UoKSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBnZXRMb2dpbkluZm8kID0gYWpheC5nZXRKU09OKCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
