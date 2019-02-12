@@ -78,10 +78,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549967345481">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1549973249821">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="vm:5527" timestamp="1549971762968">
         <mark key="[" line="0" column="0" />
@@ -100,11 +100,11 @@
       <file name="chrome-extension://kejbdjndbnbjgmefkgdddjlbokphdefk/tag_assistant_compiled.js" timestamp="1549971782233">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/permissionEpic.js" timestamp="1549971738832">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="31" column="43" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/permissionEpic.js" timestamp="1549974255722">
+        <mark key="[" line="10" column="79" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/head.html.twig" timestamp="1549448291015">
         <mark key="[" line="1" column="23" />
@@ -127,11 +127,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/Permission/Permission.jsx" timestamp="1549964030584">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="12" column="3" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Permission/Permission.jsx" timestamp="1549973185990">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="17" column="112" />
       </file>
       <file name="vm:8082" timestamp="1549964345369">
         <mark key="[" line="0" column="0" />
@@ -241,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>values</text>
@@ -253,31 +253,31 @@
         <text encoding="base64">Y29uc3QgUEFSQU1fRU1BSUwgPSAnZW1haWwnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2Vycm9yJywgZXJyb3IpOy8vIFRPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXh0OiBQRVJNSVNTSU9OX0lTX05PVF9TVVBFUkFETUlOLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VsZXJyb2NpY28nLCBlcnJvci5yZXNwb25zZS5lcnJvcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0eXBlOiBQRVJNSVNTSU9OX0lTX05PVF9TVVBFUkFETUlOLAo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFjdGlvbklzTm90U3VwZXJhZG1pbiA9ICgpID0+ICh7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGNvbmNhdCgKICAgICAgb2YoY3JlYXRlTm90aWZpY2F0aW9uKCdlcnJvciBkZSBjb3NhcyAnLCAnZXJyb3InKSksCiAgICApKSw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcChyZXNwb25zZSA9PiBvZihyZXNwb25zZSkpLAo=</text>
+        <text encoding="base64">ICAgICAgdGFwKGVycm9yID0+IGNvbnNvbGUubG9nKCdlcnIubWVzc2FnZScsIGVycm9yKSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
+        <text encoding="base64">ICAgICAgb2YodGFwKGNvbnNvbGUubG9nKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
+        <text encoding="base64">ICAgICAgdGFwKGNvbnNvbGUubG9nKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
