@@ -7,10 +7,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/package.json" timestamp="1550059551556">
-        <mark key="[" line="49" column="23" />
-        <mark key="]" line="52" column="25" />
-        <mark key="." line="52" column="25" />
-        <mark key="^" line="52" column="25" />
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="49" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/loginEpics.test.js" timestamp="1550086556756">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/constants/roles.js" timestamp="1550052312822">
         <mark key="[" line="0" column="6" />
@@ -38,12 +44,6 @@
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/constants/messages.js" timestamp="1550044263734">
         <mark key="[" line="28" column="109" />
-      </file>
-      <file name="$USER_HOME$/src/cmsadmin/__mocks__/rxjs/ajax/index.js" timestamp="1550054200658">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/PcBlog/PcBlogController.php" timestamp="1549447406140">
         <mark key="[" line="47" column="8" />
@@ -73,7 +73,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550063884144">
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/permissionEpics.test.js" timestamp="1550085518724">
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="97" column="38" />
+        <mark key="." line="97" column="38" />
+        <mark key="^" line="69" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550085291278">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -133,8 +139,8 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-        <mark key="^" line="38" column="90" />
-        <mark key="o" line="47" column="40" />
+        <mark key="^" line="39" column="90" />
+        <mark key="o" line="48" column="40" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/permissionActions.js" timestamp="1549964421018">
         <mark key="[" line="1" column="0" />
@@ -258,11 +264,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostList/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>permissionEpic</text>
       </register>
       <register name="-" type="4">
-        <text>npm run stryker 4 mutant testing report</text>
+        <text>permissionEpic</text>
       </register>
       <register name="/" type="4">
         <text>loginForm</text>
@@ -279,23 +285,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqCiAqIENyZWEgYSBwYXJ0aXIgZGVsIHBheWxvYWQgZGUgbGEgYWN0aW9uIHVuIG9ic2VydmFibGUuCiAqIEBwYXJhbSBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwKICogQHJldHVybnMge09ic2VydmFibGU8QWpheFJlc3BvbnNlPn0KICovCmNvbnN0IGdldE9hamF4U2V0Um9sZXMgPSBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwgPT4gYWpheC5wb3N0KAogIHVybENyZWF0b3IoYXBpUGF0aHMucGNibG9nX3VzZXIpLAogIHsKICAgIGVtYWlsOiBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwuZW1haWwsCiAgICByb2xlczogYWN0aW9uU2V0Um9sZXNPZlVzZXJCeUVtYWlsLnJvbGVzU3RyU2VwYXJhdGVkQnlDb21tYXMsCiAgfSwKKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmVycm9yY2ljbyA9IGVycm9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNwb25zZTogeyBlcnJvcjogJ25vdERlZmluZWQnLCBtZXNzYWdlOiAnbm90RGVmaW5lZCcsIGluZm86IHsgc2NvcGU6ICdjbXNfc3VwZXJfYWRtaW4nLCBGaWxlOiAnL3Zhci93d3cvaHRtbC9zcmMvUGNjL0RvbWFpbi9TZXJ2aWNlL1BjQmxvZy9Vc2VyL1NldFVzZXJTY29wZXNTZXJ2aWNlLnBocCcsIExpbmU6IDUwIH0gfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXNwb25zZVR5cGU6ICdqc29uJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IDQwOSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
