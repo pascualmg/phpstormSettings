@@ -29,7 +29,7 @@
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/build/static/js/2.927cb816.chunk.js" timestamp="1550043408105" />
+      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/permissionActionCreators.js" timestamp="1550084095806" />
       <file name="$USER_HOME$/src/pccadminstorybook/.babelrc" timestamp="1548144618960">
         <mark key="[" line="2" column="48" />
       </file>
@@ -68,13 +68,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/actionCreators/loginActionCreators.js" timestamp="1550050075228" />
       <file name="$USER_HOME$/src/cmsadmin/src/components/CategoryList/index.jsx" timestamp="1549971850164">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/config/__tests__/localStorageRedux.test.js" timestamp="1550049353616" />
       <file name="/Dummy.txt" timestamp="1550063884144">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -83,6 +81,7 @@
       <file name="vm:5527" timestamp="1549971762968">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/actions/__tests__/permissionActions.test.js" timestamp="1550084294201" />
       <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducer.js" timestamp="1549894676696">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -130,12 +129,12 @@
         <mark key="]" line="28" column="27" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/permissionEpic.test.js" timestamp="1550064277234">
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="47" column="38" />
-        <mark key="." line="47" column="38" />
-        <mark key="^" line="39" column="90" />
-        <mark key="o" line="48" column="40" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/permissionEpic.test.js" timestamp="1550084272173">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="38" column="90" />
+        <mark key="o" line="47" column="40" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/permissionActions.js" timestamp="1549964421018">
         <mark key="[" line="1" column="0" />
@@ -259,8 +258,8 @@
       <jump line="19" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostList/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>npm run stryker 4 mutant testing report</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>npm run stryker 4 mutant testing report</text>
@@ -277,26 +276,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LyoqCiAqIENyZWEgYSBwYXJ0aXIgZGVsIHBheWxvYWQgZGUgbGEgYWN0aW9uIHVuIG9ic2VydmFibGUuCiAqIEBwYXJhbSBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwKICogQHJldHVybnMge09ic2VydmFibGU8QWpheFJlc3BvbnNlPn0KICovCmNvbnN0IGdldE9hamF4U2V0Um9sZXMgPSBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwgPT4gYWpheC5wb3N0KAogIHVybENyZWF0b3IoYXBpUGF0aHMucGNibG9nX3VzZXIpLAogIHsKICAgIGVtYWlsOiBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwuZW1haWwsCiAgICByb2xlczogYWN0aW9uU2V0Um9sZXNPZlVzZXJCeUVtYWlsLnJvbGVzU3RyU2VwYXJhdGVkQnlDb21tYXMsCiAgfSwKKTs=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCiAqIENyZWEgYSBwYXJ0aXIgZGVsIHBheWxvYWQgZGUgbGEgYWN0aW9uIHVuIG9ic2VydmFibGUuCiAqIEBwYXJhbSBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwKICogQHJldHVybnMge09ic2VydmFibGU8QWpheFJlc3BvbnNlPn0KICovCmNvbnN0IGdldE9hamF4U2V0Um9sZXMgPSBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwgPT4gYWpheC5wb3N0KAogIHVybENyZWF0b3IoYXBpUGF0aHMucGNibG9nX3VzZXIpLAogIHsKICAgIGVtYWlsOiBhY3Rpb25TZXRSb2xlc09mVXNlckJ5RW1haWwuZW1haWwsCiAgICByb2xlczogYWN0aW9uU2V0Um9sZXNPZlVzZXJCeUVtYWlsLnJvbGVzU3RyU2VwYXJhdGVkQnlDb21tYXMsCiAgfSwKKTs=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmVycm9yY2ljbyA9IGVycm9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXNwb25zZTogeyBlcnJvcjogJ25vdERlZmluZWQnLCBtZXNzYWdlOiAnbm90RGVmaW5lZCcsIGluZm86IHsgc2NvcGU6ICdjbXNfc3VwZXJfYWRtaW4nLCBGaWxlOiAnL3Zhci93d3cvaHRtbC9zcmMvUGNjL0RvbWFpbi9TZXJ2aWNlL1BjQmxvZy9Vc2VyL1NldFVzZXJTY29wZXNTZXJ2aWNlLnBocCcsIExpbmU6IDUwIH0gfSwK</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmVycm9yY2ljbyA9IGVycm9yOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNwb25zZVR5cGU6ICdqc29uJywK</text>
+        <text encoding="base64">ICByZXNwb25zZTogeyBlcnJvcjogJ25vdERlZmluZWQnLCBtZXNzYWdlOiAnbm90RGVmaW5lZCcsIGluZm86IHsgc2NvcGU6ICdjbXNfc3VwZXJfYWRtaW4nLCBGaWxlOiAnL3Zhci93d3cvaHRtbC9zcmMvUGNjL0RvbWFpbi9TZXJ2aWNlL1BjQmxvZy9Vc2VyL1NldFVzZXJTY29wZXNTZXJ2aWNlLnBocCcsIExpbmU6IDUwIH0gfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IDQwOSwK</text>
+        <text encoding="base64">ICByZXNwb25zZVR5cGU6ICdqc29uJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBzdGF0dXM6IDQwOSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
