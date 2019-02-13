@@ -38,11 +38,15 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/build/static/js/2.927cb816.chunk.js" timestamp="1550043408105" />
       <file name="$USER_HOME$/src/pccadminstorybook/.babelrc" timestamp="1548144618960">
         <mark key="[" line="2" column="48" />
       </file>
       <file name="/PHP Console" timestamp="1549447197254">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/constants/messages.js" timestamp="1550044263734">
+        <mark key="[" line="28" column="109" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/PcBlog/PcBlogController.php" timestamp="1549447406140">
         <mark key="[" line="47" column="8" />
@@ -72,7 +76,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549980617203">
+      <file name="/Dummy.txt" timestamp="1550044405169">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -88,11 +92,11 @@
       <file name="chrome-extension://kejbdjndbnbjgmefkgdddjlbokphdefk/tag_assistant_compiled.js" timestamp="1549971782233">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/permissionEpic.js" timestamp="1549980420065">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/permissionEpic.js" timestamp="1550044374191">
+        <mark key="[" line="36" column="90" />
+        <mark key="]" line="36" column="89" />
+        <mark key="." line="36" column="89" />
+        <mark key="^" line="36" column="89" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/head.html.twig" timestamp="1549448291015">
         <mark key="[" line="1" column="23" />
@@ -120,11 +124,10 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/Permission/Permission.jsx" timestamp="1549980605334">
-        <mark key="[" line="45" column="66" />
-        <mark key="]" line="65" column="9" />
-        <mark key="." line="65" column="9" />
-        <mark key="^" line="65" column="9" />
+      <file name="$USER_HOME$/src/cmsadmin/src/components/Permission/Permission.jsx" timestamp="1550043725168">
+        <mark key="[" line="47" column="64" />
+        <mark key="]" line="47" column="64" />
+        <mark key="." line="47" column="64" />
       </file>
       <file name="vm:8082" timestamp="1549964345369">
         <mark key="[" line="0" column="0" />
@@ -234,13 +237,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deleted unused actions</text>
+        <text>delete reduntant comment</text>
       </register>
       <register name="-" type="4">
-        <text>deleted unused actions</text>
+        <text>delete reduntant comment</text>
       </register>
       <register name="/" type="4">
-        <text>values</text>
+        <text>loginForm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlKCdyb2xlIGFzaWduYWRvIGNvcnJlY3RhbWVudGUnLCBSZXNwb25zZTo6SFRUUF9DUkVBVEVEKTsK</text>
@@ -277,16 +280,14 @@
       </register>
     </registers>
     <search>
-      <last-search>values</last-search>
+      <last-search>loginForm</last-search>
       <last-offset />
-      <last-pattern>values</last-pattern>
+      <last-pattern>loginForm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hand</entry>
-        <entry>setPost</entry>
         <entry>setPostsList</entry>
         <entry>No</entry>
         <entry>Stat</entry>
@@ -305,6 +306,8 @@
         <entry>babel-lo</entry>
         <entry>loa</entry>
         <entry>values</entry>
+        <entry>Esta cuenta no tiene permisos para acceder al administrador del CMS</entry>
+        <entry>loginForm</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
