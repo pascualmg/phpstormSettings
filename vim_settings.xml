@@ -12,11 +12,11 @@
         <mark key="." line="49" column="25" />
         <mark key="^" line="49" column="25" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/loginEpics.test.js" timestamp="1550086556756">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="44" />
-        <mark key="." line="3" column="44" />
-        <mark key="^" line="3" column="44" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/loginEpics.test.js" timestamp="1550087393140">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/constants/roles.js" timestamp="1550052312822">
         <mark key="[" line="0" column="6" />
@@ -265,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>permissionEpic</text>
+        <text>ajaxSetRolesOfUserByEmail</text>
       </register>
       <register name="-" type="4">
-        <text>permissionEpic</text>
+        <text>ajaxSetRolesOfUserByEmail</text>
       </register>
       <register name="/" type="4">
         <text>loginForm</text>
@@ -277,31 +277,31 @@
         <text encoding="base64">ICAgICJzdHJ5a2VyIjogIm5vZGUgLi9ub2RlX21vZHVsZXMvc3RyeWtlci9iaW4vc3RyeWtlciBydW4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtZXNzYWdlOiAnYWpheCBlcnJvciA0MDknLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbW9ja2VkUG9zdFdpdGgyMzAwNUVycm9yID0gamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh0aHJvd0Vycm9yKHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmx1c2goKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0T2JzZXJ2YWJsZShyZXN1bHQkKS50b0JlKGV4cGVjdGVkTWFyYmxlLCBleHBlY3RlZFZhbHVlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVzdWx0JCA9IGxvZ2luKHNvdXJjZSQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
