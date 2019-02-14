@@ -27,6 +27,12 @@
       <file name="vm:5527" timestamp="1549971762968">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/categoryEpics.test.js" timestamp="1550153020763">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="80" column="3" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="chrome-extension://kejbdjndbnbjgmefkgdddjlbokphdefk/tag_assistant_compiled.js" timestamp="1549971782233">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,10 +65,10 @@
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/styleSheetsActions.js" timestamp="1550138740156" />
       <file name="$USER_HOME$/src/cmsadmin/src/actions/loginActions.js" timestamp="1550138587032" />
-      <file name="/Dummy.txt" timestamp="1550151490458">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1550153643428">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/__tests__/styleSheetsActions.test.js" timestamp="1550138834406">
         <mark key="[" line="32" column="25" />
@@ -74,11 +80,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/notificationEpics.js" timestamp="1550145893553" />
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/styleSheetEpics.test.js" timestamp="1550152388974">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="62" column="17" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/styleSheetEpics.test.js" timestamp="1550153561088">
+        <mark key="[" line="79" column="59" />
+        <mark key="]" line="79" column="59" />
+        <mark key="." line="79" column="59" />
+        <mark key="^" line="68" column="32" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1550144827974">
         <mark key="[" line="23" column="30" />
@@ -196,43 +202,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>happy path</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>happy path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiOiBkYXRhU3RvcExvYWRpbmdBY3Rpb25DcmVhdG9yKHNvbWVJZCksCg==</text>
+        <text encoding="base64">ICAvLyAgICAgICBhOiBkYXRhU3RhcnRMb2FkaW5nQWN0aW9uQ3JlYXRvcihzb21lSWQoKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiOiBkYXRhU2V0RGF0YUFjdGlvbkNyZWF0b3Ioc29tZUlkKCksIHN1Y2Nlc3NSZXNwb25zZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhOiBkYXRhU3RhcnRMb2FkaW5nQWN0aW9uQ3JlYXRvcihzb21lSWQoKSksCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbW9ja2VkRXJyb3JHZXRKU09OID0gamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh0aHJvd0Vycm9yKCdFcnJvcicpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbW9ja2VkRXJyb3IgPSB7IG1lc3NhZ2U6ICdmYWtlRXJyb3InIH07Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgOiB0aHJvd0Vycm9yKGVycikpLAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IG1vY2tlZFRocm93KG1vY2tlZEVycm9yKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPyBvZihhamF4UmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBiOiBkYXRhU2V0RGF0YUFjdGlvbkNyZWF0b3Ioc29tZUlkKCksIHN1Y2Nlc3NSZXNwb25zZSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICYmICEhYm9keS5wYXNzd29yZAo=</text>
+        <text encoding="base64">ICAgICAgICBhOiBkYXRhU3RhcnRMb2FkaW5nQWN0aW9uQ3JlYXRvcihzb21lSWQoKSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICYmICEhYm9keS51c2VybmFtZQo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICYmICEhYm9keS5ncmFudF90eXBlCg==</text>
+        <text encoding="base64">ICAgICAgOiB0aHJvd0Vycm9yKGVycikpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICYmICEhYm9keS5jbGllbnRfc2VjcmV0Cg==</text>
+        <text encoding="base64">ICAgICAgPyBvZihhamF4UmVzcG9uc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
