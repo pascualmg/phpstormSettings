@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1550140670380">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="vm:526" timestamp="1549287006931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -135,12 +140,6 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="27" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1550136792470">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="51" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/permissionEpic.test.js" timestamp="1550084272173">
         <mark key="[" line="34" column="0" />
@@ -277,24 +276,31 @@
       <jump line="19" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostList/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GT-1297 , login epic 80% 
-GIVEN user in a loginForm '
-    + 'WHEN performs submit in the loginForm and emits LOGIN_AJAX action is dispatched'
-    + 'AND got oauth invalid grant error '
-    + ' THEN create 2 actions: '
-    + ' LOGIN_FAILURE,NOTIFICATION'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcm91dGVzSWRzIGFzIHJvdXRlIH0gZnJvbSAnLi9pZHMnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>actions</text>
       </register>
       <register name="/" type="4">
-        <text>loginForm</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiOiBjcmVhdGVOb3RpZmljYXRpb24obG9naW5NZXNzYWdlcy5JTlZBTElEX1VTRVJfUk9MRVMsIE5ULkVSUk9SKSwK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcm91dGVzSWRzIGFzIHJvdXRlIH0gZnJvbSAnLi9pZHMnOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="5" type="4">
         <text>GT-1297 , login epic 80% 
 GIVEN user in a loginForm '
     + 'WHEN performs submit in the loginForm and emits LOGIN_AJAX action is dispatched'
@@ -302,47 +308,31 @@ GIVEN user in a loginForm '
     + ' THEN create 2 actions: '
     + ' LOGIN_FAILURE,NOTIFICATION'</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAnU1RZTEVTSEVFVF9BSkFYX0dFVF9MSVNUJwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAnU1RZTEVTSEVFVF9BSkFYX0dFVF9MSVNUJywK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IEFjdGlvbnMgZnJvbSAnLi4vc3R5bGVTaGVldHNBY3Rpb25zJzsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFjdGlvbnMgZnJvbSAnLi4vYWN0aW9ucy9sb2dpbkFjdGlvbnMnOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiOiBjcmVhdGVOb3RpZmljYXRpb24obG9naW5NZXNzYWdlcy5JTlZBTElEX1VTRVJfUk9MRVMsIE5ULkVSUk9SKSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgbWVzc2FnZTogYCR7bG9naW5NZXNzYWdlcy5JTlZBTElEX1VTRVJfUk9MRVN9ICR7bW9ja2VkU3VjY2Vzc0FqYXhSZXNwb25zZUJ1dE9ubHlBbm9uU2NvcGUucmVzcG9uc2Uuc2NvcGV9YCB9LAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>mockedPostIfCorrectUrlAndPayloadWith(
-        mockedSuccessAjaxResponseButOnlyAnonScope,
-        null,
-      );</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICsgJ0FORCBnb3Qgb2F1dGggaW52YWxpZCBncmFudCAnICsK</text>
+        <text encoding="base64">aW1wb3J0IGFjdGlvbnMgZnJvbSAnLi4vYWN0aW9ucy9sb2dpbkFjdGlvbnMnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loginForm</last-search>
+      <last-search encoding="base64">PA==</last-search>
       <last-offset />
-      <last-pattern>loginForm</last-pattern>
+      <last-pattern encoding="base64">PA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setPostsList</entry>
         <entry>No</entry>
         <entry>Stat</entry>
         <entry>push</entry>
@@ -362,6 +352,7 @@ GIVEN user in a loginForm '
         <entry>values</entry>
         <entry>Esta cuenta no tiene permisos para acceder al administrador del CMS</entry>
         <entry>loginForm</entry>
+        <entry encoding="base64">PA==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
