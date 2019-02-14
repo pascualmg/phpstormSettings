@@ -11,10 +11,10 @@
       <file name="vm:526" timestamp="1549287006931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1549966008512">
+      <file name="/fragment.js" timestamp="1550152036690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/styleSheetEpics.js" timestamp="1550146589107" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/styleSheetEpics.js" timestamp="1550151823365" />
       <file name="$USER_HOME$/src/cmsadmin/src/constants/messages.js" timestamp="1550044263734">
         <mark key="[" line="28" column="109" />
       </file>
@@ -38,7 +38,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/package.json" timestamp="1550143639087" />
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/loginEpics.test.js" timestamp="1550144972809">
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/loginEpics.test.js" timestamp="1550150636982">
         <mark key="[" line="167" column="10" />
         <mark key="]" line="174" column="44" />
         <mark key="." line="174" column="44" />
@@ -54,12 +54,12 @@
       <file name="/PHP Console" timestamp="1549447197254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550138892804">
+      <file name="/JavaScript Console" timestamp="1550151971680">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/styleSheetsActions.js" timestamp="1550138740156" />
       <file name="$USER_HOME$/src/cmsadmin/src/actions/loginActions.js" timestamp="1550138587032" />
-      <file name="/Dummy.txt" timestamp="1550145510685">
+      <file name="/Dummy.txt" timestamp="1550151490458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -74,11 +74,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/notificationEpics.js" timestamp="1550145893553" />
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/styleSheetEpics.test.js" timestamp="1550146745210">
-        <mark key="[" line="73" column="23" />
-        <mark key="]" line="73" column="23" />
-        <mark key="^" line="73" column="24" />
-        <mark key="." line="73" column="23" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/styleSheetEpics.test.js" timestamp="1550152388974">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="62" column="17" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1550144827974">
         <mark key="[" line="23" column="30" />
@@ -196,47 +196,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SETUSER</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>SETUSER</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiOiBjcmVhdGVOb3RpZmljYXRpb24obG9naW5NZXNzYWdlcy5JTlZBTElEX1VTRVJfUk9MRVMsIE5ULkVSUk9SKSwK</text>
+        <text encoding="base64">ICAgICAgICBiOiBkYXRhU3RvcExvYWRpbmdBY3Rpb25DcmVhdG9yKHNvbWVJZCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICsgJyAuLiBhbmQgdGhlbiByZWRpcmVjdCB0byAvcG9zdHMgd2l0aCBQVVNIJywgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICBiOiBkYXRhU2V0RGF0YUFjdGlvbkNyZWF0b3Ioc29tZUlkKCksIHN1Y2Nlc3NSZXNwb25zZSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICsgJyBMT0dJTl9TVUNFU1MsTk9USUZJQ0FUSU9OLFNFVFVTRVInCg==</text>
+        <text encoding="base64">ICAgICAgICBhOiBkYXRhU3RhcnRMb2FkaW5nQWN0aW9uQ3JlYXRvcihzb21lSWQoKSksCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBpdCgnR0lWRU4gdXNlciBpbiBhIGxvZ2luRm9ybSAnCiAgICArICdXSEVOIHBlcmZvcm1zIHN1Ym1pdCBpbiB0aGUgbG9naW5Gb3JtIGFuZCBlbWl0cyBMT0dJTl9BSkFYIGFjdGlvbiBpcyBkaXNwYXRjaGVkJwogICAgKyAnQU5EIGdvdCBTdWNjZXNzIFJlc3BvbnNlIGJ1dCB1c2VyIGRvbnQgaGF2ZSBjb3JyZWN0IHJvbGVzJwogICAgKyAnIFRIRU4gY3JlYXRlIDIgYWN0aW9uczogJwogICAgKyAnIExPR0lOX0ZBSUxVUkUsTk9USUZJQ0FUSU9OJywgKCkgPT4gewogICAgY29uc3Qgc2NoZWR1bGVyID0gbmV3IFRlc3RTY2hlZHVsZXIoKGFjdHVhbCwgZXhwZWN0ZWQpID0+IGV4cGVjdChhY3R1YWwpLnRvRXF1YWwoZXhwZWN0ZWQpKTsKICAgIHNjaGVkdWxlci5ydW4oKGhlbHBlcnMpID0+IHsKICAgICAgY29uc3QgewogICAgICAgIGNvbGQsIGZsdXNoLCBleHBlY3RPYnNlcnZhYmxlLAogICAgICB9ID0gaGVscGVyczsKCiAgICAgIGFqYXgucG9zdCA9IG1vY2tlZFBvc3RJZkNvcnJlY3RVcmxBbmRQYXlsb2FkV2l0aCgKICAgICAgICBtb2NrZWRTdWNjZXNzQWpheFJlc3BvbnNlQnV0T25seUFub25TY29wZSwKICAgICAgICBudWxsLAogICAgICApOwoKICAgICAgY29uc3Qgc291cmNlTWFyYmxlID0gJy1hJzsKICAgICAgY29uc3Qgc291cmNlVmFsdWVzID0gewogICAgICAgIGE6IGxvZ2luQWpheEFjdGlvbkNyZWF0b3IoCiAgICAgICAgICBzb21lVXNlck5hbWUoKSwKICAgICAgICAgIHNvbWVQYXNzd29yZCgpLAogICAgICAgICksCiAgICAgIH07CiAgICAgIGNvbnN0IHNvdXJjZSQgPSBjb2xkKHNvdXJjZU1hcmJsZSwgc291cmNlVmFsdWVzKTsKCiAgICAgIGNvbnN0IGV4cGVjdGVkTWFyYmxlID0gJy0oYWIpJzsKICAgICAgY29uc3QgZXhwZWN0ZWRWYWx1ZXMgPSB7CiAgICAgICAgYTogbG9naW5GYWlsdXJlQWN0aW9uQ3JlYXRvcigKICAgICAgICAgIHsgbWVzc2FnZTogYCR7bG9naW5NZXNzYWdlcy5JTlZBTElEX1VTRVJfUk9MRVN9ICR7bW9ja2VkU3VjY2Vzc0FqYXhSZXNwb25zZUJ1dE9ubHlBbm9uU2NvcGUucmVzcG9uc2Uuc2NvcGV9YCB9LAogICAgICAgICksCiAgICAgICAgYjogY3JlYXRlTm90aWZpY2F0aW9uKGxvZ2luTWVzc2FnZXMuSU5WQUxJRF9VU0VSX1JPTEVTLCBOVC5FUlJPUiksCiAgICAgIH07CgogICAgICAvLyBlcGlpaWlpYwogICAgICBjb25zdCByZXN1bHQkID0gbG9naW4oc291cmNlJCk7CgogICAgICBleHBlY3RPYnNlcnZhYmxlKHJlc3VsdCQpLnRvQmUoZXhwZWN0ZWRNYXJibGUsIGV4cGVjdGVkVmFsdWVzKTsKICAgICAgZmx1c2goKTsKICAgIH0pOwogIH0pOwogIGl0KCdHSVZFTiB1c2VyIGluIGEgbG9naW5Gb3JtICcKICAgICsgJ1dIRU4gcGVyZm9ybXMgc3VibWl0IGluIHRoZSBsb2dpbkZvcm0gYW5kIGVtaXRzIExPR0lOX0FKQVggYWN0aW9uIGlzIGRpc3BhdGNoZWQnCiAgICArICdBTkQgZ290IG9hdXRoIGludmFsaWQgZ3JhbnQgZXJyb3IgJwogICAgKyAnIFRIRU4gY3JlYXRlIDIgYWN0aW9uczogJwogICAgKyAnIExPR0lOX0ZBSUxVUkUsTk9USUZJQ0FUSU9OJywgKCkgPT4gewogICAgY29uc3Qgc2NoZWR1bGVyID0gbmV3IFRlc3RTY2hlZHVsZXIoKGFjdHVhbCwgZXhwZWN0ZWQpID0+IGV4cGVjdChhY3R1YWwpLnRvRXF1YWwoZXhwZWN0ZWQpKTsKICAgIHNjaGVkdWxlci5ydW4oKGhlbHBlcnMpID0+IHsKICAgICAgY29uc3QgewogICAgICAgIGNvbGQsIGZsdXNoLCBleHBlY3RPYnNlcnZhYmxlLAogICAgICB9ID0gaGVscGVyczsKCiAgICAgIGFqYXgucG9zdCA9IG1vY2tlZFRocm93KG1vY2tlZEludmFsaWRHcmFudEVycm9yKTsKCiAgICAgIGNvbnN0IHNvdXJjZU1hcmJsZSA9ICctYSc7CiAgICAgIGNvbnN0IHNvdXJjZVZhbHVlcyA9IHsKICAgICAgICBhOiBsb2dpbkFqYXhBY3Rpb25DcmVhdG9yKAogICAgICAgICAgc29tZVVzZXJOYW1lKCksCiAgICAgICAgICBzb21lUGFzc3dvcmQoKSwKICAgICAgICApLAogICAgICB9OwogICAgICBjb25zdCBzb3VyY2UkID0gY29sZChzb3VyY2VNYXJibGUsIHNvdXJjZVZhbHVlcyk7CgogICAgICBjb25zdCBleHBlY3RlZE1hcmJsZSA9ICctKGFiKSc7CiAgICAgIGNvbnN0IGV4cGVjdGVkVmFsdWVzID0gewogICAgICAgIGE6IGxvZ2luRmFpbHVyZUFjdGlvbkNyZWF0b3IobW9ja2VkSW52YWxpZEdyYW50RXJyb3IpLAogICAgICAgIGI6IGNyZWF0ZU5vdGlmaWNhdGlvbihsb2dpbk1lc3NhZ2VzLkxPR0lOX0ZBSUxVUkUsIE5ULkVSUk9SKSwKICAgICAgfTsKCiAgICAgIC8vIGVwaWlpaWljCiAgICAgIGNvbnN0IHJlc3VsdCQgPSBsb2dpbihzb3VyY2UkKTsKCiAgICAgIGV4cGVjdE9ic2VydmFibGUocmVzdWx0JCkudG9CZShleHBlY3RlZE1hcmJsZSwgZXhwZWN0ZWRWYWx1ZXMpOwogICAgICBmbHVzaCgpOwogICAgfSk7CiAgfSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsb2dpbkZhaWx1cmVBY3Rpb25DcmVhdG9yLAo=</text>
+        <text encoding="base64">ICAgICAgOiB0aHJvd0Vycm9yKGVycikpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2dpblNldFVzZXIsCg==</text>
+        <text encoding="base64">ICAgICAgPyBvZihhamF4UmVzcG9uc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dpblN1Y2Nlc3NBY3Rpb25DcmVhdG9yLAo=</text>
+        <text encoding="base64">ICAgICYmICEhYm9keS5wYXNzd29yZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2dpbkFqYXhBY3Rpb25DcmVhdG9yLAo=</text>
+        <text encoding="base64">ICAgICYmICEhYm9keS51c2VybmFtZQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>Merge branch 'feature/epic-login-test' into feature/GT-1269-dar-permisos-a-usuarios-de-pccomponentes
-
-# Conflicts:
-#	src/actions/__tests__/postsActions.test.js
-#	src/actions/__tests__/styleSheetsActions.test.js</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICYmICEhYm9keS5ncmFudF90eXBlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcm91dGVzSWRzIGFzIHJvdXRlIH0gZnJvbSAnLi9pZHMnOwo=</text>
+        <text encoding="base64">ICAgICYmICEhYm9keS5jbGllbnRfc2VjcmV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
