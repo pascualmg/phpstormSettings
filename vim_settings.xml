@@ -62,11 +62,11 @@
         <mark key="^" line="80" column="3" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducer.js" timestamp="1550227015345">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducer.js" timestamp="1550229312672">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="17" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="chrome-extension://kejbdjndbnbjgmefkgdddjlbokphdefk/tag_assistant_compiled.js" timestamp="1549971782233">
         <mark key="[" line="0" column="0" />
@@ -201,11 +201,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostList/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>token_type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleHBpcmVzSW4sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>token_type</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -214,39 +214,35 @@
         <text encoding="base64">ICAgICAgY29uc3QgdG9rZW5UeXBlID0gZ2V0KGFjdGlvbiwgJ3BheWxvYWQudG9rZW5fdHlwZScsICcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBpcmVzSW4sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVycm9yOiAnaW52YWxpZF9ncmFudCcsIGVycm9yX2Rlc2NyaXB0aW9uOiAnSW52YWxpZCB1c2VybmFtZSBhbmQgcGFzc3dvcmQgY29tYmluYXRpb24gb3Igc2NvcGUgbm90IHZhbGlkIG9yIGluYWN0aXZlIHVzZXInLCBGaWxlOiAnL3Zhci93d3cvaHRtbC92ZW5kb3IvcGNjL29hdXRoLXNlcnZlci1idW5kbGUvRk9TL09BdXRoU2VydmVyQnVuZGxlL0NvbnRyb2xsZXIvVG9rZW5Db250cm9sbGVyLnBocCcsIExpbmU6IDQ0LAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmZvOiB7Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtZXNzYWdlOiAnT2F1dGggRXhjZXB0aW9uJywK</text>
+        <text encoding="base64">ICAgIGVycm9yOiAnaW52YWxpZF9ncmFudCcsIGVycm9yX2Rlc2NyaXB0aW9uOiAnSW52YWxpZCB1c2VybmFtZSBhbmQgcGFzc3dvcmQgY29tYmluYXRpb24gb3Igc2NvcGUgbm90IHZhbGlkIG9yIGluYWN0aXZlIHVzZXInLCBGaWxlOiAnL3Zhci93d3cvaHRtbC92ZW5kb3IvcGNjL29hdXRoLXNlcnZlci1idW5kbGUvRk9TL09BdXRoU2VydmVyQnVuZGxlL0NvbnRyb2xsZXIvVG9rZW5Db250cm9sbGVyLnBocCcsIExpbmU6IDQ0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlcnJvcjogMzAwMSwK</text>
+        <text encoding="base64">ICBpbmZvOiB7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICBtZXNzYWdlOiAnT2F1dGggRXhjZXB0aW9uJywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBlcnJvcjogMzAwMSwK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgcHVzaCB9IGZyb20gJ2Nvbm5lY3RlZC1yZWFjdC1yb3V0ZXInOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>'GIVEN user retrieving a styleSheet'
     + ' WHEN STYLESHEET_AJAX_GET_LIST action is dispatched'
     + ' AND got error'
     + ' THEN create 2 actions: '
     + ' DL_START, DL_STOP'</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAsIHRlc3QgNCBsb2dpbiBhbmQgc3R5bGVzaGVldAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>'GIVEN user in a loginForm '
-    + 'WHEN performs submit in the loginForm and emits LOGIN_AJAX action is dispatched'
-    + 'AND got Success Response but user dont have correct roles'
-    + ' THEN create 2 actions: '
-    + ' LOGIN_FAILURE,NOTIFICATION',</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
