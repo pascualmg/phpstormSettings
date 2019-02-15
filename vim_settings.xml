@@ -11,11 +11,11 @@
       <file name="vm:526" timestamp="1549287006931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/loginEpics.test.js" timestamp="1550222823525">
-        <mark key="[" line="71" column="6" />
-        <mark key="]" line="71" column="6" />
-        <mark key="." line="71" column="6" />
-        <mark key="^" line="174" column="62" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/loginEpics.test.js" timestamp="1550224519891">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+        <mark key="^" line="30" column="1" />
         <mark key="o" line="120" column="79" />
       </file>
       <file name="/fragment.js" timestamp="1550152036690">
@@ -45,10 +45,10 @@
       <file name="vm:5527" timestamp="1549971762968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550222277308">
+      <file name="/Dummy.txt" timestamp="1550224547971">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/__tests__/styleSheetsActions.test.js" timestamp="1550138834406">
         <mark key="[" line="32" column="25" />
@@ -71,11 +71,11 @@
       <file name="extensions::messaging" timestamp="1550046245914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/styleSheetEpics.test.js" timestamp="1550153561088">
-        <mark key="[" line="79" column="59" />
-        <mark key="]" line="79" column="59" />
-        <mark key="." line="79" column="59" />
-        <mark key="^" line="68" column="32" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/styleSheetEpics.test.js" timestamp="1550224273226">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="60" column="33" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1550144827974">
         <mark key="[" line="23" column="30" />
@@ -196,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEdJVkVOIHVzZXIgaW4gYSBsb2dpbkZvcm0gJwogICAgKyAnV0hFTiBwZXJmb3JtcyBzdWJtaXQgaW4gdGhlIGxvZ2luRm9ybSBhbmQgZW1pdHMgTE9HSU5fQUpBWCBhY3Rpb24gaXMgZGlzcGF0Y2hlZCcKICAgICsgJ0FORCBnb3Qgc3VjY2VzcyByZXNwb25zZSB3aXRoIENvcnJlY3QgUm9sZXMnCiAgICArICcgVEhFTiBjcmVhdGUgNCBhY3Rpb25zOiAnCiAgICArICcgTE9HSU5fU1VDRVNTLE5PVElGSUNBVElPTixTRVRVU0VSJwogICAgKyAnIC4uIGFuZCB0aGVuIHJlZGlyZWN0IHRvIC9wb3N0cyB3aXRoIFBVU0g=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>styleSheetEpic 100%</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -207,32 +207,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAvLyAgICAgICBhOiBkYXRhU3RhcnRMb2FkaW5nQWN0aW9uQ3JlYXRvcihzb21lSWQoKSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IEdJVkVOIHVzZXIgaW4gYSBsb2dpbkZvcm0gJwogICAgKyAnV0hFTiBwZXJmb3JtcyBzdWJtaXQgaW4gdGhlIGxvZ2luRm9ybSBhbmQgZW1pdHMgTE9HSU5fQUpBWCBhY3Rpb24gaXMgZGlzcGF0Y2hlZCcKICAgICsgJ0FORCBnb3Qgc3VjY2VzcyByZXNwb25zZSB3aXRoIENvcnJlY3QgUm9sZXMnCiAgICArICcgVEhFTiBjcmVhdGUgNCBhY3Rpb25zOiAnCiAgICArICcgTE9HSU5fU1VDRVNTLE5PVElGSUNBVElPTixTRVRVU0VSJwogICAgKyAnIC4uIGFuZCB0aGVuIHJlZGlyZWN0IHRvIC9wb3N0cyB3aXRoIFBVU0g=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVycm9yOiAnaW52YWxpZF9ncmFudCcsIGVycm9yX2Rlc2NyaXB0aW9uOiAnSW52YWxpZCB1c2VybmFtZSBhbmQgcGFzc3dvcmQgY29tYmluYXRpb24gb3Igc2NvcGUgbm90IHZhbGlkIG9yIGluYWN0aXZlIHVzZXInLCBGaWxlOiAnL3Zhci93d3cvaHRtbC92ZW5kb3IvcGNjL29hdXRoLXNlcnZlci1idW5kbGUvRk9TL09BdXRoU2VydmVyQnVuZGxlL0NvbnRyb2xsZXIvVG9rZW5Db250cm9sbGVyLnBocCcsIExpbmU6IDQ0LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbW9ja2VkRXJyb3JHZXRKU09OID0gamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh0aHJvd0Vycm9yKCdFcnJvcicpKTsK</text>
+        <text encoding="base64">ICBpbmZvOiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbW9ja2VkRXJyb3IgPSB7IG1lc3NhZ2U6ICdmYWtlRXJyb3InIH07Cg==</text>
+        <text encoding="base64">ICBtZXNzYWdlOiAnT2F1dGggRXhjZXB0aW9uJywK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IG1vY2tlZFRocm93KG1vY2tlZEVycm9yKTsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBlcnJvcjogMzAwMSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiOiBkYXRhU2V0RGF0YUFjdGlvbkNyZWF0b3Ioc29tZUlkKCksIHN1Y2Nlc3NSZXNwb25zZSksCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcHVzaCB9IGZyb20gJ2Nvbm5lY3RlZC1yZWFjdC1yb3V0ZXInOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhOiBkYXRhU3RhcnRMb2FkaW5nQWN0aW9uQ3JlYXRvcihzb21lSWQoKSksCg==</text>
+      <register name="7" type="4">
+        <text>'GIVEN user retrieving a styleSheet'
+    + ' WHEN STYLESHEET_AJAX_GET_LIST action is dispatched'
+    + ' AND got error'
+    + ' THEN create 2 actions: '
+    + ' DL_START, DL_STOP'</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAsIHRlc3QgNCBsb2dpbiBhbmQgc3R5bGVzaGVldAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgOiB0aHJvd0Vycm9yKGVycikpLAo=</text>
+      <register name="9" type="4">
+        <text>'GIVEN user in a loginForm '
+    + 'WHEN performs submit in the loginForm and emits LOGIN_AJAX action is dispatched'
+    + 'AND got Success Response but user dont have correct roles'
+    + ' THEN create 2 actions: '
+    + ' LOGIN_FAILURE,NOTIFICATION',</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
