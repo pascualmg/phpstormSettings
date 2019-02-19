@@ -45,7 +45,7 @@
       <file name="/PHP Console" timestamp="1549447197254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550151971680">
+      <file name="/JavaScript Console" timestamp="1550586385492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/permissionEpics.test.js" timestamp="1550145769968">
@@ -63,16 +63,22 @@
       <file name="vm:5527" timestamp="1549971762968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550230264650">
+      <file name="/Dummy.txt" timestamp="1550587524262">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/__tests__/styleSheetsActions.test.js" timestamp="1550138834406">
         <mark key="[" line="32" column="25" />
         <mark key="]" line="32" column="31" />
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/package.json" timestamp="1550587521371">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/categoryEpics.test.js" timestamp="1550153020763">
         <mark key="[" line="80" column="0" />
@@ -100,6 +106,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="60" column="33" />
       </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/.gitignore" timestamp="1550586134320">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1550144827974">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="55" />
@@ -116,6 +128,14 @@
         <mark key="." line="36" column="31" />
         <mark key="^" line="36" column="31" />
       </file>
+      <file name="restClient/response13.json" timestamp="1550586902606" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550587398711">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="4" />
+      </file>
       <file name="vm:8082" timestamp="1549964345369">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="20" filename="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/PcBlog/CreatePreviewPostService.php" />
       <jump line="32" column="39" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="7" column="2" filename="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" />
       <jump line="245" column="8" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
@@ -227,46 +246,47 @@
       <jump line="51" column="28" filename="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" />
       <jump line="17" column="21" filename="$USER_HOME$/src/cmsadmin/package.json" />
       <jump line="19" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostList/index.jsx" />
+      <jump line="21" column="0" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnLCApOy8vVE9ETzogYm9ycmFtZS4K</text>
+      <register name="&quot;" type="4">
+        <text>es6express</text>
       </register>
       <register name="-" type="4">
-        <text>rulando</text>
+        <text>es6express</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdG9rZW5UeXBlID0gZ2V0KGFjdGlvbiwgJ3BheWxvYWQudG9rZW5fdHlwZScsICcnKTsK</text>
+        <text encoding="base64">ICBhamF4KGFsZ28pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnLCApOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBtYXAoYXJyID0+IHthcnJbLV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">KS5waXBlKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhamF4KGFsZ28pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICBhamF4KGFsZ28pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhamF4KGFsZ28pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vbW9ja2VkIGRhdGEuCg==</text>
+        <text encoding="base64">ICBhamF4KGFsZ28pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">emlwKGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
