@@ -105,6 +105,11 @@
         <mark key="]" line="23" column="55" />
         <mark key="." line="23" column="55" />
       </file>
+      <file name="$USER_HOME$/src/solus-gateway/src/index.js" timestamp="1550586023422">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/actions/__tests__/postsActions.test.js" timestamp="1550138962656">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="36" column="31" />
@@ -113,6 +118,12 @@
       </file>
       <file name="vm:8082" timestamp="1549964345369">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/solus-gateway/package.json" timestamp="1550585483079">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -218,11 +229,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostList/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnLCApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>rulando</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -231,35 +242,31 @@
         <text encoding="base64">ICAgICAgY29uc3QgdG9rZW5UeXBlID0gZ2V0KGFjdGlvbiwgJ3BheWxvYWQudG9rZW5fdHlwZScsICcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBpcmVzSW4sCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnLCApOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVycm9yOiAnaW52YWxpZF9ncmFudCcsIGVycm9yX2Rlc2NyaXB0aW9uOiAnSW52YWxpZCB1c2VybmFtZSBhbmQgcGFzc3dvcmQgY29tYmluYXRpb24gb3Igc2NvcGUgbm90IHZhbGlkIG9yIGluYWN0aXZlIHVzZXInLCBGaWxlOiAnL3Zhci93d3cvaHRtbC92ZW5kb3IvcGNjL29hdXRoLXNlcnZlci1idW5kbGUvRk9TL09BdXRoU2VydmVyQnVuZGxlL0NvbnRyb2xsZXIvVG9rZW5Db250cm9sbGVyLnBocCcsIExpbmU6IDQ0LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbmZvOiB7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtZXNzYWdlOiAnT2F1dGggRXhjZXB0aW9uJywK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlcnJvcjogMzAwMSwK</text>
+        <text encoding="base64">ICAgIC8vbW9ja2VkIGRhdGEuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcHVzaCB9IGZyb20gJ2Nvbm5lY3RlZC1yZWFjdC1yb3V0ZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>'GIVEN user retrieving a styleSheet'
-    + ' WHEN STYLESHEET_AJAX_GET_LIST action is dispatched'
-    + ' AND got error'
-    + ' THEN create 2 actions: '
-    + ' DL_START, DL_STOP'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
