@@ -57,7 +57,7 @@
       <file name="/PHP Console" timestamp="1549447197254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550746191683">
+      <file name="/JavaScript Console" timestamp="1550756409247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/config/index.js" timestamp="1550735344802" />
@@ -119,6 +119,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/src/config.js" timestamp="1550756895574">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
       </file>
       <file name="chrome-extension://kejbdjndbnbjgmefkgdddjlbokphdefk/tag_assistant_compiled.js" timestamp="1549971782233">
         <mark key="[" line="0" column="0" />
@@ -188,12 +194,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550747883663">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="40" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550757085053">
+        <mark key="'" line="35" column="1" />
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
       </file>
       <file name="vm:8082" timestamp="1549964345369">
         <mark key="[" line="0" column="0" />
@@ -206,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/src/cmsadmin/src/epics/createPost.js" />
       <jump line="245" column="8" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="308" column="2" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="312" column="4" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
@@ -306,46 +311,47 @@
       <jump line="19" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/PostList/index.jsx" />
       <jump line="21" column="0" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
       <jump line="28" column="1" filename="$USER_HOME$/src/perereatorio/src/Containers/Counter/index.jsx" />
+      <jump line="35" column="1" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLmdldCggJy8nLCAocmVxLCByZXMpID0+IHJlcy5qc29uKCJnYXRld2F5IHJlYWR5ISIpKTsK</text>
+        <text encoding="base64">ICBhamF4LmdldEpTT04oIHNlcnZpY2VzVXJpICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcChhcnJXaXRoU2VydmljZXMgPT4gYXJyV2l0aFNlcnZpY2VzWzBdKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVhIUiwK</text>
+        <text encoding="base64">ICAgICksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgdGFwKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3IHhtbGh0dHByZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIG1hcChvZikucGlwZSgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlWEhSKCkgewo=</text>
+        <text encoding="base64">ICAgIHRhcChjb25zb2xlLmxvZyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgIGZsYXRNYXAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA+Cg==</text>
+        <text encoding="base64">ICAgIG1hcChzZXJ2aWNlID0+IHNlcnZpY2UubWFwKG9mKSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGBgYGpzCg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3RNYXAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdodHRwczovL2pzb25wbGFjZWhvbGRlci50eXBpY29kZS5jb20vdG9kb3MvMScpCg==</text>
+        <text encoding="base64">ICAgIC8vIHRhcChjb25zb2xlLmxvZyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
