@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1550140670380">
@@ -191,12 +191,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550832281297">
+      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550833141171">
         <mark key="'" line="38" column="7" />
         <mark key="[" line="38" column="43" />
-        <mark key="]" line="39" column="7" />
-        <mark key="^" line="39" column="7" />
-        <mark key="." line="39" column="7" />
+        <mark key="]" line="38" column="41" />
+        <mark key="^" line="38" column="41" />
+        <mark key="." line="38" column="41" />
       </file>
       <file name="vm:8082" timestamp="1549964345369">
         <mark key="[" line="0" column="0" />
@@ -311,11 +311,11 @@
       <jump line="38" column="7" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGZyb20K</text>
+      <register name="&quot;" type="4">
+        <text>.pipe(from),</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.pipe(from),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -324,31 +324,31 @@
         <text encoding="base64">ICAgIGFqYXguZ2V0SlNPTiggYmlsbGluZ1VyaSApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGZyb20K</text>
+        <text encoding="base64">ICAgIGZyb20oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsYXRtYXAK</text>
+        <text encoding="base64">ICAgIGZsYXRNYXAoeCA9PiB4Lm1hcCh2YWwgPT4gb2YodmFsKSkpZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGZyb20K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+        <text encoding="base64">ICAgIGZsYXRtYXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9wYXNjdWFsbWcvanNtb2tlLmdpdCIK</text>
+        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgd2l0aFJvbGVKV1R0b2tlbiA9ICdleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aWFXRjBJam94TlRFMk1qTTVNREl5TENKeWIyeGxJam9pYzNWd1pYSmhaRzFwYmlKOS5LdjlIU2htTjJhOWs0Zml1c0Z5RmF6c0t1MWJtN0N6SEVrbWxtVzlNZkEwJwo=</text>
+        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9wYXNjdWFsbWcvanNtb2tlLmdpdCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
