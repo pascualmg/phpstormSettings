@@ -73,7 +73,7 @@
       <file name="vm:5527" timestamp="1549971762968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550823821548">
+      <file name="/Dummy.txt" timestamp="1550838908738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -84,10 +84,10 @@
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/package.json" timestamp="1550823798551">
-        <mark key="[" line="12" column="76" />
-        <mark key="]" line="12" column="76" />
-        <mark key="." line="12" column="76" />
+      <file name="$USER_HOME$/src/disparate-inesperado/package.json" timestamp="1550838897790">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/src/perereatorio/src/index.jsx" timestamp="1550653937139">
         <mark key="[" line="10" column="0" />
@@ -191,12 +191,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550833141171">
-        <mark key="'" line="38" column="7" />
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="41" />
-        <mark key="^" line="38" column="41" />
-        <mark key="." line="38" column="41" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550838994799">
+        <mark key="'" line="76" column="1" />
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="71" column="19" />
+        <mark key="^" line="71" column="19" />
+        <mark key="." line="71" column="19" />
       </file>
       <file name="vm:8082" timestamp="1549964345369">
         <mark key="[" line="0" column="0" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="2" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="312" column="4" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="330" column="2" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="18" column="49" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
@@ -309,13 +308,14 @@
       <jump line="28" column="1" filename="$USER_HOME$/src/perereatorio/src/Containers/Counter/index.jsx" />
       <jump line="35" column="1" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
       <jump line="38" column="7" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
+      <jump line="76" column="1" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.pipe(from),</text>
+        <text>decoded</text>
       </register>
       <register name="-" type="4">
-        <text>.pipe(from),</text>
+        <text>decoded</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -324,31 +324,31 @@
         <text encoding="base64">ICAgIGFqYXguZ2V0SlNPTiggYmlsbGluZ1VyaSApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb20oKQo=</text>
+        <text encoding="base64">ICAgICJqc3JzYXNpZ24iOiAiXjguMC4xMiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsYXRNYXAoeCA9PiB4Lm1hcCh2YWwgPT4gb2YodmFsKSkpZGQK</text>
+        <text encoding="base64">ICAgICJjcnlwdG8tanMiOiAiXjMuMS45LTEiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGZyb20K</text>
+        <text encoding="base64">aW1wb3J0IENyeXB0b0pTIGZyb20gJ2NyeXB0by1qcycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZsYXRtYXAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9wYXNjdWFsbWcvanNtb2tlLmdpdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
