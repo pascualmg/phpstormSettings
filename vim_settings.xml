@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1550140670380">
@@ -191,12 +191,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550824173594">
-        <mark key="'" line="32" column="1" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1550832281297">
+        <mark key="'" line="38" column="7" />
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="39" column="7" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="39" column="7" />
       </file>
       <file name="vm:8082" timestamp="1549964345369">
         <mark key="[" line="0" column="0" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="8" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="308" column="2" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="312" column="4" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="330" column="2" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
@@ -309,13 +308,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
       <jump line="28" column="1" filename="$USER_HOME$/src/perereatorio/src/Containers/Counter/index.jsx" />
       <jump line="35" column="1" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
+      <jump line="38" column="7" filename="$USER_HOME$/src/disparate-inesperado/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+        <text encoding="base64">ICAgIC8vIGZyb20K</text>
       </register>
       <register name="-" type="4">
-        <text>vip todo</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -324,31 +324,31 @@
         <text encoding="base64">ICAgIGFqYXguZ2V0SlNPTiggYmlsbGluZ1VyaSApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+        <text encoding="base64">ICAgIC8vIGZyb20K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+        <text encoding="base64">ICAgIGZsYXRtYXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9wYXNjdWFsbWcvanNtb2tlLmdpdCIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgd2l0aFJvbGVKV1R0b2tlbiA9ICdleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aWFXRjBJam94TlRFMk1qTTVNREl5TENKeWIyeGxJam9pYzNWd1pYSmhaRzFwYmlKOS5LdjlIU2htTjJhOWs0Zml1c0Z5RmF6c0t1MWJtN0N6SEVrbWxtVzlNZkEwJwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBhamF4LmdldEpTT04oIGJpbGxpbmdVcmkgKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2JpbGxpbmdVcmknLCBiaWxsaW5nVXJpKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9wYXNjdWFsbWcvanNtb2tlLmdpdCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcChhcnJXaXRoU2VydmljZXMgPT4gYXJyV2l0aFNlcnZpY2VzWzBdKSwK</text>
+        <text encoding="base64">Y29uc3Qgd2l0aFJvbGVKV1R0b2tlbiA9ICdleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aWFXRjBJam94TlRFMk1qTTVNREl5TENKeWIyeGxJam9pYzNWd1pYSmhaRzFwYmlKOS5LdjlIU2htTjJhOWs0Zml1c0Z5RmF6c0t1MWJtN0N6SEVrbWxtVzlNZkEwJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
