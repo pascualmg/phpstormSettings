@@ -9,8 +9,7 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/index.js" timestamp="1551101053837">
-        <mark key="[" line="20" column="2" />
-        <mark key="." line="21" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/perereatorio/src/store/combineReducers.js" timestamp="1550657869222">
         <mark key="[" line="5" column="1" />
@@ -45,6 +44,11 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1551167289273">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/permissionEpics.test.js" timestamp="1550145769968">
         <mark key="[" line="97" column="38" />
         <mark key="]" line="97" column="38" />
@@ -56,10 +60,17 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551088161570">
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/index.js" timestamp="1551167582479" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/loginEpic.test.js" timestamp="1551168036533">
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551168191647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/perereatorio/src/index.jsx" timestamp="1550653937139">
         <mark key="[" line="10" column="0" />
@@ -171,6 +182,11 @@
       <file name="$USER_HOME$/src/disparate-inesperado/src/index.js" timestamp="1551166280338">
         <mark key="'" line="81" column="1" />
       </file>
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/actions/__test__/actions.test.js" timestamp="1551168021448">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/src/solus-gateway/package.json" timestamp="1550585483079">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="6" column="19" />
@@ -281,11 +297,11 @@
       <jump line="281" column="29" filename="$USER_HOME$/src/disparate-inesperado/node_modules/http-status-codes/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyogZXNsaW50IGRpc2FibGUtbmV4dC1saW5lIG5vLXVuZGVyc2NvcmUtZGFuZ2xlICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>test stub 4 login</text>
       </register>
       <register name="-" type="4">
-        <text>htmlFor</text>
+        <text>test stub 4 login</text>
       </register>
       <register name="/" type="4">
         <text>UN</text>
@@ -294,31 +310,31 @@
         <text encoding="base64">ICAgIGFqYXguZ2V0SlNPTiggc2VydmljZXNVcmkgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogZXNsaW50IGRpc2FibGUtbmV4dC1saW5lIG5vLXVuZGVyc2NvcmUtZGFuZ2xlICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuLi5ub3RpZmljYXRpb25BY3Rpb25zLAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuLi5wZXJtaXNzaW9uQWN0aW9ucywK</text>
+        <text encoding="base64">ICogQHJldHVybiBsb2dpbkZhaWx1cmUgfHwgbG9naW5TdWNjZXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuLi5zdHlsZVNoZWV0QWN0aW9ucywK</text>
+        <text encoding="base64">ICogQHBhcmFtIHRva2VuJAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuLi5wb3N0QWN0aW9ucywK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuLi5kYXRhTG9hZEFjdGlvbnMsCg==</text>
+        <text encoding="base64">ICogRGFkbyB1biBmbHVqbyBkZSB0b2tlbnMgLCBkZXZ1ZWx2ZSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuLi5jYXRlZ29yeUFjdGlvbnMsCg==</text>
+        <text encoding="base64">LyogZXNsaW50IGRpc2FibGUtbmV4dC1saW5lIG5vLXVuZGVyc2NvcmUtZGFuZ2xlICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG5vdGlmaWNhdGlvbkFjdGlvbnMgZnJvbSAnLi9ub3RpZmljYXRpb25BY3Rpb25zJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
