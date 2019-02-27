@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="XML" />
+      <blacklist language="JavaScript" />
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="YAML" />
+    </blacklists>
+    <option id="js.show.names.for.all.args" value="true" />
+  </component>
+</application>
