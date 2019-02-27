@@ -8,6 +8,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/__tests__/loginEpics.test.js" timestamp="1551261511470" />
       <file name="$USER_HOME$/src/perereatorio/src/store/combineReducers.js" timestamp="1550657869222">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
@@ -50,7 +51,7 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1551179997031">
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1551261363418">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -75,11 +76,10 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/loginEpic.test.js" timestamp="1551187061915">
-        <mark key="[" line="23" column="201" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/loginEpic.test.js" timestamp="1551261886511">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1551252813090">
         <mark key="[" line="0" column="0" />
@@ -207,7 +207,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1551260895056" />
+      <file name="$USER_HOME$/src/cmsadmin/src/epics/loginEpics.js" timestamp="1551261471988" />
       <file name="$USER_HOME$/src/cmsadmin/src/actions/__tests__/postsActions.test.js" timestamp="1550138962656">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="36" column="31" />
@@ -335,11 +335,11 @@
       <jump line="46" column="45" filename="$USER_HOME$/src/solus-front/node_modules/jsonwebtoken/verify.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gYWpheC5wb3N0ID0gbW9ja0FqYXgoc3VjY2Vzc1Jlc3BvbnNlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mockedThrow</text>
       </register>
       <register name="/" type="4">
         <text>must be</text>
@@ -348,31 +348,31 @@
         <text encoding="base64">Y29uc29sZS5sb2coJ3NlcnZpY2VzVXJpJywgc2VydmljZXNVcmkpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gYWpheC5wb3N0ID0gbW9ja0FqYXgoc3VjY2Vzc1Jlc3BvbnNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAvLyBhamF4LnBvc3QgPSBqZXN0LmZuKCh1cmwsIGJvZHkpID0+IG9mKHN1Y2Nlc3NSZXNwb25zZSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICYmICEhYm9keS5wYXNzd29yZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICYmICEhYm9keS51c2VybmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICYmICEhYm9keS5ncmFudF90eXBlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2JpbGxpbmdVcmknLCBiaWxsaW5nVXJpKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3NlcnZpY2VzVXJpJywgc2VydmljZXNVcmkpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2VsIHJvdXRlciBzZSBlamVjdXRhIGFudGVzIGRlIGxhcyBwZXRpcycpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
