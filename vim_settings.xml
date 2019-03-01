@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/cmsadmin/src/config/routes.js" timestamp="1550140670380">
@@ -26,11 +26,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/index.js" timestamp="1551191325433">
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-      </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginUrl.js" timestamp="1551349703228">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="0" />
@@ -41,20 +36,32 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/OOmysql/index.js" timestamp="1551433976595">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1551433394141" />
       <file name="/JavaScript Console" timestamp="1551346312144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Core/index.js" timestamp="1551428691510">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Core/index.js" timestamp="1551430626617">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/index.js" timestamp="1551428627109">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/888c559b-347f-45d3-b91c-e406ae0d62e7/console.sql" timestamp="1551433729548">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/index.js" timestamp="1551433561463">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/serviceWorker.js" timestamp="1550664820712">
         <mark key="[" line="34" column="0" />
@@ -73,11 +80,10 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/query/index.js" timestamp="1551428920580">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/query/index.js" timestamp="1551433568057">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" timestamp="1551346598596">
         <mark key="'" line="116" column="18" />
@@ -91,16 +97,17 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551353329370">
+      <file name="/Dummy.txt" timestamp="1551433699476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/package.json" timestamp="1550838897790">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/src/disparate-inesperado/package.json" timestamp="1551433010195">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/node_modules/rx-from-mysql/rx-from-mysql.js" timestamp="1551433196826" />
       <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducer.js" timestamp="1551093555828">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -119,16 +126,6 @@
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/decode/index.js" timestamp="1551189831295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/sample/index.js" timestamp="1551190465968">
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/mockCreateToken/index.js" timestamp="1551188198622">
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
       <file name="$USER_HOME$/src/solus-gateway/src/index.js" timestamp="1550586023422">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -138,6 +135,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Schema/index.js" timestamp="1551434934013">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Login/actions/__test__/actions.test.js" timestamp="1551168021448">
         <mark key="[" line="0" column="10" />
@@ -249,43 +252,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>must be</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2dyYXBocWwnLCBncmFwaHFsKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXh0ID0+IGNvbnNvbGUubG9nKCduZXh0JywgbmV4dCkgLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGdyYWgK</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2dyYXBoUScsIGdyYXBocWwpOy8vVE9ETzogYm9ycmFtZS4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBlcnJvciA9PiBjb25zb2xlLmxvZygnZXJyb3InLCBlcnJvciksCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2luTW9jayBmcm9tICcuL2xvZ2luTW9jayc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGVzdFNjaGVkdWxlciB9IGZyb20gJ3J4anMvdGVzdGluZyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZSgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmx1c2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxhdE1hcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0T2JzZXJ2YWJsZShyZXN1bHQkKS50b0JlKGV4cGVjdGVkTWFyYmxlLCBleHBlY3RlZFZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9PbXlzcWwoJ1NFTEVDVCB0LiogRlJPTSB3ZWIucGNibG9nX3N0eWxlX3NoZWV0cyB0JykucGlwZSgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
