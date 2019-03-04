@@ -53,11 +53,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/index.js" timestamp="1551686356572">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/index.js" timestamp="1551687660221">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/serviceWorker.js" timestamp="1550664820712">
         <mark key="[" line="34" column="0" />
@@ -76,10 +77,11 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/query/index.js" timestamp="1551433568057">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/query/index.js" timestamp="1551686909472">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" timestamp="1551346598596">
         <mark key="'" line="116" column="18" />
@@ -123,10 +125,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1551688041610">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/decode/index.js" timestamp="1551189831295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/store/index.js" timestamp="1551685062630" />
       <file name="$USER_HOME$/src/solus-gateway/src/index.js" timestamp="1550586023422">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -137,11 +141,20 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Schema/index.js" timestamp="1551686370741">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Schema/index.js" timestamp="1551687127955">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
         <mark key="^" line="17" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1551688032653">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Schema/pccom.graphql" timestamp="1551688499646">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Login/actions/__test__/actions.test.js" timestamp="1551168021448">
         <mark key="[" line="0" column="10" />
@@ -150,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="967" column="0" filename="$USER_HOME$/src/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
       <jump line="24" column="12" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
       <jump line="967" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
@@ -250,13 +262,14 @@
       <jump line="42" column="54" filename="$USER_HOME$/src/solus-front/node_modules/jsonwebtoken/verify.js" />
       <jump line="46" column="45" filename="$USER_HOME$/src/solus-front/node_modules/jsonwebtoken/verify.js" />
       <jump line="121" column="18" filename="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>newSchema</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>must be</text>
@@ -265,31 +278,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBuZXh0ID0+IGNvbnNvbGUubG9nKCduZXh0JywgbmV4dCkgLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG5ld1NjaGVtYSA9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">YCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtZXNzYWdlOiBTdHJpbmcK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHR5cGUgUXVlcnkgewo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dmFyIHNjaGVtYSA9IGJ1aWxkU2NoZW1hKGAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gR3JhcGhRTCBzY2hlbWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
