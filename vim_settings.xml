@@ -41,10 +41,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/CreateBrandForm.jsx" timestamp="1551765642762">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/CreateBrandForm.jsx" timestamp="1551771476414">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="12" />
       </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/routes/index.js" timestamp="1551698576399">
         <mark key="[" line="2" column="43" />
@@ -96,12 +97,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/index.jsx" timestamp="1551705606134">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="23" />
-      </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/Login/config.jsx" timestamp="1551766344123" />
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/brand/create/index.js" timestamp="1551709545988">
         <mark key="[" line="23" column="24" />
@@ -120,11 +115,10 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Brand/actions/index.js" timestamp="1551705300633">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Brand/actions/index.js" timestamp="1551772703774">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/package.json" timestamp="1551710000165">
         <mark key="[" line="28" column="19" />
@@ -194,7 +188,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551768702717">
+      <file name="/Dummy.txt" timestamp="1551772100359">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -203,6 +197,11 @@
         <mark key="[" line="36" column="25" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validate/__tests__/validate.test.js" timestamp="1551771414155">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/reducers/loginReducer.js" timestamp="1551093555828">
         <mark key="[" line="20" column="0" />
@@ -247,6 +246,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/App/index.jsx" timestamp="1551772496741">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -352,44 +357,44 @@
       <jump line="5" column="7" filename="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>missing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBMSVNUX0VQSUM6IGAke3ByZWZpeH1MSVNUYAo=</text>
       </register>
       <register name="-" type="4">
-        <text>missing</text>
+        <text>Login</text>
       </register>
       <register name="/" type="4">
         <text>must be</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBBTExfRklFTERTX1JFUVVJUkVEOgogICAgJ0VzIG5lY2VzYXJpbyBpbnRyb2R1Y2lyIHRvZG9zIGxvcyBjYW1wb3MgcGFyYSBkYXIgZGUgYWx0YSB1bmEgbWFyY2En</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4uL0xvZ2luJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMSVNUX0VQSUM6IGAke3ByZWZpeH1MSVNUYAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlcnJvcnMnLCBlcnJvcnMpOyAvLyBUT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICA8Q3JlYXRlQnJhbmRGb3JtIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlcnJvcnMnLCBlcnJvcnMpOyAvLyBUT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICA8TG9naW4gLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Q3JlYXRlQnJhbmRGb3JtIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IEZOIGZyb20gJy4uLy4uL2ZpZWxkTmFtZXMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5vRXJyb3JzID0ge307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlcnJvcnMnLCBlcnJvcnMpOyAvLyBUT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbGkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlcnJvcnMnLCBlcnJvcnMpOyAvLyBUT0RPOiBib3JyYW1lLgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogIGlmICghaXNVUkwodmFsdWVzW0ZOLlVSTF0pKSB7CiAgICBlcnJvcnNbRk4uVVJMXSA9IFZNLlVSTF9GT1JNQVRfTk9UX1ZBTElEOwogIH0K</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
