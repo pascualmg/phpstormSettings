@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validationMessages/index.js" timestamp="1551767236215">
@@ -72,6 +72,9 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/src/solus-storybook/src/stories/index.js" timestamp="1551867088697">
+        <mark key="[" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/CreateBrandForm.jsx" timestamp="1551777795310">
         <mark key="[" line="29" column="43" />
         <mark key="]" line="29" column="43" />
@@ -118,11 +121,18 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
+      <file name="$USER_HOME$/src/solus-storybook/package.json" timestamp="1551867317456" />
+      <file name="$USER_HOME$/src/solus-storybook/node_modules/@material-ui/core/Step/Step.d.ts" timestamp="1551868604636" />
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validate/validate.test.js" timestamp="1551768638090">
         <mark key="[" line="34" column="29" />
         <mark key="]" line="39" column="46" />
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
+      </file>
+      <file name="$USER_HOME$/src/solus-storybook/src/index.js" timestamp="1551867113807">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validate/index.js" timestamp="1551767868649">
         <mark key="[" line="5" column="0" />
@@ -136,6 +146,12 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/src/solus-storybook/src/stories/Select/index.jsx" timestamp="1551866492857" />
+      <file name="$USER_HOME$/src/solus-storybook/src/stories/Steps/index.jsx" timestamp="1551866571835">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/index.js" timestamp="1551767765649">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="18" column="19" />
@@ -146,6 +162,12 @@
         <mark key="]" line="19" column="9" />
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/solus-storybook/src/stories/Step/index.jsx" timestamp="1551869447853">
+        <mark key="[" line="11" column="69" />
+        <mark key="]" line="11" column="69" />
+        <mark key="." line="11" column="69" />
+        <mark key="^" line="11" column="74" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/store/combineEpics.js" timestamp="1551708063521">
         <mark key="[" line="4" column="26" />
@@ -293,43 +315,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRvbyBsYXRlICwgamlzdXMgd29ya3MgYWxsIGRheQ==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRvbyBsYXRlICwgamlzdXMgd29ya3MgYWxsIGRheQ==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>must be</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBjb25zdCBjb21wb25lbnQgPSBtb3VudCgKICAgICAgPFRlc3RDb21wb25lbnRSZW5kZXJlcj4KICAgICAgICA8TG9naW5XcmFwcGVkIC8+CiAgICAgIDwvVGVzdENvbXBvbmVudFJlbmRlcmVyPgogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgPFN0ZXA+CiAgICAgICAgPFN0ZXBMYWJlbD50d288L1N0ZXBMYWJlbD4KICAgICAgICA8U3RlcENvbnRlbnQgLz4KICAgICAgPC9TdGVwPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbXBvbmVudCA9IG1vdW50KFRlc3RDb21wb25lbnRSZW5kZXJlcihDcmVhdGVCcmFuZEZvcm0pKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wb25lbnQnLCBjb21wb25lbnQpOyAvLyBUT0RPOiBib3JyYW1lLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChyZW5kZXIoVGVzdENvbXBvbmVudFJlbmRlcmVyKENyZWF0ZUJyYW5kRm9ybSkpKS50b01hdGNoU25hcHNob3QoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlcicsICgpID0+IHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChUZXN0Q29tcG9uZW50UmVuZGVyZXIoQ3JlYXRlQnJhbmRGb3JtKSkudG9NYXRjaFNuYXBzaG90KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZ3VyZVN0b3JlIGZyb20gJy4uLy4uLy4uL3N0b3JlJzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIDxCdXR0b24gdmFyaWFudD0iY29udGFpbmVkIiBjb2xvcj0icHJpbWFyeSI+CiAgICBIZWxsbyBXb3JsZAogICAgPC9CdXR0b24+CiAgPFN0ZXA+</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IFN0ZXAgZnJvbSAnLi9jb21wb25lbnRzL21vbGVjdWxlcy9TdGUnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuLi8uLi9jb21wb25lbnRzL2F0b21zL0J1dHRvbic7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">RW56eW1lLmNvbmZpZ3VyZSh7IGFkYXB0ZXI6IG5ldyBBZGFwdGVyKCkgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
