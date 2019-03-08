@@ -38,6 +38,7 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/src/solus-storybook/src/components/molecules/Stepper/Step.jsx" timestamp="1552040618529" />
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/OOmysql/index.js" timestamp="1551433976595">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="21" />
@@ -103,10 +104,10 @@
         <mark key="^" line="32" column="78" />
         <mark key="." line="32" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551882320515">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1552040730338">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validate/__tests__/validate.test.js" timestamp="1551771414155">
         <mark key="[" line="0" column="30" />
@@ -159,6 +160,12 @@
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="5" />
       </file>
+      <file name="$USER_HOME$/src/solus-storybook/src/components/atoms/Oxigen/index.jsx" timestamp="1552040965811">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/__tests__/Login.test.jsx" timestamp="1551701902309">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="25" />
@@ -200,11 +207,12 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/src/solus-storybook/src/components/molecules/Stepper/Stepper.stories.jsx" timestamp="1552030570814">
+      <file name="$USER_HOME$/src/solus-storybook/src/components/molecules/Stepper/Stepper.stories.jsx" timestamp="1552040791462">
         <mark key="'" line="19" column="7" />
-        <mark key="[" line="23" column="55" />
-        <mark key="]" line="23" column="55" />
-        <mark key="." line="23" column="55" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/App/index.jsx" timestamp="1551780397026">
         <mark key="[" line="6" column="32" />
@@ -334,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// TODO: borrame.</text>
+        <text>Box</text>
       </register>
       <register name="-" type="4">
-        <text>// TODO: borrame.</text>
+        <text>Box</text>
       </register>
       <register name="/" type="4">
         <text>T</text>
@@ -346,31 +354,31 @@
         <text encoding="base64">LmFkZFdpdGhKU1goJ2RlZmF1bHQnLCAoKSA9PiAoCiAgPFN0ZXBwZXIKICAgIHN0ZXBzPXtbCiAgICAgIHsgdGl0bGU6ICdTdGVwIG9uZScsIGFjdGl2ZTogdHJ1ZSB9LAogICAgICB7IHRpdGxlOiAnU3RlcCB0d28nLCBhY3RpdmU6IHRydWUgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgdGhyZWUnLCBhY3RpdmU6IHRydWUgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgZm91cicsIGFjdGl2ZTogZmFsc2UgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgZml2ZScsIGFjdGl2ZTogZmFsc2UgfQogICAgXX0KICAvPgop</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRlYW5kbyBzb3VyY2UgJywge2V2ZW50fSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQucGVyc2lzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRlYW5kbyBzb3VyY2UgJywge2V2ZW50fSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmV2ID0gZXZlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQucGVyc2lzdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmV2ID0gZXZlbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R1QtMDAwICwgdGFibGUgc3VwcG9ydHMgb3RoZXIgY29tcG9uZW50cyBpbnNpZGUgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0ZXApOwo=</text>
+        <text encoding="base64">R1QtMDAwICwgdGFibGUgc3VwcG9ydHMgb3RoZXIgY29tcG9uZW50cyBpbnNpZGUgLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
