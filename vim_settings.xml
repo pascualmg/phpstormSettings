@@ -9,7 +9,7 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/brand/create/index.js" timestamp="1551858460578">
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/brand/create/index.js" timestamp="1552312769019">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="25" column="38" />
         <mark key="^" line="25" column="38" />
@@ -107,7 +107,7 @@
         <mark key="^" line="32" column="78" />
         <mark key="." line="32" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552053112517">
+      <file name="/Dummy.txt" timestamp="1552312142261">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -121,6 +121,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/node_modules/http-status-codes/index.d.ts" timestamp="1552312843369">
+        <mark key="'" line="155" column="189" />
       </file>
       <file name="$USER_HOME$/src/solus-storybook/src/index.js" timestamp="1551867113807">
         <mark key="[" line="33" column="0" />
@@ -198,10 +201,11 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/index.js" timestamp="1552306852075">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/index.js" timestamp="1552312985932">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Schema/index.js" timestamp="1551687127955">
         <mark key="[" line="24" column="0" />
@@ -244,8 +248,6 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1552304483434" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
-      <jump line="967" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/pccadminstorybook/src/components/atoms/Wysiwyg/index.jsx" />
       <jump line="9" column="32" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
       <jump line="15" column="5" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
       <jump line="16" column="5" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
@@ -344,63 +346,62 @@
       <jump line="121" column="18" filename="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" />
       <jump line="5" column="7" filename="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/index.js" />
       <jump line="19" column="7" filename="$USER_HOME$/src/solus-storybook/src/components/molecules/Stepper/Stepper.stories.jsx" />
+      <jump line="331" column="0" filename="$USER_HOME$/src/disparate-inesperado/node_modules/http-status-codes/index.d.ts" />
+      <jump line="155" column="189" filename="$USER_HOME$/src/disparate-inesperado/node_modules/http-status-codes/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhIAo=</text>
+      <register name="&quot;" type="4">
+        <text>add</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
-        <text>T</text>
+        <text>OK</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LmFkZFdpdGhKU1goJ2RlZmF1bHQnLCAoKSA9PiAoCiAgPFN0ZXBwZXIKICAgIHN0ZXBzPXtbCiAgICAgIHsgdGl0bGU6ICdTdGVwIG9uZScsIGFjdGl2ZTogdHJ1ZSB9LAogICAgICB7IHRpdGxlOiAnU3RlcCB0d28nLCBhY3RpdmU6IHRydWUgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgdGhyZWUnLCBhY3RpdmU6IHRydWUgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgZm91cicsIGFjdGl2ZTogZmFsc2UgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgZml2ZScsIGFjdGl2ZTogZmFsc2UgfQogICAgXX0KICAvPgop</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3JjL2NvbnRhaW5lcnMvRmllbGRBcnJheUZvcm0vdmFsaWRhdGUuanM6MQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9yZWR1eC1mb3JtLmNvbS84LjEuMC9leGFtcGxlcy9maWVsZGFycmF5cy8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRlYW5kbyBzb3VyY2UgJywge2V2ZW50fSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQucGVyc2lzdCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmV2ID0gZXZlbnQ7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZXMuanNvbignYWRkIGF0dHJpYnV0ZScpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c3JjL2NvbnRhaW5lcnMvRmllbGRBcnJheUZvcm0vdmFsaWRhdGUuanM6MQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aHR0cHM6Ly9yZWR1eC1mb3JtLmNvbS84LjEuMC9leGFtcGxlcy9maWVsZGFycmF5cy8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRlYW5kbyBzb3VyY2UgJywge2V2ZW50fSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQucGVyc2lzdCgpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmV2ID0gZXZlbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>T</last-search>
+      <last-search>OK</last-search>
       <last-offset />
-      <last-pattern>T</last-pattern>
+      <last-pattern>OK</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry>toMatch</entry>
-        <entry>Snap</entry>
         <entry>errar</entry>
         <entry>check</entry>
         <entry>Re</entry>
@@ -418,6 +419,9 @@
         <entry>service</entry>
         <entry>must be</entry>
         <entry>T</entry>
+        <entry>SUCC</entry>
+        <entry>200</entry>
+        <entry>OK</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
