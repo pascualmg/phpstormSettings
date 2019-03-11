@@ -201,11 +201,11 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/index.js" timestamp="1552312985932">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/index.js" timestamp="1552314975389">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Schema/index.js" timestamp="1551687127955">
         <mark key="[" line="24" column="0" />
@@ -350,11 +350,11 @@
       <jump line="155" column="189" filename="$USER_HOME$/src/disparate-inesperado/node_modules/http-status-codes/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>`created attribute name: ${name}, type: ${type} , value: ${value}`</text>
       </register>
       <register name="/" type="4">
         <text>OK</text>
@@ -363,31 +363,31 @@
         <text encoding="base64">LmFkZFdpdGhKU1goJ2RlZmF1bHQnLCAoKSA9PiAoCiAgPFN0ZXBwZXIKICAgIHN0ZXBzPXtbCiAgICAgIHsgdGl0bGU6ICdTdGVwIG9uZScsIGFjdGl2ZTogdHJ1ZSB9LAogICAgICB7IHRpdGxlOiAnU3RlcCB0d28nLCBhY3RpdmU6IHRydWUgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgdGhyZWUnLCBhY3RpdmU6IHRydWUgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgZm91cicsIGFjdGl2ZTogZmFsc2UgfSwKICAgICAgeyB0aXRsZTogJ1N0ZXAgZml2ZScsIGFjdGl2ZTogZmFsc2UgfQogICAgXX0KICAvPgop</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXMuanNvbignYWRkIGF0dHJpYnV0ZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhIAo=</text>
+        <text encoding="base64">ICByZXMuanNvbignYWRkIGF0dHJpYnV0ZScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3JjL2NvbnRhaW5lcnMvRmllbGRBcnJheUZvcm0vdmFsaWRhdGUuanM6MQo=</text>
+        <text encoding="base64">ICBhIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cHM6Ly9yZWR1eC1mb3JtLmNvbS84LjEuMC9leGFtcGxlcy9maWVsZGFycmF5cy8K</text>
+        <text encoding="base64">c3JjL2NvbnRhaW5lcnMvRmllbGRBcnJheUZvcm0vdmFsaWRhdGUuanM6MQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">aHR0cHM6Ly9yZWR1eC1mb3JtLmNvbS84LjEuMC9leGFtcGxlcy9maWVsZGFycmF5cy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRlYW5kbyBzb3VyY2UgJywge2V2ZW50fSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQucGVyc2lzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRlYW5kbyBzb3VyY2UgJywge2V2ZW50fSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmV2ID0gZXZlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQucGVyc2lzdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
