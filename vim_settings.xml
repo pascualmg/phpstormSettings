@@ -201,11 +201,11 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/index.js" timestamp="1552314975389">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="1" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/index.js" timestamp="1552316035130">
+        <mark key="[" line="12" column="77" />
+        <mark key="]" line="12" column="77" />
+        <mark key="." line="12" column="77" />
+        <mark key="^" line="12" column="65" />
       </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Schema/index.js" timestamp="1551687127955">
         <mark key="[" line="24" column="0" />
@@ -350,11 +350,11 @@
       <jump line="155" column="189" filename="$USER_HOME$/src/disparate-inesperado/node_modules/http-status-codes/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>`created attribute name: ${name}, type: ${type} , value: ${value}`</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>OK</text>
