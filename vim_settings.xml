@@ -200,11 +200,11 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" timestamp="1552377006219" />
-      <file name="/Dummy.txt" timestamp="1552384564755">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" timestamp="1552390236025" />
+      <file name="/Dummy.txt" timestamp="1552390492518">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/BrandCreateForm/validate/index.js" timestamp="1552386777594" />
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validate/__tests__/validate.test.js" timestamp="1551771414155">
@@ -212,7 +212,7 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552387217344" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552390133385" />
       <file name="$USER_HOME$/src/disparate-inesperado/node_modules/http-status-codes/index.d.ts" timestamp="1552384092785">
         <mark key="'" line="23" column="21" />
       </file>
@@ -251,17 +251,26 @@
         <mark key="^" line="5" column="72" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/__tests__/CreateAttributeForm.test.jsx" timestamp="1552390480318">
+        <mark key="]" line="48" column="5" />
+        <mark key="^" line="48" column="5" />
+        <mark key="." line="48" column="5" />
+      </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Schema/index.js" timestamp="1551687127955">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552386960694">
-        <mark key="[" line="122" column="12" />
-        <mark key="]" line="122" column="28" />
-        <mark key="." line="122" column="28" />
-        <mark key="^" line="122" column="28" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/getAttributeTypeSelected/index.js" timestamp="1552389957324">
+        <mark key="[" line="36" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552390055655">
+        <mark key="p" line="17" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="18" column="63" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/App/index.jsx" timestamp="1552380921449">
         <mark key="[" line="6" column="0" />
@@ -378,44 +387,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/solus-front/node_modules/http-status-codes/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fix straycat in __test__ folder name</text>
       </register>
       <register name="-" type="4">
-        <text>NAME</text>
+        <text>fix straycat in __test__ folder name</text>
       </register>
       <register name="/" type="4">
         <text>UNP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWVzW2ZpZWxkTmFtZXMuTkFNRV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFtmaWVsZE5hbWVzLlRZUEVdOiBBdHRyaWJ1dGVUeXBlLlRFWFQgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfdmFsdWU6ICd2Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gdmFsdWVzW2ZpZWxkTmFtZXMuVkFMVUVdOwo=</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfdHlwZTogJ3QnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHR5cGUgPSB2YWx1ZXNbZmllbGROYW1lcy5UWVBFXTsK</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfbmFtZTogJ24nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5hbWUgPSAK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHlwZSwK</text>
+        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZ2V0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgIHJldHVybiB7IHZhbHVlczogdW5kZWZpbmVkIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0eXBlJywgdHlwZSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYW1lJywgbmFtZSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gdmFsdWVzW2ZpZWxkTmFtZXMuVkFMVUVdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
