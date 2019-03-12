@@ -22,6 +22,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/getAttributeTypeSelected/__tests__/getAttributeTypeSelected.test.js" timestamp="1552391152897">
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="12" />
+        <mark key="^" line="48" column="12" />
+        <mark key="." line="48" column="12" />
+      </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/OOmysql/index.js" timestamp="1551433976595">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="21" />
@@ -170,6 +176,9 @@
         <mark key="^" line="96" column="34" />
         <mark key="." line="105" column="51" />
       </file>
+      <file name="/JavaScript Console" timestamp="1552390834143">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/Core/index.js" timestamp="1551430626617">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="6" />
@@ -262,7 +271,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/getAttributeTypeSelected/index.js" timestamp="1552389957324">
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/getAttributeTypeSelected/index.js" timestamp="1552390697714">
         <mark key="[" line="36" column="1" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552390055655">
@@ -388,43 +397,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix straycat in __test__ folder name</text>
+        <text>enum</text>
       </register>
       <register name="-" type="4">
-        <text>fix straycat in __test__ folder name</text>
+        <text>enum</text>
       </register>
       <register name="/" type="4">
         <text>UNP</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFtmaWVsZE5hbWVzLlRZUEVdOiBBdHRyaWJ1dGVUeXBlLlRFWFQgCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBpdCgnd29ya3MnLCAoKSA9PiB7CiAgICBjb25zdCBtb2NrRm9ybSA9IHsKICAgICAgdmFsdWVzOiB7CiAgICAgICAgW2Zvcm1GaWVsZHMuTkFNRV06IHVuZGVmaW5lZCwKICAgICAgICBbZm9ybUZpZWxkcy5UWVBFXTogQXR0cmlidXRlVHlwZS5URVhULAogICAgICAgIFtmb3JtRmllbGRzLlZBTFVFXTogdW5kZWZpbmVkCiAgICAgIH0KICAgIH07CiAgICBjb25zdCB7IGlzTnVtZXJpYywgaXNFbnVtLCBpc1RleHQgfSA9IGdldEF0dHJpYnV0ZVR5cGVTZWxlY3RlZChtb2NrRm9ybSk7CgogICAgZXhwZWN0KGlzVGV4dCkudG9CZSh0cnVlKTsKICAgIGV4cGVjdChpc051bWVyaWMpLnRvQmUoZmFsc2UpOwogICAgZXhwZWN0KGlzRW51bSkudG9CZShmYWxzZSk7CiAgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfdmFsdWU6ICd2Jwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfdHlwZTogJ3QnLAo=</text>
+        <text encoding="base64">ICAgICAgICBbZm9ybUZpZWxkcy5WQUxVRV06IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfbmFtZTogJ24nLAo=</text>
+        <text encoding="base64">ICAgICAgICBbZm9ybUZpZWxkcy5UWVBFXTogQXR0cmlidXRlVHlwZS5FTlVNLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbZm9ybUZpZWxkcy5OQU1FXTogdW5kZWZpbmVkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZ2V0JzsK</text>
+        <text encoding="base64">ICAgICAgdmFsdWVzOiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7IHZhbHVlczogdW5kZWZpbmVkIH07Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfdmFsdWU6ICd2Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gdmFsdWVzW2ZpZWxkTmFtZXMuVkFMVUVdOwo=</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfdHlwZTogJ3QnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
