@@ -206,17 +206,13 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/BrandCreateForm/validate/index.js" timestamp="1552382093753" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/BrandCreateForm/validate/index.js" timestamp="1552386777594" />
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validate/__tests__/validate.test.js" timestamp="1551771414155">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552382002149">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-      </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552387217344" />
       <file name="$USER_HOME$/src/disparate-inesperado/node_modules/http-status-codes/index.d.ts" timestamp="1552384092785">
         <mark key="'" line="23" column="21" />
       </file>
@@ -261,11 +257,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552377634049">
-        <mark key="[" line="58" column="10" />
-        <mark key="]" line="46" column="10" />
-        <mark key="." line="46" column="10" />
-        <mark key="^" line="46" column="10" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552386960694">
+        <mark key="[" line="122" column="12" />
+        <mark key="]" line="122" column="28" />
+        <mark key="." line="122" column="28" />
+        <mark key="^" line="122" column="28" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/App/index.jsx" timestamp="1552380921449">
         <mark key="[" line="6" column="0" />
@@ -382,48 +378,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/solus-front/node_modules/http-status-codes/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHVuZGVmaW5lZCBmaXg=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVuZGVmaW5lZCBmaXg=</text>
+        <text>NAME</text>
       </register>
       <register name="/" type="4">
         <text>UNP</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGlmIChlcnJvci5zdGF0dXMgPT09IEh0dHBTdGF0dXMuQ09ORkxJQ1QpIHsKICAgICAgICAgICAgICByZXR1cm4gb2YoYXR0cmlidXRlQ3JlYXRlRmFpbHVyZUFjdGlvbihlcnJvci5yZXNwb25zZSkpOwogICAgICAgICAgICB9CiAgICAgICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsdWVzW2ZpZWxkTmFtZXMuTkFNRV0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gdmFsdWVzW2ZpZWxkTmFtZXMuVkFMVUVdOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjb25zdCBlbG9jdWVudE1lc3NhZ2UgPSBgY3JlYXRlZCBhdHRyaWJ1dGUgbmFtZTogJHthdHRyaWJ1dGVOYW1lfSwgdHlwZTogJHthdHRyaWJ1dGVUeXBlfSAsIHZhbHVlOiAke2F0dHJpYnV0ZVZhbHVlfWAKICByZXMuc3RhdHVzKEh0dHBTdGF0dXMuT0spLmpzb24oZWxvY3VlbnRNZXNzYWdlKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHR5cGUgPSB2YWx1ZXNbZmllbGROYW1lcy5UWVBFXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnRXJyb3IgYWwgZ3VhcmRhcjogbm9tYnJlIGRlIGF0cmlidXRvIHlhIGVuIHVzby4gUG9yIGZhdm9yLCBjb21wcnXDqWJhbG8gZW4gZWwgbGlzdGFkbyBkZSBhdHJpYnV0b3MgeWEgY3JlYWRvcyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5hbWUgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZXJyTXNnID0K</text>
+        <text encoding="base64">ICAgICAgdHlwZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZXJyb3InLCBlcnJvcik7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZWxvY3VlbnRNZXNzYWdlJywgZWxvY3VlbnRNZXNzYWdlKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0eXBlJywgdHlwZSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Merge branch 'develop' into feature/BT-671-crear-atributo-tipo-texto
-
-# Conflicts:
-#	package-lock.json
-#	src/store/combineEpics.js</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYW1lJywgbmFtZSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
