@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/solus-front/src/containers/Login/Login.jsx" timestamp="1552392599379">
@@ -15,11 +15,14 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/RenderPredefined.jsx" timestamp="1552478144548">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/RenderPredefined.jsx" timestamp="1552483775376">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="38" column="38" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/components/RenderField/index.jsx" timestamp="1552483483653">
+        <mark key="[" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/getAttributeTypeSelected/__tests__/getAttributeTypeSelected.test.js" timestamp="1552391152897">
         <mark key="[" line="48" column="6" />
@@ -36,10 +39,10 @@
       <file name="/JavaScript Console" timestamp="1552390834143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552476168988">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1552483751938">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552475644139">
         <mark key="[" line="9" column="30" />
@@ -68,10 +71,10 @@
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/getAttributeTypeSelected/index.js" timestamp="1552390697714">
         <mark key="[" line="36" column="1" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552477775613">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552483355315">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
         <mark key="^" line="106" column="11" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Attribute/epics/__tests__/createAttributeEpic.test.js" timestamp="1552475601117">
@@ -190,11 +193,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/solus-front/node_modules/http-status-codes/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSJSZW1vdmUgSG9iYnkiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDFzdCB2ZXJzaW9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IDFzdCB2ZXJzaW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text>UNP</text>
@@ -203,31 +206,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICB7YXR0cmlidXRlVHlwZSA9PT0gQXR0cmlidXRlVHlwZS5OVU1FUklDICYmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSJSZW1vdmUgSG9iYnkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExhYmVsPiZuYnNwOzwvTGFiZWw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8Um93Pgo=</text>
+        <text encoding="base64">ICAgIDxMYWJlbD57bGFiZWx9PC9MYWJlbD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L1Jvdz4K</text>
+        <text encoding="base64">aW1wb3J0IFJlbmRlckZpZWxkIGZyb20gJy4uLy4uL2NvbXBvbmVudHMvUmVuZGVyRmllbGQnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBGb3JtVGl0bGUsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAge2F0dHJpYnV0ZVR5cGUgPT09IEF0dHJpYnV0ZVR5cGUuRU5VTSAmJiAoCiAgICAgICAgICAgICAgICA8RmllbGRBcnJheSBuYW1lPSJwcmVkZWZpbmVkIiBjb21wb25lbnQ9e3JlbmRlclByZWRlZmluZWR9IC8+CiAgICAgICAgICAgICAgKX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSJSZW1vdmUgSG9iYnkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvQ29sPgo=</text>
+        <text encoding="base64">ICA8Um93Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxDb2w+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICA8L1Jvdz4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICA8Um93Pgo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAge2F0dHJpYnV0ZVR5cGUgPT09IEF0dHJpYnV0ZVR5cGUuRU5VTSAmJiAoCiAgICAgICAgICAgICAgICA8RmllbGRBcnJheSBuYW1lPSJwcmVkZWZpbmVkIiBjb21wb25lbnQ9e3JlbmRlclByZWRlZmluZWR9IC8+CiAgICAgICAgICAgICAgKX0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
