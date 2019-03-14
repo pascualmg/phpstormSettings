@@ -107,7 +107,7 @@
         <mark key="." line="11" column="69" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Attribute/epics/index.js" timestamp="1552314084071">
+      <file name="$USER_HOME$/src/solus-front/src/core/Attribute/epics/index.js" timestamp="1552315830831">
         <mark key="'" line="25" column="14" />
         <mark key="[" line="21" column="10" />
         <mark key="]" line="21" column="23" />
@@ -149,11 +149,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Attribute/creators/index.js" timestamp="1552311931565">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Attribute/creators/index.js" timestamp="1552316293422">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="3" />
         <mark key="^" line="17" column="34" />
-        <mark key="." line="14" column="23" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Brand/epics/__tests__/BrandCreateEpic.test.js" timestamp="1551710324641">
         <mark key="[" line="105" column="51" />
@@ -200,8 +200,8 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552312219846">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1552550385873">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -209,12 +209,6 @@
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552313874555">
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="35" column="44" />
-        <mark key="." line="35" column="44" />
-        <mark key="^" line="35" column="44" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validate/validate.test.js" timestamp="1551768638090">
         <mark key="[" line="34" column="29" />
@@ -257,14 +251,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552312382413">
-        <mark key="'" line="122" column="22" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="125" column="22" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/__tests__/RenderPredefined.test.jsx" timestamp="1552550310924">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/App/index.jsx" timestamp="1552292203527" />
       <file name="$USER_HOME$/src/solus-front/src/containers/BrandCreateForm/index.js" timestamp="1551795166454">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="18" column="19" />
@@ -280,8 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="5" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
-      <jump line="25" column="19" filename="$USER_HOME$/src/pccadminstorybook/package.json" />
       <jump line="88" column="17" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="55" column="32" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="89" column="36" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
@@ -376,65 +365,66 @@
       <jump line="5" column="7" filename="$USER_HOME$/src/disparate-inesperado/src/controller/graphql/index.js" />
       <jump line="19" column="7" filename="$USER_HOME$/src/solus-storybook/src/components/molecules/Stepper/Stepper.stories.jsx" />
       <jump line="44" column="1" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
-      <jump line="75" column="0" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
       <jump line="122" column="22" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
       <jump line="23" column="14" filename="$USER_HOME$/src/solus-front/src/core/Attribute/epics/index.js" />
+      <jump line="75" column="32" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
+      <jump line="0" column="26" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
+      <jump line="18" column="41" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
+      <jump line="27" column="8" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEVuenltZSwgeyBtb3VudCwgcmVuZGVyIH0gZnJvbSAnZW56eW1lJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>T</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIHZhbHVlc1tmaWVsZE5hbWVzLk5BTUVdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IEVuenltZSwgeyBtb3VudCwgcmVuZGVyIH0gZnJvbSAnZW56eW1lJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmFtZSwgdHlwZSwgdmFsdWUK</text>
+        <text encoding="base64">aW1wb3J0IHsgYWpheCB9IGZyb20gJ3J4anMvYWpheCc7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmFtZSwgdHlwZSwgdmFsdWUK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgIHZhbHVlc1tmaWVsZE5hbWVzLk5BTUVdLAogICAgICAgIHZhbHVlc1tmaWVsZE5hbWVzLlRZUEVdLAogICAgICAgIHZhbHVlc1tmaWVsZE5hbWVzLlZBTFVFXQogIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgdHlwZSwgdmFsdWUgfSA9IHZhbHVlczsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBWQUxVRTogJ3ZhbHVlJwo=</text>
+        <text encoding="base64">ICAgICAgbmFtZSwgdHlwZSwgdmFsdWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBUWVBFOiAndHlwZScsCg==</text>
+        <text encoding="base64">ICAgICAgbmFtZSwgdHlwZSwgdmFsdWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2luLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgdHlwZSwgdmFsdWUgfSA9IHZhbHVlczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9naW4gfSBmcm9tICcuL2xvZ2luT3BlcmF0b3InOwo=</text>
+        <text encoding="base64">ICBWQUxVRTogJ3ZhbHVlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9Sb3c+Cg==</text>
+        <text encoding="base64">ICBUWVBFOiAndHlwZScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>T</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>T</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry>toMatch</entry>
         <entry>Snap</entry>
         <entry>errar</entry>
@@ -454,6 +444,7 @@
         <entry>service</entry>
         <entry>must be</entry>
         <entry>T</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
