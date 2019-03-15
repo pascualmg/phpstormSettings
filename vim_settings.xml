@@ -15,11 +15,11 @@
         <mark key="^" line="47" column="62" />
         <mark key="." line="47" column="62" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/RenderPredefined.jsx" timestamp="1552560800653">
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="46" column="35" />
-        <mark key="^" line="46" column="35" />
-        <mark key="." line="46" column="35" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/RenderPredefined.jsx" timestamp="1552689707187">
+        <mark key="[" line="43" column="41" />
+        <mark key="]" line="43" column="52" />
+        <mark key="^" line="43" column="52" />
+        <mark key="." line="43" column="52" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Attribute/actions/index.js" timestamp="1552311660182">
         <mark key="[" line="3" column="20" />
@@ -208,8 +208,8 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552646859308">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1552689903868">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -218,7 +218,7 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552648187045">
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552689454555">
         <mark key="[" line="18" column="44" />
         <mark key="]" line="18" column="47" />
         <mark key="." line="18" column="47" />
@@ -271,6 +271,13 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552689521840">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="130" column="35" />
+        <mark key="]" line="130" column="35" />
+        <mark key="^" line="130" column="35" />
+        <mark key="." line="130" column="35" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/__tests__/RenderPredefined.test.jsx" timestamp="1552554357607">
         <mark key="[" line="38" column="11" />
         <mark key="]" line="0" column="0" />
@@ -284,9 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="26" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
-      <jump line="365" column="17" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
-      <jump line="52" column="60" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="14" column="1" filename="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" />
       <jump line="125" column="0" filename="$USER_HOME$/src/cmsadmin/src/hoc/withDataLoad.js" />
       <jump line="28" column="16" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
@@ -384,19 +388,22 @@
       <jump line="131" column="0" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
       <jump line="78" column="31" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
       <jump line="42" column="2" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
+      <jump line="106" column="29" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
+      <jump line="25" column="18" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
+      <jump line="132" column="0" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fixed epic test.</text>
       </register>
       <register name="-" type="4">
-        <text>Type</text>
+        <text>fixed epic test.</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dGVUeXBlLAo=</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGVUeXBlOiBBdHRyaWJ1dGVUeXBlLk5PTkUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -520,6 +527,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
