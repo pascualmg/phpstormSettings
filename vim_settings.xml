@@ -67,11 +67,11 @@
         <mark key="^" line="32" column="78" />
         <mark key="." line="32" column="78" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/NumericField.jsx" timestamp="1552894402894">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="21" column="20" />
-        <mark key="^" line="21" column="20" />
-        <mark key="." line="21" column="20" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/NumericField.jsx" timestamp="1552897052496">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/src/solus-storybook/package.json" timestamp="1551878191537">
         <mark key="[" line="16" column="0" />
@@ -225,11 +225,10 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552895897718">
-        <mark key="[" line="34" column="14" />
-        <mark key="]" line="34" column="14" />
-        <mark key="^" line="34" column="13" />
-        <mark key="." line="34" column="14" />
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/index.js" timestamp="1552898093265">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/CreateBrandForm/validate/validate.test.js" timestamp="1551768638090">
         <mark key="[" line="34" column="29" />
@@ -278,9 +277,9 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552895968916">
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1552897004691">
         <mark key="'" line="106" column="45" />
-        <mark key="[" line="113" column="46" />
+        <mark key="[" line="108" column="47" />
         <mark key="]" line="106" column="45" />
         <mark key="^" line="106" column="45" />
         <mark key="." line="106" column="45" />
@@ -400,11 +399,11 @@
       <jump line="106" column="45" filename="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIGVsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>value2Send</text>
       </register>
       <register name="/" type="4">
         <text>NumericField</text>
@@ -413,31 +412,31 @@
         <text encoding="base64">ICBpZiAodmFsdWVzW2ZpZWxkTmFtZXNbVFlQRV0gPT09IEF0dHJpYnV0ZVR5cGUuRU5VTSkgewogICAgICAgIHJldHVybiB2YWx1ZXNbZmllbGROYW1lcy5WQUxVRV9FTlVNXQogICAgICB9CiAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZXNbZmllbGROYW1lcy5WQUxVRV0K</text>
+        <text encoding="base64">ICAgICAqIGVsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlMlNlbmQgPSBnZXRWYWx1ZUJ5VHlwZSh2YWx1ZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBWQUxVRTogYCR7cHJlZml4fXZhbHVlYAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZTJTZW5kJywgdmFsdWUyU2VuZCk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZXMnLCB2YWx1ZXMpOyAvLyBUT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7LyogPEljb24gaWNvbj0iZmFzIGZhLXRpbWVzIiAvPiAqL30K</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXNbZmllbGROYW1lcy5WQUxVRV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gdG9kbzogdGlwYXIgYmllbiBlc3RvCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBWQUxVRTogYCR7cHJlZml4fXZhbHVlYAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goY2hhbmdlKGZvcm1OYW1lcy5DUkVBVEVfQVRUUklCVVRFLCBmb3JtRmllbGRzLlZBTFVFLCBudWxsKSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvblR5cGVTZWxlY3RDaGFuZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7LyogPEljb24gaWNvbj0iZmFzIGZhLXRpbWVzIiAvPiAqL30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
