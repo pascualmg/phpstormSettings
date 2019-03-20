@@ -3,18 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/solus-front/src/routes/public.js" timestamp="1553068416332">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/solus-front/src/routes/utils/privateRoute.jsx" timestamp="1553074294420">
         <mark key="[" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/loginOperator.test.js" timestamp="1553084470657">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="86" column="27" />
-        <mark key="." line="74" column="0" />
-      </file>
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/loginOperator.test.js" timestamp="1553084604182" />
       <file name="$USER_HOME$/src/solus-front/src/routes/layouts/__tests__/Private.test.js" timestamp="1553067689958" />
       <file name="$USER_HOME$/src/solus-front/src/core/Login/reducers/index.js" timestamp="1553081107037">
         <mark key="[" line="9" column="9" />
@@ -33,11 +25,11 @@
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/create/index.js" timestamp="1552900378368">
         <mark key="[" line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1553084464010">
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1553084595948">
         <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="4" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="/JavaScript Console" timestamp="1552561226158">
         <mark key="[" line="0" column="0" />
@@ -60,10 +52,16 @@
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553083139028">
+      <file name="/Dummy.txt" timestamp="1553084693984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/reducers/__tests__/reducer.test.js" timestamp="1553084686928">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/store/index.js" timestamp="1553081306459">
         <mark key="[" line="31" column="46" />
@@ -185,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>map</text>
+        <text>undefined</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text>react-sele</text>
@@ -196,36 +194,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgIG9mKGxvZ2luU3VjY2Vzc0FjdGlvbihlbWFpbCwgZXhwLCBpYXQsIHJvbGUsIHRva2VuKSksCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICBpdCgnc2hvdWxkIG5vdCBsb2dpbiB3aGVuIHRoZSB0b2tlbiBkb2VzIG5vdCBoYXZlIHZhbGlkIGRhdGEnLCAoKSA9PiB7CiAgICBjb25zdCB3ZWxsRGVmaW5lZE9iamVjdCA9IHsKICAgICAgZW1haWw6ICcnLAogICAgICBleHA6IHJhbmRvbUV4cCwKICAgICAgaWF0OiByYW5kb21JYXQsCiAgICAgIHJvbGU6IHJhbmRvbVJvbGUKICAgIH07CgogICAgand0LnNpZ24ubW9ja1JldHVyblZhbHVlKHJhbmRvbVRva2VuKTsKICAgIGp3dC52ZXJpZnkubW9ja1JldHVyblZhbHVlKHdlbGxEZWZpbmVkT2JqZWN0KTsKCiAgICBjb25zdCB0b2tlbiA9IGp3dC5zaWduKHdlbGxEZWZpbmVkT2JqZWN0LCBrZXkpOwoKICAgIGNvbnN0IHNyY01hcmJsZSA9ICctYSc7CiAgICBjb25zdCBzcmNWYWx1ZXMgPSB7IGE6IHRva2VuIH07CiAgICBjb25zdCBleHBlY3RlZE1hcmJsZSA9ICcteCc7CiAgICBjb25zdCBleHBlY3RlZFZhbHVlcyA9IHsKICAgICAgeDogbG9naW5GYWlsdXJlQWN0aW9uKCdUb2tlbiBpbnbDoWxpZG8nKQogICAgfTsKICAgIG1hcmJsZVRlc3RlcihzcmNNYXJibGUsIHNyY1ZhbHVlcywgZXhwZWN0ZWRNYXJibGUsIGV4cGVjdGVkVmFsdWVzLCBsb2dpbik7CiAgfSk7</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgZW1haWw6ICcnLAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Merge remote-tracking branch 'origin/develop' into BT-637-crear-atributo-tipo-valores-predefinidos
 
 # Conflicts:
 #	package-lock.json
 #	src/containers/App/__tests__/__snapshots__/App.test.jsx.snap</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Q3JlYXRlCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9mKHB1c2goJy9kYXNoYm9hcmQnKSksCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2luLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9mKHB1c2goJy9kYXNoYm9hcmQnKSksCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ2luLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uY2F0LCBvZiB9IGZyb20gJ3J4anMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2luLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gcHVzaCgnL2Rhc2hib2FyZCcpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY29uY2F0LCBvZiB9IGZyb20gJ3J4anMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gcHVzaCgnL2Rhc2hib2FyZCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
