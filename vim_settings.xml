@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/src/solus-front/src/routes/utils/privateRoute.jsx" timestamp="1553074294420">
         <mark key="[" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/loginOperator.test.js" timestamp="1553084470657">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="86" column="27" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/routes/layouts/__tests__/Private.test.js" timestamp="1553067689958" />
       <file name="$USER_HOME$/src/solus-front/src/core/Login/reducers/index.js" timestamp="1553081107037">
         <mark key="[" line="9" column="9" />
@@ -27,11 +33,11 @@
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/create/index.js" timestamp="1552900378368">
         <mark key="[" line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1553083572634">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1553084464010">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="/JavaScript Console" timestamp="1552561226158">
         <mark key="[" line="0" column="0" />
@@ -42,13 +48,13 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" timestamp="1553083607013">
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" timestamp="1553083869575">
         <mark key="[" line="57" column="39" />
         <mark key="]" line="57" column="9" />
         <mark key="." line="57" column="9" />
         <mark key="^" line="57" column="9" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/routes/__tests__/private.test.js" timestamp="1553083467416">
+      <file name="$USER_HOME$/src/solus-front/src/routes/__tests__/private.test.js" timestamp="1553083943625">
         <mark key="[" line="37" column="34" />
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
@@ -179,47 +185,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>react-sele</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgcmV0dXJuIGxvZ2luU3VjY2Vzc0FjdGlvbihlbWFpbCwgZXhwLCBpYXQsIHJvbGUsIHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIG9mKGxvZ2luU3VjY2Vzc0FjdGlvbihlbWFpbCwgZXhwLCBpYXQsIHJvbGUsIHRva2VuKSksCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgZW1haWw6ICcnLAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>Merge remote-tracking branch 'origin/develop' into BT-637-crear-atributo-tipo-valores-predefinidos
 
 # Conflicts:
 #	package-lock.json
 #	src/containers/App/__tests__/__snapshots__/App.test.jsx.snap</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Q3JlYXRlCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9mKHB1c2goJy9kYXNoYm9hcmQnKSksCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2luLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9mKHB1c2goJy9kYXNoYm9hcmQnKSksCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ2luLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uY2F0LCBvZiB9IGZyb20gJ3J4anMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2luLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gcHVzaCgnL2Rhc2hib2FyZCcpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY29uY2F0LCBvZiB9IGZyb20gJ3J4anMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gcHVzaCgnL2Rhc2hib2FyZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
