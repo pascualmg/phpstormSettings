@@ -79,6 +79,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginHandler/index.js" timestamp="1553510904816">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Login/creators/index.js" timestamp="1553074217190">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -248,14 +254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Merge branch 'develop' into BT-637-crear-atributo-tipo-valores-predefinidos
-
-# Conflicts:
-#	package-lock.json
-#	src/containers/App/__tests__/__snapshots__/App.test.jsx.snap</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>VALUE_ENUM</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -264,35 +266,46 @@
         <text encoding="base64">ICBMT0dJTl9VUkk6IGAke0hPU1R9L2FwaS92MS9zaWduaW5gCg==</text>
       </register>
       <register name="1" type="4">
+        <text>'MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAtbx6Yr6XW5zeQuo/Eii3
+      jCsJbI35Qkyzxao1qgww7WDIZ/xYvbjl6OwBExVOlolYZqi/2WGTA5WRYZESyGlF
+      YIDa8y2SqxMssz8TZOt5wbgDghI2xoyr8LZw2boNaHeI+sm3jFrZ9HSeGB6kgCVk
+      /YxWkc9k9vjvtrNwigbPsZaDck1kzdNkTsLdLFc2muvSMhKq3sylG+wdoVkrYyh6
+      2KvsyL3cLkUxLsRKnmX8Lo+tJ6kfvP2/K9XD7Mop10EaE5NkYEO9qQOzA7Z/ITAL
+      uJSjC6y5l7fOG+PenLKONkJvUw5WGqrwC2WprxXuoiHf7nJPLtJQABG018/QHsmc
+      gclsWAAV800mNtty0uvSUJNDrh7b0Jpvz0Kk1yj2POEQdej4H+1xInMmw0bFLVtc
+      EsJIHD6QOXOE7pzubPLAAnHwo+x4GuS1TX8vZeMjY3j34aDdwbw/ti/Yc334X2xZ
+      TNDHsONI0IqOJ6rBmItBVv4P0GJ7EE4NJtd9RV9+sq0M/02MATYlEaG7QoMViffn
+      GJQdznF6gXTTajOw6KlwUay5qoKgmYJZfl+XzbmC/G1Pyc5sbAslY5BhDowLmuNs
+      agYuXs5P8sSdRk/umXdmnQ9xdJK2L0hxzv3oSewKgSVvxVi0S8zokwqrE8+Lvdl9
+      yqNqShBygZd7R7Fo5igU7hMCAwEAAQ=='</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2dpbiBzdWNjZXNzJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>Merge branch 'develop' into BT-637-crear-atributo-tipo-valores-predefinidos
 
 # Conflicts:
 #	package-lock.json
 #	src/containers/App/__tests__/__snapshots__/App.test.jsx.snap</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcmVkZWZpbmVkVmFsdWVzJywgcHJlZGVmaW5lZFZhbHVlcyk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZXJyb3JzJywgZXJyb3JzKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcmVkZWZpbmVkVmFsdWVzJywgcHJlZGVmaW5lZFZhbHVlcyk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgIGVycm9yc1tGTi5WQUxVRV9FTlVNXS5mb3JFYWNoKGl0ZW0gPT4gewogICAgICAgIGlmICh0eXBlb2YgaXRlbSA9PT0gJ3VuZGVmaW5lZCcpIHsKICAgICAgICAgIGVycm9yc1tGTi5WQUxVRV9FTlVNXSA9ICdoYWNlIGZhbHRhIHBvbmVyIGFsZ28nOwogICAgICAgIH0KICAgICAgfSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZXJyb3JzJywgZXJyb3JzKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJlZGVmaW5lZFZhbHVlcy5sZW5ndGggPT09IDAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgbG9naW5VUkkgPSBTRVJWSUNFLkxPR0lOX1VSSQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgIGVycm9yc1tGTi5WQUxVRV9FTlVNXS5mb3JFYWNoKGl0ZW0gPT4gewogICAgICAgIGlmICh0eXBlb2YgaXRlbSA9PT0gJ3VuZGVmaW5lZCcpIHsKICAgICAgICAgIGVycm9yc1tGTi5WQUxVRV9FTlVNXSA9ICdoYWNlIGZhbHRhIHBvbmVyIGFsZ28nOwogICAgICAgIH0KICAgICAgfSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
