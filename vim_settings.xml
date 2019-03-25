@@ -33,11 +33,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1553156538214">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="14" column="21" />
-        <mark key="^" line="14" column="21" />
-        <mark key="." line="14" column="21" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/loginOperator.js" timestamp="1553515317579">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/src/cmsadmin/src/components/App/App.jsx" timestamp="1553176514380">
         <mark key="[" line="39" column="4" />
@@ -74,17 +74,12 @@
         <mark key="]" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553501783590">
+      <file name="/Dummy.txt" timestamp="1553516335707">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginHandler/index.js" timestamp="1553513187385">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="27" />
-        <mark key="." line="30" column="27" />
-        <mark key="^" line="32" column="9" />
-      </file>
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginHandler/index.js" timestamp="1553515807963" />
       <file name="$USER_HOME$/src/solus-front/src/core/Login/creators/index.js" timestamp="1553074217190">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -100,7 +95,7 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/routes/index.js" timestamp="1553169330952">
+      <file name="$USER_HOME$/src/solus-front/src/routes/index.js" timestamp="1553516487444">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="1" />
@@ -130,6 +125,12 @@
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/store/index.js" timestamp="1553516263696">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="48" />
+        <mark key="^" line="31" column="48" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/store/combineEpics.js" timestamp="1553240073561">
         <mark key="[" line="2" column="52" />
@@ -254,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>256</text>
+        <text>BT-637 , AC 4</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>BT-637 , AC 4</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -266,46 +267,31 @@
         <text encoding="base64">ICBMT0dJTl9VUkk6IGAke0hPU1R9L2FwaS92MS9zaWduaW5gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JvbGVzJywgcm9sZXMpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RlY29kZWQnLCBkZWNvZGVkKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2lhdCcsIGlhdCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2V4cCcsIGV4cCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VzZXJuYW1lJywgdXNlcm5hbWUpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGVjb2RlZCA9IGp3dC52ZXJpZnkodG9rZW4sIHB1YmxpY0tleSwgIHthbGdvcml0aG06ICBbIlJTMjU2Il19ICkK</text>
+        <text encoding="base64">Y29uc3Qga2V5ID0gJ2NsYXZlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWxnb3JpdGhtID0ge2FsZ29yaXRobTogWydSUzUxMiddfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>'MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAtbx6Yr6XW5zeQuo/Eii3
-      jCsJbI35Qkyzxao1qgww7WDIZ/xYvbjl6OwBExVOlolYZqi/2WGTA5WRYZESyGlF
-      YIDa8y2SqxMssz8TZOt5wbgDghI2xoyr8LZw2boNaHeI+sm3jFrZ9HSeGB6kgCVk
-      /YxWkc9k9vjvtrNwigbPsZaDck1kzdNkTsLdLFc2muvSMhKq3sylG+wdoVkrYyh6
-      2KvsyL3cLkUxLsRKnmX8Lo+tJ6kfvP2/K9XD7Mop10EaE5NkYEO9qQOzA7Z/ITAL
-      uJSjC6y5l7fOG+PenLKONkJvUw5WGqrwC2WprxXuoiHf7nJPLtJQABG018/QHsmc
-      gclsWAAV800mNtty0uvSUJNDrh7b0Jpvz0Kk1yj2POEQdej4H+1xInMmw0bFLVtc
-      EsJIHD6QOXOE7pzubPLAAnHwo+x4GuS1TX8vZeMjY3j34aDdwbw/ti/Yc334X2xZ
-      TNDHsONI0IqOJ6rBmItBVv4P0GJ7EE4NJtd9RV9+sq0M/02MATYlEaG7QoMViffn
-      GJQdznF6gXTTajOw6KlwUay5qoKgmYJZfl+XzbmC/G1Pyc5sbAslY5BhDowLmuNs
-      agYuXs5P8sSdRk/umXdmnQ9xdJK2L0hxzv3oSewKgSVvxVi0S8zokwqrE8+Lvdl9
-      yqNqShBygZd7R7Fo5igU7hMCAwEAAQ=='</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RlY29kZWQnLCBkZWNvZGVkKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2dpbiBzdWNjZXNzJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>Merge branch 'develop' into BT-637-crear-atributo-tipo-valores-predefinidos
-
-# Conflicts:
-#	package-lock.json
-#	src/containers/App/__tests__/__snapshots__/App.test.jsx.snap</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
