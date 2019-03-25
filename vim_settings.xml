@@ -79,11 +79,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginHandler/index.js" timestamp="1553510904816">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="23" column="39" />
+      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginHandler/index.js" timestamp="1553513187385">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="32" column="9" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Login/creators/index.js" timestamp="1553074217190">
         <mark key="[" line="15" column="0" />
@@ -254,10 +254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>256</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -265,7 +265,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICBMT0dJTl9VUkk6IGAke0hPU1R9L2FwaS92MS9zaWduaW5gCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RlY29kZWQnLCBkZWNvZGVkKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZGVjb2RlZCA9IGp3dC52ZXJpZnkodG9rZW4sIHB1YmxpY0tleSwgIHthbGdvcml0aG06ICBbIlJTMjU2Il19ICkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgYWxnb3JpdGhtID0ge2FsZ29yaXRobTogWydSUzUxMiddfQo=</text>
+      </register>
+      <register name="7" type="4">
         <text>'MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAtbx6Yr6XW5zeQuo/Eii3
       jCsJbI35Qkyzxao1qgww7WDIZ/xYvbjl6OwBExVOlolYZqi/2WGTA5WRYZESyGlF
       YIDa8y2SqxMssz8TZOt5wbgDghI2xoyr8LZw2boNaHeI+sm3jFrZ9HSeGB6kgCVk
@@ -279,33 +297,15 @@
       agYuXs5P8sSdRk/umXdmnQ9xdJK2L0hxzv3oSewKgSVvxVi0S8zokwqrE8+Lvdl9
       yqNqShBygZd7R7Fo5igU7hMCAwEAAQ=='</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2dpbiBzdWNjZXNzJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>Merge branch 'develop' into BT-637-crear-atributo-tipo-valores-predefinidos
 
 # Conflicts:
 #	package-lock.json
 #	src/containers/App/__tests__/__snapshots__/App.test.jsx.snap</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcmVkZWZpbmVkVmFsdWVzJywgcHJlZGVmaW5lZFZhbHVlcyk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZXJyb3JzJywgZXJyb3JzKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgIGVycm9yc1tGTi5WQUxVRV9FTlVNXS5mb3JFYWNoKGl0ZW0gPT4gewogICAgICAgIGlmICh0eXBlb2YgaXRlbSA9PT0gJ3VuZGVmaW5lZCcpIHsKICAgICAgICAgIGVycm9yc1tGTi5WQUxVRV9FTlVNXSA9ICdoYWNlIGZhbHRhIHBvbmVyIGFsZ28nOwogICAgICAgIH0KICAgICAgfSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
