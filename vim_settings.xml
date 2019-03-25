@@ -27,6 +27,7 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/src/solus-front/src/components/RenderField/index.jsx" timestamp="1553500460731" />
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/create/index.js" timestamp="1553452016990">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -50,7 +51,6 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="15" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginMock/index.js" timestamp="1553453530912" />
       <file name="$USER_HOME$/src/solus-front/src/routes/utils/privateRoute.jsx" timestamp="1553167441432">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="39" column="0" />
@@ -74,13 +74,11 @@
         <mark key="]" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553453029832">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1553501783590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginHandler/index.js" timestamp="1553453544676" />
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/reducers/index.js" timestamp="1553453979586" />
       <file name="$USER_HOME$/src/solus-front/src/core/Login/creators/index.js" timestamp="1553074217190">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -101,6 +99,12 @@
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/validate/index.js" timestamp="1553501189001">
+        <mark key="[" line="26" column="51" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginReal/index.js" timestamp="1553451404082">
         <mark key="'" line="30" column="19" />
@@ -129,6 +133,9 @@
         <mark key="]" line="33" column="3" />
         <mark key="^" line="27" column="12" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/containers/CreateAttributeForm/CreateAttributeForm.jsx" timestamp="1553499315804">
+        <mark key="[" line="66" column="70" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/routes/private.js" timestamp="1553168232962">
         <mark key="[" line="13" column="11" />
@@ -241,10 +248,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e real login handler.</text>
+        <text>Merge branch 'develop' into BT-637-crear-atributo-tipo-valores-predefinidos
+
+# Conflicts:
+#	package-lock.json
+#	src/containers/App/__tests__/__snapshots__/App.test.jsx.snap</text>
       </register>
       <register name="-" type="4">
-        <text>e real login handler.</text>
+        <text>VALUE_ENUM</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -252,32 +263,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICBMT0dJTl9VUkk6IGAke0hPU1R9L2FwaS92MS9zaWduaW5gCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgbG9naW5VUkkgPSBTRVJWSUNFLkxPR0lOX1VSSQo=</text>
+      <register name="1" type="4">
+        <text>Merge branch 'develop' into BT-637-crear-atributo-tipo-valores-predefinidos
+
+# Conflicts:
+#	package-lock.json
+#	src/containers/App/__tests__/__snapshots__/App.test.jsx.snap</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbG9naW5VUkkgPSAnaHR0cDovLzE5Mi4xNjguMTMuMzU6ODA4My9hcGkvdjEvc2lnbmluJwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcmVkZWZpbmVkVmFsdWVzJywgcHJlZGVmaW5lZFZhbHVlcyk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlbG9jdWVudE1lc3NhZ2UnLCBlbG9jdWVudE1lc3NhZ2UpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncGFzc3dvcmQgJywgcGFzc3dvcmQpLy9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZXJyb3JzJywgZXJyb3JzKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW1haWwgJywgZW1haWwpLy9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgIGVycm9yc1tGTi5WQUxVRV9FTlVNXS5mb3JFYWNoKGl0ZW0gPT4gewogICAgICAgIGlmICh0eXBlb2YgaXRlbSA9PT0gJ3VuZGVmaW5lZCcpIHsKICAgICAgICAgIGVycm9yc1tGTi5WQUxVRV9FTlVNXSA9ICdoYWNlIGZhbHRhIHBvbmVyIGFsZ28nOwogICAgICAgIH0KICAgICAgfSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuc2VuZFN0YXR1cyhIdHRwU3RhdHVzLlVOQVVUSE9SSVpFRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJlZGVmaW5lZFZhbHVlcy5sZW5ndGggPT09IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYoZXJyb3Iuc3RhdHVzID09PSA0MDEpIHsK</text>
+        <text encoding="base64">Y29uc3QgbG9naW5VUkkgPSBTRVJWSUNFLkxPR0lOX1VSSQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
