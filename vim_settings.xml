@@ -27,7 +27,6 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/components/RenderField/index.jsx" timestamp="1553507595091" />
       <file name="$USER_HOME$/src/disparate-inesperado/src/controller/attribute/create/index.js" timestamp="1553452016990">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -42,7 +41,7 @@
       <file name="$USER_HOME$/src/cmsadmin/src/components/App/App.jsx" timestamp="1553176514380">
         <mark key="[" line="39" column="4" />
       </file>
-      <file name="/JavaScript Console" timestamp="1552561226158">
+      <file name="/JavaScript Console" timestamp="1553586483870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Brand/epics/__tests__/BrandCreateEpic.test.js" timestamp="1553180651642">
@@ -63,25 +62,36 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="2" />
       </file>
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/index.js" timestamp="1553586542691">
+        <mark key="[" line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/login.test.js" timestamp="1553586682028">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="5" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/store/combineReducers.js" timestamp="1553175567648">
         <mark key="[" line="4" column="51" />
         <mark key="]" line="4" column="51" />
         <mark key="." line="4" column="51" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/loginOperator.test.js" timestamp="1553091792043">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/epics/__tests__/loginOperator.test.js" timestamp="1553586811006">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553516335707">
+      <file name="/Dummy.txt" timestamp="1553586761694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginHandler/index.js" timestamp="1553515807963" />
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/creators/index.js" timestamp="1553074217190">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/reducers/index.js" timestamp="1553586736606">
+        <mark key="[" line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/solus-front/src/core/Login/creators/index.js" timestamp="1553586707829">
+        <mark key="[" line="8" column="56" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -255,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BT-637 , AC 4</text>
+        <text>email</text>
       </register>
       <register name="-" type="4">
-        <text>BT-637 , AC 4</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
