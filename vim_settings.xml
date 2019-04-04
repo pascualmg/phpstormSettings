@@ -27,6 +27,7 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/config.yml" timestamp="1554384329284" />
       <file name="$USER_HOME$/src/pccfront/.eslintrc.json" timestamp="1554193282537">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="22" />
@@ -38,10 +39,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1554382687151">
+      <file name="$USER_HOME$/src/pccfront/composer.json" timestamp="1554383585589">
         <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="28" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="45" column="49" />
+        <mark key="^" line="45" column="49" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/Layout/index.jsx" timestamp="1553697653235">
         <mark key="[" line="20" column="15" />
@@ -88,8 +90,10 @@
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/reducers/index.js" timestamp="1553858114133">
-        <mark key="[" line="18" column="44" />
+      <file name="$USER_HOME$/src/pccfront/app/AppKernel.php" timestamp="1554384268073">
+        <mark key="[" line="34" column="60" />
+        <mark key="]" line="34" column="60" />
+        <mark key="." line="34" column="60" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/head.html.twig" timestamp="1553869659950">
         <mark key="[" line="58" column="14" />
@@ -108,9 +112,6 @@
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/solus-front/src/core/Login/creators/__tests__/creators.test.js" timestamp="1553592415570">
-        <mark key="[" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/react/src/index.jsx" timestamp="1554360952967">
         <mark key="[" line="49" column="0" />
@@ -141,6 +142,9 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/config/config_dev.yml" timestamp="1554384383482">
+        <mark key="'" line="40" column="8" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/Layout/__tests__/Layout.test.jsx" timestamp="1553693509919">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="8" column="10" />
@@ -167,23 +171,11 @@
         <mark key="]" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/a.sql" timestamp="1554049347647">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/cmsadmin/src/components/App/App.jsx" timestamp="1553765600194">
-        <mark key="[" line="39" column="4" />
-      </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Brand/epics/__tests__/BrandCreateEpic.test.js" timestamp="1553180651642">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="112" column="15" />
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="15" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1554051394501">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/frontst/src/index.js" timestamp="1554056600949">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/constants/service/index.js" timestamp="1553452981964">
         <mark key="[" line="4" column="2" />
@@ -271,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="23" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="27" column="59" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/index.jsx" />
       <jump line="64" column="11" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
       <jump line="92" column="9" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
@@ -371,13 +362,14 @@
       <jump line="14778" column="5" filename="$USER_HOME$/src/solus-front/package-lock.json" />
       <jump line="30" column="19" filename="$USER_HOME$/src/disparate-inesperado/src/controller/login/loginReal/index.js" />
       <jump line="37" column="6" filename="$USER_HOME$/src/frontst/src/Users.js" />
+      <jump line="40" column="8" filename="$USER_HOME$/src/pccfront/app/config/config_dev.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -386,31 +378,31 @@
         <text encoding="base64">ICAgIDxHZW5lcmljVGJvZHkgYXJyT2JqPXthcnJPYmp9Lz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R2VuZXJpY1Rib2R5IGFyck9iaj17dXNlcnN9Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R2VuZXJpY1RoZWFkIGFyck9iaj17dXNlcnN9Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R2VuZXJpY1Rib2R5IGFyck9iaj17dXNlcnN9Lz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0YWJsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R2VuZXJpY1RoZWFkIGFyck9iaj17dXNlcnN9Lz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfS5iaW5kKHRoaXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0YWJsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfS5iaW5kKHRoaXMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3VzZXIucGFzc3dvcmR9PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3VzZXIubG9naW59PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3VzZXIucGFzc3dvcmR9PC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
