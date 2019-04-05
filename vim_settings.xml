@@ -59,10 +59,10 @@
         <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/src/frontst/package.json" timestamp="1554374514540">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="22" column="24" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/src/backendst/public/index.html" timestamp="1554057113303">
         <mark key="[" line="25" column="12" />
@@ -108,17 +108,21 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/react/src/index.jsx" timestamp="1554360952967">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="4" column="44" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/react/src/index.jsx" timestamp="1554454484361">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/routes/howto.md" timestamp="1553168335260">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="33" column="3" />
         <mark key="^" line="27" column="12" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/frontst/src/components/GenericTable/index.jsx" timestamp="1554455471830">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/SolusSidebar/index.jsx" timestamp="1553767284145">
         <mark key="[" line="3" column="0" />
@@ -266,8 +270,8 @@
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/src/frontst/.babelrc" timestamp="1554053315229">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/frontst/.babelrc" timestamp="1554454944190">
+        <mark key="[" line="1" column="57" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -376,10 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3N0eWxlZCcsIHN0eWxlZCkvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -388,31 +392,31 @@
         <text encoding="base64">ICAgIDxHZW5lcmljVGJvZHkgYXJyT2JqPXthcnJPYmp9Lz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3N0eWxlZCcsIHN0eWxlZCkvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IAo=</text>
+        <text encoding="base64">c3R5bGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R2VuZXJpY1Rib2R5IGFyck9iaj17dXNlcnN9Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R2VuZXJpY1RoZWFkIGFyck9iaj17dXNlcnN9Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0YWJsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfS5iaW5kKHRoaXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R2VuZXJpY1Rib2R5IGFyck9iaj17dXNlcnN9Lz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R2VuZXJpY1RoZWFkIGFyck9iaj17dXNlcnN9Lz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0YWJsZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
