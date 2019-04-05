@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/frontst/node_modules/concat-map/index.js" timestamp="1554482372571" />
       <file name="$USER_HOME$/src/solus-front/src/containers/BrandCreateForm/BrandCreateForm.jsx" timestamp="1553686649319">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="12" />
@@ -119,11 +120,10 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/components/GenericTable/index.jsx" timestamp="1554480702154">
-        <mark key="[" line="22" column="51" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/src/frontst/src/components/GenericTable/index.jsx" timestamp="1554481773020">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/SolusSidebar/index.jsx" timestamp="1553767284145">
         <mark key="[" line="3" column="0" />
@@ -145,6 +145,7 @@
       <file name="$USER_HOME$/src/pccfront/app/config/config_dev.yml" timestamp="1554384383482">
         <mark key="'" line="40" column="8" />
       </file>
+      <file name="$USER_HOME$/src/frontst/node_modules/assert/assert.js" timestamp="1554482242847" />
       <file name="$USER_HOME$/src/solus-front/src/containers/Layout/__tests__/Layout.test.jsx" timestamp="1553693509919">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="8" column="10" />
@@ -381,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAyMHB4Owo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="-" type="4">
-        <text>10px</text>
+        <text>array de objetos que tienen que ser todos iguales</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -393,31 +394,31 @@
         <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAxMHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAyMHB4Owo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAxMHB4Owo=</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkdGtleTx0ZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmVuZGl0byByeGpzCg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3R5bGVkIGNvbXBvbmV0Cg==</text>
+        <text encoding="base64">Ly9hc3NlcnQgaXMgYXJyYXkgYW5kIGhhdmUgYXQgbGVhc3Qgb25lIG9iamVjdCBpbnNpZGUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FqYXgnLCBhamF4KTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3N0eWxlZCcsIHN0eWxlZCkvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3R5bGVkCg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFscwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
