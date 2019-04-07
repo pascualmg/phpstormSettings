@@ -98,10 +98,10 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/src/frontst/webpack.config.js" timestamp="1554488560993">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
+      <file name="$USER_HOME$/src/frontst/webpack.config.js" timestamp="1554646046967">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/AppKernel.php" timestamp="1554384268073">
         <mark key="[" line="34" column="60" />
@@ -137,11 +137,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/components/GenericTable/index.jsx" timestamp="1554485031723">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/src/frontst/src/components/GenericTable/index.jsx" timestamp="1554654039217">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/frontst/public/index.html" timestamp="1554653516504">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/SolusSidebar/index.jsx" timestamp="1553767284145">
         <mark key="[" line="3" column="0" />
@@ -233,7 +239,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554634630626">
+      <file name="/Dummy.txt" timestamp="1554654040902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -294,10 +300,11 @@
         <mark key="." line="31" column="48" />
         <mark key="^" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/components/Users/index.js" timestamp="1554487837952">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/src/frontst/src/components/Users/index.js" timestamp="1554649107451">
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="10" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/routes/private.js" timestamp="1553694990113">
         <mark key="[" line="12" column="29" />
@@ -425,44 +432,44 @@
       <jump line="40" column="8" filename="$USER_HOME$/src/pccfront/app/config/config_dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>component</text>
       </register>
       <register name="-" type="4">
-        <text>Element</text>
+        <text>component</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25OZXh0KG5leHQpIHtjb25zb2xlLmxvZyhuZXh0KX0sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y29uc3QgU3R5bGVkVGggPSBzdHlsZWQudGhgCiY6bnRoLWNoaWxkKG9kZCl7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZGRkZGRkOwogIHRleHQtYWxpZ246IGxlZnQ7CiAgcGFkZGluZzogOHB4Owp9CmAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FsZ28nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiA4cHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWxnbwo=</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBsZWZ0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjZGRkZGRkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiCg==</text>
+        <text encoding="base64">ICAgIHRkYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIuL2luZGV4LmRkY3NzIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
