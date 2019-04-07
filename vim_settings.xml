@@ -64,6 +64,12 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/src/purecomponent/public/index.html" timestamp="1554636489888">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/src/frontst/package.json" timestamp="1554633438923">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="24" />
@@ -119,12 +125,17 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mako_framework/gulpfile.js" timestamp="1554635466744" />
       <file name="$USER_HOME$/src/solus-front/src/routes/howto.md" timestamp="1553168335260">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="33" column="3" />
         <mark key="^" line="27" column="12" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/purecomponent/server.js" timestamp="1554636422736">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/frontst/src/components/GenericTable/index.jsx" timestamp="1554485031723">
         <mark key="[" line="10" column="22" />
@@ -154,7 +165,6 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/src/backst/src/routes.js" timestamp="1554633314894" />
       <file name="$USER_HOME$/src/solus-front/src/containers/Layout/__tests__/Layout.test.js" timestamp="1553693473112">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
@@ -194,6 +204,12 @@
       <file name="/JavaScript Console" timestamp="1554487795420">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/purecomponent/src/public/index.html" timestamp="1554637349881">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/constants/service/index.js" timestamp="1553452981964">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="2" />
@@ -221,6 +237,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/purecomponent/src/public/js/main.js" timestamp="1554637739908">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/src/frontst/src/components/Users.js" timestamp="1554374025044">
         <mark key="[" line="2" column="0" />
@@ -272,7 +294,6 @@
         <mark key="." line="31" column="48" />
         <mark key="^" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/src/mako_framework/src/docs.scss" timestamp="1554635788489" />
       <file name="$USER_HOME$/src/frontst/src/components/Users/index.js" timestamp="1554487837952">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="22" column="0" />
@@ -293,6 +314,12 @@
         <mark key="[" line="1" column="57" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/purecomponent/src/server.js" timestamp="1554636915444">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -398,11 +425,11 @@
       <jump line="40" column="8" filename="$USER_HOME$/src/pccfront/app/config/config_dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>consulta</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>consulta</text>
+        <text>Element</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -411,49 +438,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25OZXh0KG5leHQpIHtjb25zb2xlLmxvZyhuZXh0KX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3J4JywgcngpOy8vVE9ETzogYm9ycmFtZS4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJ2FsZ28nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YWxnbwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3J1bGFuZG8nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">InVzZSBzdHJpY3QiCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-  &quot;name&quot;: &quot;backst&quot;,
-  &quot;version&quot;: &quot;1.0.0&quot;,
-  &quot;description&quot;: &quot;&quot;,
-  &quot;main&quot;: &quot;sdf/index.js&quot;,</text>
+      <register name="6" type="2">
+        <text encoding="base64">InVzZSBzdHJpY3QiCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAiZXhwcmVzcyI6ICJeNC4xNi40IiwKICAgICJtb3JnYW4iOiAiXjEuOS4xIiwKICAgICJzcWxpdGUzIjogIl40LjAuNiIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiYmFiZWwiOiAiXmZhZA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.23.0&quot;,
-    &quot;babel-cli&quot;: &quot;^6.26.0&quot;,
-    &quot;babel-plugin-transform-object-rest-spread&quot;: &quot;^6.26.0&quot;,
-    &quot;babel-preset-es2015&quot;: &quot;^6.24.1&quot;,
-    &quot;nodemon&quot;: &quot;^1.18.10&quot;
-  },
-  &quot;babel&quot;: {
-    &quot;presets&quot;: [
-      &quot;es2015&quot;
-    ],
-    &quot;plugins&quot;: [
-      &quot;transform-object-rest-spread&quot;
-    ]
-  }
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJiYWJlbCI6ICJeNi4yMy4wIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
