@@ -30,6 +30,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/src/backst/webpack.config.js" timestamp="1554488541328">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/.eslintrc.json" timestamp="1554193282537">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="22" />
@@ -58,7 +63,7 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/src/frontst/package.json" timestamp="1554374514540">
+      <file name="$USER_HOME$/src/frontst/package.json" timestamp="1554489640788">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="24" />
         <mark key="." line="24" column="24" />
@@ -86,7 +91,7 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/src/frontst/webpack.config.js" timestamp="1554054665312">
+      <file name="$USER_HOME$/src/frontst/webpack.config.js" timestamp="1554488560993">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
@@ -150,6 +155,7 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/src/backst/src/routes.js" timestamp="1554489217482" />
       <file name="$USER_HOME$/src/solus-front/src/containers/Layout/__tests__/Layout.test.js" timestamp="1553693473112">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
@@ -183,7 +189,7 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="/JavaScript Console" timestamp="1554418952490">
+      <file name="/JavaScript Console" timestamp="1554487795420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/disparate-inesperado/src/constants/service/index.js" timestamp="1553452981964">
@@ -209,23 +215,19 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554484530592">
+      <file name="/Dummy.txt" timestamp="1554489771998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/frontst/src/Users.js" timestamp="1554371354364">
-        <mark key="'" line="36" column="6" />
-        <mark key="[" line="78" column="42" />
-        <mark key="]" line="78" column="40" />
-        <mark key="." line="78" column="40" />
-        <mark key="^" line="78" column="40" />
       </file>
       <file name="$USER_HOME$/src/frontst/src/components/Users.js" timestamp="1554374025044">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/backst/src/index.js" timestamp="1554489337253">
+        <mark key="[" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/src/frontst/public/main.js" timestamp="1554054699801">
         <mark key="[" line="1" column="0" />
@@ -260,18 +262,17 @@
         <mark key="." line="31" column="48" />
         <mark key="^" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/src/frontst/src/components/Users/index.js" timestamp="1554486135293">
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="31" />
+      <file name="$USER_HOME$/src/frontst/src/components/Users/index.js" timestamp="1554487837952">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/routes/private.js" timestamp="1553694990113">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/src/frontst/.babelrc" timestamp="1554454944190">
+      <file name="$USER_HOME$/src/frontst/.babelrc" timestamp="1554488627277">
         <mark key="[" line="1" column="57" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -380,11 +381,11 @@
       <jump line="40" column="8" filename="$USER_HOME$/src/pccfront/app/config/config_dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uhhsuarios</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>uhhsuarios</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -393,33 +394,49 @@
         <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25OZXh0KG5leHQpIHtjb25zb2xlLmxvZyhuZXh0KX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmpzb24oKQo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigocmVzcG9uc2UpID0+IHsK</text>
+      <register name="2" type="4">
+        <text>{
+  &quot;name&quot;: &quot;backst&quot;,
+  &quot;version&quot;: &quot;1.0.0&quot;,
+  &quot;description&quot;: &quot;&quot;,
+  &quot;main&quot;: &quot;sdf/index.js&quot;,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAiZXhwcmVzcyI6ICJeNC4xNi40IiwKICAgICJtb3JnYW4iOiAiXjEuOS4xIiwKICAgICJzcWxpdGUzIjogIl40LjAuNiIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiYmFiZWwiOiAiXmZhZA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmpzb24oKQo=</text>
+      <register name="4" type="4">
+        <text>.23.0&quot;,
+    &quot;babel-cli&quot;: &quot;^6.26.0&quot;,
+    &quot;babel-plugin-transform-object-rest-spread&quot;: &quot;^6.26.0&quot;,
+    &quot;babel-preset-es2015&quot;: &quot;^6.24.1&quot;,
+    &quot;nodemon&quot;: &quot;^1.18.10&quot;
+  },
+  &quot;babel&quot;: {
+    &quot;presets&quot;: [
+      &quot;es2015&quot;
+    ],
+    &quot;plugins&quot;: [
+      &quot;transform-object-rest-spread&quot;
+    ]
+  }
+}</text>
       </register>
-      <register name="5" type="4">
-        <text>console.log,
-            function onError(next) {console.log(next)},
-            function onComplete(next) {console.log(next)},</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJiYWJlbCI6ICJeNi4yMy4wIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NvbXBsZXRhZG8nKSAvL29uQ29tcGxldGUgLCBxdWUgZXN0ZSBzZSB1c2EgcG9jbyB4RAo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvciwgLy9vbkVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3J0IDogNjk2OQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG5leHQpID0+IHtjb25zb2xlLmxvZyhuZXh0KX0sCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wcmVzczogdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2csIC8vb25TdWNjZXNzLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50QmFzZTogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgICdwdWJsaWMnKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
