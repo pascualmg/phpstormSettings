@@ -155,7 +155,6 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/src/backst/src/routes.js" timestamp="1554489217482" />
       <file name="$USER_HOME$/src/solus-front/src/containers/Layout/__tests__/Layout.test.js" timestamp="1553693473112">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
@@ -176,6 +175,9 @@
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="18" />
         <mark key="." line="16" column="18" />
+      </file>
+      <file name="/a.sql" timestamp="1554631344581">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Brand/epics/__tests__/BrandCreateEpic.test.js" timestamp="1553180651642">
         <mark key="[" line="12" column="9" />
@@ -215,7 +217,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554489771998">
+      <file name="/Dummy.txt" timestamp="1554631344591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,8 +228,13 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/src/backst/src/index.js" timestamp="1554489337253">
-        <mark key="[" line="8" column="16" />
+      <file name="$USER_HOME$/src/backst/package.json" timestamp="1554630694578">
+        <mark key="[" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/backst/src/index.js" timestamp="1554631831250">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/frontst/public/main.js" timestamp="1554054699801">
         <mark key="[" line="1" column="0" />
@@ -382,10 +389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FsZ28nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>algo</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -394,19 +401,25 @@
         <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25OZXh0KG5leHQpIHtjb25zb2xlLmxvZyhuZXh0KX0sCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FsZ28nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3J1bGFuZG8nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>{
   &quot;name&quot;: &quot;backst&quot;,
   &quot;version&quot;: &quot;1.0.0&quot;,
   &quot;description&quot;: &quot;&quot;,
   &quot;main&quot;: &quot;sdf/index.js&quot;,</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAiZXhwcmVzcyI6ICJeNC4xNi40IiwKICAgICJtb3JnYW4iOiAiXjEuOS4xIiwKICAgICJzcWxpdGUzIjogIl40LjAuNiIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiYmFiZWwiOiAiXmZhZA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.23.0&quot;,
     &quot;babel-cli&quot;: &quot;^6.26.0&quot;,
     &quot;babel-plugin-transform-object-rest-spread&quot;: &quot;^6.26.0&quot;,
@@ -423,20 +436,14 @@
   }
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJiYWJlbCI6ICJeNi4yMy4wIiwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0IDogNjk2OQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wcmVzczogdHJ1ZSwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50QmFzZTogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgICdwdWJsaWMnKSwK</text>
+        <text encoding="base64">ICAgICAgICBwb3J0IDogNjk2OQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
