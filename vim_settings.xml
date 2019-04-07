@@ -46,11 +46,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/backst/src/rxsqlite.js" timestamp="1554633387982">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/src/backst/src/rxsqlite.js" timestamp="1554633988237">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/Layout/index.jsx" timestamp="1553697653235">
         <mark key="[" line="20" column="15" />
@@ -219,7 +219,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554631344591">
+      <file name="/Dummy.txt" timestamp="1554634630626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -230,8 +230,11 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/src/backst/package.json" timestamp="1554630694578">
-        <mark key="[" line="5" column="14" />
+      <file name="$USER_HOME$/src/backst/package.json" timestamp="1554633789822">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
       </file>
       <file name="$USER_HOME$/src/backst/src/index.js" timestamp="1554633410375">
         <mark key="[" line="6" column="0" />
@@ -280,6 +283,12 @@
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/backst/src/createObservableFromSqlite.js" timestamp="1554634657630">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/src/frontst/.babelrc" timestamp="1554488627277">
         <mark key="[" line="1" column="57" />
@@ -390,11 +399,11 @@
       <jump line="40" column="8" filename="$USER_HOME$/src/pccfront/app/config/config_dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3J4JywgcngpOy8vVE9ETzogYm9ycmFtZS4K</text>
+      <register name="&quot;" type="4">
+        <text>consulta</text>
       </register>
       <register name="-" type="4">
-        <text>Sqlite</text>
+        <text>consulta</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -403,28 +412,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25OZXh0KG5leHQpIHtjb25zb2xlLmxvZyhuZXh0KX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3J4JywgcngpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FsZ28nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3J4JywgcngpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3J1bGFuZG8nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FsZ28nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3J1bGFuZG8nKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
   &quot;name&quot;: &quot;backst&quot;,
   &quot;version&quot;: &quot;1.0.0&quot;,
   &quot;description&quot;: &quot;&quot;,
   &quot;main&quot;: &quot;sdf/index.js&quot;,</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAiZXhwcmVzcyI6ICJeNC4xNi40IiwKICAgICJtb3JnYW4iOiAiXjEuOS4xIiwKICAgICJzcWxpdGUzIjogIl40LjAuNiIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiYmFiZWwiOiAiXmZhZA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.23.0&quot;,
     &quot;babel-cli&quot;: &quot;^6.26.0&quot;,
     &quot;babel-plugin-transform-object-rest-spread&quot;: &quot;^6.26.0&quot;,
@@ -441,11 +453,8 @@
   }
 }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYWJlbCI6ICJeNi4yMy4wIiwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbCI6ICJeNi4yMy4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
