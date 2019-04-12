@@ -92,7 +92,7 @@
         <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/prefetch.html.twig" timestamp="1555057474897" />
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/MainController.php" timestamp="1555058187941">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/MainController.php" timestamp="1555065389247">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -125,6 +125,7 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/breadcrumbs/breadcrumb-home.html.twig" timestamp="1555065266388" />
       <file name="$USER_HOME$/src/frontst/webpack.config.js" timestamp="1554646046967">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -305,8 +306,8 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555053889766">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1555066171112">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -363,17 +364,16 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/controller/legacy/home.js" timestamp="1555063828891">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="18" column="36" />
-      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/react/src/tools/StargateOajax/index.js" timestamp="1554122493310">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="28" />
         <mark key="." line="40" column="28" />
         <mark key="^" line="40" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/breadcrumbs/breadcrumb.html.twig" timestamp="1555065109561">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Notification/reducer/index.js" timestamp="1553175441020">
         <mark key="[" line="0" column="36" />
@@ -399,10 +399,10 @@
         <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/index.js" timestamp="1555057149535">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="21" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="$USER_HOME$/src/frontst/.babelrc" timestamp="1554488627277">
         <mark key="[" line="1" column="57" />
@@ -519,10 +519,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>basejs</text>
+        <text>compose html from json ( the task )</text>
       </register>
       <register name="-" type="4">
-        <text>basejs</text>
+        <text>compose html from json ( the task )</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -531,31 +531,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICYmIGJsb2NrTmFtZSAhPT0gJ2Jhc2VqcycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Byb2Nlc3NpbmcgYmxvY2snLCBPYmplY3Qua2V5cyhkYXRhW2tleV0pKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coT2JqZWN0LnZhbHVlcyhkYXRhW2tleV0pWzBdLmluZGV4T2YoJ0h1YXdlaSBQMzAnKSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbCArPU9iamVjdC52YWx1ZXMoZGF0YVtrZXldKVswXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Jsb2NrTmFtZScsIGJsb2NrTmFtZSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCAgIT0gJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyM8L2Rpdj4jfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCBPYmplY3Qua2V5cyhkYXRhW2tleV0pWzBdICE9ICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsjPC9kaXY+I30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IzwvdWw+I30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyN7JSBlbmRmb3IgJX0jfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyM8L2xpPiN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
