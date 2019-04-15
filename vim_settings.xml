@@ -92,12 +92,10 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/prefetch.html.twig" timestamp="1555057474897" />
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/MainController.php" timestamp="1555065389247">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="57" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/MainController.php" timestamp="1555311891299">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/backendst/public/index.html" timestamp="1554057113303">
         <mark key="[" line="25" column="12" />
@@ -126,7 +124,6 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/breadcrumbs/breadcrumb-home.html.twig" timestamp="1555065266388" />
       <file name="$USER_HOME$/src/frontst/webpack.config.js" timestamp="1554646046967">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -200,8 +197,11 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" timestamp="1554987373171">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" timestamp="1555311658340">
         <mark key="'" line="0" column="52" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/NormalLayout/layout.html.twig" timestamp="1555061032122">
         <mark key="[" line="16" column="30" />
@@ -307,7 +307,7 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555068346167">
+      <file name="/Dummy.txt" timestamp="1555310273589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -346,7 +346,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555051498649">
+      <file name="/GraphQL.result.json" timestamp="1555311943747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/frontst/src/components/LoginForm/index.js" timestamp="1554705139597">
@@ -365,6 +365,7 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/controller/legacy/home.js" timestamp="1555310210363" />
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/react/src/tools/StargateOajax/index.js" timestamp="1554122493310">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="28" />
@@ -525,47 +526,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGFsZ28gcXVlIHRpZW5lIHF1ZSBmYWxsYXIgfX0K</text>
       </register>
       <register name="-" type="4">
-        <text>//TODO: borrame.</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYmIGJsb2NrTmFtZSAhPT0gJ2Jhc2VqcycK</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGFsZ28gcXVlIHRpZW5lIHF1ZSBmYWxsYXIgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlc3BvbnNlOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>app.use(function (req, res, next) {
-  var uriGeller = req.protocol + '://' + req.get('host') + req.originalUrl;
-  console.log({uriGeller});
-  next()
-})</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcV2ViQnVuZGxlXE1hcHBpbmdzXEFydGljbGVcQ29tbWVudFxSZXNwb25zZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnVGltZTonLCBEYXRlLm5vdygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZSgkZXhjZXB0aWRrb24sIDUwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vcmdhbiBmcm9tICdtb3JnYW4nCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJtb3JnYW4iOiAiXjEuOS4xIiwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBcVHdpZ19FbnZpcm9ubWVudCAkdHdpZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
