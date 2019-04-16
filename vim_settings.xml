@@ -123,9 +123,9 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Accordion/Accordion.stories.jsx" timestamp="1555409334968">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="65" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/AppKernel.php" timestamp="1554384268073">
         <mark key="[" line="34" column="60" />
@@ -143,6 +143,12 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Button/__tests__/Button.test.jsx" timestamp="1555413108277">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+      </file>
       <file name="$USER_HOME$/src/solus-front/src/core/Notification/epics/index.js" timestamp="1553175697569">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
@@ -154,7 +160,7 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Accordion/index.jsx" timestamp="1555411518929">
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Accordion/index.jsx" timestamp="1555413560837">
         <mark key="[" line="43" column="85" />
         <mark key="]" line="43" column="85" />
         <mark key="." line="43" column="85" />
@@ -212,6 +218,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Accordion/__tests__/Accordion.test.jsx" timestamp="1555413405737">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/src/solus-front/src/containers/Layout/__tests__/Layout.test.jsx" timestamp="1553693509919">
         <mark key="[" line="8" column="10" />
@@ -317,10 +329,10 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555408245362">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1555413491213">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/purecomponent/src/public/js/main.js" timestamp="1554709233069">
         <mark key="[" line="10" column="16" />
@@ -541,10 +553,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>empty</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>empty</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -552,32 +564,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4gc2VjdGlvbnMubWFwKHByb2plY3QyVWwpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgaXQoJ2l0IHdvcmtzIHNlY29uZGFyeSBidXR0b24nLCAoKSA9PiB7CiAgICBjb25zdCBjb21wb25lbnQgPSByZW5kZXIoCiAgICAgIDxUaGVtZVByb3ZpZGVyIHRoZW1lPXt0aGVtZX0+CiAgICAgICAgPD4KICAgICAgICAgIDxHbG9iYWxTdHlsZSAvPgogICAgICAgICAgPEJ1dHRvbiBzZWNvbmRhcnk+QnV0dG9uIHNlY29uZGFyeTwvQnV0dG9uPgogICAgICAgIDwvPgogICAgICA8L1RoZW1lUHJvdmlkZXI+CiAgICApOwogICAgZXhwZWN0KGNvbXBvbmVudCkudG9NYXRjaFNuYXBzaG90KCk7CiAgfSk7CgogIGl0KCdpdCB3b3JrcyBkaXNhYmxlZCBidXR0b24nLCAoKSA9PiB7CiAgICBjb25zdCBjb21wb25lbnQgPSByZW5kZXIoCiAgICAgIDxUaGVtZVByb3ZpZGVyIHRoZW1lPXt0aGVtZX0+CiAgICAgICAgPD4KICAgICAgICAgIDxHbG9iYWxTdHlsZSAvPgogICAgICAgICAgPEJ1dHRvbiBkaXNhYmxlZD5CdXR0b24gZGlzYWJsZWQ8L0J1dHRvbj4KICAgICAgICA8Lz4KICAgICAgPC9UaGVtZVByb3ZpZGVyPgogICAgKTsKICAgIGV4cGVjdChjb21wb25lbnQpLnRvTWF0Y2hTbmFwc2hvdCgpOwogIH0pOwoKICBpdCgnaXQgd29ya3MgdGlueSBidXR0b24nLCAoKSA9PiB7CiAgICBjb25zdCBjb21wb25lbnQgPSByZW5kZXIoCiAgICAgIDxUaGVtZVByb3ZpZGVyIHRoZW1lPXt0aGVtZX0+CiAgICAgICAgPD4KICAgICAgICAgIDxHbG9iYWxTdHlsZSAvPgogICAgICAgICAgPEJ1dHRvbiB0aW55PkJ1dHRvbiB0aW55PC9CdXR0b24+CiAgICAgICAgPC8+CiAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgICk7CiAgICBleHBlY3QoY29tcG9uZW50KS50b01hdGNoU25hcHNob3QoKTsKICB9KTsKCiAgaXQoJ2l0IHdvcmtzIHRpbnkgc2Vjb25kYXJ5IGJ1dHRvbicsICgpID0+IHsKICAgIGNvbnN0IGNvbXBvbmVudCA9IHJlbmRlcigKICAgICAgPFRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4KICAgICAgICA8PgogICAgICAgICAgPEdsb2JhbFN0eWxlIC8+CiAgICAgICAgICA8QnV0dG9uIHRpbnkgc2Vjb25kYXJ5PgogICAgICAgICAgICBCdXR0b24gdGlueSBzZWNvbmRhcnkKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvPgogICAgICA8L1RoZW1lUHJvdmlkZXI+CiAgICApOwogICAgZXhwZWN0KGNvbXBvbmVudCkudG9NYXRjaFNuYXBzaG90KCk7CiAgfSk7CgogIGl0KCdpdCB3b3JrcyB0aW55IGRpc2FibGVkIGJ1dHRvbicsICgpID0+IHsKICAgIGNvbnN0IGNvbXBvbmVudCA9IHJlbmRlcigKICAgICAgPFRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4KICAgICAgICA8PgogICAgICAgICAgPEdsb2JhbFN0eWxlIC8+CiAgICAgICAgICA8QnV0dG9uIHRpbnkgZGlzYWJsZWQ+CiAgICAgICAgICAgIEJ1dHRvbiB0aW55IGRpc2FibGVkCiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8Lz4KICAgICAgPC9UaGVtZVByb3ZpZGVyPgogICAgKTsKICAgIGV4cGVjdChjb21wb25lbnQpLnRvTWF0Y2hTbmFwc2hvdCgpOwogIH0pOw==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RpdGxlcycsIHRpdGxlcyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0aXRsZXMgPQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RpdGxlcycsIHRpdGxlcyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0aXRsZXMgPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAge0Ryb3Bkb3duQnV0dG9ufQo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
