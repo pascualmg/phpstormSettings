@@ -398,7 +398,7 @@
         <mark key="^" line="2045" column="56" />
         <mark key="." line="2045" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556087947550">
+      <file name="/GraphQL.result.json" timestamp="1556095409703">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/frontst/public/main.js" timestamp="1554054699801">
@@ -421,12 +421,6 @@
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/controller/legacy/home.js" timestamp="1556026982962">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/react/src/tools/StargateOajax/index.js" timestamp="1554122493310">
         <mark key="[" line="40" column="15" />
@@ -451,11 +445,17 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/package.json" timestamp="1556087936080">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/src/ssr-proxy/package.json" timestamp="1556095147865">
+        <mark key="[" line="16" column="19" />
         <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="91" />
+        <mark key="^" line="18" column="91" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/components/Footer/index.jsx" timestamp="1556095225904">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/frontst/src/components/Users/index.js" timestamp="1554748071058">
         <mark key="[" line="35" column="20" />
@@ -499,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="45" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/cmsadmin/src/config/index.js" />
       <jump line="23" column="0" filename="$USER_HOME$/src/cmsadmin/src/epics/postsEpics.js" />
       <jump line="12" column="59" filename="$USER_HOME$/src/cmsadmin/src/epics/loginEpic.js" />
@@ -599,13 +598,14 @@
       <jump line="0" column="52" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/main/index.html.twig" />
       <jump line="117" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/base.html.twig" />
       <jump line="34" column="1" filename="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Accordion/index.jsx" />
+      <jump line="7" column="17" filename="$USER_HOME$/src/ssr-proxy/src/controller/legacy/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Footer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Footer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
@@ -614,31 +614,37 @@
         <text encoding="base64">ICAgIGxpLnNpbXVsYXRlKCdjbGljaycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdpdEBnaXRsYWIucGNjb21wb25lbnRlcy5jb206d2ViL2Zyb250L3BjY2Zyb250c3Rvcnlib29rLmdpdCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBlbC5kaXNwYXRjaEV2ZW50KGV2KTsK</text>
+      <register name="3" type="4">
+        <text>const StyledFooter = styled.footer`
+  text-align: center;
+  width: 100%;
+  background: red;
+  color: #fff;
+  margin: 0 auto;
+`;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICApOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmNvbnN0IEZvb3RlciA9ICgpID0+ICgKICA8U3R5bGVkRm9vdGVyIGlkPSdtYWluLWZvb3Rlcic+CiAgICA8ZGl2IG9uQ2xpY2s9eygpID0+IHtjb25zb2xlLmxvZygnQScpO319PkhPTEEgREVTREUgRUwgSU5GUkFNVU5ETzwvZGl2PgogIDwvU3R5bGVkRm9vdGVyPgopOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bGwK</text>
+        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICcuLi9jb21wb25lbnRzL0Zvb3Rlci9pbmRleC5qc3gnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDAgLyogbGVmdCAqLywK</text>
+        <text encoding="base64">ICAgIDwvVGhlbWVQcm92aWRlcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZhbHNlIC8qIG1vZGlmaWVyIGtleXMgKi8sCg==</text>
+        <text encoding="base64">ICAgIDwvVGhlbWVQcm92aWRlcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZhbHNlLAo=</text>
+        <text encoding="base64">aW1wb3J0IFRoZW1lV3JhcHBlciBmcm9tICdwY2Nmcm9udHN0b3J5Ym9vay9zcmMvc3R5bGVkL1RoZW1lV3JhcHBlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZhbHNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
