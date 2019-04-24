@@ -272,6 +272,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="73" column="40" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/footer.js" timestamp="1556095813706">
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/src/purecomponent/package.json" timestamp="1554706394787">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="7" column="9" />
@@ -422,6 +427,11 @@
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/controller/legacy/home.js" timestamp="1556096353099">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/react/src/tools/StargateOajax/index.js" timestamp="1554122493310">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="28" />
@@ -451,7 +461,7 @@
         <mark key="^" line="18" column="91" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/components/Footer/index.jsx" timestamp="1556095225904">
+      <file name="$USER_HOME$/src/ssr-proxy/src/components/Footer/index.jsx" timestamp="1556095582371">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="1" column="7" />
@@ -605,21 +615,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>beforeFooterHTML</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpLnNpbXVsYXRlKCdjbGljaycpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JlZm9yZUZvb3RlckhUTUwnLCBiZWZvcmVGb290ZXJIVE1MKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZnRlckZvb3RlckhUTUwnLCBhZnRlckZvb3RlckhUTUwpOy8vVE9ETzogYm9ycmFtZS4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JlZm9yZUZvb3RlckhUTUwnLCBiZWZvcmVGb290ZXJIVE1MKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHtTZXJ2ZXJTdHlsZVNoZWV0IH1mcm9tICdzdHlsZWQtY29tcG9uZW50cycK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>const StyledFooter = styled.footer`
   text-align: center;
   width: 100%;
@@ -628,23 +650,11 @@
   margin: 0 auto;
 `;</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CmNvbnN0IEZvb3RlciA9ICgpID0+ICgKICA8U3R5bGVkRm9vdGVyIGlkPSdtYWluLWZvb3Rlcic+CiAgICA8ZGl2IG9uQ2xpY2s9eygpID0+IHtjb25zb2xlLmxvZygnQScpO319PkhPTEEgREVTREUgRUwgSU5GUkFNVU5ETzwvZGl2PgogIDwvU3R5bGVkRm9vdGVyPgopOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICcuLi9jb21wb25lbnRzL0Zvb3Rlci9pbmRleC5qc3gnOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvVGhlbWVQcm92aWRlcj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvVGhlbWVQcm92aWRlcj4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFRoZW1lV3JhcHBlciBmcm9tICdwY2Nmcm9udHN0b3J5Ym9vay9zcmMvc3R5bGVkL1RoZW1lV3JhcHBlcicK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICcuLi9jb21wb25lbnRzL0Zvb3Rlci9pbmRleC5qc3gnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
