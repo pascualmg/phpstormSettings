@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" timestamp="1556273156580" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" timestamp="1556276756160" />
       <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/json/footer.json" timestamp="1556273196050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/Footer.stories.jsx" timestamp="1556268897895">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/Footer.stories.jsx" timestamp="1556276899550">
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="48" column="5" />
+        <mark key="." line="48" column="5" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Select/index.jsx" timestamp="1556184410586">
         <mark key="[" line="111" column="18" />
@@ -38,20 +38,18 @@
         <mark key="^" line="126" column="32" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Accordion/__tests__/Accordion.test.jsx" timestamp="1556012115753">
-        <mark key="^" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/client/footer.js" timestamp="1556188590555">
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/footer.js" timestamp="1556277306409">
+        <mark key="[" line="17" column="30" />
         <mark key="^" line="0" column="12" />
       </file>
       <file name="/PHP Console" timestamp="1555054575141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/handler/footer.js" timestamp="1556274841717">
-        <mark key="[" line="116" column="28" />
-        <mark key="]" line="116" column="28" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/handler/footer.js" timestamp="1556277800998">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
         <mark key="^" line="116" column="28" />
-        <mark key="." line="116" column="28" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="/JavaScript Console" timestamp="1556173372774">
         <mark key="[" line="0" column="0" />
@@ -62,13 +60,18 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556275181704">
+      <file name="/Dummy.txt" timestamp="1556276204862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1556272777356">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/controller/legacy/home.js" timestamp="1556277647597">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/index.js" timestamp="1556274978582">
         <mark key="[" line="22" column="0" />
@@ -180,43 +183,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>doc ssr howto</text>
+        <text encoding="base64">ICAgICAgICB7IHVybDogJy9jb21vLWNvbXByYXInLCB0ZXh0VXJsOiAnQ8OzbW8gY29tcHJhcicgfSwKICAgICAgICAgICAgICAgIHsgdXJsOiAnL3NvcG9ydGUvZm9ybWFzLWRlLXBhZ28nLCB0ZXh0VXJsOiAnRm9ybWFzIGRlIHBhZ28nIH0sCiAgICAgICAgICAgICAgICB7IHVybDogJy9nYXN0b3MtZGUtZW52aW8nLCB0ZXh0VXJsOiAnR2FzdG9zIGRlIGVudsOtbycgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB1cmw6ICcvY3Vwb25lcy1kZXNjdWVudG8teS1jb2RpZ29zLXByb21vY2lvbmFsZXMnLAogICAgICAgICAgICAgICAgICAgIHRleHRVcmw6ICdDdXBvbmVzIGRlc2N1ZW50bycKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7IHVybDogJy9zb3BvcnRlLycsIHRleHRVcmw6ICdQcmVndW50YXMgZnJlY3VlbnRlcycgfSwKICAgICAgICAgICAgICAgIHsgdXJsOiAnL29waW5pb25lcycsIHRleHRVcmw6ICdPcGluaW9uZXMgZGUgY2xpZW50ZXMnIH0sCiAgICAgICAgICAgICAgICB7IHVybDogJy91bHRpbW9zLWNvbWVudGFyaW9zJywgdGV4dFVybDogJ8OabHRpbW9zIGNvbWVudGFyaW9zJyB9</text>
       </register>
       <register name="-" type="4">
-        <text>doc ssr howto</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ifica</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGhvbWVMZWdhY3kgZnJvbSAnLi4vY29udHJvbGxlci9sZWdhY3kvaG9tZScK</text>
+        <text encoding="base64">ICAuYWRkV2l0aEpTWCgnZGVmYXVsdCcsICgpID0+IDxGb290ZXIgLz4pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YXBwLnVzZShleHJlc3MuZmF2aWNvbigpKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICB7IHVybDogJy9jb21vLWNvbXByYXInLCB0ZXh0VXJsOiAnQ8OzbW8gY29tcHJhcicgfSwKICAgICAgICAgICAgICAgIHsgdXJsOiAnL3NvcG9ydGUvZm9ybWFzLWRlLXBhZ28nLCB0ZXh0VXJsOiAnRm9ybWFzIGRlIHBhZ28nIH0sCiAgICAgICAgICAgICAgICB7IHVybDogJy9nYXN0b3MtZGUtZW52aW8nLCB0ZXh0VXJsOiAnR2FzdG9zIGRlIGVudsOtbycgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB1cmw6ICcvY3Vwb25lcy1kZXNjdWVudG8teS1jb2RpZ29zLXByb21vY2lvbmFsZXMnLAogICAgICAgICAgICAgICAgICAgIHRleHRVcmw6ICdDdXBvbmVzIGRlc2N1ZW50bycKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7IHVybDogJy9zb3BvcnRlLycsIHRleHRVcmw6ICdQcmVndW50YXMgZnJlY3VlbnRlcycgfSwKICAgICAgICAgICAgICAgIHsgdXJsOiAnL29waW5pb25lcycsIHRleHRVcmw6ICdPcGluaW9uZXMgZGUgY2xpZW50ZXMnIH0sCiAgICAgICAgICAgICAgICB7IHVybDogJy91bHRpbW9zLWNvbWVudGFyaW9zJywgdGV4dFVybDogJ8OabHRpbW9zIGNvbWVudGFyaW9zJyB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgdXJsOiAnL3NvcG9ydGUvJywgdGV4dFVybDogJ1ByZWd1bnRhcyBmcmVjdWVudGVzJyB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKGRlZmF1bHRGb290ZXJEYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZm9vdGVySGFuZGxlciA9IChyZXEsIHJlcykgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0VXJsOiAnQ3Vwb25lcyBkZXNjdWVudG8nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmw6ICcvY3Vwb25lcy1kZXNjdWVudG8teS1jb2RpZ29zLXByb21vY2lvbmFsZXMnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGZvb3RlckhhbmRsZXIgZnJvbSAnLi9oYW5kbGVyL2Zvb3RlcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgdXJsOiAnL2dhc3Rvcy1kZS1lbnZpbycsIHRleHRVcmw6ICdHYXN0b3MgZGUgZW52w61vJyB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZvb3Rlckpzb24gZnJvbSAnLi9qc29uL2Zvb3RlcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgdXJsOiAnL3NvcG9ydGUvZm9ybWFzLWRlLXBhZ28nLCB0ZXh0VXJsOiAnRm9ybWFzIGRlIHBhZ28nIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
