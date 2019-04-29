@@ -3,18 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1556522860435">
+      <file name="/Dummy.txt" timestamp="1556526724113">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" timestamp="1556522595762">
-        <mark key="[" line="310" column="8" />
-        <mark key="]" line="280" column="26" />
-        <mark key="." line="278" column="29" />
-        <mark key="^" line="251" column="25" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1556519779311">
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" timestamp="1556526236447" />
+      <file name="/GraphQL.result.json" timestamp="1556526249687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/backst/src/routes.js" timestamp="1556402487939">
@@ -52,11 +47,11 @@
       <file name="/PHP Console" timestamp="1555054575141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/handler/footer.js" timestamp="1556284888712">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="116" column="28" />
-        <mark key="." line="13" column="8" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/handler/footer.js" timestamp="1556526296120">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="241" column="28" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/JavaScript Console" timestamp="1556173372774">
         <mark key="[" line="0" column="0" />
@@ -85,7 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="$USER_HOME$/src/cmsadmin/src/components/Login/Login.jsx" />
       <jump line="15" column="8" filename="$USER_HOME$/src/cmsadmin/src/components/Login/Login.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
       <jump line="607" column="4" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
@@ -185,63 +179,61 @@
       <jump line="75" column="35" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" />
       <jump line="45" column="0" filename="$USER_HOME$/src/ssr-proxy/src/Docs/HowToCreateComponent.md" />
       <jump line="66" column="1" filename="$USER_HOME$/src/ssr-proxy/src/Docs/HowToCreateComponent.md" />
+      <jump line="346" column="8" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rrss propTypes</text>
+        <text>fetch json data for footer from mock</text>
       </register>
       <register name="-" type="4">
-        <text>rrss propTypes</text>
+        <text>fetch json data for footer from mock</text>
       </register>
       <register name="/" type="4">
-        <text>ifica</text>
+        <text>links2</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-          rel: 'nofollow',
-          target: '_blank'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVsOiBQVC5zdHJpbmcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29uc3QgRm9vdGVyUnJzc2xMaW5rczJDb2wgPSBmb290ZXJEYXRhID0+ICgKICA8Q29sCiAgICB4cz17Zm9vdGVyRGF0YS5ncmlkLnhzfQogICAgc209e2Zvb3RlckRhdGEuZ3JpZC5zbX0KICAgIG1kPXtmb290ZXJEYXRhLmdyaWQubWR9CiAgICBsZz17Zm9vdGVyRGF0YS5ncmlkLmxnfQogICAgeGw9e2Zvb3RlckRhdGEuZ3JpZC54bH0KICA+CiAgICA8QWNjb3JkaW9uCiAgICAgIHRpdGxlPSJSUlNTIgogICAgICBlbGVtZW50cz17SnNvbkxpbmsyQShmb290ZXJEYXRhLnJyc3MucnJzc0xpbmtzKX0KICAgICAgY29sbGFwc2VkPXtmb290ZXJEYXRhLmNvbGxhcHNlZH0KICAgIC8+CiAgPC9Db2w+Cik7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtGb290ZXJScnNzbExpbmtzMkNvbChmb290ZXJEYXRhKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNvbnN0IFJyc3NMaW5rMkEgPSBycnNzTGluayA9PiAoCiAgPGEgaHJlZj17cnJzc0xpbmsudXJsfSB0YXJnZXQ9Il9ibGFuayI+CiAgICA8SWNvbiBpY29uPXtycnNzTGluay5pY29uTmFtZX0gcmlnaHQgLz4KICAgIHtycnNzTGluay50ZXh0VXJsfQogIDwvYT4KKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGljb25OYW1lOiAneW91dHViZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRVcmw6ICdZb3V0dWJlJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybDogJ2h0dHA6Ly93d3cueW91dHViZS5jb20vdXNlci9QY0NvbXBvbmVudGVzY29tJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBycnNzOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7Z2V0KGxpbmssIFsnaWNvbk5hbWUnXSl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ifica</last-search>
+      <last-search>links2</last-search>
       <last-offset />
-      <last-pattern>ifica</last-pattern>
+      <last-pattern>links2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Esta cuenta no tiene permisos para acceder al administrador del CMS</entry>
         <entry>loginForm</entry>
         <entry encoding="base64">PA==</entry>
         <entry>UN</entry>
@@ -261,6 +253,7 @@
         <entry>react-select</entry>
         <entry>react-sele</entry>
         <entry>ifica</entry>
+        <entry>links2</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
