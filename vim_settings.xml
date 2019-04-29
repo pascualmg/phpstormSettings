@@ -3,13 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1556527528324">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/controller/noMapeada/index.js" timestamp="1556532265393">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556532362191">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/Landings/GoProLandingController.php" timestamp="1556532003324">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="1" column="57" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" timestamp="1556526236447" />
-      <file name="/GraphQL.result.json" timestamp="1556526249687">
+      <file name="/GraphQL.result.json" timestamp="1556530307325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/backst/src/routes.js" timestamp="1556402487939">
@@ -17,11 +28,6 @@
         <mark key="]" line="20" column="24" />
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/controller/legacy/home.js" timestamp="1556282591703">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/footer.js" timestamp="1556277306409">
         <mark key="[" line="17" column="30" />
@@ -32,12 +38,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/routes/index.js" timestamp="1556272874450">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Select/index.jsx" timestamp="1556184410586">
         <mark key="[" line="111" column="18" />
@@ -183,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbnRyYWN0IHVwZGF0ZWQu</text>
+        <text>752 , nice indent.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbnRyYWN0IHVwZGF0ZWQu</text>
+        <text>752 , nice indent.</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -195,31 +195,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVsOiBQVC5zdHJpbmcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIC8vdG9kbzogc2kgZWwgc3RhdHVzIGVzIDJ4eCBlbnZpYXIgdGV4dCwgc2kgbm8gdmVyIHF1ZSBzZSBtYW5kYS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPnNlbmQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IERFRkFVTFRfT1JERVIgPSAncHVyY2hhc2VkJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGljb25OYW1lOiAneW91dHViZScK</text>
+        <text encoding="base64">ICAgIGNvbnN0IE5VTV9QQUdFX0lURU1TID0gODsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRVcmw6ICdZb3V0dWJlJywK</text>
+        <text encoding="base64">ICAgIGNvbnN0IEZJUlNUX1BBR0UgPSAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybDogJ2h0dHA6Ly93d3cueW91dHViZS5jb20vdXNlci9QY0NvbXBvbmVudGVzY29tJywK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
