@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/ssr-proxy/src/controller/noMapeada/index.js" timestamp="1556532265393">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/controller/noMapeada/index.js" timestamp="1556621522297">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1556614543538">
         <mark key="[" line="0" column="0" />
@@ -24,7 +25,7 @@
         <mark key="]" line="412" column="0" />
         <mark key="." line="412" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556613581929">
+      <file name="/GraphQL.result.json" timestamp="1556621607450">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/backst/src/routes.js" timestamp="1556402487939">
@@ -43,6 +44,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/routes/index.js" timestamp="1556621568406">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Select/index.jsx" timestamp="1556184410586">
         <mark key="[" line="111" column="18" />
         <mark key="]" line="111" column="18" />
@@ -51,11 +57,8 @@
       <file name="/PHP Console" timestamp="1555054575141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/handler/footer.js" timestamp="1556614454533">
+      <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/handler/footer.js" timestamp="1556621013454">
         <mark key="[" line="0" column="6" />
-        <mark key="]" line="229" column="6" />
-        <mark key="^" line="229" column="6" />
-        <mark key="." line="229" column="6" />
       </file>
       <file name="/JavaScript Console" timestamp="1556173372774">
         <mark key="[" line="0" column="0" />
@@ -186,8 +189,8 @@
       <jump line="346" column="8" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG5pY2UgaW5kZW50Lg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgbmljZSBpbmRlbnQuCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG5pY2UgaW5kZW50Lg==</text>
@@ -198,32 +201,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgeyB1cmw6ICcjJywgdGV4dFVybDogJ0NvbmRpY2lvbmVzIGRlIGNvbXByYSAnIH0sCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgbmljZSBpbmRlbnQuCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IExpbmsyQSBkb2N1bWVudGF0aW9uICggdG9vIGdlbmVyaWMgZnVuYykgCnVwZGF0ZWQgc25hcHNob3Qu</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgbWFpblRleHQ6IFBULnN0cmluZywK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIHtpIDwgbGFzdEluZGV4ID8gc2VwYXJhdG9yIDogJyd9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB7aSA8IGxhc3RJbmRleCA/IHNlcGFyYXRvciA6ICcnfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAge2kgPCBsYXN0SW5kZXggPyBzZXBhcmF0b3IgOiAnJ30K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGxpbmsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Zm9vdGVyRGF0YS5sZWdhbC5tYWluVGV4dH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
