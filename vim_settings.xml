@@ -9,16 +9,22 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/middleware/footer.js" timestamp="1556784268892">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="43" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Footer/index.jsx" timestamp="1556613572232">
         <mark key="[" line="289" column="145" />
         <mark key="]" line="412" column="0" />
         <mark key="." line="412" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/middleware/headerCart.js" timestamp="1556780293287">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="13" column="49" />
-        <mark key="." line="13" column="49" />
-        <mark key="^" line="9" column="20" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/middleware/headerCart.js" timestamp="1556785348044">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/src/backst/src/routes.js" timestamp="1556402487939">
         <mark key="[" line="20" column="24" />
@@ -87,10 +93,16 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556630238866">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/components/CartHeaderMock.jsx" timestamp="1556785372967">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556785411562">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Statics/Landings/GoProLandingController.php" timestamp="1556622887701">
         <mark key="[" line="18" column="8" />
@@ -107,11 +119,11 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/client/headerCart.js" timestamp="1556780363830">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="11" column="51" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/headerCart.js" timestamp="1556785241802">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="49" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/userCart.js" timestamp="1556631472918">
         <mark key="[" line="18" column="47" />
@@ -240,43 +252,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>fix no chunk bug</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>fix no chunk bug</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHRleHQgPT4gZm9vdGVyTWlkZGxld2FyZSh0ZXh0KSkK</text>
+        <text encoding="base64">aW1wb3J0IENhcnRIZWFkZXJNb2NrIGZyb20gJy4uL2NvbXBvbmVudHMvQ2FydEhlYWRlck1vY2snCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaHVuaycsIGNodW5rKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICA8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICBqLmxvZygnYWZ0ZXJIVE1MJywgYWZ0ZXJIVE1MKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzTmFtZT0iYy11bml0cyBqcy11bml0cyI+MDwvc3Bhbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxpIGNsYXNzTmFtZT0iYy1pY29uIGMtaWNvbi0tYm9sZCBjLWljb24tLWNhcnQiLz4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICB0aGlzLmJ1ZmZlciArPSBjaHVuay50b1N0cmluZygpOwogICAgcmV0dXJuIHRydWU7</text>
+      <register name="5" type="2">
+        <text encoding="base64">PC9zcGFuPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImlkQ2FydCIgc3R5bGU9ImRpc3BsYXk6bm9uZSI+cGNjZGI1Y2MwMWRkYjkxMjllNC44MzMwMDYzNzwvZGl2Pgo=</text>
+        <text encoding="base64">PGIgY2xhc3NOYW1lPSJjLXVzZXItbWVudV9fbGluZSI+TWkgPGJyLz4gQ2Fycml0b1JlYWN0PC9iPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImlkQ2FydCIgc3R5bGU9ImRpc3BsYXk6bm9uZSI+cGNjZGI1Y2MwMWRkYjkxMjllNC44MzMwMDYzNzwvZGl2Pgo=</text>
+        <text encoding="base64">PHNwYW4gY2xhc3NOYW1lPSJ1LXZpc2libGVAbGciPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHRleHQgPT4gaGVhZGVyQ2FydE1pZGRsZXdhcmUodGV4dCkpCg==</text>
+        <text encoding="base64">ICAgIGhyZWY9IiMiIHJlbD0ibm9mb2xsb3ciPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHRleHQgPT4gaGVhZGVyQ2FydE1pZGRsZXdhcmUodGV4dCkpCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzTmFtZT0iYy11c2VyLW1lbnVfX2xpbmsganMtdXNlci1jYXJ0IGpzLXVzZXItbWVudS1saW5rIHFhLWNhcnQtYnV0dG9uIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
