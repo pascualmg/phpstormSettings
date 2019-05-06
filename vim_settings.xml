@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/footer.js" timestamp="1556784268892">
@@ -11,6 +11,11 @@
       </file>
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/user/basket/article-to-basket.js" timestamp="1557126387081" />
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Link/index.jsx" timestamp="1557138900327" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Detail/GetArticleDetailById.php" timestamp="1557148647750">
+        <mark key="[" line="86" column="37" />
+        <mark key="]" line="86" column="37" />
+        <mark key="." line="86" column="37" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/headerCart.js" timestamp="1556785348044">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="0" />
@@ -22,6 +27,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="107" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1557148492365">
+        <mark key="[" line="561" column="12" />
+        <mark key="]" line="561" column="12" />
+        <mark key="." line="561" column="12" />
+        <mark key="^" line="561" column="10" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/json/footer.json" timestamp="1556273196050">
         <mark key="[" line="0" column="0" />
@@ -78,6 +89,17 @@
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="11" />
         <mark key="." line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/Supplier.php" timestamp="1557149332397">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="24" column="6" />
+        <mark key="^" line="24" column="6" />
+        <mark key="." line="24" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Article/Detail/GetArticleDetailByIdDataTransformer.php" timestamp="1557148908121">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/index.js" timestamp="1556274855444">
         <mark key="[" line="1" column="13" />
@@ -136,6 +158,11 @@
         <mark key="]" line="41" column="57" />
         <mark key="." line="41" column="57" />
         <mark key="^" line="41" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/feed/minderest.xml.twig" timestamp="1557147994422">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -241,44 +268,44 @@
       <jump line="44" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/headers/header-user-ajax.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICB3aGl0ZS1zcGFjZTogbm93cmFwOwogIG92ZXJmbG93LXg6IGhpZGRlbjsKICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCRkZXRhaWwpO2RpZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>setShippingCost</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxEb3ROb3RpZmljYXRpb24gbm90aWZpY2F0aW9uQW1vdW50PXsxOTl9IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXJ0aWNsZUJ1aWxkZXJDb25maWctPnNldFNoaXBwaW5nQ29zdCgpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICB3aGl0ZS1zcGFjZTogbm93cmFwOwogIG92ZXJmbG93LXg6IGhpZGRlbjsKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCRkZXRhaWwpO2RpZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTZweDsK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDE2cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXJ0aWNsZUJ1aWxkZXJDb25maWctPnNldFNoaXBwaW5nQ29zdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB0b29NdWNoTm90aWZpY2F0aW9uID0gbm90aWZpY2F0aW9uQW1vdW50ID4gbWF4Tm90aWZpY2F0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGUuYXJ0aWNsZS5zdXBwbGllciAhPSBJRF9NQVJLRVRQTEFDRV9QUk9WSURFUgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBzb21lTm90aWZpY2F0aW9uID0gbm90aWZpY2F0aW9uQW1vdW50ID4gMDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBtYXhOb3RpZmljYXRpb25zID0gOTk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGlkQXJ0aWNsZSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gTm90aWNpYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXF1ZXN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgYW1vdW50ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAkaWRBcnRpY2xlID0gJHJlcXVlc3QtPmdldCgnaWRBcnRpY2xlJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGUuYXJ0aWNsZS5wcm92aWRlciAhPSBJRF9NQVJLRVRQTEFDRV9QUk9WSURFUiBhbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -381,6 +408,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
