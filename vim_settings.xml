@@ -26,6 +26,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="107" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/FeedController.php" timestamp="1557318928565">
+        <mark key="[" line="561" column="12" />
+        <mark key="]" line="561" column="12" />
+        <mark key="." line="561" column="12" />
+        <mark key="^" line="561" column="12" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/json/footer.json" timestamp="1556273196050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -137,7 +143,7 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="18" column="8" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557297631114">
+      <file name="/GraphQL.result.json" timestamp="1557318743083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/index.jsx" timestamp="1557312642322">
@@ -283,11 +289,11 @@
       <jump line="44" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/headers/header-user-ajax.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAyMHB4IDIwcHggMjBweCAyMHB4Owo=</text>
+      <register name="&quot;" type="4">
+        <text>print_r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGhpZGUgQnVyZ2VyIG1lbnUgd2hlbg==</text>
+        <text>print_r</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -296,31 +302,31 @@
         <text encoding="base64">Y29uc3QgV3JhcHBlciA9IHN0eWxlZC5kaXZgCiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogcm93OwogIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKYDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAyMHB4IDIwcHggMjBweCAyMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDogMjBweDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGlkQXJ0aWNsZSA9ICRyZXF1ZXN0LT5nZXQoJ2lkQXJ0aWNsZScpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW46IGF1dG87Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAyMHB4IDIwcHggMjBweCAyMHB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb2xvcjogcmVkOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIwcHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWNvbk5hbWU6ICdmYWNlb29rJwo=</text>
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDogMjBweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXJnaW46IGF1dG87Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAtd2Via2l0LW92ZXJmbG93LXNjcm9sbGluZzogdG91Y2g7CiAgJjo6LXdlYmtpdC1zY3JvbGxiYXIgewogICAgZGlzcGxheTogbm9uZTsKICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb2xvcjogcmVkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaWNvbk5hbWU6ICdmYWNlb29rJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
