@@ -126,8 +126,8 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557296752699">
-        <mark key="[" line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1557304384492">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
@@ -140,10 +140,11 @@
       <file name="/GraphQL.result.json" timestamp="1557297631114">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/index.jsx" timestamp="1557296672559">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/index.jsx" timestamp="1557305824003">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="/main.users [stdb.db]" timestamp="1556792289413">
         <mark key="[" line="0" column="0" />
@@ -160,6 +161,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Col/index.jsx" timestamp="1557303963781" />
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/HeaderBottom.test.jsx" timestamp="1557296707266">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="11" />
@@ -281,50 +283,44 @@
       <jump line="44" column="29" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/commons/headers/header-user-ajax.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">NiAsIG5vdGlmaWNhdGlvbkFtb3VudCA9PiBhbW91bnQgKCBwcm9wIG5hbWUgcmVmYWN0b3IgKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">NiAsIG5vdGlmaWNhdGlvbkFtb3VudCA9PiBhbW91bnQgKCBwcm9wIG5hbWUgcmVmYWN0b3IgKQ==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXY+YWxnbzwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y29uc3QgV3JhcHBlciA9IHN0eWxlZC5kaXZgCiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogcm93OwogIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKYDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IENvbCBmcm9tICcuLi8uLi9hdG9tcy9Db2wnOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJvdyBmcm9tICcuLi8uLi9hdG9tcy9Sb3cnOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBoaWRkZW5NZW51OiBmYWxzZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBoaWRkZW5NZW51OiBQVC5ib29sCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgQmxvY2tMaW5rcyA9IHN0eWxlZC5kaXZgYDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>const gridConfig = {
-  xs: '1',
-  sm: '1',
-  md: '1',
-  lg: '1',
-  xl: '1'
-};</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICNmYWRlc2hvdzEgewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgPGRpdj5hbGdvPC9kaXY+CiAgICAgIDxkaXY+YWxnbzwvZGl2PgogICAgICA8ZGl2PmFsZ288L2Rpdj4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4bD17Z3JpZENvbmZpZy54bH0K</text>
+        <text encoding="base64">aW1wb3J0IENvbCBmcm9tICcuLi8uLi9hdG9tcy9Db2wnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZz17Z3JpZENvbmZpZy5sZ30K</text>
+        <text encoding="base64">aW1wb3J0IFJvdyBmcm9tICcuLi8uLi9hdG9tcy9Sb3cnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZD17Z3JpZENvbmZpZy5tZH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
