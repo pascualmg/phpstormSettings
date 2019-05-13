@@ -166,11 +166,11 @@
       <file name="/JavaScript Console" timestamp="1556173372774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/groupings/src/js/views/groupingPanel/formCreateGrouping.js" timestamp="1557741485131">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="50" />
+      <file name="$USER_HOME$/src/groupings/src/js/views/groupingPanel/formCreateGrouping.js" timestamp="1557746288984">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="56" column="0" />
-        <mark key="." line="57" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/MyDuplex.js" timestamp="1556780212565">
         <mark key="[" line="14" column="11" />
@@ -198,10 +198,10 @@
         <mark key="." line="960" column="62" />
         <mark key="^" line="960" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557740552192">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1557746295297">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/src/groupings/example/cp.csv" timestamp="1557407148406">
         <mark key="[" line="2" column="9" />
@@ -212,6 +212,12 @@
       <file name="$USER_HOME$/src/pccfront/web/bundles/pccweb/raw/js/user/cards/pcc.Cards-user-panel.js" timestamp="1557735924389" />
       <file name="/GraphQL.result.json" timestamp="1557735826658">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/groupings/package.json" timestamp="1557745924070">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="8" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/src/groupings/src/js/createGrouping.js" timestamp="1557735338516">
         <mark key="[" line="56" column="1" />
@@ -352,11 +358,11 @@
       <jump line="960" column="0" filename="$USER_HOME$/src/groupings/views/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICAgIGNvbnNvbGUubG9nKCdjcmVhZG8gZ3JvdXBwaW5nJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+      <register name="&quot;" type="4">
+        <text>, a lot of things</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZpeA==</text>
+        <text>, a lot of things</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -364,32 +370,32 @@
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3NyYy9qcy9jb25zdGFudHMvY29uc3RhbnRzLmpzIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICAgIGNvbnNvbGUubG9nKCdjcmVhZG8gZ3JvdXBwaW5nJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICB2YXIgaW5wdXRzID0gZm9ybUNyZWF0ZUFncnVwYXRpb24uZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2lucHV0JykKICBmb3IgKHZhciBpID0gMDsgaSA8IGlucHV0cy5sZW5ndGg7IGkrKykgewogICAgaW5wdXRzW2ldLm9uY2hhbmdlID0gZnVuY3Rpb24gKGV2KSB7CiAgICAgIGNvbnNvbGUubG9nKCdjYW1iaWFkbycsIGV2LnRhcmdldC5pZCkKICAgIH0KICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgIE5BLmdyb3VwaW5nLmNyZWF0ZShhZ3J1cGF0aW9uRm9ybVZhbHVlcywgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZXhwcmVzcyI6ICJeNC4xNi40IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICAgIGNvbnNvbGUubG9nKCdjcmVhZG8gZ3JvdXBwaW5nJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjcmVhdGVfZ3JvdXBpbmc6ICcvZ3JvdXBpbmdzL3YxL2dyb3VwaW5ncy8nCg==</text>
+        <text encoding="base64">ICAgIH0KICAgIE5BLmdyb3VwaW5nLmNyZWF0ZShhZ3J1cGF0aW9uRm9ybVZhbHVlcywgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBhZ2dydXBhdGlvbkZvcm1WYWx1ZXMgPSBhZ3J1cGF0aW9uRm9ybVZhbHVlcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJy9ncm91cGluZ3MvdjEvZ3JvdXBpbmdzLycuY29uY2F0KHYubmFtZSksCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjcmVhdGVfZ3JvdXBpbmc6ICcvZ3JvdXBpbmdzL3YxL2dyb3VwaW5ncy8nCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iLi4vc3JjL2pzL2NvbnN0YW50cy9jb25zdGFudHMuanMiPiA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIHZhciBhZ2dydXBhdGlvbkZvcm1WYWx1ZXMgPSBhZ3J1cGF0aW9uRm9ybVZhbHVlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
