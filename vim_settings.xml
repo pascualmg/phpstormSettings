@@ -15,11 +15,11 @@
         <mark key="^" line="69" column="12" />
         <mark key="." line="69" column="12" />
       </file>
-      <file name="$USER_HOME$/src/groupings/src/js/libs/grouping/NA.Groupings.js" timestamp="1557816476205">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="46" column="21" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/groupings/src/js/libs/grouping/NA.Groupings.js" timestamp="1557823289532">
+        <mark key="[" line="72" column="38" />
+        <mark key="]" line="71" column="6" />
+        <mark key="." line="71" column="6" />
+        <mark key="^" line="70" column="6" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/footer.js" timestamp="1557480924717">
         <mark key="[" line="38" column="0" />
@@ -91,11 +91,11 @@
       <file name="/JavaScript Console" timestamp="1556173372774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/groupings/src/js/views/groupingPanel/formCreateGrouping.js" timestamp="1557816630554">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="73" column="7" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/src/groupings/src/js/views/groupingPanel/formCreateGrouping.js" timestamp="1557824120538">
+        <mark key="[" line="66" column="3" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="60" column="65" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/RoundedNotification/index.jsx" timestamp="1557139549841">
         <mark key="[" line="4" column="6" />
@@ -164,8 +164,8 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557816636642">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1557823953274">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -356,44 +356,51 @@
       <jump line="960" column="0" filename="$USER_HOME$/src/groupings/views/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parsing error + success ( no cors )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBOQS5CYW5uZXJzLnNob3dTdWNjZXNzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>parsing error + success ( no cors )</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3NyYy9qcy9jb25zdGFudHMvY29uc3RhbnRzLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgZ3JvdXBpbmdCYW5uZXJzQ3JlYXRlLnNob3dTdWNjZXNzKCdDcmVhY2nDs24gYWdydXBhY2nDs24gT0snKSAvL1RPRE86IGJvcnJhbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBOQS5CYW5uZXJzLnNob3dTdWNjZXNzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRjaChlcnJvciA9PiAgcmVqZWN0KGVycm9yKSkuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgaG91clN0YXJ0ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI2Zvcm1TdHJlZXRzR3JvdXBIb3VyU3RhcnQnKQo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICdodHRwczovL2pzb25wbGFjZWhvbGRlci50eXBpY29kZS5jb20vcG9zdHMnCg==</text>
+      <register name="4" type="4">
+        <text>, {
+      success: function (response) {
+        console.log('creado groupping', response);//TODO: borrame.
+      },
+      error: function (error) {
+        console.log('error al crear ', error);//TODO: borrame.
+      },
+    })</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICB2YXIgaW5wdXRzID0gZm9ybUNyZWF0ZUFncnVwYXRpb24uZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2lucHV0JykKICBmb3IgKHZhciBpID0gMDsgaSA8IGlucHV0cy5sZW5ndGg7IGkrKykgewogICAgaW5wdXRzW2ldLm9uY2hhbmdlID0gZnVuY3Rpb24gKGV2KSB7CiAgICAgIGNvbnNvbGUubG9nKCdjYW1iaWFkbycsIGV2LnRhcmdldC5pZCkKICAgIH0KICB9</text>
+        <text encoding="base64">ICAgIC50aGVuKChzdWNjZXNzKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdjcmVhZG8gY29ycmVjdGFtZXRuZScpLy9UT0RPOiBib3JyYW1lLgogICAgfSkKICAgICAgLmNhdGNoKChlcnJvcikgPT4ge2NvbnNvbGUubG9nKCdlcnJvcicsIGVycm9yKTsvL1RPRE86IGJvcnJhbWUuCiAgICAgIH0p</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhbGxiYWNrcy5lcnJvciA9IGNhbGxiYWNrcy5lcnJvciB8fCBmdW5jdGlvbiAoKSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiZXhwcmVzcyI6ICJeNC4xNi40IiwK</text>
+        <text encoding="base64">ICAgIGNhbGxiYWNrcy5zdWNjZXNzID0gY2FsbGJhY2tzLnN1Y2Nlc3MgfHwgZnVuY3Rpb24gKCkge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICAgIGNvbnNvbGUubG9nKCdjcmVhZG8gZ3JvdXBwaW5nJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgIGNhbGxiYWNrcyA9IGNhbGxiYWNrcyB8fCB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICAgIE5BLmdyb3VwaW5nLmNyZWF0ZShhZ3J1cGF0aW9uRm9ybVZhbHVlcywgewo=</text>
+        <text encoding="base64">ICAgICAgY2FsbGJhY2tzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
