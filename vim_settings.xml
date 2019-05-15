@@ -207,7 +207,7 @@
         <mark key="^" line="965" column="12" />
         <mark key="." line="965" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557912647468">
+      <file name="/Dummy.txt" timestamp="1557913927891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -220,6 +220,13 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1557910575654">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/groupings/templates/index.html.twig" timestamp="1557913819635">
+        <mark key="'" line="970" column="0" />
+        <mark key="[" line="961" column="33" />
+        <mark key="]" line="965" column="75" />
+        <mark key="." line="965" column="75" />
+        <mark key="^" line="965" column="75" />
       </file>
       <file name="$USER_HOME$/src/groupings/src/js/createGrouping.js" timestamp="1557735338516">
         <mark key="[" line="56" column="1" />
@@ -258,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="700" column="9" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
-      <jump line="735" column="9" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
       <jump line="821" column="20" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
       <jump line="1358" column="9" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
       <jump line="1429" column="25" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
@@ -358,48 +363,50 @@
       <jump line="963" column="51" filename="$USER_HOME$/src/groupings/views/index.html" />
       <jump line="26" column="0" filename="$USER_HOME$/src/groupings/views/index.html" />
       <jump line="960" column="0" filename="$USER_HOME$/src/groupings/views/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
+      <jump line="969" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>onsuccess banner.</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>onsuccess banner.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vICd2YWx1ZSc6IGFncnVwYXRpb25Gb3JtVmFsdWVzLnBvc3RhbENvZGVzRnJvbUNzdiwK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdqcy9jdXN0b20vZ3JvdXBpbmcvY3JlYXRlR3JvdXBpbmcvdmFsaWRhdGlvbi5qcycpIH19Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PCEtLSBPdXIgc2NyaXB0cyAtLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZ3J1cGF0aW9uRm9ybVZhbHVlcyBpbnNpZGUgY3JlYXRlJywgYWdydXBhdGlvbkZvcm1WYWx1ZXMucG9zdGFsQ29kZXNGcm9tQ3N2ICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAidXVpZCI6ICJeMy4zLiIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZ3J1cGF0aW9uRm9ybVZhbHVlcyBpbnNpZGUgY3JlYXRlJywgYWdydXBhdGlvbkZvcm1WYWx1ZXMucG9zdGFsQ29kZXNGcm9tQ3N2ICk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAidXVpZCI6ICJeMy4zLiIsCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgaWNvCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
   
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZ3J1cGF0aW9uRm9ybVZhbHVlcyBqdXN0byBhbnRlcycsIGFncnVwYXRpb25Gb3JtVmFsdWVzLnBvc3RhbENvZGVzRnJvbUNzdik7Ly9UT0RPOiBib3JyYW1lLgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZ3J1cGF0aW9uRm9ybVZhbHVlcyBqdXN0byBhbnRlcycsIGFncnVwYXRpb25Gb3JtVmFsdWVzLnBvc3RhbENvZGVzRnJvbUNzdik7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
