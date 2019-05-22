@@ -72,11 +72,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/HeaderBottom.stories.jsx" timestamp="1558523949497">
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/HeaderBottom.stories.jsx" timestamp="1558527485110">
         <mark key="[" line="33" column="17" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/DotNotification/index.jsx" timestamp="1557225252138">
         <mark key="[" line="23" column="2" />
@@ -234,8 +234,8 @@
         <mark key="^" line="965" column="12" />
         <mark key="." line="965" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558523610407">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1558527695110">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -276,10 +276,10 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/HeaderBottom.test.jsx" timestamp="1557296707266">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="11" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/HeaderBottom.test.jsx" timestamp="1558527692779">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/webpack.config.js" timestamp="1556631340179">
@@ -404,11 +404,11 @@
       <jump line="969" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>facebook</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEhlYWRlckJvdHRvbSBmcm9tICcuJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>facebook</text>
+        <text>fixtures</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -417,31 +417,31 @@
         <text encoding="base64">IHsKICAgICAgICAgIHVybDogJy9Qcm9tb2Npb25lcycsCiAgICAgICAgICB0ZXh0OiAnUHJvbW9jaW9uZXMnLAogICAgICAgICAgcmVsOiAnbm9mb2xsb3cnLAogICAgICAgICAgdGFyZ2V0OiAnX3RvcCcsCiAgICAgICAgICBpY29uOiAnZmFjZWJvb2snCiAgICAgICAgfSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eycgJ30K</text>
+        <text encoding="base64">aW1wb3J0IEhlYWRlckJvdHRvbSBmcm9tICcuJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7JyAnfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BpbnRhbmRvIGxpbmsgLi4uLiAnLCBsaW5rKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">eycgJ30K</text>
       </register>
-      <register name="5" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB7JyAnfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BpbnRhbmRvIGxpbmsgLi4uLiAnLCBsaW5rKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">eycgJ30K</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">Y29uc3QgTGlua1dpdGhTZW8gPSAoKSA9PiB7CiAgCn0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">KTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICA8L2E+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHtsZGF0YS50ZXh0fQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHtsZGF0YS5pY29uICYmIDxJY29uIGljb249e2xkYXRhLmljb259IC8+fQo=</text>
+        <text encoding="base64">ICAgIHtsZGF0YS50ZXh0fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
