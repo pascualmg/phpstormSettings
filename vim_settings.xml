@@ -15,6 +15,12 @@
         <mark key="^" line="69" column="12" />
         <mark key="." line="69" column="12" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Link/index.jsx" timestamp="1558528385634">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/headerCart.js" timestamp="1556785348044">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="0" />
@@ -49,6 +55,12 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Link/Link.test.jsx" timestamp="1558529129104">
+        <mark key="[" line="62" column="12" />
+        <mark key="]" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+        <mark key="^" line="62" column="15" />
+      </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/RoundedNotification/index.jsx" timestamp="1557139549841">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
@@ -72,10 +84,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/HeaderBottom.stories.jsx" timestamp="1558527485110">
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="22" column="25" />
-        <mark key="." line="22" column="25" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/HeaderBottom.stories.jsx" timestamp="1558528956420">
+        <mark key="[" line="43" column="74" />
+        <mark key="]" line="43" column="74" />
+        <mark key="." line="43" column="74" />
         <mark key="^" line="22" column="25" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/DotNotification/index.jsx" timestamp="1557225252138">
@@ -101,11 +113,12 @@
         <mark key="]" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/index.jsx" timestamp="1558524033628">
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="35" column="62" />
-        <mark key="." line="35" column="62" />
-        <mark key="^" line="35" column="62" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/index.jsx" timestamp="1558528700021">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="39" column="85" />
+        <mark key="]" line="39" column="64" />
+        <mark key="." line="39" column="64" />
+        <mark key="^" line="39" column="64" />
       </file>
       <file name="/main.users [stdb.db]" timestamp="1556792289413">
         <mark key="[" line="0" column="0" />
@@ -234,8 +247,8 @@
         <mark key="^" line="965" column="12" />
         <mark key="." line="965" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558527695110">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1558529177242">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -302,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="821" column="20" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
       <jump line="1358" column="9" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
       <jump line="1429" column="25" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
       <jump line="1431" column="32" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
@@ -402,13 +414,14 @@
       <jump line="960" column="0" filename="$USER_HOME$/src/groupings/views/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
       <jump line="969" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
+      <jump line="5" column="11" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/HeaderBottom/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEhlYWRlckJvdHRvbSBmcm9tICcuJzsK</text>
+      <register name="&quot;" type="4">
+        <text>test updated</text>
       </register>
       <register name="-" type="4">
-        <text>fixtures</text>
+        <text>test updated</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -417,31 +430,37 @@
         <text encoding="base64">IHsKICAgICAgICAgIHVybDogJy9Qcm9tb2Npb25lcycsCiAgICAgICAgICB0ZXh0OiAnUHJvbW9jaW9uZXMnLAogICAgICAgICAgcmVsOiAnbm9mb2xsb3cnLAogICAgICAgICAgdGFyZ2V0OiAnX3RvcCcsCiAgICAgICAgICBpY29uOiAnZmFjZWJvb2snCiAgICAgICAgfSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEhlYWRlckJvdHRvbSBmcm9tICcuJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9MaW5rPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eycgJ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7bGluay5pY29uICYmIDxJY29uIGljb249e2xpbmsuaWNvbn0gLz59Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7JyAnfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7bGluay50ZXh0fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BpbnRhbmRvIGxpbmsgLi4uLiAnLCBsaW5rKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">Y29uc3QgYWxnbyA9IGxpbmtQVAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eycgJ30K</text>
+        <text encoding="base64">TGlua1BUCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgTGlua1dpdGhTZW8gPSAoKSA9PiB7CiAgCn0=</text>
+        <text>const LinkShape = PT.shape({
+  url: PT.string,
+  text: PT.string,
+  rel: PT.string,
+  target: PT.oneOf(['_blank', '_self', '_parent', '_top', '']),
+  icon: PT.string
+});</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICB0ZXh0OiAnJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L2E+Cg==</text>
+        <text encoding="base64">ICB1cmw6IFBULnN0cmluZywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHtsZGF0YS50ZXh0fQo=</text>
+        <text encoding="base64">ICB1cmw6IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
