@@ -21,6 +21,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="13" />
       </file>
+      <file name="$USER_HOME$/src/groupings/vendor/symfony/http-kernel/.gitignore" timestamp="1559045750306">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/src/groupings/public/js/custom/views/groupingPanel/formAssignLane.js" timestamp="1558442433348">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -242,8 +248,8 @@
         <mark key="^" line="965" column="12" />
         <mark key="." line="965" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559042406822">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1559045868773">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -412,8 +418,8 @@
       <jump line="913" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>re</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="-" type="4">
         <text>re</text>
@@ -425,35 +431,35 @@
         <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1cyA+PSAyMDAgJiYgcmVzcG9uc2Uuc3RhdHVzIDwgMzAwKSB7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIGNyZWF0ZQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>else {
       payload.rules.push(
           createRule('current_date.week_day', agrupationFormValues.day, '='),
       )
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBwYXlsb2FkLnJ1bGVzLnB1c2goCiAgICAgICAgY3JlYXRlUnVsZSgnY3VycmVudF9kYXRlLndlZWtfZGF5JywgYWdydXBhdGlvbkZvcm1WYWx1ZXMuZGF5KQogICAgKQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">YXNzaWduTW9jayIpCiAgICogQE1ldGhvZCgiUEFUQ0giKQogICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0CiAgICogQHJldHVybiBSZXNwb25zZQogICAqLwogIHB1YmxpYyBmdW5jdGlvbiBhc3NpZ25MYW5lTW9ja0FjdGlvbihSZXF1ZXN0ICRyZXF1ZXN0KSA6UmVzcG9uc2UKICB7IAogICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoJ2Fzc2lnbmVkJywgMjAwKTsKICB9CiAgLyoqCiAgICogU2UgZW5jYXJnYSBkZSBoYWNlciBsYXMgbGxhbWFkYXMgcXVlIGhhcmlhIGVsCiAgICogcHVibGljL2pzL2N1c3RvbS9saWJzL2dyb3VwaW5nL05BLkdyb3VwaW5ncy5qcwogICAqCiAgICogY2FsbENyZWF0ZUdyb3VwaW5nLm9uU3VjY2VzcyhjYWxsQXNzaW5nTGFuZSkKICAgKgogICAqIEBSb3V0ZSgiL2xhbmVzIikKICAgKiBATWV0aG9kKCJHRVQiKQogICAqIEByZXR1cm4gSnNvblJlc3BvbnNlCiAgICovCiAgcHVibGljIGZ1bmN0aW9uIGdldExhbmVzQWN0aW9uKCkKICB7CiAgICByZXR1cm4ganNvbl9kZWNvZGUoanNvbl9lbmNvZGUoWwogICAgICAkdGhpcy0+Y3JlYXRlTW9ja2VkTGFuZSgnODhhZjQ4NzMtZDMyNC00ODk1LWFlOTEtMWM4NGVlNDBjNWM0JywgMSwgJycpLAogICAgICAkdGhpcy0+Y3JlYXRlTW9ja2VkTGFuZSgnZmI5ZmM3NDEtM2RmNS00ODhmLTkyZDItZWJmNmQzYWRmNjdhJywgMiwgJ2Zha2VfZ3JvdXBfaWQnKSwKICAgICAgJHRoaXMtPmNyZWF0ZU1vY2tlZExhbmUoJzNlNGJlYzFhLTdlNTYtNDFkZC05YTA4LTZkMWE3YWNmYmM3NCcsIDMsICcnKSwKICAgICAgJHRoaXMtPmNyZWF0ZU1vY2tlZExhbmUoJzAwNDE4NDE4LTdjMjgtNGYzZS1iMjdmLWJhNDQ3ODFjNGZmYScsIDQsICcnKSwKICAgICAgJHRoaXMtPmNyZWF0ZU1vY2tlZExhbmUoJ2Q1NjRjNjdjLWFkYjQtNDFkYi1hOGFlLTEwOGQ0ZmNjN2FjOScsIDUsICcnKSwKICAgIF0pLCB0cnVlKTsKICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC5jYXRjaChlcnJvckRhdGE9PiBjYWxsYmFja3MuZXJyb3IoSlNPTi5wYXJzZShlcnJvckRhdGEpKSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IocmVzcG9uc2UubWVzc2FnZSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IocmVzcG9uc2UubWVzc2FnZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
