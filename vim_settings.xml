@@ -150,11 +150,11 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/src/groupings/public/js/custom/libs/grouping/NA.Groupings.js" timestamp="1559042286100">
-        <mark key="[" line="67" column="86" />
-        <mark key="]" line="67" column="86" />
-        <mark key="." line="67" column="86" />
-        <mark key="^" line="67" column="83" />
+      <file name="$USER_HOME$/src/groupings/public/js/custom/libs/grouping/NA.Groupings.js" timestamp="1559118791402">
+        <mark key="[" line="121" column="59" />
+        <mark key="]" line="122" column="6" />
+        <mark key="." line="122" column="6" />
+        <mark key="^" line="122" column="6" />
       </file>
       <file name="$USER_HOME$/src/groupings/src/js/libs/uuid/uuid.js" timestamp="1557910312909">
         <mark key="[" line="0" column="0" />
@@ -248,10 +248,10 @@
         <mark key="^" line="965" column="12" />
         <mark key="." line="965" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559045868773">
+      <file name="/Dummy.txt" timestamp="1559118631399">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/groupings/example/cp.csv" timestamp="1557407148406">
         <mark key="[" line="2" column="9" />
@@ -424,10 +424,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYm9keTogLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -436,35 +436,31 @@
         <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1cyA+PSAyMDAgJiYgcmVzcG9uc2Uuc3RhdHVzIDwgMzAwKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYm9keTogLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgbAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBpZihzZWxlY3RDYXJyaWVyLnNlbGVjdGVkSW5kZXggPT09IDApIHsKICAgIGdyb3VwaW5nQmFubmVyc0NyZWF0ZS5zaG93V2FybmluZyhVTlNFTEVDVEVEX09QVElPTitzZWxlY3RDYXJyaWVyLmxhYmVsc1swXS5pbm5lclRleHQpOwogICAgcmV0dXJuIGZhbHNlOwogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBpZihzZWxlY3RDYXJyaWVyLnNlbGVjdGVkSW5kZXggPT09IDApIHsKICAgIGdyb3VwaW5nQmFubmVyc0NyZWF0ZS5zaG93V2FybmluZyhVTlNFTEVDVEVEX09QVElPTitzZWxlY3RBZ2VuY3kubGFiZWxzWzBdLmlubmVyVGV4dCk7CiAgICByZXR1cm4gZmFsc2U7CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">ICAgICAgY2FjaGU6IGZhbHNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZQo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
-      <register name="8" type="4">
-        <text>else {
-      payload.rules.push(
-          createRule('current_date.week_day', agrupationFormValues.day, '='),
-      )
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwYXlsb2FkLnJ1bGVzLnB1c2goCiAgICAgICAgY3JlYXRlUnVsZSgnY3VycmVudF9kYXRlLndlZWtfZGF5JywgYWdydXBhdGlvbkZvcm1WYWx1ZXMuZGF5KQogICAgKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNhbGxiYWNrcy5lcnJvcnMoZGF0YSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
