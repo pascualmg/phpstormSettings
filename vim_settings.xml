@@ -138,23 +138,17 @@
         <mark key="^" line="38" column="56" />
         <mark key="." line="38" column="56" />
       </file>
-      <file name="$USER_HOME$/src/groupings/src/Controller/WarehouseController.php" timestamp="1559123789399">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="78" column="43" />
-      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/headerCart.js" timestamp="1556785241802">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="57" />
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/src/groupings/public/js/custom/libs/grouping/NA.Groupings.js" timestamp="1559132763462">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="173" column="52" />
+      <file name="$USER_HOME$/src/groupings/public/js/custom/libs/grouping/NA.Groupings.js" timestamp="1559214918105">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
+        <mark key="^" line="236" column="16" />
       </file>
       <file name="$USER_HOME$/src/groupings/src/js/libs/uuid/uuid.js" timestamp="1557910312909">
         <mark key="[" line="0" column="0" />
@@ -204,15 +198,16 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/groupings/public/js/custom/views/groupingPanel/formCreateGrouping.js" timestamp="1559132886096">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="0" />
+      <file name="$USER_HOME$/src/groupings/public/js/custom/views/groupingPanel/formCreateGrouping.js" timestamp="1559214360296">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="108" column="0" />
       </file>
       <file name="/users [stdb.db]" timestamp="1557589523169">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/NA.Groupings.js" timestamp="1559214546697" />
       <file name="/PHP Console" timestamp="1559046007135">
         <mark key="[" line="0" column="0" />
       </file>
@@ -253,10 +248,10 @@
         <mark key="^" line="965" column="12" />
         <mark key="." line="965" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559132948090">
+      <file name="/Dummy.txt" timestamp="1559214815000">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/src/groupings/example/cp.csv" timestamp="1557407148406">
         <mark key="[" line="2" column="9" />
@@ -276,11 +271,11 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/src/groupings/templates/index.html.twig" timestamp="1559132902232">
-        <mark key="'" line="943" column="0" />
-        <mark key="[" line="200" column="37" />
-        <mark key="]" line="200" column="37" />
-        <mark key="." line="200" column="37" />
+      <file name="$USER_HOME$/src/groupings/templates/index.html.twig" timestamp="1559214419829">
+        <mark key="'" line="945" column="0" />
+        <mark key="[" line="859" column="42" />
+        <mark key="]" line="859" column="42" />
+        <mark key="." line="859" column="42" />
         <mark key="^" line="200" column="37" />
       </file>
       <file name="$USER_HOME$/src/groupings/src/js/createGrouping.js" timestamp="1557735338516">
@@ -325,7 +320,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/groupings/public/js/custom/grouping/createGrouping/validation.js" timestamp="1559047057413">
+      <file name="$USER_HOME$/src/groupings/public/js/custom/grouping/createGrouping/validation.js" timestamp="1559214387969">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -434,44 +429,44 @@
       <jump line="913" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>redis</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTmEnLCBOYSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>redis</text>
+        <text>19 , requestHandler GET fix</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoICRleGNlcHRpb24tPmdldFJlc3BvbnNlKCktPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSwgJGV4Y2VwdGlvbi0+Z2V0Q29kZSgpKTsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdqcy9jdXN0b20vZ3JvdXBpbmcvYXNzaWduTGFuZS92YWxpZGF0aW9uLmpzJykgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNkZiN9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTmEnLCBOYSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPcGNpb25lcyAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldEN1cnJlbnRTZWxlY3RlZERheVdpdGhIMURhdGFzZXQ6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IE9wY2lvbmVzCg==</text>
+        <text encoding="base64">ICAgIHBheWxvYWQgPSBwYXlsb2FkIHx8IHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1ldGhvZCA9IG1ldGhvZCB8fCAnR0VUJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1ZXN0UHJvbWlzZTogZnVuY3Rpb24gKHBhdGgsIG1ldGhvZCwgcGF5bG9hZCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRDdXJyZW50U2VsZWN0ZWREYXlXaXRoSDFEYXRhc2V0Jyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJucyB7UHJvbWlzZTxhbnk+fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gcGF5bG9hZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
