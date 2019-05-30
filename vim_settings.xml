@@ -301,7 +301,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/src/api-legacy-bridge/.env.local.php" timestamp="1559212737971" />
+      <file name="$USER_HOME$/src/api-legacy-bridge/.env.local.php" timestamp="1559213138869">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/webpack.config.js" timestamp="1556631340179">
         <mark key="[" line="41" column="57" />
         <mark key="]" line="41" column="57" />
@@ -430,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>redis</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
