@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/src/groupings/src/Manager/WarehouseManager.php" timestamp="1559290183843">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/src/groupings/public/js/custom/views/groupingPanel/formCreateGrouping.js" timestamp="1559548747890">
-        <mark key="[" line="116" column="1" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="121" column="37" />
+      <file name="$USER_HOME$/src/groupings/public/js/custom/views/groupingPanel/formCreateGrouping.js" timestamp="1559549850425">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="103" column="41" />
       </file>
       <file name="/users [stdb.db]" timestamp="1557589523169">
         <mark key="[" line="0" column="0" />
@@ -44,10 +44,10 @@
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559548770086">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1559549854823">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/api-legacy-bridge/config/services/warehouse.yaml" timestamp="1559290856993" />
       <file name="/GraphQL.result.json" timestamp="1559291379637">
@@ -176,14 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Merge branch 'develop' into feature/BT-876-Pintar-agrupaciones-en-listado-de-agrupaciones
-
-# Conflicts:
-#	public/js/custom/grouping/createGrouping/validation.js
-#	public/js/custom/views/groupingPanel/formCreateGrouping.js</text>
+        <text>missing feature select current day in create groupings</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2V0dGVhbmRvIA==</text>
+        <text>missing feature select current day in create groupings</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -191,36 +187,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZWxlY3RIb3VyRW5kJywgc2VsZWN0SG91ckVuZCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXR0ZWFuZG8gJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+      </register>
+      <register name="3" type="4">
         <text>Merge branch 'develop' into feature/BT-876-Pintar-agrupaciones-en-listado-de-agrupaciones
 
 # Conflicts:
 #	public/js/custom/grouping/createGrouping/validation.js
 #	public/js/custom/views/groupingPanel/formCreateGrouping.js</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">c2V0Q3VycmVudFNlbGVjdGVkRGF5V2l0aEgxRGF0YXNldCgpZGQK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">d2luZG93LnNldEN1cnJlbnRTZWxlY3RlZERheVdpdGhIMURhdGFzZXQgPSBzZXRDdXJyZW50U2VsZWN0ZWREYXlXaXRoSDFEYXRhc2V0Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZXRDdXJyZW50U2VsZWN0ZWREYXlXaXRoSDFEYXRhc2V0KCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZWNvbmQnICwgZmlsZVdpdGhQb3N0YWxDb2Rlcy5uYW1lLnNwbGl0KCcuJykucG9wKCkgIT09ICdjc3YnKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWxlV2l0aFBvc3RhbENvZGVzJywgIWZpbGVXaXRoUG9zdGFsQ29kZXMpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5maWxlID0gZmlsZVdpdGhQb3N0YWxDb2RlczsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3NhdmVfYWdydXBhdGlvbicpLnNldEF0dHJpYnV0ZSgnZGlzYWJsZWQnLCB0cnVlKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5maWxlID0gZmlsZVdpdGhQb3N0YWxDb2RlczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
