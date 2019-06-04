@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Link/__snapshots__/Link.test.jsx.snap" timestamp="1559600213827" />
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Accordion/index.jsx" timestamp="1559599982871">
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Accordion/index.jsx" timestamp="1559604856548">
         <mark key="[" line="145" column="26" />
         <mark key="]" line="145" column="25" />
         <mark key="." line="145" column="25" />
@@ -28,6 +28,16 @@
       <file name="/JavaScript Console" timestamp="1558340928096">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/LateralMenu/index.jsx" timestamp="1559602630734">
+        <mark key="[" line="128" column="3" />
+        <mark key="]" line="158" column="1" />
+        <mark key="." line="158" column="1" />
+        <mark key="^" line="158" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/index.jsx" timestamp="1559605834928">
+        <mark key="[" line="3" column="39" />
+        <mark key="^" line="105" column="13" />
+      </file>
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,6 +45,12 @@
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/LateralMenu/LateralMenu.stories.jsx" timestamp="1559602038578">
+        <mark key="[" line="240" column="56" />
+        <mark key="]" line="240" column="56" />
+        <mark key="." line="240" column="56" />
+        <mark key="^" line="240" column="55" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1559598775233">
         <mark key="[" line="0" column="0" />
@@ -66,6 +82,12 @@
       </file>
       <file name="$USER_HOME$/src/groupings/src/Manager/WarehouseManager.php" timestamp="1559290183843">
         <mark key="[" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/userSideNav.stories.jsx" timestamp="1559604241314">
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="47" />
+        <mark key="^" line="34" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -171,48 +193,44 @@
       <jump line="913" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shape</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEFjY29yZGlvbiBmcm9tICcuLi8uLi9tb2xlY3VsZXMvQWNjb3JkaW9uJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>shape</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZWxlY3RIb3VyRW5kJywgc2VsZWN0SG91ckVuZCk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHRleHQ6ICdMaXN0YSBkZSBkZXNlb3MnLAogICAgICAgICAgICBpY29uTmFtZTogJ2ZhY2Vib29rJwogICAgICAgIH0s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IEFjY29yZGlvbiBmcm9tICcuLi8uLi9tb2xlY3VsZXMvQWNjb3JkaW9uJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXR0ZWFuZG8gJyk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
+        <text encoding="base64">aW1wb3J0IE9iZnVzY2F0ZWRMaW5rIGZyb20gJy4uLy4uL2F0b21zL09iZnVzY2F0ZWRMaW5rJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text>Merge branch 'develop' into feature/BT-876-Pintar-agrupaciones-en-listado-de-agrupaciones
-
-# Conflicts:
-#	public/js/custom/grouping/createGrouping/validation.js
-#	public/js/custom/views/groupingPanel/formCreateGrouping.js</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IEljb24gZnJvbSAnLi4vLi4vYXRvbXMvSWNvbic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0Q3VycmVudFNlbGVjdGVkRGF5V2l0aEgxRGF0YXNldCgpZGQK</text>
+        <text encoding="base64">aW1wb3J0IENvbCBmcm9tICcuLi8uLi9hdG9tcy9Db2wnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2luZG93LnNldEN1cnJlbnRTZWxlY3RlZERheVdpdGhIMURhdGFzZXQgPSBzZXRDdXJyZW50U2VsZWN0ZWREYXlXaXRoSDFEYXRhc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDdXJyZW50U2VsZWN0ZWREYXlXaXRoSDFEYXRhc2V0KCk7Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZWNvbmQnICwgZmlsZVdpdGhQb3N0YWxDb2Rlcy5uYW1lLnNwbGl0KCcuJykucG9wKCkgIT09ICdjc3YnKQo=</text>
+        <text encoding="base64">ICBzZXBhcmF0b3I6ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWxlV2l0aFBvc3RhbENvZGVzJywgIWZpbGVXaXRoUG9zdGFsQ29kZXMpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">TGluazJBLmRlZmF1bHRQcm9wcyA9IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5maWxlID0gZmlsZVdpdGhQb3N0YWxDb2RlczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
