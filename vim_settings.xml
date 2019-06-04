@@ -40,11 +40,11 @@
         <mark key="." line="158" column="1" />
         <mark key="^" line="158" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/index.jsx" timestamp="1559642663432">
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="60" column="1" />
-        <mark key="^" line="75" column="31" />
-        <mark key="." line="60" column="1" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/index.jsx" timestamp="1559654905988">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="68" column="34" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
@@ -92,7 +92,7 @@
       <file name="$USER_HOME$/src/groupings/src/Manager/WarehouseManager.php" timestamp="1559290183843">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/userSideNav.stories.jsx" timestamp="1559646950203">
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/userSideNav.stories.jsx" timestamp="1559652259145">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
@@ -202,11 +202,11 @@
       <jump line="913" column="0" filename="$USER_HOME$/src/groupings/templates/index.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -215,31 +215,35 @@
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHRleHQ6ICdMaXN0YSBkZSBkZXNlb3MnLAogICAgICAgICAgICBpY29uTmFtZTogJ2ZhY2Vib29rJwogICAgICAgIH0s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiAnIycK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWNvbk5hbWU6ICdmYWNlYm9vaycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0b0FjY29yZGlvbihpdGVtKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGV4dFVybDogJ1BhZ28nLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNBY2NvcmRpb24oaXRlbSkpIHsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y29uc3QgdG9MaW5rID0gaXRlbSA9PiB7CiAgY29uc29sZS5sb2coJ3RvIExpbmsgaXRlbScsIGl0ZW0pOyAvLyBUT0RPOiBib3JyYW1lLgogIHJldHVybiA8TGluazJBIGxpbms9e2l0ZW19IC8+Owp9Ow==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaXNBY2NvcmRpb24nLCBpc0FjY29yZGlvbihpdGVtKSk7IC8vIFRPRE86IGJvcnJhbWUuCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiAnIycK</text>
+      <register name="7" type="4">
+        <text>/**
+ * Determina si el obj contiene la propiedad title ya que esta
+ * @param obj
+ * @returns {boolean}
+ */</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWNvbk5hbWU6ICdmYWNlYm9vaycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGV4dFVybDogJ1BlZGlkb3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvQWNjb3JkaW9uKGl0ZW0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
