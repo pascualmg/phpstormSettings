@@ -60,6 +60,11 @@
         <mark key="." line="94" column="3" />
         <mark key="^" line="94" column="3" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.test.jsx" timestamp="1560423649955">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,24 +79,17 @@
         <mark key="." line="240" column="56" />
         <mark key="^" line="240" column="55" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.stories.jsx" timestamp="1560421829757">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="34" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.stories.jsx" timestamp="1560423505238">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1560407383566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1558340599550">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/groupings/templates/index.html.twig" timestamp="1559548763068">
-        <mark key="'" line="946" column="0" />
-        <mark key="[" line="208" column="43" />
-        <mark key="]" line="211" column="37" />
-        <mark key="^" line="211" column="37" />
-        <mark key="." line="211" column="37" />
       </file>
       <file name="/index.jsx" timestamp="1558530106944">
         <mark key="[" line="33" column="34" />
@@ -113,6 +111,17 @@
         <mark key="]" line="63" column="33" />
         <mark key="." line="63" column="33" />
         <mark key="^" line="63" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/mocks/UserSideNavDataMock.js" timestamp="1560423456055">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="46" column="25" />
+        <mark key="^" line="46" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/mocks/almacen.md" timestamp="1560424511103">
+        <mark key="[" line="158" column="77" />
+        <mark key="]" line="158" column="77" />
+        <mark key="." line="158" column="77" />
       </file>
       <file name="$USER_HOME$/src/api-legacy-bridge/.env.local.php" timestamp="1559213138869">
         <mark key="[" line="23" column="26" />
@@ -233,43 +242,89 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>857 , adapt isActive in overlay after merge</text>
+        <text>d4155a24-981a-4bbc-a057-07cfbac06e93</text>
       </register>
       <register name="-" type="4">
-        <text>857 , adapt isActive in overlay after merge</text>
+        <text>d4155a24-981a-4bbc-a057-07cfbac06e93</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXF1ZUlkIGZyb20gJ2xvZGFzaC91bmlxdWVJZCc7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgogIGl0KCdpdCB3b3JrcyBkZWZhdWx0IGFjdGl2ZScsICgpID0+IHsKICAgIGNvbnN0IGNvbXBvbmVudCA9IHJlbmRlcigKICAgICAgPFRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4KICAgICAgICA8PgogICAgICAgICAgPEdsb2JhbFN0eWxlIC8+CiAgICAgICAgICA8VXNlclNpZGVOYXYgYWN0aXZlIC8+CiAgICAgICAgPC8+CiAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgICk7CiAgICBleHBlY3QoY29tcG9uZW50KS50b01hdGNoU25hcHNob3QoKTsKICB9KTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      <register name="2" type="4">
+        <text>const json = {
+  sideNav: {
+    main: [
+      {
+        url: '/ofertas',
+        textUrl: 'Ofertas',
+        rel: 'obfuscated',
+        target: '_self',
+        iconName: 'offers',
+        featured: true,
+        presetLink: 'ofertas-notificable'
+      },
+      {
+        url: '/mi-cuenta',
+        textUrl: 'Mi Cuenta',
+        rel: 'obfuscated',
+        target: '_self',
+        iconName: 'account',
+        featured: true,
+        presetLink: 'my-account-notificable'
+      },
+      {
+        title: 'Pago',
+        iconName: 'card',
+        presetLink: 'payments-notificable',
+        children: [
+          {
+            url: '/my-cards',
+            textUrl: 'Tarjetas cinculadas',
+            rel: 'obfuscated',
+            target: '_self',
+            iconName: 'card',
+            featured: false
+          },
+          {
+            url: '/coupons',
+            textUrl: 'Cupones descuento',
+            rel: 'obfuscated',
+            target: '_self',
+            iconName: 'facebook',
+            featured: false
+          }
+        ]
+      }
+    ]
+  }
+};</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Y29uc3QganNvbiA9IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwgbm90aWZpY2F0aW9uQW1vdW50OiAhaXNFbXB0eShpdGVtLm5vdGlmaWNhdGlvbkFtb3VudCkgfTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVzZXRMaW5rOiAncGF5bWVudHMtbm90aWZpY2FibGUnLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaXRlbS5jaGlsZHJlbi5tYXAnLCBpdGVtLmNoaWxkcmVuLm1hcCh0b0xpbmspKTsgLy8gVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgICwgbm90aWZpY2F0aW9uQW1vdW50OiAhaXNFbXB0eShpdGVtLm5vdGlmaWNhdGlvbkFtb3VudCkgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
