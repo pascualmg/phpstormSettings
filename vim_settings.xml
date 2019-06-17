@@ -67,6 +67,11 @@
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/.env.dist" timestamp="1560768466685">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1560428586662">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -95,6 +100,12 @@
       </file>
       <file name="/main.users [stdb.db]" timestamp="1556792289413">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/ssr-proxy/.env" timestamp="1560768503820">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="4" column="92" />
+        <mark key="." line="4" column="92" />
+        <mark key="^" line="4" column="92" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/microdata/contrato.json" timestamp="1560256822025">
         <mark key="[" line="87" column="21" />
@@ -240,10 +251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGZpcnN0IGFkYXB0aW9u</text>
+        <text>9900</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZpcnN0IGFkYXB0aW9u</text>
+        <text>9900</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -252,9 +263,12 @@
         <text encoding="base64">CgogIGl0KCdpdCB3b3JrcyBkZWZhdWx0IGFjdGl2ZScsICgpID0+IHsKICAgIGNvbnN0IGNvbXBvbmVudCA9IHJlbmRlcigKICAgICAgPFRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4KICAgICAgICA8PgogICAgICAgICAgPEdsb2JhbFN0eWxlIC8+CiAgICAgICAgICA8VXNlclNpZGVOYXYgYWN0aXZlIC8+CiAgICAgICAgPC8+CiAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgICk7CiAgICBleHBlY3QoY29tcG9uZW50KS50b01hdGNoU25hcHNob3QoKTsKICB9KTs=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">LmVudi5kaXN0Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>const json = {
   sideNav: {
     main: [
@@ -303,29 +317,26 @@
   }
 };</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y29uc3QganNvbiA9IHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICwgbm90aWZpY2F0aW9uQW1vdW50OiAhaXNFbXB0eShpdGVtLm5vdGlmaWNhdGlvbkFtb3VudCkgfTsK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>!cp .env.dist .env</text>
       </register>
     </registers>
     <search>
@@ -361,6 +372,7 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>!cp .env.dist .env</entry>
       </history-cmd>
       <history-expr />
       <history-input />
