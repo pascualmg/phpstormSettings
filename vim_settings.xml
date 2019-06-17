@@ -6,6 +6,11 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/microdata/microdata-product.json-ld.twig" timestamp="1560241602472">
         <mark key="[" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Cart/CartController.php" timestamp="1560770215911">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/Link2A/index.jsx" timestamp="1560326823570">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="14" />
@@ -72,7 +77,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560428586662">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/config/routing_cart.yml" timestamp="1560769636972">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="16" column="52" />
+        <mark key="^" line="16" column="51" />
+        <mark key="." line="16" column="52" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560770296306">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -115,6 +126,7 @@
       <file name="$USER_HOME$/src/groupings/public/js/custom/constants/routing.js" timestamp="1559032687721">
         <mark key="[" line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/app/cache/dev/appDevDebugProjectContainerUrlMatcher.php" timestamp="1560769243171" />
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/UserSideNav.test.jsx" timestamp="1559722945740">
         <mark key="[" line="63" column="33" />
         <mark key="]" line="63" column="33" />
@@ -251,10 +263,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9900</text>
+        <text encoding="base64">IHJlbmRlciBkZSBhZ2dyZWdhdGVSYXRpbmcgc29sbyBzaSBlcyBtYXlvciBxdWUgMSAu</text>
       </register>
       <register name="-" type="4">
-        <text>9900</text>
+        <text encoding="base64">IHJlbmRlciBkZSBhZ2dyZWdhdGVSYXRpbmcgc29sbyBzaSBlcyBtYXlvciBxdWUgMSAu</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -263,77 +275,31 @@
         <text encoding="base64">CgogIGl0KCdpdCB3b3JrcyBkZWZhdWx0IGFjdGl2ZScsICgpID0+IHsKICAgIGNvbnN0IGNvbXBvbmVudCA9IHJlbmRlcigKICAgICAgPFRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4KICAgICAgICA8PgogICAgICAgICAgPEdsb2JhbFN0eWxlIC8+CiAgICAgICAgICA8VXNlclNpZGVOYXYgYWN0aXZlIC8+CiAgICAgICAgPC8+CiAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgICk7CiAgICBleHBlY3QoY29tcG9uZW50KS50b01hdGNoU25hcHNob3QoKTsKICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmVudi5kaXN0Cg==</text>
+        <text encoding="base64">dXNlIFBIUF9Db2RlU25pZmZlclxSZXBvcnRzXEpzb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="3" type="4">
-        <text>const json = {
-  sideNav: {
-    main: [
-      {
-        url: '/ofertas',
-        textUrl: 'Ofertas',
-        rel: 'obfuscated',
-        target: '_self',
-        iconName: 'offers',
-        featured: true,
-        presetLink: 'ofertas-notificable'
-      },
-      {
-        url: '/mi-cuenta',
-        textUrl: 'Mi Cuenta',
-        rel: 'obfuscated',
-        target: '_self',
-        iconName: 'account',
-        featured: true,
-        presetLink: 'my-account-notificable'
-      },
-      {
-        title: 'Pago',
-        iconName: 'card',
-        presetLink: 'payments-notificable',
-        children: [
-          {
-            url: '/my-cards',
-            textUrl: 'Tarjetas cinculadas',
-            rel: 'obfuscated',
-            target: '_self',
-            iconName: 'card',
-            featured: false
-          },
-          {
-            url: '/coupons',
-            textUrl: 'Cupones descuento',
-            rel: 'obfuscated',
-            target: '_self',
-            iconName: 'facebook',
-            featured: false
-          }
-        ]
-      }
-    ]
-  }
-};</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QganNvbiA9IHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnJywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHJhd1Jlc3VsdC0+dG90YWxRdHkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgJHJhd0NhcnQgPSAkdGhpcy0+Z2V0UmF3Q2FydEFjdGlvbigpOwogICAgICAgIGR1bXAoJHJhd0NhcnQpOwogICAgICAgIGRpZTs=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgJGNhbGxlciA9IG5ldyBBcGlDYWxsZXIoKTsKICAgICAgICAkcmVzcG9uc2UgPSAkY2FsbGVyLT5jcmVhdGVSZXF1ZXN0QnVpbGRlcigpCiAgICAgICAgICAgIC0+c2V0VXJpKCdvcmRlcnMvJy5Db250YWluZXJpemFibGU6OmdldExvZ2dlZFVzZXIoKS0+Z2V0SWRDYXJ0KCkuJy9jYXJ0JykKICAgICAgICAgICAgLT5nZXRSZXF1ZXN0KCktPnNlbmRHZXQoKTsKCiAgICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoanNvbl9kZWNvZGUoJHJlc3BvbnNlLT5nZXRSYXdSZXN1bHQoKSkpOw==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LmVudi5kaXN0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
