@@ -93,6 +93,11 @@
       <file name="$USER_HOME$/src/groupings/public/js/custom/constants/routing.js" timestamp="1559032687721">
         <mark key="[" line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/header.js" timestamp="1560841624135">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/package.json" timestamp="1560775569843">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
@@ -220,8 +225,8 @@
       <jump line="88" column="0" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>21 , testing 96%</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge2NvbnNvbGUubG9nKCdob2xpIGNhcmFjb2xpJyl9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>21 , testing 96%</text>
@@ -233,31 +238,31 @@
         <text encoding="base64">ICBub3RpZmljYXRpb246IFBULnNoYXBlKHsgY2FydDogUFQubnVtYmVyLCB1c2VyOiBQVC5udW1iZXIgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb249e3sgY2FydDogNDIsIHVzZXI6IDQyIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge2NvbnNvbGUubG9nKCdob2xpIGNhcmFjb2xpJyl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb249e3sgY2FydDogNDIsIHVzZXI6IDQyIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb249e25vdGlmaWNhdGlvbn0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbjogUFQuc2hhcGUoeyBjYXJ0OiBQVC5udW1iZXIsIHVzZXI6IFBULm51bWJlciB9KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIFBIUF9Db2RlU25pZmZlclxSZXBvcnRzXEpzb247Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb249e25vdGlmaWNhdGlvbn0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbjogUFQuc2hhcGUoeyBjYXJ0OiBQVC5udW1iZXIsIHVzZXI6IFBULm51bWJlciB9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIFBIUF9Db2RlU25pZmZlclxSZXBvcnRzXEpzb247Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHJhd1Jlc3VsdC0+dG90YWxRdHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHJhd1Jlc3VsdC0+dG90YWxRdHkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
