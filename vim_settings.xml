@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/vendor/connectif/cn_purchase/cn_purchase.html.twig" timestamp="1560941468896">
         <mark key="[" line="37" column="47" />
       </file>
+      <file name="/fragment.js" timestamp="1561019908253">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/redux/reducers/nofificationReducers.js" timestamp="1560938684758">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -14,6 +17,12 @@
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/microdata/microdata-product.json-ld.twig" timestamp="1560241602472">
         <mark key="[" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/middleware/sidenav.js" timestamp="1561020118937">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="119" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Accordion/index.jsx" timestamp="1560421759681">
         <mark key="[" line="136" column="0" />
@@ -43,7 +52,7 @@
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1561013770822">
+      <file name="/JavaScript Console" timestamp="1561020056555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderAdvice.jsx" timestamp="1560937190052">
@@ -86,7 +95,7 @@
       <file name="http://localhost:8888/static/header.js" timestamp="1560987472632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561012610698">
+      <file name="/GraphQL.result.json" timestamp="1561020377157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1558340599550">
@@ -114,6 +123,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="2" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/ssr-proxy/package.json" timestamp="1561020170806">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/src/groupings/public/js/custom/constants/routing.js" timestamp="1559032687721">
         <mark key="[" line="4" column="52" />
@@ -151,21 +165,17 @@
         <mark key="^" line="15" column="74" />
         <mark key="." line="15" column="74" />
       </file>
-      <file name="/.env.dist" timestamp="1560933791166">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/middleware/header.js" timestamp="1560937838700">
+      <file name="$USER_HOME$/src/ssr-proxy/src/middleware/header.js" timestamp="1561019555899">
         <mark key="[" line="40" column="37" />
         <mark key="]" line="40" column="38" />
         <mark key="^" line="40" column="37" />
         <mark key="." line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1561015276559">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="28" column="21" />
-        <mark key="." line="28" column="21" />
-        <mark key="^" line="28" column="21" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1561019619970">
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/redux/reducers/headerNotificationReducers.js" timestamp="1560846954431">
         <mark key="[" line="2" column="16" />
@@ -292,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sidenavDataMock</text>
+        <text>15</text>
       </register>
       <register name="-" type="4">
-        <text>sidenavDataMock</text>
+        <text>15</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -304,31 +314,31 @@
         <text encoding="base64">Q0FSVF9BTU1PVU5UPS9jYXJ0L2FtbW91bnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHlkcmF0ZVNpZGVOYXZXaXRoSnNvbigpCg==</text>
+        <text encoding="base64">Y29uc3Qgc2lkZU5hdkpzb24gPSBnZXRKc29uKCdodHRwOi8vYXBpLXdlYi1jb25maWctZGV2ZWxvcC5zdGFnaW5nLnBjY29tLmludGVybm8vYXBpL3YxL3dlYi1jb25maWcvc2lkZW5hdi9jdXJyZW50Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hlYWRlckRhdGEnLCBoZWFkZXJEYXRhKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGFjaWVuZG8gcGV0aSBhIGhlYWRlclVybCcsaGVhZGVyVXJsKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICBjb25zdCBoZWFkZXJFbmRwb2ludCA9IHByb2Nlc3MuZW52LkhFQURFUl9EQVRBX1VSTDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2lkZU5hdlVybCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXAoY29uc29sZS5sb2cpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc2lkZU5hdkFqYXggPSBhamF4LmdldEpTT04oKQo=</text>
+        <text encoding="base64">ICBtYXAoaHlkcmF0ZVNpZGVOYXZXaXRoSnNvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aHlkcmF0ZVNpZGVOYXZXaXRoSnNvbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
