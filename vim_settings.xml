@@ -161,11 +161,11 @@
         <mark key="^" line="40" column="37" />
         <mark key="." line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1561013701635">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1561015276559">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/redux/reducers/headerNotificationReducers.js" timestamp="1560846954431">
         <mark key="[" line="2" column="16" />
@@ -291,11 +291,11 @@
       <jump line="88" column="0" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>sidenavDataMock</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>sidenavDataMock</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -304,16 +304,16 @@
         <text encoding="base64">Q0FSVF9BTU1PVU5UPS9jYXJ0L2FtbW91bnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aHlkcmF0ZVNpZGVOYXZXaXRoSnNvbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hlYWRlckRhdGEnLCBoZWFkZXJEYXRhKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGFjaWVuZG8gcGV0aSBhIGhlYWRlclVybCcsaGVhZGVyVXJsKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hlYWRlckRhdGEnLCBoZWFkZXJEYXRhKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGFjaWVuZG8gcGV0aSBhIGhlYWRlclVybCcsaGVhZGVyVXJsKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -322,13 +322,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc2lkZU5hdkFqYXggPSBhamF4LmdldEpTT04oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Y29uc3Qgc2lkZU5hdkFqYXggPSBhamF4LmdldEpTT04oKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">UmVhY3RET00uaHlkcmF0ZSgKICA8UHJvdmlkZXIgc3RvcmU9e3dpbmRvdy5zdG9yZX0+CiAgICA8VGhlbWVQcm92aWRlciB0aGVtZT17dGhlbWV9PgogICAgICA8ZGl2IGNsYXNzTmFtZT0icGNjLXJlZmFjdG9yIj4KICAgICAgICA8Q29ubmVjdGVkQ29tcG9uZW50Lz4KICAgICAgPC9kaXY+CiAgICA8L1RoZW1lUHJvdmlkZXI+CiAgPC9Qcm92aWRlcj4sIG1vdW50UG9pbnQpOwo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
