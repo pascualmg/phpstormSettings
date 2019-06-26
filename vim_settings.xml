@@ -30,11 +30,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/middleware/sidenav.js" timestamp="1561537988805">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="13" column="26" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/middleware/sidenav.js" timestamp="1561539439441">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
       </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1560942288517">
         <mark key="[" line="569" column="33" />
@@ -109,7 +109,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/.env" timestamp="1561538329605">
+      <file name="$USER_HOME$/src/ssr-proxy/.env" timestamp="1561539025547">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="94" />
         <mark key="." line="5" column="7" />
@@ -158,11 +158,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1561470702126">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="41" />
-        <mark key="." line="40" column="41" />
-        <mark key="^" line="40" column="41" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1561538928448">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="28" column="36" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/redux/reducers/headerNotificationReducers.js" timestamp="1560846954431">
         <mark key="[" line="2" column="16" />
@@ -282,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>merge develop + conflicts.</text>
+        <text>sideNavJson</text>
       </register>
       <register name="-" type="4">
-        <text>merge develop + conflicts.</text>
+        <text>sideNavJson</text>
       </register>
       <register name="/" type="4">
         <text>links2</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">ICAgIG5leHQ6ICgpID0+IHt9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhcCgoc2lkZU5hdkpzb24pID0+IHtjb25zb2xlLmxvZygnc2lkZU5hdkpzb24gY2xpZW50ZScsIHNpZGVOYXZKc29uKSB9KSwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjb25zdCBvYnMgPSB7CiAgICBuZXh0OiAoKSA9PiB7fSwKICAgIGVycm9yOiBlcnIgPT4gY29uc29sZS5lcnJvcignSEVBREVSOkVSUk9SOiAnICsgZXJyKSwKICAgIGNvbXBsZXRlOiAoKSA9PiB7fSwKICB9Ow==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBjb25zdCBvYnMgPSB7CiAgICBuZXh0OiAoKSA9PiB7fSwKICAgIGVycm9yOiBlcnIgPT4gY29uc29sZS5lcnJvcignSEVBREVSOkVSUk9SOiAnICsgZXJyKSwKICAgIGNvbXBsZXRlOiAoKSA9PiB7fSwKICB9Ow==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TEVHQUNZX1BPUlQ9OTA4MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TEVHQUNZX1BPUlQ9OTA4MAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q0FSVF9BTU1PVU5UPS9jYXJ0L2FtbW91bnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhcCgoKSA9PiBjb25zb2xlLmxvZyh1cmxDYXJ0QW1tb3VudCkpLAo=</text>
+        <text encoding="base64">Q0FSVF9BTU1PVU5UPS9jYXJ0L2FtbW91bnQK</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
