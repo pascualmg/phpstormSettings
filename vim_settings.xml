@@ -81,10 +81,11 @@
       <file name="http://localhost:8888/static/header.js" timestamp="1560987472632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ssr-proxy/src/mocks/mainMenuMock.json" timestamp="1561965750408">
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="43" column="14" />
-        <mark key="." line="43" column="14" />
+      <file name="$USER_HOME$/src/ssr-proxy/src/mocks/mainMenuMock.json" timestamp="1561969171101">
+        <mark key="[" line="72" column="18" />
+        <mark key="]" line="63" column="17" />
+        <mark key="." line="63" column="17" />
+        <mark key="^" line="63" column="17" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1561964538724">
         <mark key="[" line="0" column="0" />
@@ -278,44 +279,44 @@
       <jump line="12" column="18" filename="$USER_HOME$/src/ssr-proxy/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6ICJwb3J0YXRpbGVzIiwK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>portatiles</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>story</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ewogICAgImljb25OYW1lIjogImZhY2Vib29rIiwKICAgICJ0ZXh0IjogIk9yZGVuYWRvcmVzIiwKICAgICJzdWJTZWN0aW9uIjogWwogICAgICB7CiAgICAgICAgInRpdGxlIjogInBvcnRhdGlsZXMiLAogICAgICAgICJsaW5rIjogewogICAgICAgICAgIm91dHN0YW5kaW5nIjogdHJ1ZSwKICAgICAgICAgICJkcm9wRG93biI6IHRydWUsCiAgICAgICAgICAicmVsIjogIm5vZm9sbG93IiwKICAgICAgICAgICJ0YXJnZXQiOiAiX3NlbGYiLAogICAgICAgICAgInVybCI6ICJodHRwOi8vd3d3LnBjY29tcG9uZW50ZXMuY29tL3BvcnRhdGlsZXMiLAogICAgICAgICAgInRleHRVcmwiOiAiUG9ydMOhdGlsZXMiCiAgICAgICAgfQogICAgICB9LAogICAgICB7CiAgICAgICAgInRpdGxlIjogInBvcnRhdGlsZXMiLAogICAgICAgICJidXR0b24iOiB7CiAgICAgICAgICAidXJsIjogImh0dHA6Ly93d3cucGNjY29tcG9uZW50ZXMuY29tIiwKICAgICAgICAgICJUZXh0VXJsIjogIlBvcnTDoXRpbGVzIiwKICAgICAgICAgICJyZWwiOiAibm9mb2xsb3ciLAogICAgICAgICAgInRhcmdldCI6ICJfc2VsZiIKICAgICAgICB9CiAgICAgIH0KICAgIF0KICB9CiAg</text>
+        <text encoding="base64">IHsKICAgICAgImljb25OYW1lIjogIiIsCiAgICAgICJ1cmxUZXh0IjogIiIsCiAgICAgICJ1cmwiOiAiIiwKICAgICAgInRvb2xUaXAiOiAiIgogICAgfSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6ICJwb3J0YXRpbGVzIiwK</text>
+        <text encoding="base64">ICAgIFRvb2x0aXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6ICJwb3J0YXRpbGVzIiwK</text>
+        <text encoding="base64">ICAgIExpbmsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRpdGxlIjogInBvcnRhdGlsZXMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6ICJwb3J0YXRpbGVzIiwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6ICJwb3J0YXRpbGVzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRpdGxlIjogInBvcnRhdGlsZXMiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6ICJQcm9tb2Npb24gUG9ydMOhdGlsZXMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6ICJwb3J0YXRpbGVzIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJUZXh0VXJsIjogIlBvcnTDoXRpbGVzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ1cmwiOiAiaHR0cDovL3d3dy5wY2NvbXBvbmVudGVzLmNvbS9wb3J0YXRpbGVzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6ICJQcm9tb2Npb24gUG9ydMOhdGlsZXMiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJkcm9wRG93biI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJUZXh0VXJsIjogIlBvcnTDoXRpbGVzIgo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
