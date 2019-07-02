@@ -82,6 +82,12 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/index.jsx" timestamp="1562054424531">
+        <mark key="[" line="110" column="28" />
+        <mark key="]" line="110" column="30" />
+        <mark key="." line="110" column="30" />
+        <mark key="^" line="110" column="30" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/redux/epics/notificationEpics.js" timestamp="1561469408848">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -147,6 +153,13 @@
       <file name="$USER_HOME$/src/pccfront/coverage/lcov-report/vendor/connectif/pcc.Connectif.js.html" timestamp="1560942230416">
         <mark key="[" line="1967" column="22" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderAdvice.jsx" timestamp="1562054403414">
+        <mark key="'" line="191" column="14" />
+        <mark key="[" line="215" column="28" />
+        <mark key="]" line="209" column="25" />
+        <mark key="." line="209" column="24" />
+        <mark key="^" line="209" column="24" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/index.js" timestamp="1561970708204">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="6" column="22" />
@@ -196,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4560" column="19" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
-      <jump line="4572" column="17" filename="$USER_HOME$/src/cmsadmin/node_modules/react-test-renderer/cjs/react-test-renderer.development.js" />
       <jump line="36" column="22" filename="$USER_HOME$/src/cmsadmin/src/config/routes.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/cmsadmin/src/components/CreatePost/CreatePost.jsx" />
       <jump line="4" column="9" filename="$USER_HOME$/src/cmsadmin/src/constants/formFieldNames.js" />
@@ -296,61 +307,62 @@
       <jump line="88" column="0" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/userSideNav/index.jsx" />
       <jump line="12" column="18" filename="$USER_HOME$/src/ssr-proxy/package.json" />
       <jump line="42" column="37" filename="$USER_HOME$/src/ssr-proxy/package.json" />
+      <jump line="148" column="2" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderAdvice.jsx" />
+      <jump line="191" column="14" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderAdvice.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHV1aWQgaW5jbHVpZG8gZW4gbW9jayBjb21vIGFob3JhIHZpZW5lIGVuIGFwaSAu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHV1aWQgaW5jbHVpZG8gZW4gbW9jayBjb21vIGFob3JhIHZpZW5lIGVuIGFwaSAu</text>
+        <text>uttonClick</text>
       </register>
       <register name="/" type="4">
-        <text>story</text>
+        <text>onClose</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvbkFkdmljZUNsb3NlOiBQVC5mdW5jCg==</text>
+        <text encoding="base64">ICBvbkNsb3NlQWR2aWNlOiBQVC5mdW5jLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25BZHZpY2VDbG9zZSgpCg==</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbk5hbWU6ICdpY29ub19kZXN0YWNhZG9fMicsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ljb25OYW1lJzogJ2ljb25vX2Rlc3RhY2Fkb18zJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ291dHN0YW5kaW5nJzogdHJ1ZSwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb25BZHZpY2VDbG9zZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbk5hbWU6ICdpY29ub19kZXN0YWNhZG9fMicsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2ljb25OYW1lJzogJ2ljb25vX2Rlc3RhY2Fkb18zJywK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1haW5NZW51TW9jayBmcm9tICcuLi9tb2Nrcy9tYWluTWVudU1vY2snCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ291dHN0YW5kaW5nJzogdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ25vZGUtZmV0Y2gnOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
       </register>
     </registers>
     <search>
-      <last-search>story</last-search>
+      <last-search>onClose</last-search>
       <last-offset />
-      <last-pattern>story</last-pattern>
+      <last-pattern>onClose</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PA==</entry>
         <entry>UN</entry>
         <entry>thro</entry>
         <entry>service</entry>
@@ -370,6 +382,7 @@
         <entry>ifica</entry>
         <entry>links2</entry>
         <entry>story</entry>
+        <entry>onClose</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
