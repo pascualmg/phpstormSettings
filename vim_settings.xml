@@ -117,8 +117,10 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/TrustBar/TrustBar.test.jsx" timestamp="1562153120240">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/TrustBar/TrustBar.test.jsx" timestamp="1562153158415">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/routes/config.js" timestamp="1561970739323">
         <mark key="[" line="4" column="31" />
@@ -174,10 +176,10 @@
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562152858917">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+      <file name="/Dummy.txt" timestamp="1562156936934">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="http://localhost:8888/static/header.js" timestamp="1560987472632">
         <mark key="[" line="0" column="0" />
@@ -323,10 +325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Burger Button. ( HeaderBurger )</text>
+        <text encoding="base64">IGFkZGVkIEFuYWwuZmxhZ3MgdG8gVHJ1c3RlZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>Burger Button. ( HeaderBurger )</text>
+        <text encoding="base64">IGFkZGVkIEFuYWwuZmxhZ3MgdG8gVHJ1c3RlZCA=</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -334,32 +336,54 @@
       <register name="0" type="2">
         <text encoding="base64">ICBvbkNsb3NlQWR2aWNlOiBQVC5mdW5jLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLXdhLWV2ZW50LXZhbHVlPSJwdXRhcyIK</text>
+      <register name="1" type="4">
+        <text>[
+  {
+    iconName: 'wifi_signal_home',
+    urlText: 'Servicio de instalación',
+    url: 'www.foo.com/por-que-nuestro-pago-es-seguro',
+    rel: 'nofollow',
+    target: '_self'
+  },
+  {
+    iconName: 'youtube',
+    urlText: 'Entrega a domicilio',
+    url: 'www.pccomponentes.com/premium',
+    rel: 'nofollow',
+    target: '_self'
+  },
+  {
+    iconName: 'zoom_in',
+    urlText: 'Financiación a partir de 150€',
+    url: 'www.pccomponentes.com/premium',
+    rel: 'nofollow',
+    target: '_blank'
+  }
+];</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNsb3NlQWR2aWNlPXt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLXdhLWV2ZW50LXZhbHVlPSJwdXRhcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbkNsb3NlQWR2aWNlPXt9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25BZHZpY2VDbG9zZSgpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbk5hbWU6ICdpY29ub19kZXN0YWNhZG9fMicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25BZHZpY2VDbG9zZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ljb25OYW1lJzogJ2ljb25vX2Rlc3RhY2Fkb18zJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbk5hbWU6ICdpY29ub19kZXN0YWNhZG9fMicsCg==</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
