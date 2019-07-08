@@ -104,6 +104,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562568367101">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/header.js" timestamp="1562142329654">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="9" />
@@ -330,10 +336,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>Section</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Section</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -341,54 +347,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBvbkNsb3NlQWR2aWNlOiBQVC5mdW5jLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>[
-  {
-    iconName: 'wifi_signal_home',
-    urlText: 'Servicio de instalación',
-    url: 'www.foo.com/por-que-nuestro-pago-es-seguro',
-    rel: 'nofollow',
-    target: '_self'
-  },
-  {
-    iconName: 'youtube',
-    urlText: 'Entrega a domicilio',
-    url: 'www.pccomponentes.com/premium',
-    rel: 'nofollow',
-    target: '_self'
-  },
-  {
-    iconName: 'zoom_in',
-    urlText: 'Financiación a partir de 150€',
-    url: 'www.pccomponentes.com/premium',
-    rel: 'nofollow',
-    target: '_blank'
-  }
-];</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLXdhLWV2ZW50LXZhbHVlPSJwdXRhcyIK</text>
+        <text encoding="base64">YDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNsb3NlQWR2aWNlPXt9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogJHtwcm9wcyA9PiBwcm9wcy50aGVtZS50eXBvZ3JhcGh5LmJvZHkubm9ybWFsLnNpemV9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBhdXRvOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAbWVkaWEgKG1pbi13aWR0aDogJHtwcm9wcyA9PiBwcm9wcy50aGVtZS5sYXlvdXQuYnJlYWtwb2ludHMuc219KSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25BZHZpY2VDbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbk5hbWU6ICdpY29ub19kZXN0YWNhZG9fMicsCg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6ICR7cHJvcHMgPT4gcHJvcHMudGhlbWUudHlwb2dyYXBoeS5ib2R5LnNtYWxsLnNpemV9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
