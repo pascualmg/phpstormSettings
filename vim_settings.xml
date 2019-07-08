@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.test.jsx" timestamp="1560423649955">
         <mark key="[" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/index.js" timestamp="1562577886400">
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/index.js" timestamp="1562578134343">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="2" />
         <mark key="^" line="7" column="26" />
@@ -169,6 +169,12 @@
         <mark key="." line="39" column="41" />
         <mark key="^" line="39" column="41" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/TrustBar/index.jsx" timestamp="1562579184154">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="34" />
+        <mark key="^" line="57" column="34" />
+        <mark key="." line="57" column="34" />
+      </file>
       <file name="/users [stdb.db]" timestamp="1557589523169">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,10 +208,16 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Section/index.jsx" timestamp="1562579110262">
+        <mark key="[" line="143" column="20" />
+        <mark key="]" line="146" column="43" />
+        <mark key="^" line="146" column="43" />
+        <mark key="." line="146" column="43" />
+      </file>
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562578002410">
+      <file name="/Dummy.txt" timestamp="1562579320971">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -219,11 +231,11 @@
       <file name="webpack:///webpack/bootstrap" timestamp="1561470871163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderBurger.jsx" timestamp="1562151170014">
-        <mark key="[" line="104" column="46" />
-        <mark key="]" line="104" column="54" />
-        <mark key="." line="104" column="54" />
-        <mark key="^" line="104" column="54" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderBurger.jsx" timestamp="1562579235435">
+        <mark key="[" line="101" column="10" />
+        <mark key="]" line="105" column="54" />
+        <mark key="." line="105" column="54" />
+        <mark key="^" line="105" column="54" />
       </file>
       <file name="/fragment.php" timestamp="1558340599550">
         <mark key="[" line="0" column="0" />
@@ -357,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name refactor</text>
+        <text>added  data-wa-hit-type=&quot;event&quot; to HeaderBurger</text>
       </register>
       <register name="-" type="4">
-        <text>name refactor</text>
+        <text>added  data-wa-hit-type=&quot;event&quot; to HeaderBurger</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -375,25 +387,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGplc3QgZnJvbSAnamVzdCc7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbWdTcmM7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignaW1nU3JjIGluIGdldEltYWdlRmlsZW5hbWUgc2hvdWxkIGJlIHN0cmluZycpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGplc3QgZnJvbSAnamVzdCc7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBpbWdTcmM7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignaW1nU3JjIGluIGdldEltYWdlRmlsZW5hbWUgc2hvdWxkIGJlIHN0cmluZycpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnNpbXVsYXRlKCdjbGljaycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmZpcnN0KCkK</text>
+        <text encoding="base64">ICAgICAgLnNpbXVsYXRlKCdjbGljaycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmZpbmQoJ2RpdicpCg==</text>
+        <text encoding="base64">ICAgICAgLmZpcnN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
