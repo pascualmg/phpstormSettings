@@ -30,6 +30,12 @@
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.test.jsx" timestamp="1560423649955">
         <mark key="[" line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/index.js" timestamp="1562570366270">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderButtonGroup.jsx" timestamp="1560774937788">
         <mark key="[" line="80" column="38" />
       </file>
@@ -104,11 +110,8 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562568367101">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562570436618">
+        <mark key="[" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/header.js" timestamp="1562142329654">
         <mark key="[" line="28" column="8" />
@@ -215,6 +218,12 @@
         <mark key="]" line="2" column="37" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/HeaderBanner.stories.jsx" timestamp="1562570844828">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="45" />
       </file>
       <file name="webpack:///external &quot;pccfrontstorybook&quot;" timestamp="1561470872099">
         <mark key="[" line="0" column="0" />
@@ -336,43 +345,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Section</text>
+        <text>//cdn.pccomponentes.com/img/uploads/menu/ef1c8828macpro.jpg&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Section</text>
+        <text>//cdn.pccomponentes.com/img/uploads/menu/ef1c8828macpro.jpg&quot;</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvbkNsb3NlQWR2aWNlOiBQVC5mdW5jLAo=</text>
+        <text encoding="base64">ICAgICAgaW1nU3JjPSIvL2Nkbi5wY2NvbXBvbmVudGVzLmNvbS9pbWcvdXBsb2Fkcy9tZW51L2VmMWM4ODI4bWFjcHJvLmpwZyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGV4dD17aW5wdXREYXRhLnNlY3Rpb25zWzBdLnRleHR9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YDsK</text>
+        <text encoding="base64">ICAgICAgaWNvbj17aW5wdXREYXRhLnNlY3Rpb25zWzBdLmljb25OYW1lfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaWRTZWN0aW9uPXsxfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogJHtwcm9wcyA9PiBwcm9wcy50aGVtZS50eXBvZ3JhcGh5LmJvZHkubm9ybWFsLnNpemV9Owo=</text>
+        <text encoding="base64">Y29uc3QgaW5wdXREYXRhID0gbWFpbk1lbnVNb2NrLnNlY3Rpb25zOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZTsK</text>
+        <text encoding="base64">aW1wb3J0IG1haW5NZW51TW9jayBmcm9tICcuLi8uLi9vcmdhbmlzbXMvTWFpbk1lbnUvbW9jay9tYWluTWVudU1vY2snOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAbWVkaWEgKG1pbi13aWR0aDogJHtwcm9wcyA9PiBwcm9wcy50aGVtZS5sYXlvdXQuYnJlYWtwb2ludHMuc219KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC1hY3Rpb249ImJhbm5lciBjbGljayIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6ICR7cHJvcHMgPT4gcHJvcHMudGhlbWUudHlwb2dyYXBoeS5ib2R5LnNtYWxsLnNpemV9Owo=</text>
+        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC1jYXRlZ29yeT0ibWFpbiBtZW51Igo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
