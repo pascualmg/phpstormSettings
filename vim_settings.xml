@@ -30,11 +30,11 @@
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.test.jsx" timestamp="1560423649955">
         <mark key="[" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/index.js" timestamp="1562570366270">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/index.js" timestamp="1562577886400">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="2" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderButtonGroup.jsx" timestamp="1560774937788">
         <mark key="[" line="80" column="38" />
@@ -110,8 +110,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562570436618">
-        <mark key="[" line="0" column="26" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562577160407">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="32" column="19" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/header.js" timestamp="1562142329654">
         <mark key="[" line="28" column="8" />
@@ -124,6 +127,12 @@
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Overlay/Overlay.stories.jsx" timestamp="1562151292807">
         <mark key="[" line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/tools.test.js" timestamp="1562577638529">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/tools/consolador.js" timestamp="1561108415168">
         <mark key="[" line="1" column="29" />
@@ -181,6 +190,12 @@
         <mark key="." line="229" column="24" />
         <mark key="^" line="229" column="24" />
       </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/Section.test.jsx" timestamp="1562577132094">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/controller/mock/index.js" timestamp="1561970708204">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="6" column="22" />
@@ -190,10 +205,10 @@
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562228538463">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1562578002410">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="http://localhost:8888/static/header.js" timestamp="1560987472632">
         <mark key="[" line="0" column="0" />
@@ -219,17 +234,14 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/HeaderBanner.stories.jsx" timestamp="1562570844828">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="45" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/HeaderBanner.stories.jsx" timestamp="1562577111649">
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="9" column="43" />
         <mark key="^" line="9" column="45" />
-        <mark key="." line="9" column="45" />
+        <mark key="." line="9" column="43" />
       </file>
       <file name="webpack:///external &quot;pccfrontstorybook&quot;" timestamp="1561470872099">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/ssr-proxy/package.json" timestamp="1562051492723">
-        <mark key="'" line="42" column="37" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/tools/getJson.js" timestamp="1561620530383">
         <mark key="[" line="0" column="9" />
@@ -345,43 +357,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//cdn.pccomponentes.com/img/uploads/menu/ef1c8828macpro.jpg&quot;</text>
+        <text>name refactor</text>
       </register>
       <register name="-" type="4">
-        <text>//cdn.pccomponentes.com/img/uploads/menu/ef1c8828macpro.jpg&quot;</text>
+        <text>name refactor</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW1nU3JjPSIvL2Nkbi5wY2NvbXBvbmVudGVzLmNvbS9pbWcvdXBsb2Fkcy9tZW51L2VmMWM4ODI4bWFjcHJvLmpwZyIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBpdCgnd29ya3Mgd2l0aCB1cmwgJywgKCkgPT4gewogICAgY29uc3Qgc3JjID0gJy8vY2RuLnBjY29tcG9uZW50ZXMuY29tL2ltZy91cGxvYWRzL21lbnUvZWYxYzg4MjhtYWNwcm8uanBnJzsKICAgIGNvbnN0IGV4cGVjdGVkID0gJ2VmMWM4ODI4bWFjcHJvLmpwZyc7CiAgICBleHBlY3QoZ2V0SW1hZ2VGaWxlbmFtZShzcmMpKS50b0JlKGV4cGVjdGVkKTsKICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGV4dD17aW5wdXREYXRhLnNlY3Rpb25zWzBdLnRleHR9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWNvbj17aW5wdXREYXRhLnNlY3Rpb25zWzBdLmljb25OYW1lfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWRTZWN0aW9uPXsxfQo=</text>
+        <text encoding="base64">aW1wb3J0IGplc3QgZnJvbSAnamVzdCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgaW5wdXREYXRhID0gbWFpbk1lbnVNb2NrLnNlY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbWdTcmM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1haW5NZW51TW9jayBmcm9tICcuLi8uLi9vcmdhbmlzbXMvTWFpbk1lbnUvbW9jay9tYWluTWVudU1vY2snOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignaW1nU3JjIGluIGdldEltYWdlRmlsZW5hbWUgc2hvdWxkIGJlIHN0cmluZycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgLnNpbXVsYXRlKCdjbGljaycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC1hY3Rpb249ImJhbm5lciBjbGljayIK</text>
+        <text encoding="base64">ICAgICAgLmZpcnN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC1jYXRlZ29yeT0ibWFpbiBtZW51Igo=</text>
+        <text encoding="base64">ICAgICAgLmZpbmQoJ2RpdicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
