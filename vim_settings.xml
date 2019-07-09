@@ -160,6 +160,12 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1562667044184">
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/tools.test.js" timestamp="1562577638529">
         <mark key="[" line="10" column="37" />
         <mark key="]" line="10" column="37" />
@@ -254,7 +260,7 @@
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562663733876">
+      <file name="/Dummy.txt" timestamp="1562667059577">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -409,7 +415,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS1jb3NhPSJhbGdvIgo=</text>
+        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
       </register>
       <register name="-" type="4">
         <text>idSubsection now is not needed on HeaderBanner</text>
@@ -421,31 +427,31 @@
         <text encoding="base64">ICAgICFpc0VtcHR5KGNhdGVnb3J5KSAmJgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS1jb3NhPSJhbGdvIgo=</text>
+        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS1jb3NhPSJhbGdvIgo=</text>
+        <text encoding="base64">eyUgaWYoYXBwLnJlcXVlc3QubG9jYWxlID09ICdwdCcpICV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZFN1YnNlY3Rpb246IFBULm51bWJlci5pc1JlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgZGF0YS1jb3NhPSJhbGdvIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWRTdWJzZWN0aW9uPXs1OH0K</text>
+        <text encoding="base64">ICAgICAgZGF0YS1jb3NhPSJhbGdvIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHZhbHVlICwgZ29vZ2xlIEFuYWx5dGljcwo=</text>
+        <text encoding="base64">ICBpZFN1YnNlY3Rpb246IFBULm51bWJlci5pc1JlcXVpcmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWx1ZTogJycK</text>
+        <text encoding="base64">ICAgICAgaWRTdWJzZWN0aW9uPXs1OH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWx1ZTogUFQuc3RyaW5nCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHZhbHVlICwgZ29vZ2xlIEFuYWx5dGljcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT17dmFsdWV9Cg==</text>
+        <text encoding="base64">ICB2YWx1ZTogJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICFpc0VtcHR5KHZhbHVlKTsK</text>
+        <text encoding="base64">ICB2YWx1ZTogUFQuc3RyaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
