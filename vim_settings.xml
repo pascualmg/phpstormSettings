@@ -133,11 +133,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562577160407">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="19" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="32" column="19" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562660398470">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/header.js" timestamp="1562142329654">
         <mark key="[" line="28" column="8" />
@@ -276,11 +276,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/HeaderBanner.stories.jsx" timestamp="1562577111649">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="43" />
-        <mark key="^" line="9" column="45" />
-        <mark key="." line="9" column="43" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/HeaderBanner.stories.jsx" timestamp="1562660465368">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
       </file>
       <file name="webpack:///external &quot;pccfrontstorybook&quot;" timestamp="1561470872099">
         <mark key="[" line="0" column="0" />
@@ -404,11 +404,11 @@
       <jump line="191" column="14" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderAdvice.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG92ZXJsYXkgcGFyYW1ldHJpemFkbyBjb24gZGF0b3MgZ29vZ2xlIGFuYWx5dGljcy4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWRTdWJzZWN0aW9uPXs1OH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG92ZXJsYXkgcGFyYW1ldHJpemFkbyBjb24gZGF0b3MgZ29vZ2xlIGFuYWx5dGljcy4=</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -417,31 +417,31 @@
         <text encoding="base64">ICAgICFpc0VtcHR5KGNhdGVnb3J5KSAmJgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHZhbHVlICwgZ29vZ2xlIEFuYWx5dGljcwo=</text>
+        <text encoding="base64">ICAgICAgaWRTdWJzZWN0aW9uPXs1OH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWx1ZTogJycK</text>
+        <text encoding="base64">ICogQHBhcmFtIHZhbHVlICwgZ29vZ2xlIEFuYWx5dGljcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWx1ZTogUFQuc3RyaW5nCg==</text>
+        <text encoding="base64">ICB2YWx1ZTogJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT17dmFsdWV9Cg==</text>
+        <text encoding="base64">ICB2YWx1ZTogUFQuc3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICFpc0VtcHR5KHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT17dmFsdWV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWU9e3RleHQoJ3ZhbHVlJywgJ25vdGhpbmcnKX0K</text>
+        <text encoding="base64">ICAgICFpc0VtcHR5KHZhbHVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmFsdWU9e3RleHQoJ3ZhbHVlJywgJ25vdGhpbmcnKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICFpc0VtcHR5KGNhdGVnb3J5KSAmJgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYXRlZ29yeTogJycsCg==</text>
+        <text encoding="base64">ICAgICFpc0VtcHR5KGNhdGVnb3J5KSAmJgo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
