@@ -42,11 +42,8 @@
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.test.jsx" timestamp="1560423649955">
         <mark key="[" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/index.js" timestamp="1562578134343">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="2" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="11" column="2" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/index.js" timestamp="1562757527564">
+        <mark key="[" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/Overlay/Overlay.test.jsx" timestamp="1562589973710">
         <mark key="[" line="5" column="25" />
@@ -138,11 +135,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562757071737">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="35" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/index.jsx" timestamp="1562757259586">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="34" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/middleware/header.js" timestamp="1562142329654">
         <mark key="[" line="28" column="8" />
@@ -176,11 +173,11 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/tools.test.js" timestamp="1562577638529">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="10" column="36" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/tools.test.js" timestamp="1562757658524">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="52" />
+        <mark key="." line="15" column="52" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/tools/consolador.js" timestamp="1561108415168">
         <mark key="[" line="1" column="29" />
@@ -275,10 +272,10 @@
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562750690494">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1562757755629">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="http://localhost:8888/static/header.js" timestamp="1560987472632">
         <mark key="[" line="0" column="0" />
@@ -429,44 +426,54 @@
       <jump line="191" column="14" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderAdvice.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT0iIgo=</text>
+      <register name="&quot;" type="4">
+        <text>Merge branch 'develop' into feature/BT-941-establecer-los-atributos-analiticos
+
+# Conflicts:
+#	src/components/organisms/Header/HeaderBurger.jsx
+#	src/components/organisms/Header/__snapshots__/Header.test.jsx.snap
+#	src/components/organisms/MainMenu/__snapshots__/MainMenu.test.jsx.snap</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e2Ake2lkfSAke2dldEltYWdlRmlsZW5hbWUoaW1nU3JjKX0gPCAke2lkU2VjdGlvbn1gfQ==</text>
+        <text>';</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpZiBhcHAucmVxdWVzdC5hdHRyaWJ1dGVzLmdldCgnX3JvdXRlJykgIT0gJ3BjY193ZWJfYmxhY2tfZnJpZGF5JyAlfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGl0KCdmYWlscyBpZiB1cmwgaXMgbm90IHN0cmluZyAnLCAoKSA9PiB7CiAgICBjb25zdCBzcmMgPSB7fTsKICAgIGNvbnN0IGV4cGVjdGVkID0gJ25vX2Jhbm5lcl9pbWFnZSc7CiAgICBleHBlY3QoZ2V0SW1hZ2VGaWxlbmFtZShzcmMpKS50b0JlKGV4cGVjdGVkKTsKICB9KTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT0iIgo=</text>
+      <register name="1" type="4">
+        <text>Merge branch 'develop' into feature/BT-941-establecer-los-atributos-analiticos
+
+# Conflicts:
+#	src/components/organisms/Header/HeaderBurger.jsx
+#	src/components/organisms/Header/__snapshots__/Header.test.jsx.snap
+#	src/components/organisms/MainMenu/__snapshots__/MainMenu.test.jsx.snap</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNyYyA9IHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZWxzZSAlfQo=</text>
+        <text encoding="base64">ICBCVC05ODMtZXN0YWJsZWNlci1sb3MtYXRyaWJ1dG9zLWFuYWxpdGljb3MK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9ImxhenlPd2wgaW1nLWZsdWlkIiBkYXRhLXNyYz0ie3sgaW1hZ2UgfCBwY2NfdGh1bWIoeyB3aWR0aCA6IDg1LCBoZWlnaHQgOiA4NSwgdHlwZSA6ICd3JyB9KSB9fSIgYWx0PSJ7eyBhcnRpY2xlLm5hbWUgfX0iPgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGNvbnN0IGxhc3RTbGFzaEluZGV4ID0gaW1nU3JjLmxhc3RJbmRleE9mKCcvJyk7CiAgcmV0dXJuIGltZ1NyYy5zdWJzdHIobGFzdFNsYXNoSW5kZXggKyAxKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgaWYobG9jYWxlID09ICdlcycpICV9Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT0iIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbHNlICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZWxzZSAlfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0iaW1nLWZsdWlkIGxhenlPd2wiIGRhdGEtc3JjPSJ7eyBhcnRpY2xlLm1haW5JbWFnZSB8IHBjY190aHVtYih7IHdpZHRoIDogODUsIGhlaWdodCA6IDg1LCB0eXBlIDogJ3cnIH0pIH19IiBhbHQ9Int7IGFydGljbGUubmFtZSB9fSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9ImxhenlPd2wgaW1nLWZsdWlkIiBkYXRhLXNyYz0ie3sgaW1hZ2UgfCBwY2NfdGh1bWIoeyB3aWR0aCA6IDg1LCBoZWlnaHQgOiA4NSwgdHlwZSA6ICd3JyB9KSB9fSIgYWx0PSJ7eyBhcnRpY2xlLm5hbWUgfX0iPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBpZihsb2NhbGUgPT0gJ2VzJykgJX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgaWYobG9jYWxlID09ICdlcycpICV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
