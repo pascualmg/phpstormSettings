@@ -108,6 +108,11 @@
       <file name="$USER_HOME$/src/groupings/public/js/custom/constants/routing.js" timestamp="1559032687721">
         <mark key="[" line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/header.js" timestamp="1562829755790">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/redux/actions/notificationActions.js" timestamp="1560934494130">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="35" />
@@ -253,7 +258,7 @@
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562761077617">
+      <file name="/Dummy.txt" timestamp="1562829537585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -293,6 +298,11 @@
         <mark key="]" line="11" column="17" />
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/ssr-proxy/package.json" timestamp="1562829026925">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/tools/getJson.js" timestamp="1561620530383">
         <mark key="[" line="0" column="9" />
@@ -407,16 +417,11 @@
       <jump line="191" column="14" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderAdvice.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Merge branch 'develop' into feature/BT-941-establecer-los-atributos-analiticos
-
-# Conflicts:
-#	src/components/organisms/Header/HeaderBurger.jsx
-#	src/components/organisms/Header/__snapshots__/Header.test.jsx.snap
-#	src/components/organisms/MainMenu/__snapshots__/MainMenu.test.jsx.snap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>';</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -424,7 +429,10 @@
       <register name="0" type="4">
         <text encoding="base64">IGl0KCdmYWlscyBpZiB1cmwgaXMgbm90IHN0cmluZyAnLCAoKSA9PiB7CiAgICBjb25zdCBzcmMgPSB7fTsKICAgIGNvbnN0IGV4cGVjdGVkID0gJ25vX2Jhbm5lcl9pbWFnZSc7CiAgICBleHBlY3QoZ2V0SW1hZ2VGaWxlbmFtZShzcmMpKS50b0JlKGV4cGVjdGVkKTsKICB9KTs=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>Merge branch 'develop' into feature/BT-941-establecer-los-atributos-analiticos
 
 # Conflicts:
@@ -432,29 +440,26 @@
 #	src/components/organisms/Header/__snapshots__/Header.test.jsx.snap
 #	src/components/organisms/MainMenu/__snapshots__/MainMenu.test.jsx.snap</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHNyYyA9IHt9Owo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBCVC05ODMtZXN0YWJsZWNlci1sb3MtYXRyaWJ1dG9zLWFuYWxpdGljb3MK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGNvbnN0IGxhc3RTbGFzaEluZGV4ID0gaW1nU3JjLmxhc3RJbmRleE9mKCcvJyk7CiAgcmV0dXJuIGltZ1NyYy5zdWJzdHIobGFzdFNsYXNoSW5kZXggKyAxKTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT0iIgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZWxzZSAlfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9ImxhenlPd2wgaW1nLWZsdWlkIiBkYXRhLXNyYz0ie3sgaW1hZ2UgfCBwY2NfdGh1bWIoeyB3aWR0aCA6IDg1LCBoZWlnaHQgOiA4NSwgdHlwZSA6ICd3JyB9KSB9fSIgYWx0PSJ7eyBhcnRpY2xlLm5hbWUgfX0iPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgaWYobG9jYWxlID09ICdlcycpICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9ImxhenlPd2wgaW1nLWZsdWlkIiBkYXRhLXNyYz0ie3sgaW1hZ2UgfCBwY2NfdGh1bWIoeyB3aWR0aCA6IDg1LCBoZWlnaHQgOiA4NSwgdHlwZSA6ICd3JyB9KSB9fSIgYWx0PSJ7eyBhcnRpY2xlLm5hbWUgfX0iPgo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
