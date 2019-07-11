@@ -308,6 +308,11 @@
       <file name="$USER_HOME$/src/ssr-proxy/src/tools/getJson.js" timestamp="1561620530383">
         <mark key="[" line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1562838554904">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/redux/reducers/headerNotificationReducers.js" timestamp="1560846954431">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
@@ -419,10 +424,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Sidenavvv</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -431,9 +436,15 @@
         <text encoding="base64">IGl0KCdmYWlscyBpZiB1cmwgaXMgbm90IHN0cmluZyAnLCAoKSA9PiB7CiAgICBjb25zdCBzcmMgPSB7fTsKICAgIGNvbnN0IGV4cGVjdGVkID0gJ25vX2Jhbm5lcl9pbWFnZSc7CiAgICBleHBlY3QoZ2V0SW1hZ2VGaWxlbmFtZShzcmMpKS50b0JlKGV4cGVjdGVkKTsKICB9KTs=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Byb2Nlc3MuZW52LlNJREVOQVZfREFUQV9VUkwnLCBwcm9jZXNzLmVudi5TSURFTkFWX0RBVEFfVVJMKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>Merge branch 'develop' into feature/BT-941-establecer-los-atributos-analiticos
 
 # Conflicts:
@@ -441,26 +452,20 @@
 #	src/components/organisms/Header/__snapshots__/Header.test.jsx.snap
 #	src/components/organisms/MainMenu/__snapshots__/MainMenu.test.jsx.snap</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHNyYyA9IHt9Owo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBCVC05ODMtZXN0YWJsZWNlci1sb3MtYXRyaWJ1dG9zLWFuYWxpdGljb3MK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGNvbnN0IGxhc3RTbGFzaEluZGV4ID0gaW1nU3JjLmxhc3RJbmRleE9mKCcvJyk7CiAgcmV0dXJuIGltZ1NyYy5zdWJzdHIobGFzdFNsYXNoSW5kZXggKyAxKTs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT0iIgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZWxzZSAlfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9ImxhenlPd2wgaW1nLWZsdWlkIiBkYXRhLXNyYz0ie3sgaW1hZ2UgfCBwY2NfdGh1bWIoeyB3aWR0aCA6IDg1LCBoZWlnaHQgOiA4NSwgdHlwZSA6ICd3JyB9KSB9fSIgYWx0PSJ7eyBhcnRpY2xlLm5hbWUgfX0iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
