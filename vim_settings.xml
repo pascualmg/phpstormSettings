@@ -9,6 +9,12 @@
       <file name="/fragment.js" timestamp="1561470921935">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/base.html.twig" timestamp="1563175209926">
+        <mark key="[" line="77" column="34" />
+        <mark key="]" line="77" column="34" />
+        <mark key="." line="77" column="34" />
+        <mark key="^" line="77" column="32" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/microdata/microdata-product.json-ld.twig" timestamp="1560241602472">
         <mark key="[" line="32" column="0" />
       </file>
@@ -53,8 +59,11 @@
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderButtonGroup.jsx" timestamp="1560774937788">
         <mark key="[" line="80" column="38" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/bing/bing.js" timestamp="1563172239446">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/bing/bing.js" timestamp="1563175697125">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/TrustBar/TrustBar.stories.jsx" timestamp="1562223500887">
         <mark key="[" line="6" column="100" />
@@ -166,7 +175,7 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1562743266388">
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/base/footjs.html.twig" timestamp="1563175199643">
         <mark key="^" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/HeaderBanner/tools/tools.test.js" timestamp="1562757658524">
@@ -426,11 +435,11 @@
       <jump line="191" column="14" filename="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderAdvice.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Sidenavvv</text>
+        <text>&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -439,15 +448,18 @@
         <text encoding="base64">IGl0KCdmYWlscyBpZiB1cmwgaXMgbm90IHN0cmluZyAnLCAoKSA9PiB7CiAgICBjb25zdCBzcmMgPSB7fTsKICAgIGNvbnN0IGV4cGVjdGVkID0gJ25vX2Jhbm5lcl9pbWFnZSc7CiAgICBleHBlY3QoZ2V0SW1hZ2VGaWxlbmFtZShzcmMpKS50b0JlKGV4cGVjdGVkKTsKICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NhcmdhbmRvIGVsIHNjcmlwdCBkZSBiaW5nIGxvY2FsJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Byb2Nlc3MuZW52LlNJREVOQVZfREFUQV9VUkwnLCBwcm9jZXNzLmVudi5TSURFTkFWX0RBVEFfVVJMKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Byb2Nlc3MuZW52LlNJREVOQVZfREFUQV9VUkwnLCBwcm9jZXNzLmVudi5TSURFTkFWX0RBVEFfVVJMKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Merge branch 'develop' into feature/BT-941-establecer-los-atributos-analiticos
 
 # Conflicts:
@@ -455,20 +467,17 @@
 #	src/components/organisms/Header/__snapshots__/Header.test.jsx.snap
 #	src/components/organisms/MainMenu/__snapshots__/MainMenu.test.jsx.snap</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHNyYyA9IHt9Owo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBCVC05ODMtZXN0YWJsZWNlci1sb3MtYXRyaWJ1dG9zLWFuYWxpdGljb3MK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGNvbnN0IGxhc3RTbGFzaEluZGV4ID0gaW1nU3JjLmxhc3RJbmRleE9mKCcvJyk7CiAgcmV0dXJuIGltZ1NyYy5zdWJzdHIobGFzdFNsYXNoSW5kZXggKyAxKTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT0iIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT0iIgo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
