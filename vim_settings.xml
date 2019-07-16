@@ -50,12 +50,12 @@
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/index.jsx" timestamp="1563259463621">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/index.jsx" timestamp="1563260583710">
+        <mark key="'" line="22" column="31" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.test.jsx" timestamp="1560423649955">
         <mark key="[" line="8" column="22" />
@@ -67,6 +67,10 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/DotNotification/index.jsx" timestamp="1563260540569">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/Header/HeaderButtonGroup.jsx" timestamp="1560774937788">
         <mark key="[" line="80" column="38" />
@@ -310,11 +314,10 @@
       <file name="$USER_HOME$/src/ssr-proxy/src/tools/getJson.js" timestamp="1561620530383">
         <mark key="[" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/CheckBox.stories.jsx" timestamp="1563197661408">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="51" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/CheckBox.stories.jsx" timestamp="1563260318425">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1562838554904">
         <mark key="[" line="58" column="0" />
@@ -329,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Mappings/Common/Base/TwigBase.php" />
       <jump line="20" column="13" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/pcblog/templates/pcblog-default.html.twig" />
       <jump line="51" column="28" filename="$USER_HOME$/src/cmsadmin/src/components/PostsList/PostsList.jsx" />
       <jump line="17" column="21" filename="$USER_HOME$/src/cmsadmin/package.json" />
@@ -429,10 +431,11 @@
       <jump line="467" column="0" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/bing/bing.js" />
       <jump line="9" column="28" filename="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/index.jsx" />
       <jump line="5" column="0" filename="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/index.jsx" />
+      <jump line="20" column="31" filename="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -440,35 +443,35 @@
       <register name="/" type="4">
         <text>onClose</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGl0KCdmYWlscyBpZiB1cmwgaXMgbm90IHN0cmluZyAnLCAoKSA9PiB7CiAgICBjb25zdCBzcmMgPSB7fTsKICAgIGNvbnN0IGV4cGVjdGVkID0gJ25vX2Jhbm5lcl9pbWFnZSc7CiAgICBleHBlY3QoZ2V0SW1hZ2VGaWxlbmFtZShzcmMpKS50b0JlKGV4cGVjdGVkKTsKICB9KTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IFBUIGZyb20gJ3Byb3AtdHlwZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGUudGFyZ2V0LmNoZWNrZWQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoZWNrZWQ9e3RoaXMuc3RhdGUuY2hlY2tlZH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAuYWRkV2l0aEpTWCgnd2l0aCBvdXRsaW5lJywgKCkgPT4gPENoZWNrYm94PkNoZWNrYm94PC9CYWRnZT4pOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGV4dD0iY29tcGFyYXIiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIGUudGFyZ2V0LmNoZWNrZWQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">YDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNoZWNrZWQ9e3RoaXMuc3RhdGUuY2hlY2tlZH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogMXB4Owo=</text>
+        <text encoding="base64">ICAuYWRkV2l0aEpTWCgnd2l0aCBvdXRsaW5lJywgKCkgPT4gPENoZWNrYm94PkNoZWNrYm94PC9CYWRnZT4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aGl0ZS1zcGFjZTogbm93cmFwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
+        <text encoding="base64">YDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
+        <text encoding="base64">ICB3aWR0aDogMXB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
