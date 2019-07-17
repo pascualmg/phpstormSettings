@@ -39,6 +39,7 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/public/raw/js/vendor/connectif/pcc.Connectif.js" timestamp="1560942288517">
         <mark key="[" line="569" column="33" />
       </file>
+      <file name="$USER_HOME$/src/pccadminstorybook/src/stories/Checkbox/index.jsx" timestamp="1563347384061" />
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/MainMenu/mock/mainMenuMock.js" timestamp="1562581826009">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="28" column="7" />
@@ -51,11 +52,11 @@
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/index.jsx" timestamp="1563347281996">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="46" column="7" />
-        <mark key="^" line="46" column="7" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/index.jsx" timestamp="1563347960735">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="21" column="17" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/UserSideNav/UserSideNav.test.jsx" timestamp="1560423649955">
         <mark key="[" line="8" column="22" />
@@ -315,11 +316,11 @@
       <file name="$USER_HOME$/src/ssr-proxy/src/tools/getJson.js" timestamp="1561620530383">
         <mark key="[" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/CheckBox.stories.jsx" timestamp="1563346327538">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="36" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="15" column="29" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/atoms/CheckBox/CheckBox.stories.jsx" timestamp="1563347466522">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/sidenav.js" timestamp="1562838554904">
         <mark key="[" line="58" column="0" />
@@ -437,10 +438,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Styled</text>
+        <text encoding="base64">ZmlsbD0iJHtwcm9wcyA9PgogICAgICAgIHByb3BzLnRoZW1lLmNvbG9ycy5ncmF5LnJlcGxhY2UoCiAgICAgICAgICAnIycsCiAgICAgICAgICAnJTIzJwogICAgICAgICl9Ig==</text>
       </register>
       <register name="-" type="4">
-        <text>Styled</text>
+        <text encoding="base64">JHtwcm9wcyA9PiBwcm9wcy50aGVtZS5jb2xvcnN9Ow==</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -448,32 +449,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICBpdCgnaXQgd29ya3MgYXMgZGVmYXVsdCB3aXRob3V0IHRleHQnLCAoKSA9PiB7CiAgICBjb25zdCBjb21wb25lbnQgPSByZW5kZXIoCiAgICAgIDxUaGVtZVByb3ZpZGVyIHRoZW1lPXt0aGVtZX0+CiAgICAgICAgPD4KICAgICAgICAgIDxHbG9iYWxTdHlsZSAvPgogICAgICAgICAgPENoZWNrYm94IC8+CiAgICAgICAgPC8+CiAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgICk7CiAgICBleHBlY3QoY29tcG9uZW50KS50b01hdGNoU25hcHNob3QoKTsKICB9KTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBjaGVja2VkPXtpc0NoZWNrZWR9IC8+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZmlsbD0iJHtwcm9wcyA9PgogICAgICAgIHByb3BzLnRoZW1lLmNvbG9ycy5ncmF5LnJlcGxhY2UoCiAgICAgICAgICAnIycsCiAgICAgICAgICAnJTIzJwogICAgICAgICl9Ig==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgQ2hlY2tCb3ggPSBwcm9wcyA9Pgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGZpbGw9IiR7cHJvcHMgPT4KICAgICAgcHJvcHMudGhlbWUuY29sb3JzLm1haW4ucmVwbGFjZSgKICAgICAgICAnIycsCiAgICAgICAgJyUyMycKICAgICAgKX0iIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPENoZWNrQm94IGNoZWNrZWQ9e2lzQ2hlY2tlZH0gLz4K</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBjaGVja2VkPXtpc0NoZWNrZWR9IC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9fQo=</text>
+        <text encoding="base64">Y29uc3QgQ2hlY2tCb3ggPSBwcm9wcyA9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjaGFuZ2VkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgPENoZWNrQm94IGNoZWNrZWQ9e2lzQ2hlY2tlZH0gLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNoYW5nZT17KCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZScsIGUpOy8vVE9ETzogYm9ycmFtZS4K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjaGFuZ2VkJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbywgKTsvL1RPRE86IGJvcnJhbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICBvbkNoYW5nZT17KCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uQ2hlY2tlZENoYW5nZShlKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZScsIGUpOy8vVE9ETzogYm9ycmFtZS4K</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
