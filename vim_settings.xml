@@ -23,11 +23,11 @@
       <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/microdata/microdata-product.json-ld.twig" timestamp="1560241602472">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Card/index.jsx" timestamp="1563535533523">
-        <mark key="[" line="124" column="20" />
-        <mark key="]" line="124" column="21" />
-        <mark key="." line="124" column="21" />
-        <mark key="^" line="128" column="34" />
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Card/index.jsx" timestamp="1563539151695">
+        <mark key="[" line="164" column="24" />
+        <mark key="]" line="165" column="9" />
+        <mark key="." line="165" column="9" />
+        <mark key="^" line="165" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/src/components/organisms/MainMenu/MainMenu.stories.jsx" timestamp="1562580629403">
         <mark key="[" line="6" column="45" />
@@ -149,12 +149,17 @@
         <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/src/pccfrontstorybook/package.json" timestamp="1563528479345" />
-      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Card/Card.stories.jsx" timestamp="1563534602954">
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Card/Card.stories.jsx" timestamp="1563538207130">
         <mark key="'" line="93" column="10" />
         <mark key="[" line="83" column="13" />
         <mark key="]" line="84" column="0" />
         <mark key="^" line="84" column="13" />
         <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontstorybook/src/components/molecules/Card/Card.test.jsx" timestamp="1563538223383">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/ssr-proxy/src/client/redux/epics/notificationEpics.js" timestamp="1561469408848">
         <mark key="[" line="12" column="0" />
@@ -278,10 +283,10 @@
       <file name="/dummy.sql" timestamp="1556792732162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563534940287">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1563539276526">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="http://localhost:8888/static/header.js" timestamp="1560987472632">
         <mark key="[" line="0" column="0" />
@@ -455,10 +460,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>compar</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>compar</text>
       </register>
       <register name="/" type="4">
         <text>onClose</text>
@@ -467,31 +472,31 @@
         <text encoding="base64">ICAgIGNhcmRUeXBlLmhvcml6b250YWxGdWxsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXdlLWhpdC10eXBlPeKAnWV2ZW504oCdCg==</text>
+        <text encoding="base64">ICAgICAgICB9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbkNsaWNrPXsoZSkgPT4ge2NvbnNvbGUubG9nKCdlJywgZSk7Ly9UT0RPOiBib3JyYW1lLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLXdlLWhpdC10eXBlPSJldmVudCIK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpbnkK</text>
+        <text encoding="base64">ICAgICAgPGRpdgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBkYXRhLXdhLWhpdC10eXBlPSJldmVudCIKICAgICAgICBkYXRhLXdhLWV2ZW50LWNhdGVnb3J5PSJlbmhhbmNlZCBjb21tZXJjZSIKICAgICAgICBkYXRhLXdhLWV2ZW50LWFjdGlvbj0icHJvZHVjdCBjb21wYXJlIgogICAgICAgIGRhdGEtd2EtZXZlbnQtbGFiZWw9e3R5cGV9CiAgICAgICAgZGF0YS13YS1ldmVudC12YWx1ZT17aWRBcnRpY2xlfQogICAgICA+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBzdGFuZGFyZAo=</text>
+        <text encoding="base64">aW1wb3J0IENvbCBmcm9tICcuLi8uLi9hdG9tcy9Db2wnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNhcmRUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXdlLWhpdC10eXBlPeKAnWV2ZW504oCdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZ1bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aW55LAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLXdlLWhpdC10eXBlPSJldmVudCIK</text>
       </register>
       <register name=":" type="4">
         <text>!cp .env.dist .env</text>
