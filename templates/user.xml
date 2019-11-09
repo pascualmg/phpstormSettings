@@ -70,4 +70,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="ll" value="( $item$ ) =&gt; {&#10;    $END$&#10;    return $item$;&#10;}" shortcut="SPACE" description="una lamda!!! con parámetro" toReformat="true" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
