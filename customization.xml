@@ -6,12 +6,18 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RefactoringMenu" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="MainMenu" is_group="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Debugger" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="ToggleDistractionFreeMode" icon="$USER_HOME$/Downloads/yinyan.svg" />
+    <action id="ToggleDistractionFreeMode" icon="$USER_HOME$/Downloads/bender.png" />
   </component>
 </application>
