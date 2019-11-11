@@ -77,6 +77,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
     <notifications>
