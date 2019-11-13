@@ -17,6 +17,8 @@
     <notification groupId="FTP/SFTP Connectivity: Remote Host" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
     <notification groupId="Indexing" shouldLog="false" shouldReadAloud="true" />
     <notification groupId="JBA Cloud Config" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="JSON Schema" />
+    <notification groupId="Key Promoter X" shouldLog="false" shouldReadAloud="true" />
     <notification groupId="Material Theme Notifications_UPDATE" displayType="STICKY_BALLOON" shouldReadAloud="true" />
     <notification groupId="Node.js interpreter" shouldReadAloud="true" />
     <notification groupId="PHP Interpreters" shouldReadAloud="true" />
@@ -36,6 +38,6 @@
     <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
     <notification groupId="Vcs Notifications" shouldReadAloud="true" />
     <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldReadAloud="true" />
-    <notification groupId="Webpack" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Webpack" shouldReadAloud="true" />
   </component>
 </application>
