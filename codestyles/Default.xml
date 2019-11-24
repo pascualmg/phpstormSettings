@@ -13,6 +13,9 @@
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="BLACKLIST_IMPORTS" value=",node_modules/**/*,@angular/material,@angular/material/typings/**" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="TAB_SIZE" value="2" />
