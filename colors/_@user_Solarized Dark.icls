@@ -1,10 +1,10 @@
 <scheme name="_@user_Solarized Dark" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-06-29T00:11:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-11-26T10:31:11</property>
+    <property name="modified">2019-12-20T10:58:56</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Hack" />
@@ -1552,7 +1552,7 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="2b36" />
@@ -1563,7 +1563,7 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
