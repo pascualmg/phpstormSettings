@@ -3,15 +3,18 @@
     <extensionMap>
       <mapping ext="snap" type="JSX Harmony" />
       <removed_mapping ext="snap" approved="true" type="Jest Snapshot" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="Link2A.js" type="PLAIN_TEXT" />
       <mapping pattern="consolador.js" type="PLAIN_TEXT" />
       <mapping pattern=".node-xmlhttprequest-sync-2695" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern=".node-xmlhttprequest-sync-17543" type="PLAIN_TEXT" />
       <mapping ext="export" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="ipService" type="TypeScript" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="ant" approved="true" type="XML" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />

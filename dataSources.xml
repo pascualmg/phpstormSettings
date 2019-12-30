@@ -1,14 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="desarrollo" uuid="9e52b6aa-0940-4760-b576-d8d2966c860d">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.50.144:3306</jdbc-url>
-      <driver-properties>
-        <property name="serverTimezone" value="UTC" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="mysql.web.dev.pccom.interno" uuid="bdb3e6aa-928b-454f-b32a-1dec6759e193">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
