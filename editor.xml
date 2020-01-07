@@ -9,9 +9,8 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Hack" />
-    <option name="FONT_SCALE" value="1.25" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="USE_LIGATURES" value="true" />
   </component>
@@ -26,6 +25,10 @@
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
