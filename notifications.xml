@@ -1,43 +1,9 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Automatic indent detection" displayType="STICKY_BALLOON" shouldReadAloud="true" />
-    <notification groupId="Branch Context group" shouldReadAloud="true" />
-    <notification groupId="Browser Connection" displayType="STICKY_BALLOON" shouldReadAloud="true" />
-    <notification groupId="Code style settings migration" displayType="STICKY_BALLOON" shouldReadAloud="true" />
-    <notification groupId="Collect Zipped Logs" shouldReadAloud="true" />
-    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
-    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Dump Threads Group" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Execution" displayType="NONE" shouldReadAloud="true" />
-    <notification groupId="Find in Path" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Find Problems" displayType="STICKY_BALLOON" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="FTP/SFTP Connectivity" shouldReadAloud="true" />
-    <notification groupId="FTP/SFTP Connectivity: Remote Host" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Indexing" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="JBA Cloud Config" displayType="STICKY_BALLOON" shouldReadAloud="true" />
-    <notification groupId="JSON Schema" />
-    <notification groupId="Key Promoter X" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Material Theme Notifications_UPDATE" displayType="STICKY_BALLOON" shouldReadAloud="true" />
-    <notification groupId="Node.js interpreter" shouldReadAloud="true" />
-    <notification groupId="PHP Interpreters" shouldReadAloud="true" />
-    <notification groupId="Plugins AutoSwitch" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldReadAloud="true" />
-    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Power Save Mode" shouldReadAloud="true" />
-    <notification groupId="Profiling" shouldLog="false" shouldReadAloud="true" />
-    <notification groupId="Project generator" shouldReadAloud="true" />
-    <notification groupId="Project Startup Tasks Messages" displayType="NONE" shouldReadAloud="true" />
-    <notification groupId="Required Plugins" shouldReadAloud="true" />
-    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldReadAloud="true" />
-    <notification groupId="System Health" displayType="STICKY_BALLOON" shouldReadAloud="true" />
-    <notification groupId="V8 CPU Profiling Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
-    <notification groupId="V8 Heap Snapshot Analysis Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
-    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldReadAloud="true" />
-    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
-    <notification groupId="Vcs Notifications" shouldReadAloud="true" />
-    <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldReadAloud="true" />
-    <notification groupId="Webpack" shouldReadAloud="true" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Material Theme Notifications_UPDATE" displayType="STICKY_BALLOON" />
+    <notification groupId="V8 CPU Profiling Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="V8 Heap Snapshot Analysis Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Webpack" />
   </component>
 </application>
