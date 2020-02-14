@@ -1,0 +1,13 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl inverted_exclamation_mark" />
+  </action>
+  <action id="MaximizeToolWindow" />
+</keymap>
