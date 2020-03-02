@@ -3,7 +3,6 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="shift ctrl quote" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="CollapseExpandableComponent">
@@ -24,16 +23,29 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="ctrl inverted_exclamation_mark" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
