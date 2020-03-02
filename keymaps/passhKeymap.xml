@@ -1,9 +1,10 @@
-<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+<keymap version="1" name="passhKeymap" parent="Default for GNOME">
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -24,7 +25,7 @@
     <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift ctrl inverted_exclamation_mark" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl inverted_exclamation_mark" />
