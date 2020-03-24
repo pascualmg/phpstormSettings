@@ -47,11 +47,8 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" rolling="false" use="true" version="5.1.40" />
+      <artifact name="MySQL Connector/J" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" />
@@ -79,19 +76,13 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlite.xerial">
-      <artifact name="Xerial SQLiteJDBC" use="true" version="3.25.1" />
+      <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" version="4.0.2206.100" />
+      <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
