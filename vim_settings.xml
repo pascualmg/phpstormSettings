@@ -1,6 +1,18 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
@@ -90,7 +102,152 @@
         <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586263314998">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/public/hola.js" timestamp="1586164291546">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/public/locales/en/translation.json" timestamp="1586167643882">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/src/i18n.js" timestamp="1586254993479">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/src/locales/en/translation.json" timestamp="1586168653721">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/package.json" timestamp="1586201924646">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/webpack.prod.ts" timestamp="1586164762021">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/node_modules/i18next-scanner/bin/cli.js" timestamp="1586177817391">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/i18next-scanner.config.js" timestamp="1586250150821">
+        <mark key="^" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/node_modules/i18next-scanner-typescript/README.md" timestamp="1586179440469">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="58" />
+      </file>
+      <file name="/PHP Console" timestamp="1586422107166">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/src/locales/es/translation.json" timestamp="1586168713594">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/pccfrontunilae/src/App.tsx" timestamp="1586201124257">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/microskel/src/Controller/WebHookController.php" timestamp="1586423939287">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/microskel/config/routes.yaml" timestamp="1586090694143">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="484" column="36" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
+      <jump line="1527" column="0" filename="$USER_HOME$/src/rulestorm-api/var/log/dev.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/rulestorm-api/var/log/dev.log" />
+      <jump line="2538" column="0" filename="$USER_HOME$/src/rulestorm-api/var/log/dev.log" />
+      <jump line="662" column="57" filename="$USER_HOME$/src/rulestorm-api/var/log/dev.log" />
+      <jump line="2537" column="0" filename="$USER_HOME$/src/rulestorm-api/var/log/dev.log" />
+      <jump line="60" column="38" filename="$USER_HOME$/src/rulestorm-api/src/Application/Command/EffectTemplate/Create/CreateEffectsTemplateHandler.php" />
+      <jump line="1295" column="0" filename="$USER_HOME$/src/rulestorm-api/bin/.phpunit/phpunit-8.3-0/src/Framework/TestCase.php" />
+      <jump line="32" column="30" filename="$USER_HOME$/src/rulestorm-api/tests/Application/Command/EffectTemplate/Create/CreateEffectsTemplateHandlerTest.php" />
+      <jump line="23" column="123" filename="$USER_HOME$/src/rulestorm-api/src/Infrastructure/Persistence/Doctrine/Entity/EffectsTemplate/EffectsTemplate.orm.yml" />
+      <jump line="11" column="27" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
+      <jump line="141" column="33" filename="$USER_HOME$/src/pccfrontunilae/src/views/auth/login.view.tsx" />
+      <jump line="131" column="60" filename="$USER_HOME$/src/pccfrontunilae/src/views/auth/login.view.tsx" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZm9vLCAkcmVxdWVzdCk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>scanner typescript working</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHR5cGVzY3JpcHRUcmFuc2Zvcm0oeyBleHRlbnNpb25zOiBbIi50c3giXSB9KQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZm9vLCAkcmVxdWVzdCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IEJhY2tlbmQgZnJvbSAnaTE4bmV4dC14aHItYmFja2VuZCc7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9LAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gY3VzdG9tVHJhbnNmb3JtKGZpbGUsIGVuYywgZG9uZSkgewogICAgJ3VzZSBzdHJpY3QnOwogICAgY29uc3QgcGFyc2VyID0gdGhpcy5wYXJzZXI7CiAgICBjb25zdCBjb250ZW50ID0gZnMucmVhZEZpbGVTeW5jKGZpbGUucGF0aCwgZW5jKTsKICAgIGxldCBjb3VudCA9IDA7CgogICAgcGFyc2VyLnBhcnNlRnVuY0Zyb21TdHJpbmcoY29udGVudCwgeyBsaXN0OiBbJ2kxOG5leHQuXycsICdpMThuZXh0Ll9fJ10gfSwgKGtleSwgb3B0aW9ucykgPT4gewogICAgICBwYXJzZXIuc2V0KAogICAgICAgIGtleSwKICAgICAgICBPYmplY3QuYXNzaWduKHt9LCBvcHRpb25zLCB7CiAgICAgICAgICBuc1NlcGFyYXRvcjogZmFsc2UsCiAgICAgICAgICBrZXlTZXBhcmF0b3I6IGZhbHNlLAogICAgICAgIH0pCiAgICAgICk7CiAgICAgICsrY291bnQ7CiAgICB9KTsKCiAgICBpZiAoY291bnQgPiAwKSB7CiAgICAgIGNvbnNvbGUubG9nKAogICAgICAgIGBpMThuZXh0LXNjYW5uZXI6IGNvdW50PSR7Y2hhbGsuY3lhbihjb3VudCl9LCBmaWxlPSR7Y2hhbGsueWVsbG93KAogICAgICAgICAgSlNPTi5zdHJpbmdpZnkoZmlsZS5yZWxhdGl2ZSkKICAgICAgICApfWAKICAgICAgKTsKICAgIH0=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
