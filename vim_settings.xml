@@ -123,36 +123,33 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/controller/controller_correosexpress.php" timestamp="1586786893507">
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/controller/controller_correosexpress.php" timestamp="1586813137818">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="40" />
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/sgaFilesRefactor.php" timestamp="1586811697226">
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="34" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="43" column="33" />
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/sgaFilesRefactor.php" timestamp="1586812808059">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1586775890581">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/signature/correosexpress_out/CORREOSEXPRESS.php" timestamp="1586806226598">
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/signature/correosexpress_out/CORREOSEXPRESS.php" timestamp="1586813224537">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586812271796">
+      <file name="/Dummy.txt" timestamp="1586812283335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/launcherRefactor.php" timestamp="1586783982498">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/launcherRefactor.php" timestamp="1586812838363">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="47" />
       </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/launcher.php" timestamp="1586783880741">
         <mark key="[" line="2" column="14" />
@@ -165,7 +162,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/genericRefactor.php" timestamp="1586786781778" />
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/genericRefactor.php" timestamp="1586813368489">
+        <mark key="[" line="112" column="30" />
+        <mark key="]" line="112" column="30" />
+        <mark key="." line="112" column="30" />
+        <mark key="^" line="108" column="45" />
+      </file>
       <file name="$USER_HOME$/src/local/aeb.php" timestamp="1586782536604" />
       <file name="/aeb" timestamp="1586776135210">
         <mark key="[" line="0" column="0" />
@@ -177,6 +179,12 @@
       </file>
       <file name="/CORREOSEXPRESS" timestamp="1586782302769">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/sgaFileRefactor.php" timestamp="1586812881635">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -199,31 +207,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>generic</text>
+        <text>sga_lines</text>
       </register>
       <register name="-" type="4">
-        <text>generic</text>
+        <text>sga_lines</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0cmFuc2Zvcm06IHR5cGVzY3JpcHRUcmFuc2Zvcm0oeyBleHRlbnNpb25zOiBbIi50c3giXSB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZS0+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPRF9DTElFTlQgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxhdW5jaGVyUmVmYWN0b3I6Ogo=</text>
+        <text encoding="base64">ICAgICAgICAkZmlsZS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhdW5jaGVyUmVmYWN0b3I6Ogo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfd2FsayhzZWxmOjpzZXJ2aWNlcygpLCApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VzID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfd2FsayhzZWxmOjpzZXJ2aWNlcygpLCApCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VzID0gOwo=</text>
@@ -232,7 +240,7 @@
         <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VzID0gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VzID0gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
