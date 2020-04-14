@@ -106,9 +106,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/Article/ArticleBuilderContainer.php" timestamp="1586856076093" />
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/ftpRefactor.php" timestamp="1586811719384">
-        <mark key="[" line="2" column="9" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/Article/ArticleBuilderContainer.php" timestamp="1586859679134">
+        <mark key="[" line="51" column="31" />
       </file>
       <file name="/a.dummy" timestamp="1586857395857">
         <mark key="[" line="0" column="12" />
@@ -120,12 +119,6 @@
         <mark key="]" line="2" column="40" />
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/sgaFilesRefactor.php" timestamp="1586812808059">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/signature/correosexpress_out/CORREOSEXPRESS.php" timestamp="1586813224537">
         <mark key="[" line="2" column="29" />
@@ -159,7 +152,9 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="47" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/Article/Builder/Types/Article/ArticleManager.php" timestamp="1586859659406" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Model/RMACommonFunction.php" timestamp="1586858108518" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ArticuloBundle/Model/Article/Builder/Detail/Trademark/TrademarkManagerIntegration.php" timestamp="1586859489004" />
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/genericRefactor.php" timestamp="1586813368489">
         <mark key="[" line="112" column="30" />
         <mark key="]" line="112" column="30" />
@@ -177,11 +172,11 @@
       </file>
       <file name="$USER_HOME$/src/pccapi/app/config/services.yml" timestamp="1586856198308" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Util/Containerizable.php" timestamp="1586856032638" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586858467498">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="57" column="36" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586859628525">
+        <mark key="[" line="7" column="80" />
+        <mark key="]" line="7" column="81" />
+        <mark key="." line="7" column="80" />
+        <mark key="^" line="7" column="81" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenterCommand.php" timestamp="1586857324766">
         <mark key="[" line="15" column="0" />
@@ -219,40 +214,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQXJ0aWNsZVxCdWlsZGVyXFR5cGVzXEFydGljbGVcQXJ0aWNsZU1hbmFnZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>trademark</text>
+        <text>ArticleManagerInterface</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYXJ0aWNsZS0+Z2V0RmFtaWx5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQXJ0aWNsZVxCdWlsZGVyXFR5cGVzXEFydGljbGVcQXJ0aWNsZU1hbmFnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBHZXRSZXBhaXJDZW50ZXJDb21tYW5kICRjb21tYW5kCg==</text>
+        <text encoding="base64">dXNlIEFydGljbGVNYW5hCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQ29tbW9uXEFydGljbGVNYW5hZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQXJ0aWNsZVxCdWlsZGVyXFR5cGVzXEFydGljbGVcQXJ0aWNsZU1hbmFnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRmYW1pbHksICR0cmFkZW1hcmspOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRhcnRpY2xlKTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBHZXRSZXBhaXJDZW50ZXJDb21tYW5kICRjb21tYW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQXJ0aWNsZVxBcnRpY2xlQnVpbGRlckNvbnRhaW5lcjsK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcTGlzdEJ1bmRsZVxNb2RlbFxBcnRpY2xlTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJ0aWNsZS0+Z2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRmYW1pbHksICR0cmFkZW1hcmspOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
