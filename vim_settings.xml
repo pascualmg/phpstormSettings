@@ -111,10 +111,16 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1586857395857">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/a.dummy" timestamp="1586869586057">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/isRepairedByAnovoChecker.php" timestamp="1586869534797">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/fpm_apiweb/Dockerfile" timestamp="1586863467156" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing.yml" timestamp="1586857089664">
@@ -143,15 +149,15 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586859833870">
+      <file name="$USER_HOME$/src/cron/cron/tareas/cronCorreosIncidencias/clases/AnovoServices.php" timestamp="1586869466235">
+        <mark key="[" line="154" column="46" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586869484098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/fragment.php" timestamp="1586861308901">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1586853281351">
+      <file name="/fragment.php" timestamp="1586869281119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1586861804527">
@@ -165,17 +171,23 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586868348486">
-        <mark key="[" line="43" column="58" />
-        <mark key="]" line="43" column="59" />
-        <mark key="^" line="43" column="59" />
-        <mark key="." line="43" column="58" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586870352687">
+        <mark key="[" line="8" column="67" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="16" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenterCommand.php" timestamp="1586857324766">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="21" column="36" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/IsRepairedByAnovo.php" timestamp="1586870917123">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="74" />
+        <mark key="." line="7" column="73" />
+        <mark key="^" line="7" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -200,41 +212,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Returns</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">emVuZF9leHRlbnNpb249eGRlYnVnLnNvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRpZEZhbWlseSwgJGlkVHJhZGVtYXJrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJhbmRvbV9pbnQoMCwgMSk9PT0wPydwY2NvbSc6J2Fub3ZvJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYW5vdm9DaGVja2VyICA9IG5ldyBpc1JlcGFpcmVkQnlBbm92b0NoZWNrZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PT0gJGFydGljbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAkYW5vdm9DaGVja2VyLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbJGlkRmFtaWx5LCAkaWRUcmFkZW1hcmtdOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">MTkyLjE2OC4yLjEwMWRkCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTkyLjE2OC4yLjEwMWRkCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
