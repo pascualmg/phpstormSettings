@@ -149,7 +149,7 @@
         <mark key="." line="112" column="30" />
         <mark key="^" line="108" column="45" />
       </file>
-      <file name="/" timestamp="1586814127381">
+      <file name="/" timestamp="1586853281351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/controller/controller_correosexpress.php" timestamp="1586813137818">
@@ -169,10 +169,22 @@
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586853513190">
+        <mark key="[" line="30" column="50" />
+        <mark key="]" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="78" />
+      </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/sga_files.php" timestamp="1586783944406">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenterCommand.php" timestamp="1586852673397">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/sgaFileRefactor.php" timestamp="1586812881635">
         <mark key="[" line="18" column="29" />
@@ -204,40 +216,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sga_lines</text>
+        <text>get(new ArticleSearcherData())</text>
       </register>
       <register name="-" type="4">
-        <text>sga_lines</text>
+        <text>get(new ArticleSearcherData())</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0cmFuc2Zvcm06IHR5cGVzY3JpcHRUcmFuc2Zvcm0oeyBleHRlbnNpb25zOiBbIi50c3giXSB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPRF9DTElFTlQgPSA7Cg==</text>
+        <text encoding="base64">dXNlIFBjY1xCdW5kbGVcQXJ0aWN1bG9CdW5kbGVcTW9kZWxcQXJ0aWNsZUxpc3RcQXJ0aWNsZUxpc3RCdWlsZGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYWIgPSBuZXcgJHRoaXMtPmFydGljbGVMaXN0QnVpbGRlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxhdW5jaGVyUmVmYWN0b3I6Ogo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSW52YWxpZE1lYXN1cmVtZW50RXhjZXB0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQWRkcmVzc05vdEF2YWlsYWJsZUV4Y2VwdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHByb3ZpbmNlUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfd2FsayhzZWxmOjpzZXJ2aWNlcygpLCApCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHNoaXBwaW5nQWRkcmVzc2VzUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VzID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VzID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VzID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
