@@ -106,22 +106,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/init_out.php" timestamp="1586786875852" />
+      <file name="/Dummy.txt" timestamp="1586812283335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/launcherRefactor.php" timestamp="1586812838363">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="47" />
+      </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/generic.php" timestamp="1586784994834">
         <mark key="[" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/ftpRefactor.php" timestamp="1586811719384">
         <mark key="[" line="2" column="9" />
       </file>
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/launcher.php" timestamp="1586783880741">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="/a.dummy" timestamp="1586811704156">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/local/desarrollo/class/conexiones.php" timestamp="1586806064918" />
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/launcher/launcher_correosexpress_returns.php" timestamp="1586784182384">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="20" />
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/launcher/launcher_correosexpress.php" timestamp="1586783921598">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/genericRefactor.php" timestamp="1586813368489">
+        <mark key="[" line="112" column="30" />
+        <mark key="]" line="112" column="30" />
+        <mark key="." line="112" column="30" />
+        <mark key="^" line="108" column="45" />
+      </file>
+      <file name="/" timestamp="1586814127381">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/controller/controller_correosexpress.php" timestamp="1586813137818">
         <mark key="[" line="2" column="40" />
@@ -140,51 +169,19 @@
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586812283335">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/launcherRefactor.php" timestamp="1586812838363">
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="47" />
-      </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/launcher.php" timestamp="1586783880741">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/launcher/launcher_correosexpress.php" timestamp="1586783921598">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/genericRefactor.php" timestamp="1586813368489">
-        <mark key="[" line="112" column="30" />
-        <mark key="]" line="112" column="30" />
-        <mark key="." line="112" column="30" />
-        <mark key="^" line="108" column="45" />
-      </file>
-      <file name="/" timestamp="1586814127381">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/local/aeb.php" timestamp="1586782536604" />
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/sga_files.php" timestamp="1586783944406">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
-      </file>
-      <file name="/CORREOSEXPRESS" timestamp="1586782302769">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/local/desarrollo/proyectologistica/fichero_correosexpress/library/sgaFileRefactor.php" timestamp="1586812881635">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="45" />
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/cron/cron/tareas/cronCorreosIncidencias/clases/AnovoServices.php" timestamp="1586851406400">
+        <mark key="[" line="154" column="46" />
       </file>
     </filemarks>
     <jumps>
