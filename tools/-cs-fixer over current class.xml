@@ -8,7 +8,7 @@
   </tool>
   <tool name="php-cs-fixer (Fabien Potencier)" description="el de Fabien" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/src/pccapi/bin/php-cs-fixer-v2.phar.1" />
+      <option name="COMMAND" value="$USER_HOME$/src/pccapi/bin/php-cs-fixer" />
       <option name="PARAMETERS" value=" fix  --rules=@PSR2 -vvv $FileDirRelativeToProjectRoot$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>

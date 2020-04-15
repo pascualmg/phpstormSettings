@@ -109,10 +109,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586990525290">
+      <file name="/Dummy.txt" timestamp="1586992693289">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Repository/AfterSalesCaseRepository.php" timestamp="1586954739572">
         <mark key="[" line="10" column="20" />
@@ -134,11 +134,11 @@
         <mark key="^" line="147" column="25" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RepairCenterFilterTest.php" timestamp="1586989473684">
-        <mark key="[" line="47" column="35" />
-        <mark key="]" line="47" column="58" />
-        <mark key="." line="47" column="57" />
-        <mark key="^" line="47" column="58" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RepairCenterFilterTest.php" timestamp="1586992643743">
+        <mark key="[" line="43" column="58" />
+        <mark key="]" line="43" column="72" />
+        <mark key="." line="43" column="71" />
+        <mark key="^" line="43" column="72" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/AfterSaleCase.php" timestamp="1586957473952">
         <mark key="[" line="28" column="20" />
@@ -146,10 +146,10 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1586986535760">
-        <mark key="[" line="2516" column="9" />
-        <mark key="]" line="2525" column="12" />
-        <mark key="." line="2525" column="11" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1586991652832">
+        <mark key="[" line="2522" column="0" />
+        <mark key="]" line="2522" column="0" />
+        <mark key="." line="2522" column="0" />
         <mark key="^" line="2525" column="12" />
       </file>
       <file name="/" timestamp="1586982738964">
@@ -183,11 +183,11 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Service/RepairCenterFilter.php" timestamp="1586964249574">
-        <mark key="[" line="141" column="8" />
-        <mark key="]" line="141" column="15" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Service/RepairCenterFilter.php" timestamp="1586991018847">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="9" />
         <mark key="^" line="141" column="15" />
-        <mark key="." line="141" column="14" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/RepairCenter.php" timestamp="1586956736587">
         <mark key="[" line="12" column="0" />
@@ -240,13 +240,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>repa</text>
+        <text>( )</text>
       </register>
       <register name="-" type="4">
-        <text>repa</text>
+        <text>( )</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyICRyZXBhaXJDZW50ZXJGaWx0ZXIgTW9ja09iamVjdCB8IFJlcGFpckNlbnRlckZpbHRlciAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdwY2NvbScsICRyZXBhaXJDZW50ZXItPm5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -255,25 +255,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVwYWlyQ2VudGVyRmlsdGVyID0gbmV3IFJlcGFpckNlbnRlckZpbHRlcigkdGhpcy0+cmVwYWlyQ2VudGVyUmVwb3NpdG9yeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWZ0ZXJTYWxlc0Nhc2VSZXBvc2l0b3J5ID0gbmV3IGNsYXNzIGltcGxlbWVudHMgQWZ0ZXJTYWxlc0Nhc2VSZXBvc2l0b3J5IHsKCiAgICAgICAgICAgIHB1YmxpYyBmdW5jdGlvbiBieUlkKCRpZCk6ID9BZnRlclNhbGVDYXNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICRzb21lQXJ0aWNsZSA9IG5ldyBBcnRpY2xlKDExMzM0LCAxLCAyKTsKICAgICAgICAgICAgICAgICRzb21lQ2FzZSA9IG5ldyBBZnRlclNhbGVDYXNlKDQyLCAnUk1BJywgJ0VTJywgJHNvbWVBcnRpY2xlKTsKICAgICAgICAgICAgICAgIHJldHVybiAkc29tZUNhc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9Ow==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoMSwxKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVwYWlyQ2VudGVyID0gJAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWQgPSBuZXcgUmVwYWlyQ2VudGVyKDEsICdwY2NvbScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVwYWlyQ2VudGVyRmlsdGVyID0gbmV3IFJlcGFpckNlbnRlckZpbHRlcigkdGhpcy0+cmVwYWlyQ2VudGVyUmVwb3NpdG9yeSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWZ0ZXJTYWxlc0Nhc2VSZXBvc2l0b3J5ID0gbmV3IGNsYXNzIGltcGxlbWVudHMgQWZ0ZXJTYWxlc0Nhc2VSZXBvc2l0b3J5IHsKCiAgICAgICAgICAgIHB1YmxpYyBmdW5jdGlvbiBieUlkKCRpZCk6ID9BZnRlclNhbGVDYXNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICRzb21lQXJ0aWNsZSA9IG5ldyBBcnRpY2xlKDExMzM0LCAxLCAyKTsKICAgICAgICAgICAgICAgICRzb21lQ2FzZSA9IG5ldyBBZnRlclNhbGVDYXNlKDQyLCAnUk1BJywgJ0VTJywgJHNvbWVBcnRpY2xlKTsKICAgICAgICAgICAgICAgIHJldHVybiAkc29tZUNhc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9Ow==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
