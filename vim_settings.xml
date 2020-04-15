@@ -118,15 +118,20 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1586955428384">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="/a.dummy" timestamp="1586955560269">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1586948345025">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/cron/cron/tareas/cronCorreosIncidencias/cronAsistenteIncidencias.php" timestamp="1586937796309" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/AnovoFilter.php" timestamp="1586956026814">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="147" column="25" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1586948869385">
         <mark key="[" line="0" column="0" />
       </file>
@@ -135,13 +140,18 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Service/RepairCenterFilter.php" timestamp="1586957051896">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="126" column="26" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Repository/AfterSalesCaseRepositoryInterface.php" timestamp="1586954396374">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/src/cron/cron/tareas/cronCorreosIncidencias/clases/AnovoServices.php" timestamp="1586937670256" />
       <file name="/Dummy.txt" timestamp="1586955133012">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
@@ -170,10 +180,11 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586955077195">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586957159742">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="34" column="42" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="42" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Case.php" timestamp="1586948551668">
         <mark key="[" line="0" column="0" />
@@ -181,11 +192,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/RepairCenter.php" timestamp="1586949743143">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="37" />
-        <mark key="^" line="12" column="37" />
-        <mark key="." line="12" column="36" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/RepairCenter.php" timestamp="1586956736587">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenterCommand.php" timestamp="1586941666630">
         <mark key="[" line="17" column="21" />
@@ -220,40 +231,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGFzc2lzdGFudENhc2VzUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICBBZnRlclNhbGVzQ2FzZVJlcG9zaXRvcnkgJGFmdGVyU2FsZXNDYXNlUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="-" type="4">
-        <text>byId</text>
+        <text>AfterSalesCaseRepository</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBieUlkKCRpZCk6ID9SZXBhaXJDZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IElEX0FOT1ZPID0gMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGFzc2lzdGFudENhc2VzUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICBBZnRlclNhbGVzQ2FzZVJlcG9zaXRvcnkgJGFmdGVyU2FsZXNDYXNlUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgJGFzc2lzdGFudENhc2UgPSAkdGhpcy0+YXNzaXN0YW50Q2FzZXNSZXBvc2l0b3J5LT5zZWFyY2hPbmUoJGNvbW1hbmQtPmNhc2VJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhbGwoJGlkKTogP1JlcGFpckNlbnRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFBjY1xEb21haW5cQWZ0ZXJzYWxlc1xBZnRlclNhbGVDYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFBjY1xEb21haW5cQWZ0ZXJzYWxlc1xBZnRlclNhbGVDYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgQXNzaXN0YW50Q2FzZXNSZXBvc2l0b3J5SW50ZXJmYWNlCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBJRF9BTk9WTyA9IDE7CiAgICBwdWJsaWMgY29uc3QgSURfREVGQVVMVCA9IDA7CiAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkY2FzZVR5cGUgPT0gJ1JNQScgJiYgc2VsZjo6aXNSbWEoJHJvdykpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzaXN0YW50Q2FzZXNSZXBvc2l0b3J5ID0gJGFzc2lzdGFudENhc2VzUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
