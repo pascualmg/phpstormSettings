@@ -109,6 +109,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/Article/Availiability/ConfirmArticleAvailiabilityAppTest.php" timestamp="1586969248502" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Article.php" timestamp="1586949861213">
         <mark key="[" line="12" column="32" />
         <mark key="]" line="12" column="56" />
@@ -126,9 +127,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1586948345025">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/AnovoFilter.php" timestamp="1586956026814">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -142,7 +140,7 @@
         <mark key="^" line="879" column="67" />
         <mark key="." line="878" column="45" />
       </file>
-      <file name="/PHP Console" timestamp="1586966807439">
+      <file name="/PHP Console" timestamp="1586971626201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Repository/RepairCenterRepository.php" timestamp="1586954917393">
@@ -162,7 +160,13 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586961968756">
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Application/AfterSales/GetRepairCenter/GetRepairCenterTest.php" timestamp="1586969276276">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586971890612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -176,10 +180,11 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1586966886439">
-        <mark key="[" line="2523" column="0" />
-        <mark key="]" line="2523" column="0" />
-        <mark key="." line="2523" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1586966974580">
+        <mark key="[" line="2516" column="9" />
+        <mark key="]" line="2525" column="12" />
+        <mark key="." line="2525" column="11" />
+        <mark key="^" line="2525" column="12" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Repository/RepairCenter.php" timestamp="1586954837985">
         <mark key="[" line="8" column="22" />
@@ -187,18 +192,12 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586964100675">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" timestamp="1586967391942">
         <mark key="'" line="52" column="44" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="82" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Case.php" timestamp="1586948551668">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="2" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/RepairCenter.php" timestamp="1586956736587">
         <mark key="[" line="12" column="0" />
@@ -232,11 +231,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgJGNvdW50cnk7Cg==</text>
