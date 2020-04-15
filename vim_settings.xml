@@ -142,7 +142,7 @@
         <mark key="^" line="879" column="67" />
         <mark key="." line="878" column="45" />
       </file>
-      <file name="/PHP Console" timestamp="1586964977376">
+      <file name="/PHP Console" timestamp="1586966807439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Repository/RepairCenterRepository.php" timestamp="1586954917393">
@@ -176,11 +176,10 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1586964711363">
-        <mark key="[" line="2516" column="17" />
-        <mark key="]" line="2517" column="32" />
-        <mark key="." line="2517" column="31" />
-        <mark key="^" line="2517" column="32" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1586966886439">
+        <mark key="[" line="2523" column="0" />
+        <mark key="]" line="2523" column="0" />
+        <mark key="." line="2523" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Aftersales/Repository/RepairCenter.php" timestamp="1586954837985">
         <mark key="[" line="8" column="22" />
@@ -234,40 +233,50 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2ggKCRpZCkK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgJGNvdW50cnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2ggKCRpZCkK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBSZXBhaXJDZW50ZXIgJHJlc3VsdCAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBSZXBhaXJDZW50ZXJSZXBvc2l0b3J5ICRyZXBhaXJDZW50ZXJSZXBvICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBSZXBhaXJDZW50ZXIgJHJlc3VsdCAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYnlJZCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvOiB0aXJhciBlbCBkZWZhdWx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXBhaXJDZW50ZXIoMCwgJ3BjY29tJywgJ3BjY29tSWRDbGllbnRlQ29ycmVvcycpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBSRVBBSVJfQ0VOVEVSX0FOT1ZPID0gJ2Fub3ZvJzsK</text>
+      <register name="8" type="4">
+        <text>new class implements RepairCenterRepository {
+                public function byId($id): ?RepairCenter
+                {
+                    return null;
+                }
+            }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBSRVBBSVJfQ0VOVEVSX0RFRkFVTFQgPSAncGNjb20nOwo=</text>
+      <register name="9" type="4">
+        <text>new class implements RepairCenterRepository {
+                    public function byId($id): ?RepairCenter
+                    {
+                        return null;
+                    }
+                }</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
