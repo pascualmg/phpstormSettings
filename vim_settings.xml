@@ -115,7 +115,7 @@
         <mark key="." line="127" column="32" />
         <mark key="^" line="126" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587141699499">
+      <file name="/Dummy.txt" timestamp="1587155987047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -129,11 +129,12 @@
       <file name="/console" timestamp="1587141583812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RepairCenterFilterTest.php" timestamp="1587153899067">
-        <mark key="[" line="175" column="47" />
-        <mark key="]" line="175" column="48" />
-        <mark key="." line="175" column="47" />
-        <mark key="^" line="175" column="48" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RepairCenterFilterTest.php" timestamp="1587155973698">
+        <mark key="'" line="156" column="9" />
+        <mark key="[" line="189" column="11" />
+        <mark key="]" line="190" column="49" />
+        <mark key="^" line="190" column="49" />
+        <mark key="." line="190" column="48" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1587128695638">
         <mark key="[" line="75" column="55" />
@@ -162,7 +163,7 @@
       <file name="/foo.bar" timestamp="1587126409672">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1587142220092">
+      <file name="/PHP Console" timestamp="1587155661754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/web.pccom_returns_repair_center" timestamp="1587126409659">
@@ -211,45 +212,46 @@
       <jump line="48" column="44" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenter.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/app/logs/dev.log" />
       <jump line="602" column="0" filename="$USER_HOME$/src/pccapi/app/logs/dev.log" />
+      <jump line="156" column="9" filename="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RepairCenterFilterTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgJGludG9Bc3NlcnQgKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>array_values</text>
+        <text>an array</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiAkdGhpcy0+aWQoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgJGludG9Bc3NlcnQgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIGFycmF5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfbWVyZ2VfcmVjdXJzaXZlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gIGFycmF5ICR0d29MZXZlbEFycmF5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZmlsdGVyZWQgYXMgJGl0ZW0pIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmlsdGVyZWQgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFycltdID0gJGl0ZW1bMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBhcnJheQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRpYyAsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGFycmF5X21hcChzdGF0aWMgZnVuY3Rpb24gKCRpdGVtKSB7CiAgICAgICAgICAgIHJldHVybiAkaXRlbVswXTsKICAgICAgICB9LCAkZmlsdGVyZWQpOwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIENsdWVcU3RyZWFtRmlsdGVyXGZ1bjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
