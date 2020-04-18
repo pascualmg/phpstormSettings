@@ -2,6 +2,20 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>return</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q1</entry>
+        <entry>q!</entry>
+        <entry>Q!</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -89,6 +103,159 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/migration_versions [rulestorm@localhost]" timestamp="1585147871662">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1584832709864">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="/rulestorm.public.context" timestamp="1584829430158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/custom_type [rulestorm@localhost]" timestamp="1584832235679">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/rulestorm-api/config/routes/v1/Context/context.yml" timestamp="1585148914713">
+        <mark key="[" line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/rulestorm-api/config/routes/v1/Context/EffectsTemplate/effects-template.yml" timestamp="1585149188896">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="/PHP Console" timestamp="1585147815347">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1584952755611">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/rulestorm-api/tests/Application/Command/CreateBussinesUnitNode/CreateBusinessUnitNodeTest.php" timestamp="1584829925699">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/rulestorm-api/src/UserInterface/Rest/Controller/Command/EffectsTemplate/EffectsTemplateCommandController.php" timestamp="1585149358151">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="/rulestorm.public.migration_versions" timestamp="1585147871799">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/rulestorm.public.custom_type" timestamp="1584832235697">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/rulestorm-api/config/services.yaml" timestamp="1585148323310">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="18" column="54" />
+        <mark key="^" line="18" column="54" />
+        <mark key="." line="18" column="54" />
+      </file>
+      <file name="/dummy.sql" timestamp="1584833151700">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/rulestorm-api/src/Application/Command/CustomTypes/DeleteCustomTypeById/DeleteCustomTypeByIdHandler.php" timestamp="1584831753710">
+        <mark key="[" line="36" column="88" />
+        <mark key="]" line="36" column="90" />
+        <mark key="." line="36" column="90" />
+        <mark key="^" line="36" column="90" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2601" column="88" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="3145" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="3144" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="106" column="82" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Resources/views/article/list/common/product-card-new.html.twig" />
+      <jump line="3085" column="336" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="3821" column="0" filename="$USER_HOME$/src/pccfront/app/logs/dev.log" />
+      <jump line="85" column="20" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
+      <jump line="94" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
+      <jump line="235" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
+      <jump line="246" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
+      <jump line="251" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
+      <jump line="267" column="8" filename="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Services/SeoManager.php" />
+      <jump line="53" column="10" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/_types.php" />
+      <jump line="400" column="0" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/_types.php" />
+      <jump line="38" column="40" filename="$USER_HOME$/src/testrabbitmq/src/exec_topic_logger_emmiter.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/src/testrabbitmq/src/exec_topic_logger_emmiter.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/src/testrabbitmq/src/rpc_client.php" />
+      <jump line="32" column="58" filename="$USER_HOME$/src/testrabbitmq/src/Rabbit/RpcServer.php" />
+      <jump line="10" column="15" filename="$USER_HOME$/src/testrabbitmq/src/runServer.php" />
+      <jump line="82" column="0" filename="$USER_HOME$/src/rulestorm-admin/src/module/views/RuleStorm/CustomTypes/Forms/Update/UpdateCustomType.tsx" />
+      <jump line="30" column="8" filename="$USER_HOME$/src/rulestorm-admin/src/module/views/RuleStorm/CustomTypes/Forms/Update/UpdateCustomType.tsx" />
+      <jump line="38" column="6" filename="$USER_HOME$/src/rulestorm-admin/src/module/views/RuleStorm/CustomTypes/Forms/Update/UpdateCustomType.tsx" />
+      <jump line="25" column="44" filename="$USER_HOME$/src/rulestorm-admin/src/module/views/RuleStorm/CustomTypes/Forms/Update/UpdateCustomType.tsx" />
+      <jump line="6" column="30" filename="$USER_HOME$/src/rulestorm-admin/src/module/views/RuleStorm/CustomTypes/constants.ts" />
+      <jump line="65" column="0" filename="$USER_HOME$/src/rulestorm-admin/src/module/views/RuleStorm/CustomTypes/Forms/Update/UpdateCustomType.tsx" />
+      <jump line="31" column="4" filename="$USER_HOME$/src/rulestorm-api/src/Domain/Service/BusinessUnitNode/BusinessUnitNodeService.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgnaGpvbGknKTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>GET</text>
+      </register>
+      <register name="/" type="4">
+        <text>return</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBVUERBVEVfQ1VTVE9NVFlQRV9TVUNDRVNTOiAnQWN0dWFsaXphZG8gY29ycmVjdGFtZW50ZScsCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgnaGpvbGknKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3JjL1VzZXJJbnRlcmZhY2UvUmVzdC9Db250cm9sbGVyL0NvbW1hbmQvRWZmZWN0c1RlbXBsYXRlL0VmZmVjdHNUZW1wbGF0ZUNvbW1hbmRDb250cm9sbGVyOgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwaHA6</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">MDVhZWE2NGUtNGYyYS00NmQ2LTk4YTMtNzM3N2JjYzk4OWQxCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">MDVhZWE2NGUtNGYyYS00NmQ2LTk4YTMtNzM3N2JjYzk4OWQxCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">MDVhZWE2NGUtNGYyYS00NmQ2LTk4YTMtNzM3N2JjYzk4OWQyCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q!</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>return</last-search>
+      <last-offset />
+      <last-pattern>return</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
