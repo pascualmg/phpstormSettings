@@ -115,8 +115,8 @@
         <mark key="." line="127" column="32" />
         <mark key="^" line="126" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587362999124">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1587366760355">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -129,12 +129,12 @@
       <file name="/fragment.php" timestamp="1587161591442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RepairCenterFilterTest.php" timestamp="1587156164088">
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RepairCenterFilterTest.php" timestamp="1587366351147">
         <mark key="'" line="156" column="9" />
-        <mark key="[" line="162" column="59" />
-        <mark key="]" line="162" column="59" />
+        <mark key="[" line="183" column="37" />
+        <mark key="]" line="183" column="37" />
         <mark key="^" line="190" column="49" />
-        <mark key="." line="162" column="59" />
+        <mark key="." line="183" column="37" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenterQueryHandler.php" timestamp="1587164345879">
         <mark key="[" line="42" column="52" />
@@ -151,7 +151,7 @@
         <mark key="]" line="146" column="48" />
         <mark key="." line="146" column="48" />
       </file>
-      <file name="/PHP Console" timestamp="1587363047473">
+      <file name="/PHP Console" timestamp="1587366743321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalRepairCenterRepository.php" timestamp="1587160122235">
@@ -209,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>fix deprecated</text>
+        <text>refactor using symfony dependency injection</text>
       </register>
       <register name="-" type="4">
-        <text>fix deprecated</text>
+        <text>refactor using symfony dependency injection</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBhZnRlcnNhbGVzLnJlcG9zaXRvcnkucmVwYWlyX2NlbnRlcjoKICAgIGNsYXNzOiBQY2NcSW5mcmFzdHJ1Y3R1cmVcUGVyc2lzdGVuY2VcRG9jdHJpbmVcUmVwb3NpdG9yeVxBZnRlclNhbGVzXERCYWxSZXBhaXJDZW50ZXJSZXBvc2l0b3J5CiAgICAgIGFyZ3VtZW50czoKICAgICAgLSAnQGRvY3RyaW5lLmRiYWwuY29ubmVjdGlvbic=</text>
