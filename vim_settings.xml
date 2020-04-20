@@ -127,6 +127,11 @@
         <mark key="^" line="190" column="49" />
         <mark key="." line="183" column="37" />
       </file>
+      <file name="$USER_HOME$/src/skeleton/config/packages/package.json" timestamp="1587389452127">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1587380834771">
         <mark key="[" line="133" column="52" />
         <mark key="]" line="133" column="53" />
@@ -159,9 +164,6 @@
         <mark key="]" line="31" column="25" />
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetRepairCenter/GetRepairCenterCommandHandler.php" timestamp="1587163405838">
-        <mark key="[" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Domain/Model/AfterSale/MemoryAfterSaleCaseRepository.php" timestamp="1587369623240">
         <mark key="[" line="25" column="0" />
@@ -236,10 +238,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>unused comment</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>unused comment</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkaW5zZXJ0QWZ0ZXJTYWxlQ2FzZVF1ZXJ5LT5iaW5kUGFyYW0oJ3JldHVybmlkJyAsICRhZnRlclNhbGVDYXNlLT5pZCgpKTsK</text>
