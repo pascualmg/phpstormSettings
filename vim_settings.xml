@@ -109,7 +109,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Model/Tax.php" timestamp="1587560753719" />
       <file name="/console" timestamp="1587567679472">
         <mark key="[" line="0" column="0" />
       </file>
@@ -126,6 +125,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Domain/Service/CreateTaxTest.php" timestamp="1587584785387">
+        <mark key="[" line="30" column="62" />
+        <mark key="]" line="30" column="96" />
+        <mark key="^" line="30" column="96" />
+        <mark key="." line="30" column="95" />
+      </file>
       <file name="/PHP Console" timestamp="1587573313688">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,18 +141,24 @@
         <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/src/taxes-service/docker-compose.yml" timestamp="1587567955001" />
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Model/TaxRepository.php" timestamp="1587584830855">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="40" />
+      </file>
       <file name="/dummy.sql" timestamp="1587568689168">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Application/CreateTax/CreateTaxCommandHandlerTest.php" timestamp="1587577780342">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Application/CreateTax/CreateTaxCommandHandlerTest.php" timestamp="1587584555250">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="34" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587575644617">
+      <file name="/Dummy.txt" timestamp="1587584836499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -188,11 +199,6 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/docs/openapi/openapi.json" timestamp="1587558916219">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="484" column="36" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
@@ -227,41 +233,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIF9IdW1idWdCb3g5NmQyNWVmNjlmOTFcTmV0dGVcTmVvblxFeGNlcHRpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text>persist</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>persist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAkY3JlYXRlVGF4U2VydmljZVN1Y2Nlc3MgPSAkdGhpcy0+Y3JlYXRlTW9jayhDcmVhdGVUYXg6OmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIF9IdW1idWdCb3g5NmQyNWVmNjlmOTFcTmV0dGVcTmVvblxFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IENyZWF0ZVRheCgkY3JlYXRlVGF4U2VydmljZVN1Y2Nlc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlYXRlVGF4U2VydmljZVN1Y2Nlc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignbWllcmRhIHlhIGV4aXN0ZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBmdW5jdGlvbiBzYXZlKFRheCAkdGF4KTogdm9pZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IGNsYXNzIGltcGxlbWVudHMgVGF4UmVwb3NpdG9yeSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC8vIFRPRE86IEltcGxlbWVudCBzYXZlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAkY3JlYXRlVGF4U2VydmljZUZhaWx1cmUgPSBuZXcgQ3JlYXRlVGF4KAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JAo=</text>
+        <text encoding="base64">ICAgICAgICAkY3JlYXRlVGF4U2VydmljZVN1Y2Nlc3MgPSBuZXcgQ3JlYXRlVGF4KAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
