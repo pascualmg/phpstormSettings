@@ -113,12 +113,6 @@
       <file name="/console" timestamp="1587567679472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/docs/openapi/openapi.yaml" timestamp="1587558697239">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="2" column="24" />
-      </file>
       <file name="$USER_HOME$/src/taxes-service/.env" timestamp="1587567995279">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="13" />
@@ -127,10 +121,10 @@
       <file name="/a.sql" timestamp="1587568715838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxCommand.php" timestamp="1587570341367">
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxCommand.php" timestamp="1587575240855">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1587573313688">
         <mark key="[" line="0" column="0" />
@@ -147,7 +141,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587569129596">
+      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Application/CreateTax/CreateTaxCommandHandlerTest.php" timestamp="1587575825777">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587575644617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -158,11 +158,11 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1587573701546">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1587574630627">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="4" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1587571611249">
         <mark key="[" line="0" column="19" />
@@ -228,40 +228,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JAo=</text>
       </register>
       <register name="-" type="4">
-        <text>taxId</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1sndGF4SWQnXSwK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQ6OnRoYXQoJHRheElkKS0+dXVpZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjE4MjAuNTA0Lmh0bWwK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQ6Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjM2NDkuNTA0Lmh0bWwK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQ6OnRoYXQoJHRheElkKS0+dXVpZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjM4NDUuNTAwLmpzb24K</text>
+        <text encoding="base64">ICAiYWN0aXZlIjogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjM5NDguNTA0Lmh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjQxMjYuMjAwLmpzb24K</text>
+        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjE4MjAuNTA0Lmh0bWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjM2NDkuNTA0Lmh0bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZlY2hhJwo=</text>
+        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjM4NDUuNTAwLmpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZlY2hhJywK</text>
+        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjM5NDguNTA0Lmh0bWwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
