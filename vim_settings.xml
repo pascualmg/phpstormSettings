@@ -132,7 +132,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1587570720636">
+      <file name="/PHP Console" timestamp="1587573313688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/taxes-service/config/routes.yaml" timestamp="1587572296650">
@@ -152,17 +152,17 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/System/Entrypoint/Controller/CreateTaxController.php" timestamp="1587572122758">
-        <mark key="[" line="50" column="58" />
-        <mark key="]" line="50" column="59" />
-        <mark key="." line="50" column="58" />
-        <mark key="^" line="50" column="59" />
+      <file name="$USER_HOME$/src/taxes-service/src/System/Entrypoint/Controller/CreateTaxController.php" timestamp="1587573588638">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="49" column="20" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1587572284980">
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="20" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1587573243612">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1587571611249">
         <mark key="[" line="0" column="19" />
@@ -224,41 +224,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>GET</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>taxId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlcXVlc3QnID0+ICRyZXF1ZXN0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1sndGF4SWQnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjE2MDYuNTAwLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjAxMTQuNTA0Lmh0bWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZlY2hhJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZlY2hhJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX2RlY29kZSgkcmVxdWVzdC0+Z2V0Q29udGVudCgpLHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+cXVlcnktPmFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2l2YSBzcGFpbicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UE9TVCBodHRwOi8vbG9jYWxob3N0OjgwNzAvYXBpL3YxL2NvbnRleHQvNDQxOWY3OTctOWZlMC00YTY1LTk3OTQtYzk0NDRhMzI4OWE3L2VmZmVjdHMtdGVtcGxhdGU/WERFQlVHX1NFU1NJT05fU1RBUlQ9UEhQU1RPUk0KQ29va2llOiBYREVCVUdfU0VTU0lPTj1QSFBTVE9STQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24KCnsKImVmZmVjdCI6ICJmYWtlRWZmZWN0VGVtcGxhdGVOYW1lIiwKImF0dHJpYnV0ZXMiOiBbCnsKImFwaV9uYW1lIjogImFydGljbGUiLAoidGl0bGUiOiAiYXJ0aWN1bG8iLAoidHlwZSI6ICI1MWM1N2JjMC00NzgxLTRiNjItYTg5Mi02ZDFkOGU2ZmY1NmUiCn0sCnsKImFwaV9uYW1lIjogImZhcnQiLAoidGl0bGUiOiAicGVvIiwKInR5cGUiOiAiNTFjNTdiYzAtNDc4MS00YjYyLWE4OTItNmQxZDhlNmZmNTZlIgp9Cl0sCiJpZCI6ICIxZmY2NzJmMS1iNjk5LTQxOTQtYmEzMS1jMmFiZTU1MjI3ZWQiCn0KCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHN0cmluZylVdWlkOjp2NCgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzIzMjMyMzQyMycK</text>
+        <text encoding="base64">ICAgICAgICAkY21kID0gbmV3IENyZWF0ZVRheENvbW1hbmQoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbAo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIEd1enpsZUh0dHBcUHNyN1xzdHI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
