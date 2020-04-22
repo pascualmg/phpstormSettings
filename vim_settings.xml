@@ -124,11 +124,6 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Domain/Model/TaxTest.php" timestamp="1587560862109">
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/src/taxes-service/.env" timestamp="1587539639710">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="13" />
@@ -145,28 +140,28 @@
         <mark key="^" line="132" column="18" />
         <mark key="." line="133" column="53" />
       </file>
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxCommandHandler.php" timestamp="1587566738089">
+        <mark key="[" line="29" column="71" />
+        <mark key="]" line="29" column="71" />
+        <mark key="." line="29" column="70" />
+        <mark key="^" line="29" column="71" />
+      </file>
       <file name="/foo.bar" timestamp="1587458288921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1587559852138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalRepairCenterRepository.php" timestamp="1587368001637">
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="25" />
-        <mark key="^" line="31" column="25" />
-        <mark key="." line="31" column="24" />
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxHandler.php" timestamp="1587566420529">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Domain/Model/AfterSale/MemoryAfterSaleCaseRepository.php" timestamp="1587369623240">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Domain/Model/AfterSale/AfterSaleCaseMother.php" timestamp="1587369250407">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="55" />
-        <mark key="^" line="16" column="55" />
-        <mark key="." line="16" column="54" />
       </file>
       <file name="/api_almacen [mysql.web.dev.pccom.interno]" timestamp="1587386923691">
         <mark key="[" line="0" column="0" />
@@ -229,40 +224,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0gJHRheC0+anNvblNlcmlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>when_rate_is_bigger_than_10000_then_should_throw_exception</text>
+        <text>startDate</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAvKiogQHRlc3QgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB3aGVuX3JhdGVfaXNfYmlnZ2VyX3RoYW5fMTAwMDBfdGhlbl9zaG91bGRfdGhyb3dfZXhjZXB0aW9uKCkKICAgIHsKICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uKEludmFsaWRUYXhSYXRlRXhjZXB0aW9uOjpjbGFzcyk7CiAgICAgICAgVGF4UmF0ZTo6ZnJvbSgxMDAwMSk7CiAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGVUaW1lVmFsdWVPYmplY3Q6OmZyb20oJGNyZWF0ZVRheENvbW1hbmQtPnN0YXJ0RGF0ZSgpKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0gJHRheC0+anNvblNlcmlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0gbmV3IEpzb25SZXNwb25zZSgkdGF4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEYXRlVGltZVZhbHVlT2JqZWN0Ojpmcm9tKCRjcmVhdGVUYXhDb21tYW5kLT5zdGFydERhdGUoKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uKEludmFsaWRUYXhSYXRlRXhjZXB0aW9uOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVVSQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3BlbmFwaTogJzMuMC4wJwppbmZvOgogIHRpdGxlOiAnVGF4ZXMgU2VydmljZScKICB2ZXJzaW9uOiAnMS4wJwpzZXJ2ZXJzOgogIC0gdXJsOiAnaHR0cDovL2xvY2FsaG9zdDozMDAwJwpwYXRoczoKICAnL3RheC97dGF4SWR9JzoKICAgIHBhcmFtZXRlcnM6CiAgICAgIC0gc2NoZW1hOgogICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAgICAgbmFtZTogdGF4SWQKICAgICAgICBpbjogcGF0aAogICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICBnZXQ6CiAgICAgIHN1bW1hcnk6IG9idGFpbiB0YXgKICAgICAgdGFnczogW10KICAgICAgcmVzcG9uc2VzOgogICAgICAgICcyMDAnOgogICAgICAgICAgZGVzY3JpcHRpb246IE9LCiAgICAgICAgICBoZWFkZXJzOiB7fQogICAgICAgICAgY29udGVudDoKICAgICAgICAgICAgYXBwbGljYXRpb24vanNvbjoKICAgICAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvVGF4JwogICAgICAgICc0MDQnOgogICAgICAgICAgZGVzY3JpcHRpb246IE5vdCBGb3VuZAogICAgICBvcGVyYXRpb25JZDogZ2V0LXRheC10YXhJZAogICAgICBwYXJhbWV0ZXJzOgogICAgICAgIC0gc2NoZW1hOgogICAgICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICAgIGluOiBoZWFkZXIKICAgIHB1dDoKICAgICAgc3VtbWFyeTogdXBkYXRlIHRheAogICAgICB0YWdzOiBbXQogICAgICByZXNwb25zZXM6CiAgICAgICAgJzIwNCc6CiAgICAgICAgICBkZXNjcmlwdGlvbjogTm8gQ29udGVudAogICAgICAgICc0MDQnOgogICAgICAgICAgZGVzY3JpcHRpb246IE5vdCBGb3VuZAogICAgICBvcGVyYXRpb25JZDogcHV0LXRheC10YXhJZAogICAgICByZXF1ZXN0Qm9keToKICAgICAgICBjb250ZW50OgogICAgICAgICAgYXBwbGljYXRpb24vanNvbjoKICAgICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAgICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9UYXgnCiAgL3RheDoKICAgIGdldDoKICAgICAgc3VtbWFyeTogWW91ciBHRVQgZW5kcG9pbnQKICAgICAgdGFnczogW10KICAgICAgcmVzcG9uc2VzOgogICAgICAgICcyMDAnOgogICAgICAgICAgZGVzY3JpcHRpb246IE9LCiAgICAgICAgICBjb250ZW50OgogICAgICAgICAgICBhcHBsaWNhdGlvbi9qc29uOgogICAgICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgICAgIHR5cGU6IGFycmF5CiAgICAgICAgICAgICAgICBpdGVtczoKICAgICAgICAgICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9zY2hlbWFzL1RheCcKICAgICAgb3BlcmF0aW9uSWQ6IGdldC10YXgKICAgICAgcmVxdWVzdEJvZHk6IHt9CiAgICBwb3N0OgogICAgICBzdW1tYXJ5OiAnJwogICAgICBvcGVyYXRpb25JZDogcG9zdC10YXgKICAgICAgcmVzcG9uc2VzOgogICAgICAgICcyMDEnOgogICAgICAgICAgZGVzY3JpcHRpb246IENyZWF0ZWQKICAgICAgICAnNDA5JzoKICAgICAgICAgIGRlc2NyaXB0aW9uOiBDb25mbGljdAogICAgICByZXF1ZXN0Qm9keToKICAgICAgICBjb250ZW50OgogICAgICAgICAgYXBwbGljYXRpb24vanNvbjoKICAgICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAgICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9UYXgnCiAgICAgICAgICBhcHBsaWNhdGlvbi94bWw6CiAgICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvVGF4JwogICcvdGF4L3t0YXhJZH0vYWN0aXZhdGUnOgogICAgcGFyYW1ldGVyczoKICAgICAgLSBzY2hlbWE6CiAgICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICBuYW1lOiB0YXhJZAogICAgICAgIGluOiBwYXRoCiAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgIHBvc3Q6CiAgICAgIHN1bW1hcnk6ICcnCiAgICAgIG9wZXJhdGlvbklkOiBwb3N0LXRheC10YXhJZC1hY3RpdmF0ZQogICAgICByZXNwb25zZXM6CiAgICAgICAgJzIwNCc6CiAgICAgICAgICBkZXNjcmlwdGlvbjogTm8gQ29udGVudAogICAgICAgICc0MDQnOgogICAgICAgICAgZGVzY3JpcHRpb246IE5vdCBGb3VuZAogICcvdGF4L3t0YXhJZH0vZGVhY3RpdmF0ZSc6CiAgICBwYXJhbWV0ZXJzOgogICAgICAtIHNjaGVtYToKICAgICAgICAgIHR5cGU6IHN0cmluZwogICAgICAgIG5hbWU6IHRheElkCiAgICAgICAgaW46IHBhdGgKICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgcG9zdDoKICAgICAgc3VtbWFyeTogJycKICAgICAgb3BlcmF0aW9uSWQ6IHBvc3QtdGF4LXRheElkLWRlYWN0aXZhdGUKICAgICAgcmVzcG9uc2VzOgogICAgICAgICcyMDQnOgogICAgICAgICAgZGVzY3JpcHRpb246IE5vIENvbnRlbnQKICAgICAgICAnNDA0JzoKICAgICAgICAgIGRlc2NyaXB0aW9uOiBOb3QgRm91bmQKY29tcG9uZW50czoKICBzY2hlbWFzOgogICAgVGF4OgogICAgICB0aXRsZTogVGF4CiAgICAgIHR5cGU6IG9iamVjdAogICAgICBwcm9wZXJ0aWVzOgogICAgICAgIHRheElkOgogICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAgICAgICBmb3JtYXQ6IHV1aWQKICAgICAgICBuYW1lOgogICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAgICAgcmF0ZToKICAgICAgICAgIHR5cGU6IGludGVnZXIKICAgICAgICAgIG1pbmltdW06IDAKICAgICAgICAgIG1heGltdW06IDEwMDAwCiAgICAgICAgYWN0aXZlOgogICAgICAgICAgdHlwZTogYm9vbGVhbgogICAgICAgIGRhdGVTdGFydDoKICAgICAgICAgIHR5cGU6IHN0cmluZwogICAgICAgICAgZm9ybWF0OiBkYXRlLXRpbWUKICAgICAgICBkYXRlRW5kOgogICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAgICAgICBmb3JtYXQ6IGRhdGUtdGltZQo=</text>
+        <text encoding="base64">dXNlIFJhbXNleVxVdWlkXFV1aWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBuZXcgVXVpZCgpIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNyZWF0ZVRheENvbW1hbmQtPnRheElkKCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVsbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgV0hFUkUgcmV0dXJuSWQgPSA6cmV0dXJuSWQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVsbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBwY2NvbV9yZXR1cm5zIHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVsbCwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
