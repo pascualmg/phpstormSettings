@@ -158,13 +158,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Application/CreateTax/CreateTaxCommandHandlerTest.php" timestamp="1587586708709">
-        <mark key="[" line="64" column="33" />
-        <mark key="]" line="64" column="40" />
-        <mark key="^" line="64" column="40" />
-        <mark key="." line="64" column="39" />
+      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Application/CreateTax/CreateTaxCommandHandlerTest.php" timestamp="1587587898390">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="23" column="32" />
+        <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587586761063">
+      <file name="/Dummy.txt" timestamp="1587588062484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -184,11 +184,11 @@
       <file name="/fragment.php" timestamp="1587571611249">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxCommandHandler.php" timestamp="1587573676251">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="29" column="12" />
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxCommandHandler.php" timestamp="1587587771391">
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="20" column="70" />
+        <mark key="." line="20" column="69" />
+        <mark key="^" line="20" column="70" />
       </file>
       <file name="/" timestamp="1587574488875">
         <mark key="[" line="0" column="0" />
@@ -199,11 +199,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Exception/TaxAlreadyExistsException.php" timestamp="1587586246558">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Exception/TaxAlreadyExistsException.php" timestamp="1587588423256">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -239,38 +239,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Success</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIFRocm93YWJsZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Success</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2NvZGUnID0+ICR0aGlzLT5nZXRDb2RlKCksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmV3IENyZWF0ZVRheENvbW1hbmQoCiAgICAgICAgICAgIChzdHJpbmcpVXVpZDo6djQoKSwKICAgICAgICAgICAgJycsCiAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAyMTAwLAogICAgICAgICAgICAnMjAwMS0xMi0yJywKICAgICAgICAgICAgJycKICAgICAgICApCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIFRocm93YWJsZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnROdWxsKCRhY3R1YWwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aWxsUmV0dXJuKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnROdWxsKCRhY3R1YWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5tZXRob2QoJ19faW52b2tlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5leHBlY3RzKCR0aGlzLT5vbmNlKCkpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkY3JlYXRlVGF4U2VydmljZVN1Y2Nlc3MK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlYXRlVGF4U2VydmljZVN1Y2Nlc3MgPSAkdGhpcy0+Y3JlYXRlTW9jayhDcmVhdGVUYXg6OmNsYXNzKTsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">bmV3IENyZWF0ZVRheENvbW1hbmQoCiAgICAgICAgICAgIChzdHJpbmcpVXVpZDo6djQoKSwKICAgICAgICAgICAgJycsCiAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAyMTAwLAogICAgICAgICAgICAnMjAwMS0xMi0yJywKICAgICAgICAgICAgJycKICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
