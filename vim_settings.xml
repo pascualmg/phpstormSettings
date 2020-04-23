@@ -120,12 +120,6 @@
         <mark key="]" line="25" column="55" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Exception/InvalidTaxRateException.php" timestamp="1587627302558">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="37" />
-        <mark key="^" line="20" column="38" />
-      </file>
       <file name="$USER_HOME$/src/taxes-service/tests/Mock/Domain/Mock/TaxObjectMother.php" timestamp="1587628703142">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -140,13 +134,16 @@
         <mark key="]" line="28" column="49" />
         <mark key="." line="28" column="49" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Domain/Service/CreateTaxTest.php" timestamp="1587628987458">
-        <mark key="[" line="48" column="24" />
-        <mark key="]" line="48" column="25" />
-        <mark key="." line="48" column="25" />
-        <mark key="^" line="48" column="24" />
+      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Domain/Service/CreateTaxTest.php" timestamp="1587648531177">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="6" />
+        <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Service/CreateTax.php" timestamp="1587627885829">
+      <file name="/PHP Console" timestamp="1587648698783">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Service/CreateTax.php" timestamp="1587648491726">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -164,38 +161,34 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Model/TaxRepository.php" timestamp="1587627517922">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="40" />
-        <mark key="^" line="11" column="37" />
-      </file>
       <file name="$USER_HOME$/src/taxes-service/tests/Tax/Application/CreateTax/CreateTaxCommandHandlerTest.php" timestamp="1587633996599">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="18" column="14" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587642804314">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1587648100631">
+        <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/System/Entrypoint/Controller/CreateTaxController.php" timestamp="1587642668920">
-        <mark key="[" line="29" column="36" />
-        <mark key="]" line="29" column="45" />
-        <mark key="^" line="29" column="45" />
-        <mark key="." line="29" column="44" />
+      <file name="$USER_HOME$/src/taxes-service/src/System/Entrypoint/Controller/CreateTaxController.php" timestamp="1587648782088">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="21" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1587648651079">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1587633250608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxCommandHandler.php" timestamp="1587626591782">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/src/taxes-service/vendor/pccomponentes/ddd/src/Domain/Model/ValueObject/DateTimeValueObject.php" timestamp="1587641342483" />
+      <file name="$USER_HOME$/src/taxes-service/.idea/httpRequests/2020-04-23T033145.500.json" timestamp="1587648735788" />
       <file name="$USER_HOME$/src/taxes-service/src/Tax/Infrastructure/Dbal/DbalTaxRepository.php" timestamp="1587642792902">
         <mark key="[" line="20" column="24" />
         <mark key="]" line="49" column="0" />
@@ -236,41 +229,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>make init fixed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjU3MzEuNTAwLmpzb24KPD4gMjAyMC0wNC0yMlQwNjQxNDcuMjAwLmpzb24=</text>
       </register>
       <register name="-" type="4">
-        <text>make init fixed</text>
+        <text>tax repo in controller</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgRGF0ZVRpbWVWYWx1ZU9iamVjdDo6ZnJvbVRpbWVzdGFtcCgkcmVzdWx0WydzdGFydF9kYXRlJ10pLAo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVwb3NpdG9yeU1vY2stPmV4cGVjdHMoJHRoaXMtPm9uY2UoKSktPm1ldGhvZCgnZmluZCcpLT53aWxsUmV0dXJuKCR0YXhNb2NrKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXF1ZXN0JyA9PiAkcmVxdWVzdCwK</text>
+        <text encoding="base64">PD4gMjAyMC0wNC0yMlQwNjU3MzEuNTAwLmpzb24KPD4gMjAyMC0wNC0yMlQwNjQxNDcuMjAwLmpzb24=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuZXcgRGJhbFRheFJlcG9zaXRvcnkoJHRoaXMtPmdldCgnY29ubmVjdGlvbi5kYmFsLnBvc3RncmVzJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uTWVzc2FnZSgiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGhhbmRsZXIoJGNtZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXF1ZXN0JyA9PiAkcmVxdWVzdCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgbmV3IERiYWxUYXhSZXBvc2l0b3J5KCR0aGlzLT5nZXQoJ2Nvbm5lY3Rpb24uZGJhbC5wb3N0Z3JlcycpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGhhbmRsZXIoJGNtZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICBuZXcgRGJhbFRheFJlcG9zaXRvcnkoJHRoaXMtPmdldCgnY29ubmVjdGlvbi5kYmFsLnBvc3RncmVzJykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFuZGxlciA9ICR0aGlzLT5jcmVhdGVUYXhDb21tYW5kSGFuZGxlcihuZXcgQ3JlYXRlVGF4KAo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGhhbmRsZXIoJGNtZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
