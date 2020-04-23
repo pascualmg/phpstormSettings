@@ -109,16 +109,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Application/CreateTax/CreateTaxCommandHandlerTest.php" timestamp="1587587898390">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Application/CreateTax/CreateTaxCommandHandlerTest.php" timestamp="1587629833146">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="66" column="21" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1587627097663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Model/Tax.php" timestamp="1587628914300">
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="62" />
+        <mark key="." line="32" column="61" />
+        <mark key="^" line="32" column="62" />
       </file>
       <file name="$USER_HOME$/src/taxes-service/src/System/Entrypoint/Controller/CreateTaxController.php" timestamp="1587627042801">
         <mark key="[" line="26" column="0" />
@@ -134,11 +140,6 @@
       </file>
       <file name="/fragment.php" timestamp="1587571611249">
         <mark key="[" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/src/taxes-service/.env" timestamp="1587567995279">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="13" />
-        <mark key="." line="30" column="13" />
       </file>
       <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Exception/InvalidTaxRateException.php" timestamp="1587627302558">
         <mark key="[" line="20" column="32" />
@@ -163,16 +164,17 @@
       <file name="/a.sql" timestamp="1587568715838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxCommand.php" timestamp="1587575240855">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/CreateTax/CreateTaxCommand.php" timestamp="1587629687776">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Domain/Service/CreateTaxTest.php" timestamp="1587628732893">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="27" column="32" />
+      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Domain/Service/CreateTaxTest.php" timestamp="1587628987458">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="25" />
+        <mark key="." line="48" column="25" />
+        <mark key="^" line="48" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b7cc32b4-7c1e-4552-aacc-5d875f9d86b0/console.sql" timestamp="1587568724964">
         <mark key="[" line="0" column="0" />
@@ -244,41 +246,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>period</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>period</text>
+        <text>01</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwb3NpdG9yeU1vY2stPmV4cGVjdHMoJHRoaXMtPm9uY2UoKSktPm1ldGhvZCgnZmluZCcpLT53aWxsUmV0dXJuKCR0YXhNb2NrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDAxLTEyLTInLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQ6OnRoYXQoJHRheElkKS0+dXVpZCgpLT5ub3RCbGFuaygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIGZ1bmN0aW9uIG5hbWUoKTogc3RyaW5nCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5uYW1lOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBhY3RpdmUoKTogYm9vbAogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+YWN0aXZlOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiByYXRlKCk6IFRheFJhdGUKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnJhdGU7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHBlcmlvZCgpOiBQZXJpb2QKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnBlcmlvZDsKICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQ6Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0YXhJZCgpOiBVdWlkCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT50YXhJZDsKICAgIH0=</text>
+        <text encoding="base64">dXNlIFBjY29tcG9uZW50ZXNcRGRkXEFwcGxpY2F0aW9uXENvbW1hbmQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZGVmYXVsdFRheC0+cGVyaW9kID0gUGVyaW9kOjpmcm9tKERhdGVUaW1lVmFsdWVPYmplY3Q6OmZyb20oJzIwMDgtMTItMDEnKSwgRGF0ZVRpbWVWYWx1ZU9iamVjdDo6ZnJvbSgnMjAyMC0wMS0wMicpKTsK</text>
+        <text encoding="base64">CmNsYXNzIENyZWF0ZVRheENvbW1hbmQgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZGVmYXVsdFRheC0+cmF0ZSA9IFRheFJhdGU6OmZyb20oMjEwMCk7Cg==</text>
+        <text encoding="base64">dXNlIFBjY29tcG9uZW50ZXNcRGRkXEFwcGxpY2F0aW9uXENvbW1hbmQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGVmYXVsdFRheC0+YWN0aXZlID0gdHJ1ZTsK</text>
+        <text encoding="base64">dXNlIEFzc2VydFxBc3NlcnQ7CnVzZSBQY2NvbXBvbmVudGVzXERkZFxBcHBsaWNhdGlvblxDb21tYW5kOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZGVmYXVsdFRheC0+bmFtZSA9ICdJVkEgZ2VuZXJhbCBFc3Bhw7FhJzsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGVyaW9kCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
