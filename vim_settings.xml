@@ -117,7 +117,7 @@
       <file name="/siptize_log [bigdata]" timestamp="1588014192461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588017247636">
+      <file name="/Dummy.txt" timestamp="1588021043762">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -132,12 +132,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" timestamp="1588019991309">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="51" column="26" />
-        <mark key="." line="51" column="25" />
-        <mark key="^" line="51" column="26" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" timestamp="1588020908231">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="40" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587993740071">
         <mark key="[" line="0" column="0" />
@@ -217,10 +217,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>implemented GetSiptizeLogDataTransformer.php based on open api spec</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>implemented GetSiptizeLogDataTransformer.php based on open api spec</text>
       </register>
       <register name="/" type="4">
         <text>algo</text>
@@ -229,31 +229,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb25fb2xkX2NhbGxzJyA9PiAkaXRlbS0+cmVnaXN0ZXJlZE9uKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoJHRoaXMtPmh5ZHJhdGUpKCkK</text>
+        <text encoding="base64">dXNlIENsb3N1cmU7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdHMgPSAkc3RtdC0+ZmV0Y2hBbGwoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0bXQtPmV4ZWN1dGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgICRoeWRyYXRlOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAkc3RtdC0+ZXhlY3V0ZSgpOwogICAgICAgICRyZXN1bHQgPSAkc3RtdC0+ZmV0Y2hBbGwoKTsKICAgICAgICByZXR1cm4gYXJyYXlfbWFwKCRoeWRyYXRlLCAkcmVzdWx0KTs=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWFwKCR0aGlzLT5oeWRyYXRlLCAkcmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
