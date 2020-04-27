@@ -4,7 +4,9 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>algo</entry>
+      </history-search>
       <history-cmd>
         <entry>q</entry>
       </history-cmd>
@@ -125,18 +127,28 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5d4863c6-70bc-4aac-8bff-b8a94ad7cfd8/console_1.sql" timestamp="1587991699644">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/services.yml" timestamp="1588013399513">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/dumpDataPreview" timestamp="1587991853100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/siptize_log [bigdata]" timestamp="1587993590299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587996384614">
+      <file name="/Dummy.txt" timestamp="1588011496724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Downloads/CallCenter.v1.yaml" timestamp="1588011051734" />
+      <file name="$USER_HOME$/Downloads/CallCenter.v1.yaml" timestamp="1588011303065">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Support/Siptize/GetSiptizeLogDataTransformer.php" timestamp="1588010650463">
         <mark key="[" line="21" column="60" />
         <mark key="]" line="21" column="69" />
@@ -161,15 +173,12 @@
       <file name="/foo.bar" timestamp="1587993590505">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_1" timestamp="1587991696538">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/taxes-service/src/Tax/Infrastructure/Dbal/DbalTaxRepository.php" timestamp="1587994295992" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Controller/SupportController.php" timestamp="1588010935831">
-        <mark key="[" line="659" column="31" />
-        <mark key="]" line="659" column="38" />
-        <mark key="^" line="659" column="38" />
-        <mark key="." line="659" column="37" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Controller/SupportController.php" timestamp="1588011433796">
+        <mark key="[" line="651" column="0" />
+        <mark key="]" line="651" column="0" />
+        <mark key="^" line="651" column="8" />
+        <mark key="." line="651" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -209,41 +218,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>endDate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhcmd1bWVudHM6ICc=</text>
       </register>
       <register name="-" type="4">
-        <text>endDate</text>
+        <text>;</text>
+      </register>
+      <register name="/" type="4">
+        <text>algo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb25fb2xkX2NhbGxzJyA9PiAkaXRlbS0+cmVnaXN0ZXJlZE9uKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBhcmd1bWVudHM6ICc=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkaW9zIHF1ZSBndWFwbyB0aW8gLCBhaG9yYSBzaSBxdWUgbW9sYSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBvYmplY3RfdG9fYXJyYXkoJGRhdGEpCiAgICAgICAgewogICAgICAgICAgICBpZiAoaXNfYXJyYXkoJGRhdGEpIHx8IGlzX29iamVjdCgkZGF0YSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICRyZXN1bHQgPSBhcnJheSgpOwogICAgICAgICAgICAgICAgZm9yZWFjaCAoJGRhdGEgYXMgJGtleSA9PiAkdmFsdWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJHJlc3VsdFska2V5XSA9IG9iamVjdF90b19hcnJheSgkdmFsdWUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZHVtcCgkcmVzdWx0KTsKICAgICAgICAgICAgICAgIHJldHVybiAkcmVzdWx0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkZGF0YTsKICAgICAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBqc29uX2RlY29kZShqc29uX2VuY29kZSgkaXRlbSksIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoanNvbl9lbmNvZGUoJGl0ZW0pKTsK</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBvYmplY3RfdG9fYXJyYXkoJGRhdGEpCiAgICAgICAgewogICAgICAgICAgICBpZiAoaXNfYXJyYXkoJGRhdGEpIHx8IGlzX29iamVjdCgkZGF0YSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICRyZXN1bHQgPSBhcnJheSgpOwogICAgICAgICAgICAgICAgZm9yZWFjaCAoJGRhdGEgYXMgJGtleSA9PiAkdmFsdWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJHJlc3VsdFska2V5XSA9IG9iamVjdF90b19hcnJheSgkdmFsdWUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZHVtcCgkcmVzdWx0KTsKICAgICAgICAgICAgICAgIHJldHVybiAkcmVzdWx0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkZGF0YTsKICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBkdW1wKGpzb25fZW5jb2RlKCRpdGVtLCAwLCA1MTIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBqc29uX2RlY29kZShqc29uX2VuY29kZSgkaXRlbSksIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -252,7 +264,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>algo</last-search>
+      <last-offset />
+      <last-pattern>algo</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
