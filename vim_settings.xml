@@ -117,7 +117,7 @@
       <file name="/console" timestamp="1587902915960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/taxes.public.tax" timestamp="1587928041918">
+      <file name="/taxes.public.tax" timestamp="1587966958192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1587900927806">
@@ -150,6 +150,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/taxes-service/tests/Tax/Domain/Service/CreateTaxTest.php" timestamp="1587967134361">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1587905851701">
         <mark key="[" line="0" column="0" />
@@ -219,8 +224,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix sql ( missing fields )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwZXJvIHFldSAK</text>
       </register>
       <register name="-" type="4">
         <text>fix sql ( missing fields )</text>
@@ -229,31 +234,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZF9kYXRlIFRJTUVTVEFNUCBXSVRIIFRJTUUgWk9ORSBOT1QgTlVMTCwgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgVGF4QWxyZWFkeUV4aXN0c0V4Y2VwdGlvbjo6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJvIHFldSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEpzb25FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJvIHFldSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHRheAooCiAgICBpZCB1dWlkIG5vdCBudWxsLAogICAgbmFtZSB2YXJjaGFyLAogICAgcmF0ZSBpbnQKKTsKCmNyZWF0ZSB1bmlxdWUgaW5kZXggdGF4X2lkX3VpbmRleAogICAgb24gdGF4IChpZCk7CgphbHRlciB0YWJsZSB0YXgKICAgIGFkZCBjb25zdHJhaW50IHRheF9wawogICAgICAgIHByaW1hcnkga2V5IChpZCk7Cgo=</text>
+        <text encoding="base64">CiAgICAgICAgJHNlcnZpY2UtPmludm9rZSAoIGN1YW5kbyB0ZW5nbyBxdWUgZXNjcmliaXIgbXVjaG8gZXMgYWhvcmEgY3VhbmRvIHRpZW5lcyBxdWUgaGFjZXIgbG8gcXVlIHRlIGRlIGxhIGdhbmEgLCBlcyBsYSAKICAgIHRpYSBxdWUgdmllbmUgcG9yIGxhIG1hO2FuYSBhbmQgc2VsZjo6YXNzZXJ0Q29udGFpbnNPbmx5SW5zdGFuY2VzT2YoICcnKSk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yNlQwMTM0MDY1MDQuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVwb3NpdG9yeU1vY2stPmV4cGVjdHMoJHRoaXMtPm9uY2UoKSktPm1ldGhvZCgnZmluZCcpLT53aWxsUmV0dXJuKCR0YXhNb2NrKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNC0yNlQwMTMwMjcuNDAwLmpzb24KPD4gMjAyMC0wNC0yNlQwMTA1NTQuNTAwLmpzb24KPD4gMjAyMC0wNC0yNlQxMjAwMjQuNTA0Lmh0bWwKPD4gMjAyMC0wNC0yNFQxMjE5NTQuNTAwLmpzb24KPD4gMjAyMC0wNC0yNFQxMjE5MjkuNTAwLmpzb24KPD4gMjAyMC0wNC0yM1QwMzQ0NDAuNTAwLmpzb24KPD4gMjAyMC0wNC0yM1QwMzQzNDkuNTAwLmpzb24KPD4gMjAyMC0wNC0yM1QwMzMxNDUuNTAwLmpzb24KCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVwb3NpdG9yeU1vY2stPmV4cGVjdHMoJHRoaXMtPm5ldmVyKCkpLT5tZXRob2QoJ3NhdmUnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTl9USFJPV19PTl9FUlJPUgo=</text>
+        <text encoding="base64">ICAgICAgICBhaG9yYSBzaSBhaG9yYSBzaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgVGF4QWxyZWFkeUV4aXN0c0V4Y2VwdGlvbjo6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">dXNlIEpzb25FeGNlcHRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHN0cmluZykkcGF5bG9hZFsnZGF0ZUVuZCddLAo=</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHRheAooCiAgICBpZCB1dWlkIG5vdCBudWxsLAogICAgbmFtZSB2YXJjaGFyLAogICAgcmF0ZSBpbnQKKTsKCmNyZWF0ZSB1bmlxdWUgaW5kZXggdGF4X2lkX3VpbmRleAogICAgb24gdGF4IChpZCk7CgphbHRlciB0YWJsZSB0YXgKICAgIGFkZCBjb25zdHJhaW50IHRheF9wawogICAgICAgIHByaW1hcnkga2V5IChpZCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
