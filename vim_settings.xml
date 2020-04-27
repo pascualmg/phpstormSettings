@@ -109,32 +109,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/DW.siptize_log" timestamp="1587991793849">
+      <file name="/DW.siptize_log" timestamp="1587993590440">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1587991649030">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Support/Siptize/GetSiptizeLog.php" timestamp="1587990327115">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="32" column="8" />
-        <mark key="^" line="32" column="8" />
-        <mark key="." line="32" column="7" />
-      </file>
-      <file name="/a.sql" timestamp="1587991812341">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1587985608056">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/app/config/parameters.yml" timestamp="1587988955021" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5d4863c6-70bc-4aac-8bff-b8a94ad7cfd8/console_1.sql" timestamp="1587991699644">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dumpDataPreview" timestamp="1587991853100">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/siptize_log [bigdata]" timestamp="1587991793839">
+      <file name="/siptize_log [bigdata]" timestamp="1587993590299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1587991812366">
@@ -148,19 +126,26 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" timestamp="1587992275939">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="15" />
-        <mark key="." line="37" column="14" />
-        <mark key="^" line="37" column="15" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" timestamp="1587994822668">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="26" column="97" />
+        <mark key="]" line="26" column="97" />
+        <mark key="." line="26" column="97" />
+        <mark key="^" line="26" column="97" />
+      </file>
+      <file name="/console" timestamp="1587991649030">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587993740071">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/taxes.public.tax" timestamp="1587994274919">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1587992359678">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1587985638230">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Resources/config/routing_support.yml" timestamp="1587990874873">
         <mark key="[" line="88" column="16" />
@@ -168,10 +153,26 @@
         <mark key="." line="89" column="1" />
         <mark key="^" line="89" column="2" />
       </file>
-      <file name="/foo.bar" timestamp="1587991793863">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Support/Siptize/GetSiptizeLog.php" timestamp="1587990327115">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="32" column="8" />
+        <mark key="^" line="32" column="8" />
+        <mark key="." line="32" column="7" />
+      </file>
+      <file name="/a.sql" timestamp="1587991812341">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1587993590505">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_1" timestamp="1587991696538">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5d4863c6-70bc-4aac-8bff-b8a94ad7cfd8/console_1.sql" timestamp="1587991699644">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Infrastructure/Dbal/DbalTaxRepository.php" timestamp="1587994295992" />
+      <file name="/dumpDataPreview" timestamp="1587991853100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Controller/SupportController.php" timestamp="1587990938500">
@@ -224,6 +225,8 @@
       <jump line="2501" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" />
       <jump line="37" column="51" filename="$USER_HOME$/src/taxes-service/src/Tax/Infrastructure/Dbal/DbalTaxRepository.php" />
       <jump line="22" column="6" filename="$USER_HOME$/src/taxes-service/src/Tax/Entrypoint/Controller/CreateTaxController.php" />
+      <jump line="26" column="61" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" />
+      <jump line="52" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -235,34 +238,34 @@
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXF1ZXN0LT5nZXQoJ3N0YXJ0RGF0ZScpLAo=</text>
+        <text encoding="base64">ICAgICAgICRzdG10LT5iaW5kVmFsdWUoJ3N0YXJ0RGF0ZScsICRzdGFydERhdGUtPmZvcm1hdChEQVRFX0FUT00pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHF1ZXJ5LT5nZXRxdQo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdC0+YmluZFZhbHVlKCdlbmREYXRlJywgJGVuZERhdGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmlsdGVyQnlJbnRlcnZhbCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICRzdG10LT5iaW5kVmFsdWUoJ3N0YXJ0RGF0ZScsICRzdGFydERhdGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGNjX3NpcHRpemVfbG9nOgogIHBhdGg6ICAgICAgL3NpcHRpemUvbG9nCiAgZGVmYXVsdHM6ICB7IF9jb250cm9sbGVyOiBQY2NPcmRlcnNCdW5kbGU6U3VwcG9ydDpnZXRTaXB0aXplTG9nIH0KICBtZXRob2RzOiBbR0VUXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRxdWVyeSk7ZGllOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICRyZXN1bHQtPktrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApKShuZXcgXERhdGVUaW1lSW1tdXRhYmxlKCdub3cnKSwgbmV3IFxEYXRlVGltZUltbXV0YWJsZSgnbm93JykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSAkcXVlcnlidWlsZGVyLT5nZXRxdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IERiYWxTaXB0aXplTG9nUmVwb3NpdG9yeSgkdGhpcy0+Z2V0KCdkb2N0cmluZS5kYmFsLmNlbnRyYWxpdGFfY29ubmVjdGlvbicpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nID0gKG5ldyBTaXB0aXplTG9nRmluZGVyKAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCAkcXVlcnktPmdldFEoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
