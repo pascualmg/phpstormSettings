@@ -133,24 +133,18 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" timestamp="1588054624180">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="34" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="/taxes.public.tax" timestamp="1588242977913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1588054847601">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Support/Service/SiptizeLogFinder.php" timestamp="1588023337208">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/taxes-service/.env" timestamp="1588574976531">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
       </file>
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/ActivateTax/ActivateTaxCommandHandler.php" timestamp="1588575030197" />
       <file name="$USER_HOME$/src/pccapi/app/phpunit.xml" timestamp="1588055726811">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -171,10 +165,8 @@
       <file name="/a.sql" timestamp="1588147961602">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1588016873074">
+      <file name="/PHP Console" timestamp="1588575226866">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/apigator/src/Tests/Apigator/httpClient/ApiGatorTest.php" timestamp="1588371253660">
         <mark key="[" line="4" column="19" />
@@ -188,6 +180,7 @@
         <mark key="^" line="74" column="18" />
         <mark key="." line="77" column="12" />
       </file>
+      <file name="$USER_HOME$/src/taxes-service/docker/php/config/php_dev.ini" timestamp="1588574996950" />
       <file name="$USER_HOME$/src/taxes-service/src/Tax/Infrastructure/Dbal/DbalTaxRepository.php" timestamp="1588243065975">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -195,12 +188,6 @@
       </file>
       <file name="/Dummy.json" timestamp="1588374038831">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Controller/SupportController.php" timestamp="1588016980574">
-        <mark key="[" line="650" column="0" />
-        <mark key="]" line="650" column="0" />
-        <mark key="^" line="653" column="6" />
-        <mark key="." line="650" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -241,10 +228,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>Test</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>Test</text>
       </register>
       <register name="/" type="4">
         <text>algo</text>
