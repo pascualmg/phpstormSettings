@@ -111,21 +111,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588663653820">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssignRepairCenterCommandHandler.php" timestamp="1588663282448" />
-      <file name="$USER_HOME$/src/web/quovadis/tarifas/application/views/tarifas/cliente.php" timestamp="1588669371587" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/Support/SupportController.php" timestamp="1588596747878">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/pccom_returns_suppliers_doa [mysql.web.dev.pccom.interno]" timestamp="1588585776546">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/PHP Console" timestamp="1588599116798">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/docker/local/.env" timestamp="1588590563255">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/CientNotFound.php" timestamp="1588683020826">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/DBalAfterSalesCaseRepository" timestamp="1588596269160">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588682636091">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="/web.pccom_returns_suppliers_doa" timestamp="1588585776569">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/ClientNotFoundException.php" timestamp="1588683440959">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Support/SiptizeLogRepository.php" timestamp="1588630117608">
         <mark key="[" line="10" column="0" />
@@ -133,36 +156,16 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/web.pccom_returns_resolve" timestamp="1588585743621">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/CientNotFoundException.php" timestamp="1588682655804">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/_standard_manual.php" timestamp="1588683429373" />
       <file name="/" timestamp="1588663147275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/web.pccom_returns_resolution" timestamp="1588585696701">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1588585776598">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/RmaAssistant/GetAgencyData/GetAgencyData.php" timestamp="1588662181379" />
-      <file name="/PHP Console" timestamp="1588599116798">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/web.pccom_returns_status" timestamp="1588585771701">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/pccom_returns_status [mysql.web.dev.pccom.interno]" timestamp="1588585771672">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/web/quovadis/clientes.php" timestamp="1588669450669" />
-      <file name="$USER_HOME$/src/pccapi/docker/local/.env" timestamp="1588590563255">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="0" column="26" />
-      </file>
-      <file name="/DBalAfterSalesCaseRepository" timestamp="1588596269160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/.env.dist" timestamp="1588590532529">
@@ -171,8 +174,10 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="/pccom_returns_resolve [mysql.web.dev.pccom.interno]" timestamp="1588585743590">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/ClientFinder.php" timestamp="1588683524893">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -209,15 +214,17 @@
       <jump line="26" column="61" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" />
       <jump line="52" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/Support/DbalSiptizeLogRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/AdminBundle/Controller/Support/SupportController.php" />
+      <jump line="10" column="47" filename="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/CientNotFound.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/CientNotFound.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>aaaaa</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.18.41</text>
+        <text>404</text>
       </register>
       <register name="/" type="4">
         <text>algo</text>
@@ -226,31 +233,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBcRGF0ZVRpbWVJbW11dGFibGUoJzE5NzktMDMtMDcnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text>aaaaa</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiRrZXJuZWwgPSBuZXcgS2VybmVsKCRfU0VSVkVSWydBUFBfRU5WJ10sIChib29sKSAkX1NFUlZFUlsnQVBQX0RFQlVHJ10pOwokcmVxdWVzdCA9IFJlcXVlc3Q6OmNyZWF0ZUZyb21HbG9iYWxzKCk7CiRyZXNwb25zZSA9ICRrZXJuZWwtPmhhbmRsZSgkcmVxdWVzdCk7CiRyZXNwb25zZS0+c2VuZCgpOwoka2VybmVsLT50ZXJtaW5hdGUoJHJlcXVlc3QsICRyZXNwb25zZSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGxhZGpzZmxhZGpzZjtqZjthanMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ewogICAgLyoqCiAgICAgKiBAdGVzdAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2l2ZW5fX3RoZW4oKQogICAgewogICAgICAgICRtb2NrID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKFNpcHRpemVMb2dSZXBvc2l0b3J5OjpjbGFzcyktPmdldE1vY2soKTsKICAgICAgICAkbW9jay0+ZXhwZWN0cygkdGhpcy0+b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnZmlsdGVyQnlJbnRlcnZhbCcpOwogICAgICAgIHNlbGY6OmFzc2VydFNhbWUoCiAgICAgICAgICAgIFtdLAogICAgICAgICAgICAobmV3IFNpcHRpemVMb2dGaW5kZXIoCiAgICAgICAgICAgICAgICAkbW9jaw==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwX3Jlc3BvbnNlX2NvZGUoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlc3BvbnNlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZTo6SFRUUF9JX0FNX0FfVEVBUE9UCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIFRocm93YWJsZTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXRNb2NrQnVpbGRlcihTaXB0aXplTG9nUmVwb3NpdG9yeTo6Y2xhc3MpLT5nZXRNb2NrKCktPm1ldGhvZCgkdGhpcy0+b25jZSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjL1BjYy9CdW5kbGUvKkJ1bmRsZS9UZXN0czwvZGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIENpZW50Tm90Rm91bmRFeGNlcHRpb24gY29uc3RydWN0b3IuCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgPEJsYWNrbGlzdD4KICAgICAgICAgICAgPGRpcmVjdG9yeT4uLi92ZW5kb3IvPC9kaXJlY3Rvcnk+CiAgICAgICAgPC9CbGFja2xpc3Q+</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text>aaaaa</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
