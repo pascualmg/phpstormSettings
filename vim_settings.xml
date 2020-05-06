@@ -111,7 +111,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588746335714">
+      <file name="/Dummy.txt" timestamp="1588748573718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -127,14 +127,9 @@
       <file name="/web.pccom_returns_suppliers_doa" timestamp="1588716108747">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/aa.php" timestamp="1588748582044" />
       <file name="/pccom_returns_resolution [mysql.web.dev.pccom.interno]" timestamp="1588716108337">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/ClientNotFoundException.php" timestamp="1588683440959">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing_aftersales.yml" timestamp="1588689286220">
         <mark key="[" line="3" column="18" />
@@ -142,11 +137,7 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/CientNotFoundException.php" timestamp="1588682655804">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-      </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RepairCenterFilterTest.php" timestamp="1588748593697" />
       <file name="/web.pccom_returns_resolve" timestamp="1588716108638">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,6 +154,9 @@
       <file name="/web.pccom_returns_resolution" timestamp="1588716108441">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/ClientFinderTest.php" timestamp="1588748494885">
+        <mark key="[" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1588746347202">
         <mark key="[" line="41" column="29" />
         <mark key="]" line="41" column="4" />
@@ -178,22 +172,16 @@
       <file name="/pccom_returns_status [mysql.web.dev.pccom.interno]" timestamp="1588716108684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/CientNotFound.php" timestamp="1588683020826">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/services.yml" timestamp="1588684629922">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/ClientFinder.php" timestamp="1588683524893">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/ClientFinderTest.php" timestamp="1588748769470">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="/pccom_returns_resolve [mysql.web.dev.pccom.interno]" timestamp="1588716108621">
         <mark key="[" line="0" column="0" />
@@ -241,8 +229,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIFBjY1xEb21haW5cQWZ0ZXJTYWxlc1xTZXJ2aWNlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>localhost</text>
@@ -253,32 +241,32 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UmVwYWlyQ2VudGVyQWN0aW9uKFJlcXVlc3QgJHJlcXVlc3QpOiBKc29uUmVzcG9uc2UKICAgIHsKICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5nZXQucmVwYWlyX2NlbnRlcl9ieV9pZF9jYXNlJykoCiAgICAgICAgICAgICAgICBuZXcgR2V0UmVwYWlyQ2VudGVyUXVlcnkoCiAgICAgICAgICAgICAgICAgICAgKGludCkkcmVxdWVzdC0+Z2V0KCdpZENhc2UnKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIFBjY1xEb21haW5cQWZ0ZXJTYWxlc1xTZXJ2aWNlOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICR0aGlzLT5nZXQoJ2FmdGVyc2FsZXMuZ2V0LnJlcGFpcl9jZW50ZXJfYnlfaWRfY2FzZScpKAogICAgICAgICAgICAgICAgbmV3IEdldFJlcGFpckNlbnRlclF1ZXJ5KAogICAgICAgICAgICAgICAgICAgIChpbnQpJHJlcXVlc3QtPmdldCgnaWRDYXNlJykKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgLSAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwX3Jlc3BvbnNlX2NvZGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwX3Jlc3BvbnNlX2NvZGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
