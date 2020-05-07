@@ -7,6 +7,10 @@
       <history-search>
         <entry>algo</entry>
         <entry>case</entry>
+        <entry>const</entry>
+        <entry>findcli</entry>
+        <entry>client</entry>
+        <entry>findCli</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -140,11 +144,12 @@
         <mark key="]" line="72" column="39" />
         <mark key="." line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1588846044916">
-        <mark key="[" line="99" column="19" />
-        <mark key="]" line="99" column="19" />
-        <mark key="^" line="17" column="82" />
-        <mark key="." line="99" column="19" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1588846923811">
+        <mark key="'" line="36" column="15" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="47" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1588846113924">
         <mark key="'" line="2719" column="0" />
@@ -171,12 +176,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Domain/Model/AfterSale/AfterSaleCaseMother.php" timestamp="1588843606882">
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="41" column="31" />
-        <mark key="^" line="41" column="31" />
-        <mark key="." line="41" column="30" />
-      </file>
       <file name="/Dummy.php" timestamp="1588837665791">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,12 +190,6 @@
         <mark key="]" line="12" column="69" />
         <mark key="." line="12" column="68" />
         <mark key="^" line="12" column="69" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/AfterSaleCase.php" timestamp="1588843322141">
-        <mark key="[" line="53" column="20" />
-        <mark key="]" line="53" column="21" />
-        <mark key="^" line="53" column="21" />
-        <mark key="." line="53" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -243,48 +236,51 @@
       <jump line="822" column="70" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Exceptions/PccErrorMessage.php" />
       <jump line="823" column="53" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Exceptions/PccErrorMessage.php" />
       <jump line="1083" column="50" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Exceptions/PccErrorMessage.php" />
+      <jump line="102" column="60" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" />
+      <jump line="22" column="70" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" />
+      <jump line="36" column="15" filename="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50RmluZGVyID0gbmV3IENsaWVudEZpbmRlcigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">ICRjbGllbnRGaW5kZXI7</text>
       </register>
       <register name="/" type="4">
-        <text>case</text>
+        <text>findCli</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDQyLAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50RmluZGVyID0gJGNsaWVudEZpbmRlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50RmluZGVyID0gbmV3IENsaWVudEZpbmRlcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FzZS0+Y2xpZW50KCktPm9yZGVyQ291bnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50RmluZGVyID0gJG9ic2VydmFjaW9uZXNGaW5kZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjbGllbnQK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjbGllbnQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdENsaWVudDsK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgIHJldHVybiBuZXcgQ2xpZW50KAogICAgICAgICAgICAxLAogICAgICAgICAgICAnbWUnLAogICAgICAgICAgICAxMTMsCiAgICAgICAgICAgICdtaW9AcGNjb20nLAogICAgICAgICAgICAnbXVyY2lhJywKICAgICAgICAgICAgJ3NwYWluJywKICAgICAgICAgICAgNDIsCiAgICAgICAgICAgIDQyLAogICAgICAgICAgICA0MiwKICAgICAgICAgICAgNDIKICAgICAgICApOw==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkY2FzZS0+Y2xpZW50KCktPm9yZGVyQ291bnQoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjbGllbnQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjbGllbnQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdENsaWVudDsK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgIHJldHVybiBuZXcgQ2xpZW50KAogICAgICAgICAgICAxLAogICAgICAgICAgICAnbWUnLAogICAgICAgICAgICAxMTMsCiAgICAgICAgICAgICdtaW9AcGNjb20nLAogICAgICAgICAgICAnbXVyY2lhJywKICAgICAgICAgICAgJ3NwYWluJywKICAgICAgICAgICAgNDIsCiAgICAgICAgICAgIDQyLAogICAgICAgICAgICA0MiwKICAgICAgICAgICAgNDIKICAgICAgICApOw==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -293,9 +289,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>case</last-search>
+      <last-search>findCli</last-search>
       <last-offset />
-      <last-pattern>case</last-pattern>
+      <last-pattern>findCli</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
