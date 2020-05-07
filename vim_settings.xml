@@ -116,6 +116,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccapi/sql/case.sql" timestamp="1588881132283">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="19" column="20" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Observation.php" timestamp="1588857838467">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -133,7 +139,15 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="/PHP Console" timestamp="1588876202229">
+      <file name="/PHP Console" timestamp="1588880782884">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1588881047632">
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="/web.acciones_web" timestamp="1588880954502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/.env" timestamp="1588854631832">
@@ -143,12 +157,6 @@
       </file>
       <file name="/Dummy.php" timestamp="1588854677100">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/services.yml" timestamp="1588850826035">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="41" />
-        <mark key="." line="40" column="41" />
-        <mark key="^" line="2" column="99" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/ObservationsFinder.php" timestamp="1588857685694">
         <mark key="[" line="19" column="105" />
@@ -167,9 +175,6 @@
         <mark key="]" line="9" column="61" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/web.clientes" timestamp="1588848173815">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalClientRepository.php" timestamp="1588855414025" />
       <file name="$USER_HOME$/src/pccapi/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php" timestamp="1588855382819" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1588879727159">
@@ -179,18 +184,17 @@
         <mark key="." line="2522" column="33" />
         <mark key="^" line="2522" column="34" />
       </file>
-      <file name="/clientes [mysql.web.dev.pccom.interno]" timestamp="1588848173795">
+      <file name="/foo.bar" timestamp="1588880954516">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588848173828">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Domain/Model/AfterSale/AfterSaleCaseMother.php" timestamp="1588847521321" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Observations.php" timestamp="1588854293720">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="63" column="21" />
         <mark key="^" line="63" column="21" />
         <mark key="." line="63" column="20" />
+      </file>
+      <file name="/acciones_web [mysql.web.dev.pccom.interno]" timestamp="1588880954478">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/ObservationsFinderTest.php" timestamp="1588859054984">
         <mark key="[" line="13" column="25" />
@@ -250,11 +254,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>226338</text>
       </register>
       <register name="-" type="4">
-        <text>done</text>
+        <text>226338</text>
       </register>
       <register name="/" type="4">
         <text>findCli</text>
