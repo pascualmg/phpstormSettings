@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588843728211">
+      <file name="/Dummy.txt" timestamp="1588846170149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -126,28 +126,32 @@
       <file name="/web.api_custom_access_apps_token" timestamp="1588750290170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1588844618301">
+      <file name="/console" timestamp="1588845023374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/DBalClientRepository" timestamp="1588839503158">
+      <file name="/DBalClientRepository" timestamp="1588845023103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/web.clientes" timestamp="1588835671732">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/ClientNotFoundException.php" timestamp="1588838796618" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalClientRepository.php" timestamp="1588844879940">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalClientRepository.php" timestamp="1588845269755">
         <mark key="[" line="72" column="38" />
         <mark key="]" line="72" column="39" />
         <mark key="." line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1588844913717" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1588843012194">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1588846044916">
+        <mark key="[" line="99" column="19" />
+        <mark key="]" line="99" column="19" />
+        <mark key="^" line="17" column="82" />
+        <mark key="." line="99" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1588846113924">
         <mark key="'" line="2719" column="0" />
         <mark key="[" line="2514" column="0" />
-        <mark key="]" line="2514" column="73" />
+        <mark key="]" line="2514" column="0" />
         <mark key="." line="2514" column="0" />
-        <mark key="^" line="2518" column="22" />
+        <mark key="^" line="2514" column="38" />
       </file>
       <file name="/clientes [mysql.web.dev.pccom.interno]" timestamp="1588835671726">
         <mark key="[" line="0" column="0" />
@@ -243,11 +247,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgIHJldHVybiBuZXcgQ2xpZW50KAogICAgICAgICAgICAxLAogICAgICAgICAgICAnbWUnLAogICAgICAgICAgICAxMTMsCiAgICAgICAgICAgICdtaW9AcGNjb20nLAogICAgICAgICAgICAnbXVyY2lhJywKICAgICAgICAgICAgJ3NwYWluJywKICAgICAgICAgICAgNDIsCiAgICAgICAgICAgIDQyLAogICAgICAgICAgICA0MiwKICAgICAgICAgICAgNDIKICAgICAgICApOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>idClient</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>case</text>
@@ -255,29 +259,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDQyLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIHJldHVybiBuZXcgQ2xpZW50KAogICAgICAgICAgICAxLAogICAgICAgICAgICAnbWUnLAogICAgICAgICAgICAxMTMsCiAgICAgICAgICAgICdtaW9AcGNjb20nLAogICAgICAgICAgICAnbXVyY2lhJywKICAgICAgICAgICAgJ3NwYWluJywKICAgICAgICAgICAgNDIsCiAgICAgICAgICAgIDQyLAogICAgICAgICAgICA0MiwKICAgICAgICAgICAgNDIKICAgICAgICApOw==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkY2FzZS0+Y2xpZW50KCktPm9yZGVyQ291bnQoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjbGllbnQK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjbGllbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdENsaWVudDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgIHJldHVybiBuZXcgQ2xpZW50KAogICAgICAgICAgICAxLAogICAgICAgICAgICAnbWUnLAogICAgICAgICAgICAxMTMsCiAgICAgICAgICAgICdtaW9AcGNjb20nLAogICAgICAgICAgICAnbXVyY2lhJywKICAgICAgICAgICAgJ3NwYWluJywKICAgICAgICAgICAgNDIsCiAgICAgICAgICAgIDQyLAogICAgICAgICAgICA0MiwKICAgICAgICAgICAgNDIKICAgICAgICApOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
