@@ -146,6 +146,12 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/GetCaseQuery.php" timestamp="1588929011851">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1588923313629">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,15 +159,6 @@
         <mark key="[" line="43" column="42" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="/web.acciones_web" timestamp="1588880954502">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/services.yml" timestamp="1588925447160">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/ObservationsFinder.php" timestamp="1588925335981">
         <mark key="'" line="20" column="0" />
@@ -176,10 +173,16 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588926017815">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1588929428298">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/AfterSalesCaseFinder.php" timestamp="1588929100456">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Repository/ObservationsRepository.php" timestamp="1588923276718">
         <mark key="[" line="7" column="0" />
@@ -187,12 +190,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1588925722542">
-        <mark key="'" line="2729" column="0" />
-        <mark key="[" line="2523" column="27" />
-        <mark key="]" line="2523" column="27" />
-        <mark key="." line="2523" column="30" />
-        <mark key="^" line="2523" column="21" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1588929712128">
+        <mark key="'" line="2733" column="0" />
+        <mark key="[" line="2517" column="0" />
+        <mark key="]" line="2517" column="0" />
+        <mark key="." line="2517" column="0" />
       </file>
       <file name="/" timestamp="1588900891073">
         <mark key="[" line="0" column="0" />
@@ -203,11 +205,11 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588880954516">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/acciones_web [mysql.web.dev.pccom.interno]" timestamp="1588880954478">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/GetCaseQueryHandler.php" timestamp="1588929763459">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/ObservationsFinderTest.php" timestamp="1588925797699">
         <mark key="[" line="26" column="0" />
@@ -268,11 +270,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>findCli</text>
@@ -284,28 +286,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9ic2VydmF0aW9uc1JlcG9zaXRvcnkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdWJjYXNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQnlDYXNlKGludCAkY2FzZUlkKTogYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19pbnZva2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IGNsYXNzIGltcGxlbWVudHMgTG9nUmVwb3NpdG9yeSB7Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAnQGFmdGVyc2FsZXMucmVwb3NpdG9yeS5vYnNlcnZhdGlvbnMnCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
