@@ -119,8 +119,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589063133992">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1589063193285">
+        <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -159,6 +159,12 @@
       </file>
       <file name="$USER_HOME$/src/pccapi/app/cache/dev/appDevDebugProjectContainer.php" timestamp="1589062322959" />
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Domain/AfterSales/Service/AfterSalesCaseSolutionFinderTest.php" timestamp="1589062920152" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1589063413289">
+        <mark key="[" line="2513" column="0" />
+        <mark key="]" line="2513" column="0" />
+        <mark key="^" line="2521" column="75" />
+        <mark key="." line="2513" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/LogsFinder.php" timestamp="1588986442844">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -189,9 +195,6 @@
         <mark key="]" line="86" column="35" />
         <mark key="." line="86" column="35" />
         <mark key="^" line="86" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/ObservationsFinder.php" timestamp="1588986415514">
-        <mark key="[" line="18" column="59" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/services.yml" timestamp="1588988826262">
         <mark key="[" line="50" column="41" />
@@ -269,11 +272,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>jsonSerialize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>jsonSerialize</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>cli</text>
@@ -288,25 +291,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c29sdXRpb24gPSAkYWZ0ZXJTYWxlc0Nhc2VTb2x1dGlvbiAgPyAkYWZ0ZXJTYWxlc0Nhc2VTb2x1dGlvbi0+anNvblNlcmlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNS0wOVQwMjI1NTYuMjAwLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAobmV3IEdldENhc2VRdWVyeUhhbmRsZXIoCiAgICAgICAgICAgICR0aGlzLT5nZXQoJ2FmdGVyc2FsZXMuc2VydmljZXMuZmluZGVyLmNhc2UnKSwKICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5zZXJ2aWNlcy5maW5kZXIuY2xpZW50JyksCiAgICAgICAgICAgICR0aGlzLT5nZXQoJ2FmdGVyc2FsZXMuc2VydmljZXMuZmluZGVyLm9ic2VydmF0aW9ucycpLAogICAgICAgICAgICAkdGhpcy0+Z2V0KCdhZnRlcnNhbGVzLnNlcnZpY2VzLmZpbmRlci5sb2dzJyksCiAgICAgICAgICAgICR0aGlzLT5nZXQoJ2FmdGVyc2FsZXMuc2VydmljZS5maWx0ZXIuc3ViY2FzZXMnKSwKICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5zZXJ2aWNlLmZpbmRlci5zb2x1dGlvbicpCiAgICAgICAgKSkobmV3IEdldENhc2VRdWVyeSgoaW50KSRyZXF1ZXN0LT5hdHRyaWJ1dGVzLT5nZXQoJ2Nhc2VJZCcpKSk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNS0wOVQwMzEyMjAuMjAwLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAkaWRDYXNlID0gOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICRsb2dzID0gJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5zZXJ2aWNlcy5maW5kZXIubG9ncycpKCRpZENhc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
