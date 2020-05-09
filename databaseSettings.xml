@@ -1,6 +1,8 @@
 <application>
   <component name="DatabaseSettings" version="4">
     <option name="submit-immediately" value="true" />
+    <option name="error-in-editor" value="false" />
+    <option name="always-show-console-toolbar" value="true" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
