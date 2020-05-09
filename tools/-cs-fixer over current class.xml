@@ -1,7 +1,7 @@
 <toolSet name="-cs-fixer over current class">
-  <tool name="PHPCS" description="PHPCS" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="PHPCBF" description="linter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/src/pccapi/bin/phpcs" />
+      <option name="COMMAND" value="$USER_HOME$/src/pccapi/bin/phpcbf" />
       <option name="PARAMETERS" value="$FileDirRelativeToProjectRoot$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
