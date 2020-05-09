@@ -119,8 +119,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Log.php" timestamp="1588975344241">
-        <mark key="[" line="58" column="20" />
+      <file name="/Dummy.txt" timestamp="1588987092657">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Log.php" timestamp="1588986626073">
+        <mark key="[" line="58" column="28" />
         <mark key="]" line="58" column="21" />
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="21" />
@@ -131,22 +134,23 @@
         <mark key="." line="74" column="37" />
         <mark key="^" line="74" column="38" />
       </file>
-      <file name="/console" timestamp="1588984536106">
+      <file name="/console" timestamp="1588986485263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/AfterSalesCaseSolution.php" timestamp="1588974698204">
-        <mark key="[" line="70" column="13" />
-        <mark key="]" line="70" column="12" />
-        <mark key="^" line="70" column="12" />
-        <mark key="." line="70" column="11" />
+      <file name="$USER_HOME$/src/pccapi/.idea/httpRequests/2020-05-09T031259.200.json" timestamp="1588986868465" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Mocks/Domain/Model/AfterSale/ClientMother.php" timestamp="1588987091345">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="/DBalClientRepository" timestamp="1588984535885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1588984052910">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1588986773278">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalClientRepository.php" timestamp="1588984745586">
         <mark key="[" line="91" column="10" />
@@ -176,6 +180,11 @@
         <mark key="^" line="44" column="21" />
         <mark key="." line="44" column="20" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/LogsFinder.php" timestamp="1588986442844">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1588983895137">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,24 +194,21 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/CaseDTO.php" timestamp="1588985300864">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/CaseDTO.php" timestamp="1588987447861">
         <mark key="'" line="50" column="38" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="37" />
+        <mark key="." line="50" column="37" />
+        <mark key="^" line="50" column="40" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/GetCaseQueryHandler.php" timestamp="1588986331765">
-        <mark key="'" line="60" column="22" />
-        <mark key="[" line="76" column="30" />
-        <mark key="]" line="76" column="43" />
-        <mark key="." line="76" column="42" />
-        <mark key="^" line="76" column="43" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/GetCaseQueryHandler.php" timestamp="1588986899396">
+        <mark key="'" line="59" column="22" />
+        <mark key="[" line="74" column="53" />
+        <mark key="]" line="74" column="54" />
+        <mark key="." line="74" column="54" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/services.yml" timestamp="1588972070559">
-        <mark key="[" line="14" column="73" />
-        <mark key="]" line="14" column="109" />
-        <mark key="." line="14" column="108" />
-        <mark key="^" line="14" column="109" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/ObservationsFinder.php" timestamp="1588986415514">
+        <mark key="[" line="18" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -270,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>toins</text>
+        <text>parentCase</text>
       </register>
       <register name="-" type="4">
-        <text>toins</text>
+        <text>parentCase</text>
       </register>
       <register name="/" type="4">
         <text>cli</text>
@@ -282,31 +288,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgJGFydGljbGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGR0by0+anNvblNlcmlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">PD4gMjAyMC0wNS0wOVQwMjI1NTYuMjAwLmpzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZHRvCg==</text>
+        <text encoding="base64">PD4gMjAyMC0wNS0wOVQwMzEyMjAuMjAwLmpzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBtaXhlZCAkb3JkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIHJlZmVyZW5jZSBjYXNlIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT4K</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGR0by0+anNvblNlcmlhbGl6ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDbGllbnROb3RGb3VuZEV4Y2VwdGlvbiAkZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAkZHRvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBtaXhlZCAkb3JkZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBXSEVSRSBjbGllbnRJZCA9IDppZENsaWVudAo=</text>
+        <text encoding="base64">ICAgICAqIHJlZmVyZW5jZSBjYXNlIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
