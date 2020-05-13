@@ -9,5 +9,11 @@
         <property name="serverTimezone" value="UTC" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="taxes@local" uuid="eb634421-4b21-42e1-bd93-75690130007b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:7390/taxes</jdbc-url>
+    </data-source>
   </component>
 </application>
