@@ -126,11 +126,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589372818759">
+      <file name="/Dummy.txt" timestamp="1589404676521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/src/taxes-service/src/Kernel.php" timestamp="1589404343659" />
       <file name="$USER_HOME$/src/sqls/Aftersales/cuandohagopop.feature" timestamp="1589325269772">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,19 +152,8 @@
         <mark key="." line="30" column="79" />
         <mark key="^" line="30" column="80" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1589199373079">
-        <mark key="[" line="82" column="114" />
-        <mark key="]" line="82" column="113" />
-        <mark key="." line="82" column="112" />
-        <mark key="^" line="82" column="113" />
-      </file>
       <file name="/" timestamp="1589372294273">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/sqls/.gitignore" timestamp="1589200593195">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589372239219">
         <mark key="[" line="0" column="0" />
@@ -193,6 +183,9 @@
       </file>
       <file name="/pccom_returns [mysql.web.dev.pccom.interno]" timestamp="1589362594161">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/taxes-service/behat.yml.dist" timestamp="1589404541855">
+        <mark key="[" line="11" column="23" />
       </file>
       <file name="/tax [PostgreSQL - postgres@localhost]" timestamp="1589368321564">
         <mark key="[" line="0" column="0" />
@@ -263,7 +256,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IHBlcm8gcXVlIHBwYXNhIGVrbCBsb3Rvcm8=</text>
+        <text encoding="base64">ICAgICAgICAka2VybmVsLT4K</text>
       </register>
       <register name="-" type="4">
         <text>163968</text>
@@ -275,31 +268,31 @@
         <text encoding="base64">ClNFTEVDVCBjYS5pZF9wcm9kdWN0byBhcyBzZXJ2aWNpb19jb250cmF0YWRvLCBjYS5ub21icmUKZnJvbSBjb21wcmFzX2RhdG9zIGNkCmlubmVyIGpvaW4gY29tcHJhc19hcnRpY3Vsb3MgY2Egb24gY2QuaWRfY29tcHJhc19kYXRvcyA9IGNhLmlkX2NvbXByYXNfZGF0b3MKaW5uZXIgam9pbiBwY2NvbV9yZXR1cm5zIHByIG9uIHByLnJlZmVyZW5jZSA9IGNkLnBlZGlkbwp3aGVyZSBwci5yZXR1cm5JZCA9IDIyNjMzODgKYW5kIGNhLmlkX3Byb2R1Y3RvIGluCiAgICAoU0VMRUNUIGEuaWRfYXJ0aWN1bG8KICAgICBGUk9NIGFydGljdWxvcyBhCiAgICAgd2hlcmUgbWFyY2EgbGlrZSAnUGNjb21wb25lbnRlcy5jb20nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IHBlcm8gcXVlIHBwYXNhIGVrbCBsb3Rvcm8=</text>
+        <text encoding="base64">ICAgICAgICAka2VybmVsLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlzZnJ1dGEgZGUgZXN0ZSBzb25kaWRsYXNrZmQscyxhZHNtZm5ha2xmZGFzZGpkZnNrc2FkasOxZmxka3NqZmpmw7Fhc2RrbGpzYWRsa2ZqcywgcGVvciBtZSBjb21lcyBsb3Mgd2Vib3MKbWFyaW8gbWUgY29tZXMgbG9zIHdlYm9zCg==</text>
+        <text encoding="base64">IHBlcm8gcXVlIHBwYXNhIGVrbCBsb3Rvcm8=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgcHIucmV0dXJuSWQgPSAyMjYzMzg4Cg==</text>
+        <text encoding="base64">ZGlzZnJ1dGEgZGUgZXN0ZSBzb25kaWRsYXNrZmQscyxhZHNtZm5ha2xmZGFzZGpkZnNrc2FkasOxZmxka3NqZmpmw7Fhc2RrbGpzYWRsa2ZqcywgcGVvciBtZSBjb21lcyBsb3Mgd2Vib3MKbWFyaW8gbWUgY29tZXMgbG9zIHdlYm9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wcmFzX2FydGljdWxvcyB3aGVyZSBpZF9wcm9kdWN0byA9IDEwMDA0Owo=</text>
+        <text encoding="base64">d2hlcmUgcHIucmV0dXJuSWQgPSAyMjYzMzg4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wcmFzX2FydGljdWxvcyB3aGVyZSBpZF9wcm9kdWN0byA9IDEwMDA0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hlcmUgY2QucGVkaWRvID0gMjIwMTg1Njg4MDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>SET @ids_pccom_services =</text>
+        <text encoding="base64">d2hlcmUgY2QucGVkaWRvID0gMjIwMTg1Njg4MDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wcmFzX2RhdG9zIDIyMDE4NTY4ODAxCg==</text>
+        <text>SET @ids_pccom_services =</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wcmFzX2RhdG9zIDIyMDE4NTY4ODAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
