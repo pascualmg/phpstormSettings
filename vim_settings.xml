@@ -120,10 +120,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundFinder.php" timestamp="1589451846062">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundFinder.php" timestamp="1589453335306">
+        <mark key="[" line="84" column="5" />
+        <mark key="]" line="83" column="62" />
+        <mark key="." line="83" column="61" />
+        <mark key="^" line="83" column="62" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/CaseRefund.php" timestamp="1589453275624">
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="89" column="21" />
+        <mark key="." line="89" column="20" />
+        <mark key="^" line="89" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Log.php" timestamp="1589453615296">
+        <mark key="[" line="77" column="20" />
+        <mark key="]" line="77" column="21" />
+        <mark key="^" line="77" column="21" />
+        <mark key="." line="77" column="20" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Repository/PickUpRepository.php" timestamp="1589450314135">
         <mark key="[" line="12" column="15" />
@@ -131,22 +144,16 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="/console" timestamp="1589447617360">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Repository/CaseRefundRepository.php" timestamp="1589448707699">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="40" />
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/src/sqls/Aftersales/Case.sql" timestamp="1589445283343">
-        <mark key="[" line="31" column="87" />
-        <mark key="]" line="31" column="88" />
-        <mark key="^" line="31" column="88" />
-        <mark key="." line="31" column="87" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1589449033463" />
+      <file name="/pccom_returns_changes [mysql.web.dev.pccom.interno]" timestamp="1589452230468">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/app/config/parameters.yml" timestamp="1589451010664" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Repository/WayBillRepository.php" timestamp="1589451193205">
         <mark key="[" line="9" column="25" />
@@ -154,10 +161,19 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="35" />
       </file>
+      <file name="/web.pccom_returns_changes" timestamp="1589452230495">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/WayBill.php" timestamp="1589451133856">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalLogRepository.php" timestamp="1589453686976">
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1589451147118">
         <mark key="[" line="0" column="0" />
@@ -167,32 +183,15 @@
       <file name="/web.asistente_recogidas" timestamp="1589449880252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/RefundState.php" timestamp="1589447233339">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="34" column="11" />
-      </file>
-      <file name="/foo.bar" timestamp="1589449880267">
+      <file name="/foo.bar" timestamp="1589452230512">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Refund.php" timestamp="1589447401645">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
       </file>
       <file name="/asistente_recogidas [mysql.web.dev.pccom.interno]" timestamp="1589449880238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/quovadis/rmaAssistant/model_local/class/mysql/ext/Fccba001MySqlExtDAO.class.php" timestamp="1589450470680" />
-      <file name="$USER_HOME$/src/web/quovadis/rmaAssistant/actions/generic/ActionFinished.class.php" timestamp="1589450799850">
+      <file name="$USER_HOME$/src/web/quovadis/rmaAssistant/actions/generic/ActionFinished.class.php" timestamp="1589452557596">
         <mark key="'" line="540" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/AfterSales/RefundStateTest.php" timestamp="1589447658609">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="10" column="73" />
-        <mark key="." line="25" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -261,41 +260,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFtb3VudCA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>POSITIVE_BALANCE</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJHR5cGUgPSBSZWZ1bmRTdGF0ZTo6ZnJvbVN0YXRlKFJlZnVuZFN0YXRlOjpQT1NJVElWRV9CQUxBTkNFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvYnNlcnZhdGlvblsncG9zaXRpb24nXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFtb3VudCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcHJsLmluZm8sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0eXBlID0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FzZVJlZnVuZC0+Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVmdW5kLT4K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gYm9vbAogICAgICov</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVmdW5kLT4K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVmdW5kLT4K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBmbG9hdAogICAgICov</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVmdW4K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
