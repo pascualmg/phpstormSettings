@@ -120,10 +120,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundFinder.php" timestamp="1589458624469">
-        <mark key="[" line="61" column="38" />
-        <mark key="]" line="61" column="38" />
-        <mark key="." line="61" column="38" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundFinder.php" timestamp="1589534449297">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/CaseRefund.php" timestamp="1589463819289">
         <mark key="[" line="41" column="23" />
@@ -131,10 +131,10 @@
         <mark key="." line="89" column="20" />
         <mark key="^" line="89" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589523626502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1589534493984">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console_1.sql" timestamp="1589523587393">
         <mark key="[" line="0" column="10" />
@@ -154,7 +154,7 @@
       <file name="/xgest_web.articulos_referencias" timestamp="1589527090785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1589524027805">
+      <file name="/console" timestamp="1589534087490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1589463985218">
@@ -166,13 +166,13 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="/xgestevo.fcpro001" timestamp="1589527314593">
+      <file name="/xgestevo.fcpro001" timestamp="1589534087400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589523626488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1589527314613">
+      <file name="/foo.bar" timestamp="1589534087401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_1" timestamp="1589523547286">
@@ -188,7 +188,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/fcpro001 [mysql.web.dev.pccom.interno]" timestamp="1589527314557">
+      <file name="/fcpro001 [mysql.web.dev.pccom.interno]" timestamp="1589534087395">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/web/quovadis/rmaAssistant/actions/generic/ActionFinished.class.php" timestamp="1589455525270">
@@ -264,18 +264,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>interface PickUpRepository
-{
-    /**
-     * @param int $caseId
-     * @return PickUp[]
-     */
-    public function rmaActivesByCaseId(int $caseId) : array;
-}</text>
+      <register name="&quot;" type="4">
+        <text>test RefundFinder</text>
       </register>
       <register name="-" type="4">
-        <text>ref_proveedor</text>
+        <text>test RefundFinder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -284,6 +277,9 @@
         <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkQWN0aXZlKCRzb21lQ2FzZWlkKSwK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text>interface PickUpRepository
 {
     /**
@@ -293,29 +289,26 @@
     public function rmaActivesByCaseId(int $caseId) : array;
 }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSksCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSksCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNDIuMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgNDIuMDAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
