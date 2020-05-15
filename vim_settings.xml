@@ -125,20 +125,28 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1589537885760">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console_1.sql" timestamp="1589538597518">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="35" />
+      </file>
       <file name="/articulos_referencias [mysql.web.dev.pccom.interno]" timestamp="1589527090771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/xgest_web.articulos_referencias" timestamp="1589527090785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1589534087490">
+      <file name="/console" timestamp="1589537871461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DbalPickUpRepository.php" timestamp="1589537720708">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="20" />
-        <mark key="^" line="48" column="21" />
+      <file name="/fragment.php" timestamp="1589463985218">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DbalCaseRefundRepository.php" timestamp="1589536464950">
         <mark key="[" line="51" column="27" />
@@ -146,10 +154,24 @@
         <mark key="^" line="51" column="33" />
         <mark key="." line="51" column="32" />
       </file>
+      <file name="/xgestevo.fcpro001" timestamp="1589534087400">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1589523626488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DbalCaseRefundRepositoryTest.php" timestamp="1589536346189" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DbalCaseRefundRepositoryTest.php" timestamp="1589537791081">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="15" />
+      </file>
+      <file name="/foo.bar" timestamp="1589534087401">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1589538362176">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1589537345068">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="11" />
@@ -160,31 +182,6 @@
         <mark key="]" line="10" column="14" />
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589536401175">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Test/KernelTestCase.php" timestamp="1589536893070" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console_1.sql" timestamp="1589523587393">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="/fragment.php" timestamp="1589463985218">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalClientRepository.php" timestamp="1589535204833" />
-      <file name="/xgestevo.fcpro001" timestamp="1589534087400">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1589534087401">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_1" timestamp="1589523547286">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fcpro001 [mysql.web.dev.pccom.interno]" timestamp="1589534087395">
         <mark key="[" line="0" column="0" />
@@ -257,10 +254,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgIG5ldyBQaWNrVXAoCiAgICAgICAgICAgICRwaWNrVXBSZXN1bHRbJ2lkJ10sCiAgICAgICAgICAgICRwaWNrVXBSZXN1bHRbJ2Ftb3VudCddLAogICAgICAgICAgICAkcGlja1VwUmVzdWx0WydjYXNlSWQnXSwKICAgICAgICAgICAgJHBpY2tVcFJlc3VsdFsndHlwZSddLAogICAgICAgICAgICAkcGlja1VwUmVzdWx0WydhY3RpdmUnXQogICAgICAgICk7</text>
+        <text>LIKE CONCAT(?,YEAR(curdate()),&quot;%&quot;) order by BALBA desc LIMIT 1</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>LIKE CONCAT(?,YEAR(curdate()),&quot;%&quot;) order by BALBA desc LIMIT 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -268,32 +265,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHBpY2tVcFJlc3VsdFsnaWQnXSwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIG5ldyBQaWNrVXAoCiAgICAgICAgICAgICRwaWNrVXBSZXN1bHRbJ2lkJ10sCiAgICAgICAgICAgICRwaWNrVXBSZXN1bHRbJ2Ftb3VudCddLAogICAgICAgICAgICAkcGlja1VwUmVzdWx0WydjYXNlSWQnXSwKICAgICAgICAgICAgJHBpY2tVcFJlc3VsdFsndHlwZSddLAogICAgICAgICAgICAkcGlja1VwUmVzdWx0WydhY3RpdmUnXQogICAgICAgICk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBXSEVSRSBpZF9jYXNvID0gOmNhc2VJZCAKICAgICAgICAgICAgQU5EIGFyLnRpcG8gPSAiUk1BIgogICAgICAgICAgICBBTkQgYXIuYWN0aXZlID0gMQ==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICBXSEVSRSBpZF9jYXNvID0gOmNhc2VJZCAKICAgICAgICAgICAgQU5EIGFyLnRpcG8gPSAiUk1BIgogICAgICAgICAgICBBTkQgYXIuYWN0aXZlID0gMQ==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgIG5ldyBQaWNrVXAoCiAgICAgICAgICAgICRwaWNrVXBSZXN1bHRbJ2lkJ10sCiAgICAgICAgICAgICRwaWNrVXBSZXN1bHRbJ2Ftb3VudCddLAogICAgICAgICAgICAkcGlja1VwUmVzdWx0WydjYXNlSWQnXSwKICAgICAgICAgICAgJHBpY2tVcFJlc3VsdFsndHlwZSddLAogICAgICAgICAgICAkcGlja1VwUmVzdWx0WydhY3RpdmUnXQogICAgICAgICk7</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBXSEVSRSBpZF9jYXNvID0gOmNhc2VJZCAKICAgICAgICAgICAgQU5EIGFyLnRpcG8gPSAiUk1BIgogICAgICAgICAgICBBTkQgYXIuYWN0aXZlID0gMQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICBXSEVSRSBpZF9jYXNvID0gOmNhc2VJZCAKICAgICAgICAgICAgQU5EIGFyLnRpcG8gPSAiUk1BIgogICAgICAgICAgICBBTkQgYXIuYWN0aXZlID0gMQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIGFyLmlkIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0hFUkUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
