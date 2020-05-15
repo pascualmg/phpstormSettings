@@ -178,12 +178,6 @@
       <file name="/console_1" timestamp="1589523547286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Repository/WayBillRepository.php" timestamp="1589455353595">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
-        <mark key="^" line="9" column="35" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1589527090964">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="11" />
@@ -270,8 +264,15 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ref_proveedor</text>
+      <register name="&quot;" type="2">
+        <text>interface PickUpRepository
+{
+    /**
+     * @param int $caseId
+     * @return PickUp[]
+     */
+    public function rmaActivesByCaseId(int $caseId) : array;
+}</text>
       </register>
       <register name="-" type="4">
         <text>ref_proveedor</text>
@@ -283,31 +284,38 @@
         <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkQWN0aXZlKCRzb21lQ2FzZWlkKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
+        <text>interface PickUpRepository
+{
+    /**
+     * @param int $caseId
+     * @return PickUp[]
+     */
+    public function rmaActivesByCaseId(int $caseId) : array;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSksCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSksCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCB0cnVlKSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNDIuMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1VwTW90aGVyOjpGcm9tQ2FzZUlkKCRzb21lQ2FzZWlkLCBmYWxzZSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgNDIuMDAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
