@@ -120,22 +120,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589751778696">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundFinder.php" timestamp="1589786452637" />
+      <file name="/Dummy.txt" timestamp="1589787520119">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/furbol/JugadorTest.php" timestamp="1589749583449">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="34" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console_1.sql" timestamp="1589539769487">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/Tests/JugadorMother.php" timestamp="1589751615346">
         <mark key="[" line="4" column="0" />
@@ -173,6 +168,11 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml.dist" timestamp="1589787704239">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/fcart001 [mysql.web.dev.pccom.interno]" timestamp="1589584452537">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,9 +183,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1589584452571">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_1" timestamp="1589538362176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/Jugador.php" timestamp="1589751772184">
@@ -208,6 +205,12 @@
         <mark key="[" line="14" column="37" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/SolutionFinder.php" timestamp="1589787401418">
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="25" />
+        <mark key="." line="28" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -277,43 +280,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIDxmaWx0ZXI+CiAgICAgICAgPHdoaXRlbGlzdCBwcm9jZXNzVW5jb3ZlcmVkRmlsZXNGcm9tV2hpdGVsaXN0PSJ0cnVlIj4KICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPi4vLi4vc3JjPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDxleGNsdWRlPgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT4uLi9zcmMvUGNjL0luZnJhc3RydWN0dXJlPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5Pi4uL3NyYy9QY2MvQnVuZGxlLypCdW5kbGUvQ29udHJvbGxlcjwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT4uLi9zcmMvUGNjL0J1bmRsZS8qQnVuZGxlL1Rlc3RzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDwvZXhjbHVkZT4KICAgICAgICA8L3doaXRlbGlzdD4KICAgIDwvZmlsdGVyPgogICAgPGxvZ2dpbmc+CiAgICAgICAgPGxvZyB0eXBlPSJjb3ZlcmFnZS1odG1sIiB0YXJnZXQ9InJlcG9ydC9odG1sL2NvdmVyYWdlIiB0aXRsZT0iQ292ZXJhZ2UgdGVzdCB1bml0YXJpb3MgQVBJIFBjQ29tcG9uZW50ZXMiCiAgICAgICAgICAgICBjaGFyc2V0PSJVVEYtOCIgeXVpPSJ0cnVlIiBoaWdobGlnaHQ9InRydWUiCiAgICAgICAgICAgICBsb3dVcHBlckJvdW5kPSIzNSIgaGlnaExvd2VyQm91bmQ9IjcwIi8+CiAgICAgICAgPGxvZyB0eXBlPSJjb3ZlcmFnZS1jbG92ZXIiIHRhcmdldD0icmVwb3J0L2Nsb3Zlci9jbG92ZXIueG1sIi8+CiAgICAgICAgPGxvZyB0eXBlPSJqdW5pdCIgdGFyZ2V0PSJyZXBvcnQvanVuaXQvanVuaXQueG1sIiBsb2dJbmNvbXBsZXRlU2tpcHBlZD0iZmFsc2UiLz4KICAgICAgICA8bG9nIHR5cGU9ImNvdmVyYWdlLXRleHQiIHRhcmdldD0icGhwOi8vc3Rkb3V0IiAvPgogICAgPC9sb2dnaW5nPg==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>remove unused imports</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gRnJhbmNpcygpOiBKdWdhZG9yCiAgICB7CiAgICAgICAgcmV0dXJuIEp1Z2Fkb3I6OmRlTm9tYnJlKCdGcmFuY2lzY28nKTsKICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT4uLy4uL3Rlc3RzL1BjYy9UZXN0czwvZGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIDxmaWx0ZXI+CiAgICAgICAgPHdoaXRlbGlzdCBwcm9jZXNzVW5jb3ZlcmVkRmlsZXNGcm9tV2hpdGVsaXN0PSJ0cnVlIj4KICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPi4vLi4vc3JjPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDxleGNsdWRlPgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT4uLi9zcmMvUGNjL0luZnJhc3RydWN0dXJlPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5Pi4uL3NyYy9QY2MvQnVuZGxlLypCdW5kbGUvQ29udHJvbGxlcjwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT4uLi9zcmMvUGNjL0J1bmRsZS8qQnVuZGxlL1Rlc3RzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDwvZXhjbHVkZT4KICAgICAgICA8L3doaXRlbGlzdD4KICAgIDwvZmlsdGVyPgogICAgPGxvZ2dpbmc+CiAgICAgICAgPGxvZyB0eXBlPSJjb3ZlcmFnZS1odG1sIiB0YXJnZXQ9InJlcG9ydC9odG1sL2NvdmVyYWdlIiB0aXRsZT0iQ292ZXJhZ2UgdGVzdCB1bml0YXJpb3MgQVBJIFBjQ29tcG9uZW50ZXMiCiAgICAgICAgICAgICBjaGFyc2V0PSJVVEYtOCIgeXVpPSJ0cnVlIiBoaWdobGlnaHQ9InRydWUiCiAgICAgICAgICAgICBsb3dVcHBlckJvdW5kPSIzNSIgaGlnaExvd2VyQm91bmQ9IjcwIi8+CiAgICAgICAgPGxvZyB0eXBlPSJjb3ZlcmFnZS1jbG92ZXIiIHRhcmdldD0icmVwb3J0L2Nsb3Zlci9jbG92ZXIueG1sIi8+CiAgICAgICAgPGxvZyB0eXBlPSJqdW5pdCIgdGFyZ2V0PSJyZXBvcnQvanVuaXQvanVuaXQueG1sIiBsb2dJbmNvbXBsZXRlU2tpcHBlZD0iZmFsc2UiLz4KICAgICAgICA8bG9nIHR5cGU9ImNvdmVyYWdlLXRleHQiIHRhcmdldD0icGhwOi8vc3Rkb3V0IiAvPgogICAgPC9sb2dnaW5nPg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgYXJyYXl8c3RyaW5nW10K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHNvbHV0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgc3RyaW5nCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgIGlmICggbnVsbCA9PT0gJHNvbHV0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNvbHV0aW9uLT5zZXRSZWZ1bmQoJHRoaXMtPnJlZnVuZEZpbmRlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc29sdXRpb24tPnNldFJlZnVuZCgoJHRoaXMtPnJlZnVuZEZpbmRlcikoJGFmdGVyU2FsZXNDYXNlSWQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1ZGU+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5Pi4uL3NyYy9QY2MvSW5mcmFzdHJ1Y3R1cmU8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li4vc3JjL1BjYy9CdW5kbGUvKkJ1bmRsZS9Db250cm9sbGVyPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5Pi4uL3NyYy9QY2MvQnVuZGxlLypCdW5kbGUvVGVzdHM8L2RpcmVjdG9yeT4KICAgICAgICAgICAgPC9leGNsdWRlPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+Li8uLi90ZXN0cy9QY2MvVGVzdHM8L2RpcmVjdG9yeT4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
