@@ -120,8 +120,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_6.php" timestamp="1589914907738" />
-      <file name="/console" timestamp="1589898942643">
+      <file name="/Dummy.txt" timestamp="1589904387042">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/deleteame/SocketLogger.php" timestamp="1589904756348">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="/console" timestamp="1589925496311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1589904764332">
@@ -132,6 +142,9 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
         <mark key="^" line="104" column="54" />
+      </file>
+      <file name="/fragment.php" timestamp="1589790819083">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Service/TalonOne/Campaign/CreateOrUpdateCampaignFromTalonServiceTest.php" timestamp="1589792020413">
         <mark key="[" line="20" column="59" />
@@ -155,32 +168,17 @@
         <mark key="." line="165" column="37" />
         <mark key="^" line="165" column="38" />
       </file>
-      <file name="$USER_HOME$/src/deleteame/index.php" timestamp="1589924128560">
-        <mark key="'" line="55" column="2" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589904387042">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/deleteame/SocketLogger.php" timestamp="1589904756348">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="18" />
-      </file>
-      <file name="/fragment.php" timestamp="1589790819083">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Reflection/Reflection.php" timestamp="1589921421353" />
       <file name="$USER_HOME$/src/deleteame/SocketServer.php" timestamp="1589921941958">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/deleteame/index.php" timestamp="1589925283095">
+        <mark key="'" line="64" column="2" />
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="40" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -252,11 +250,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
