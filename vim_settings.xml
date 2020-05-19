@@ -175,13 +175,14 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/src/deleteame/index.php" timestamp="1589927795219">
-        <mark key="'" line="41" column="2" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="53" />
+      <file name="$USER_HOME$/src/deleteame/index.php" timestamp="1589929674447">
+        <mark key="'" line="20" column="2" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="15" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" timestamp="1589929419179" />
     </filemarks>
     <jumps>
       <jump line="484" column="36" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
@@ -252,11 +253,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>_dump</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_dump</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -265,31 +266,36 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT4uLy4uL3Rlc3RzL1BjYy9UZXN0czwvZGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly9mb2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyBpbmlfZ2V0KCJkZWZhdWx0X3NvY2tldF90aW1lb3V0Iik7Cg==</text>
+        <text encoding="base64">ICAgICgkdGhpcy0+Y29ubkhhbmRsZXIpKCRjb25uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9odHRwczovL3d3dy5waHAubmV0L21hbnVhbC9lbi9mdW5jdGlvbi5zdHJlYW0tc29ja2V0LXNlcnZlci5waHAK</text>
+        <text>var_dump($socket);
+die;
+
+if ($socket === false) {
+    echo 'algo ha pasao';
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgU29ja2V0U2VydmVyCnsKCiAgICBwcml2YXRlICRzb2NrZXQ7CgogICAgcHJpdmF0ZSBDbG9zdXJlICRjb25uSGFuZGxlcjsKICAgIHByaXZhdGUgaW50ICRwb3J0OwoKICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChpbnQgJHBvcnQsIENsb3N1cmUgJGNvbm5IYW5kbGVyKQogICAgewogICAgICAgICR0aGlzLT5wb3J0ID0gJHBvcnQ7CiAgICAgICAgJHRoaXMtPmNvbm5IYW5kbGVyID0gJGNvbm5IYW5kbGVyOwogICAgICAgIGlmIChmYWxzZSA9PT0gJHRoaXMtPnNvY2tldCA9IHN0cmVhbV9zb2NrZXRfc2VydmVyKAogICAgICAgICAgICAgICAgInRjcDovLzAuMC4wLjA6JHtwb3J0fSIsCiAgICAgICAgICAgICAgICAkZXJybm8sCiAgICAgICAgICAgICAgICAkZXJyc3RyCiAgICAgICAgICAgICkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oJGVycnN0ciwgJGVycm5vKTsKICAgICAgICB9CgogICAgICAgICRjb25uID0gbnVsbDsKICAgICAgICB3aGlsZSAoJGNvbm4gPSBzdHJlYW1fc29ja2V0X2FjY2VwdCgkdGhpcy0+c29ja2V0KSkgewogICAgICAgICAgICAoJHRoaXMtPmNvbm5IYW5kbGVyKSgkY29ubik7CgogICAgICAgICAgICBmY2xvc2UoJGNvbm4pOwogICAgICAgIH0KICAgICAgICBmY2xvc2UoJHRoaXMtPnNvY2tldCk7CiAgICB9Cn0KCgpuZXcgU29ja2V0U2VydmVyKAogICAgMTAyNSwKICAgICBzdGF0aWMgZnVuY3Rpb24gKCRjb25uKSB7CiAgICAgICAgJHJlcXVlc3QgPSBmZ2V0cygkY29ubik7CiAgICAgICAgJHJlc3VsdCA9IHN5c3RlbSgkcmVxdWVzdCk7CiAgICAgICAgZndyaXRlKCRjb25uLCAkcmVzdWx0KTsKICAgIH0KKTsK</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZuKCRjb25uKSA9PiBmd3JpdGUoJGNvbm4sIHN5c3RlbShmZ2V0cygkY29ubikpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDEwMjUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gTGlzdGVuaW5nT25Qb3J0KCRwb3J0LCBDbG9zdXJlICRyZXF1ZXN0SGFuZGxlcik6IFNvY2tldFNlcnZlcgogICAgewogICAgICAgIHJldHVybiBuZXcgc2VsZigkcG9ydCwgJHJlcXVlc3RIYW5kbGVyKTsKICAgIH0=</text>
+        <text encoding="base64">bmV3IFNvY2tldFNlcnZlcigK</text>
       </register>
       <register name="9" type="2">
-        <text>$executeSystemCommand = ;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
