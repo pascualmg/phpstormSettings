@@ -120,13 +120,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589895793223">
+      <file name="/Dummy.txt" timestamp="1589904387042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/src/deleteame/SocketLogger.php" timestamp="1589904756348">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="18" />
+      </file>
       <file name="/console" timestamp="1589898942643">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1589904764332">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/AfterSalesCaseSolution.php" timestamp="1589790314513">
         <mark key="[" line="112" column="0" />
@@ -164,16 +173,16 @@
         <mark key="." line="165" column="37" />
         <mark key="^" line="165" column="38" />
       </file>
-      <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/Jugador.php" timestamp="1589751772184">
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="8" column="46" />
-        <mark key="." line="8" column="45" />
-        <mark key="^" line="8" column="46" />
+      <file name="$USER_HOME$/src/deleteame/SocketServer.php" timestamp="1589906300974">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/NombreJugador.php" timestamp="1589751866563">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/src/deleteame/index.php" timestamp="1589905094034">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/SolutionFinder.php" timestamp="1589787401418">
         <mark key="[" line="28" column="34" />
@@ -251,10 +260,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">JzsK</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -263,31 +272,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT4uLy4uL3Rlc3RzL1BjYy9UZXN0czwvZGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JzsK</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgaWRfYXJ0aWN1bG8gPiAxMDAwMDAwOw==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgQ2xvc3VyZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhcnRpY3Vsb3MK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VsZWN0ICoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text>?s</text>
+        <text encoding="base64">PHBocD8KCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxmaWx0ZXI+CiAgICAgICAgPHdoaXRlbGlzdCBwcm9jZXNzVW5jb3ZlcmVkRmlsZXNGcm9tV2hpdGVsaXN0PSJ0cnVlIj4KICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPi4vLi4vc3JjPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDxleGNsdWRlPgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT4uLi9zcmMvUGNjL0luZnJhc3RydWN0dXJlPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5Pi4uL3NyYy9QY2MvQnVuZGxlLypCdW5kbGUvQ29udHJvbGxlcjwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT4uLi9zcmMvUGNjL0J1bmRsZS8qQnVuZGxlL1Rlc3RzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDwvZXhjbHVkZT4KICAgICAgICA8L3doaXRlbGlzdD4KICAgIDwvZmlsdGVyPgogICAgPGxvZ2dpbmc+CiAgICAgICAgPGxvZyB0eXBlPSJjb3ZlcmFnZS1odG1sIiB0YXJnZXQ9InJlcG9ydC9odG1sL2NvdmVyYWdlIiB0aXRsZT0iQ292ZXJhZ2UgdGVzdCB1bml0YXJpb3MgQVBJIFBjQ29tcG9uZW50ZXMiCiAgICAgICAgICAgICBjaGFyc2V0PSJVVEYtOCIgeXVpPSJ0cnVlIiBoaWdobGlnaHQ9InRydWUiCiAgICAgICAgICAgICBsb3dVcHBlckJvdW5kPSIzNSIgaGlnaExvd2VyQm91bmQ9IjcwIi8+CiAgICAgICAgPGxvZyB0eXBlPSJjb3ZlcmFnZS1jbG92ZXIiIHRhcmdldD0icmVwb3J0L2Nsb3Zlci9jbG92ZXIueG1sIi8+CiAgICAgICAgPGxvZyB0eXBlPSJqdW5pdCIgdGFyZ2V0PSJyZXBvcnQvanVuaXQvanVuaXQueG1sIiBsb2dJbmNvbXBsZXRlU2tpcHBlZD0iZmFsc2UiLz4KICAgICAgICA8bG9nIHR5cGU9ImNvdmVyYWdlLXRleHQiIHRhcmdldD0icGhwOi8vc3Rkb3V0IiAvPgogICAgPC9sb2dnaW5nPg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5zbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHNvbHV0aW9uOwo=</text>
+        <text encoding="base64">ICAgIHN0cmVhbV9zb2NrZXRfc2VydmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHN0cmVhbV9zbwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
