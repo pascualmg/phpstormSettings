@@ -18,6 +18,7 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -120,32 +121,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589809599395">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/src/furbol/JugadorMother.php" timestamp="1589749649983">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="33" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/app/config/parameters.yml" timestamp="1589809921751" />
       <file name="/console" timestamp="1589809507526">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/furbol/src/Entidad.php" timestamp="1589738482266">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/furbol/vendor/phpspec/prophecy/README.md" timestamp="1589882582217">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1589810804585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/furbol/JugadorTest.php" timestamp="1589749583449">
@@ -154,20 +130,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/Tests/JugadorMother.php" timestamp="1589751615346">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="16" column="40" />
-      </file>
       <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/Jugador.php" timestamp="1589751772184">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="46" />
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="46" />
-      </file>
-      <file name="/foo.bar" timestamp="1589584452571">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589809599378">
         <mark key="[" line="0" column="0" />
@@ -187,25 +154,61 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1589809513305">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador.php" timestamp="1589749303716">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="18" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/NombreJugador.php" timestamp="1589795230462">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589809599395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/furbol/JugadorMother.php" timestamp="1589749649983">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/app/config/parameters.yml" timestamp="1589809921751" />
+      <file name="$USER_HOME$/src/furbol/src/Entidad.php" timestamp="1589738482266">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/furbol/vendor/phpspec/prophecy/README.md" timestamp="1589882582217">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1589810804585">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/Tests/JugadorMother.php" timestamp="1589751615346">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/furbol/vendor/doctrine/instantiator/phpcs.xml.dist" timestamp="1589981742098">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1589809513305">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DbalAfterSalesCaseSolutionRepository.php" timestamp="1589810975906" />
       <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/aa.php" timestamp="1589749435944">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/furbol/src/DDD/Domain/Jugador/NombreJugador.php" timestamp="1589795230462">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -275,7 +278,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBQcm9waGVjeQo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIj8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>string</text>
@@ -287,34 +290,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gRnJhbmNpcygpOiBKdWdhZG9yCiAgICB7CiAgICAgICAgcmV0dXJuIEp1Z2Fkb3I6OmRlTm9tYnJlKCdGcmFuY2lzY28nKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBQcm9waGVjeQo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIj8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBQcm9waGVjeQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JHRoaXMtPmFwZWxsaWRvcyA9ICRhcGVsbGlkb3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">JHRoaXMtPmFwZWxsaWRvcyA9ICRhcGVsbGlkb3M7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBlbGxpZG9zID0gJGFwZWxsaWRvczsK</text>
+        <text encoding="base64">JHRoaXMtPmFwZWxsaWRvcyA9ICRhcGVsbGlkb3M7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY291bnRBcGVsbGlkb3MgPSBjb3VudCgkYXBlbGxpZG9zKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBlbGxpZG9zID0gJGFwZWxsaWRvczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAkY291bnRBcGVsbGlkb3MgPSBjb3VudCgkYXBlbGxpZG9zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgYXJyYXl8c3RyaW5nW10K</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>q!</text>
       </register>
     </registers>
   </component>
