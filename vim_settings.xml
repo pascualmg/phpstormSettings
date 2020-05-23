@@ -120,33 +120,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/taxes-service/config/context/tax/services.yaml" timestamp="1590168906809" />
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Model/Tax.php" timestamp="1590168735976">
-        <mark key="[" line="22" column="103" />
-        <mark key="]" line="22" column="122" />
-        <mark key="^" line="22" column="122" />
-        <mark key="." line="22" column="121" />
-      </file>
-      <file name="/console" timestamp="1590168770130">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/clientes_tarifas [mysql.web.dev.pccom.interno]" timestamp="1590136969338">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1590168811895">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/taxes-service/config/routes.yaml" timestamp="1590168582620" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1590141433730">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="256" column="7" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="259" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Util/Price.php" timestamp="1590147425816">
-        <mark key="[" line="52" column="28" />
-      </file>
       <file name="/web.clientes_tarifas" timestamp="1590136969350">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,10 +128,19 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Model/Tax.php" timestamp="1590168735976">
+        <mark key="[" line="22" column="103" />
+        <mark key="]" line="22" column="122" />
+        <mark key="^" line="22" column="122" />
+        <mark key="." line="22" column="121" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/app/logs/dev.log" timestamp="1590065601903">
         <mark key="'" line="12672" column="0" />
       </file>
-      <file name="/taxes.public.tax" timestamp="1590168786063">
+      <file name="/console" timestamp="1590264864661">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/taxes.public.tax" timestamp="1590264864511">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1590137569816">
@@ -176,15 +158,32 @@
         <mark key="." line="378" column="0" />
         <mark key="^" line="378" column="2" />
       </file>
-      <file name="/foo.bar" timestamp="1590168786096">
+      <file name="/clientes_tarifas [mysql.web.dev.pccom.interno]" timestamp="1590136969338">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1590264864513">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1590168811895">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1590141433730">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="256" column="7" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
+        <mark key="^" line="259" column="37" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Util/Price.php" timestamp="1590147425816">
+        <mark key="[" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/src/taxes-service/behat.yml.dist" timestamp="1590154452344">
         <mark key="i" line="11" column="48" />
       </file>
-      <file name="/tax [taxes@local]" timestamp="1590168786053">
+      <file name="/tax [taxes@local]" timestamp="1590264864503">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Service/TaxDeactivator.php" timestamp="1590264960611" />
     </filemarks>
     <jumps>
       <jump line="484" column="36" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
