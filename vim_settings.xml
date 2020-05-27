@@ -120,7 +120,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/web.clientes_tarifas" timestamp="1590560612995">
+      <file name="/web.clientes_tarifas" timestamp="1590561630238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1590477757920">
@@ -128,20 +128,26 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/web.api_compras_datos" timestamp="1590561630235">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Model/Tax.php" timestamp="1590410937488">
         <mark key="[" line="37" column="20" />
         <mark key="]" line="37" column="21" />
         <mark key="^" line="37" column="21" />
         <mark key="." line="37" column="20" />
       </file>
-      <file name="/console" timestamp="1590560613116">
+      <file name="/console" timestamp="1590561630368">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/marca_enviado.sql" timestamp="1590561301069">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="9" />
+      <file name="/compras_datos [mysql.web.dev.pccom.interno]" timestamp="1590561647567">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/marca_enviado.sql" timestamp="1590561825891">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1590406400965">
         <mark key="[" line="130" column="7" />
@@ -149,10 +155,13 @@
         <mark key="." line="130" column="7" />
         <mark key="^" line="130" column="29" />
       </file>
-      <file name="/clientes_tarifas [mysql.web.dev.pccom.interno]" timestamp="1590560612987">
+      <file name="/clientes_tarifas [mysql.web.dev.pccom.interno]" timestamp="1590561630237">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1590560612997">
+      <file name="/foo.bar" timestamp="1590561647609">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/web.compras_datos" timestamp="1590561647590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1590559813382">
@@ -164,6 +173,9 @@
         <mark key="]" line="358" column="23" />
         <mark key="^" line="358" column="23" />
         <mark key="." line="358" column="22" />
+      </file>
+      <file name="/api_compras_datos [mysql.web.dev.pccom.interno]" timestamp="1590561630221">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -238,10 +250,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -250,32 +262,32 @@
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gY29tcHJhc19kYXRvcwp3aGVyZSBwZWRpZG8gPSBAcGVkaWRvOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzZWd1aW1pZW50b19wZWRpZG9zCg==</text>
+        <text encoding="base64">ICAgIGVudmlhZG8gPSAnbm8nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZ2FkbyA9IERBVEVfRk9STUFUKG5vdygpLCAnJVktJW0tJWQnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgcGVkaWRvID0gQHBlZGlkbzsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzZWd1aW1pZW50b19wZWRpZG9zCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgcGVkaWRvID0gQHBlZGlkbzsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text>select * from compras_datos
 where pedido = @pedido;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">WlQtMTE4IDpyb2JvdDogIkVycm9yIiA9PiAiUGVuZGllbnRlIg==</text>
-      </register>
-      <register name="8" type="2">
-        <text>a;lksdjf;asdfjk;asdlfggggghhhhhhhhhhhg</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WlQtMTE4IDpyb2JvdDogIkVycm9yIiA9PiAiUGVuZGllbnRlIg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
