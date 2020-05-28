@@ -120,6 +120,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/console" timestamp="1590564548439">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/compras_datos [mysql.web.dev.pccom.interno]" timestamp="1590564548260">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/clientes_tarifas [mysql.web.dev.pccom.interno]" timestamp="1590564548258">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/web.compras_datos" timestamp="1590564548261">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1590652442202">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1590655646756">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="358" column="23" />
+        <mark key="]" line="358" column="24" />
+        <mark key="^" line="355" column="15" />
+        <mark key="." line="358" column="24" />
+      </file>
       <file name="/web.clientes_tarifas" timestamp="1590564548259">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,19 +150,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/web.api_compras_datos" timestamp="1590561630235">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console" timestamp="1590564548439">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/compras_datos [mysql.web.dev.pccom.interno]" timestamp="1590564548260">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1590576763083">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tarifas [mysql.web.dev.pccom.interno]" timestamp="1590563693327">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/OrdersBundle/Model/Agencies/Builder/BuilderAgency.php" timestamp="1590654949322" />
+      <file name="/fragment.php" timestamp="1590652095917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/marca_enviado.sql" timestamp="1590647804197">
@@ -152,24 +163,21 @@
       <file name="/web.seguimiento_pedidos" timestamp="1590564548256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Model/CreatePickUpManager.php" timestamp="1590577643860">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Model/CreatePickUpManager.php" timestamp="1590652715036">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="/seguimiento_pedidos [mysql.web.dev.pccom.interno]" timestamp="1590564548250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Model/RMACommonFunction.php" timestamp="1590647300700">
-        <mark key="[" line="488" column="0" />
-      </file>
-      <file name="/clientes_tarifas [mysql.web.dev.pccom.interno]" timestamp="1590564548258">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Model/RMACommonFunction.php" timestamp="1590655841616">
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="381" column="0" />
+        <mark key="." line="381" column="0" />
+        <mark key="^" line="454" column="34" />
       </file>
       <file name="/foo.bar" timestamp="1590564548262">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/web.compras_datos" timestamp="1590564548261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/docker/local/fpm_apiweb/config/xdebug.ini" timestamp="1590577022206">
@@ -178,14 +186,11 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="/PHP Console" timestamp="1590646786943">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/web.tarifas" timestamp="1590563693349">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1590565317671">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1590649632162">
         <mark key="a" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -260,10 +265,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPRklDSU5BX0NPUlJFT1MK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -272,31 +277,31 @@
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gY29tcHJhc19kYXRvcwp3aGVyZSBwZWRpZG8gPSBAcGVkaWRvOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPRklDSU5BX0NPUlJFT1MK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCdjYWNhJyk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBEVC0xMTQzCiAgICAgICAgaWYgKHN0cnRvbG93ZXIoJGFnZW5jeSkgPT09ICdjb3JyZW9zZXhwcmVzczI0JyAmJiAkZGF0YU1vZGVsQ2FzZS0+Z2V0UGlja1VwKCkgPT0gLTEpIHsKICAgICAgICAgICAgcmV0dXJuIDQyOwogICAgICAgIA==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkaWUpO2RpZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnNlbGVjdCAqCmZyb20gY2xpZW50ZXMgYwpsZWZ0IGpvaW4gY2xpZW50ZXNfdGFyaWZhcyBjdCBvbiBjLmlkX2NsaWVudGUgPSBjdC5pZF9jbGllbnRlCndoZXJlIGVtYWlsIGxpa2UgJyVwYXNjdWFsLm11bm96QHBjY29tcG9uZW50ZXMuY29tJSc=</text>
+        <text encoding="base64">ICAgICAgICAkZmluYWxBZ2VuY3lQcmljZSA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3ZlcmlmaWNhY2lvbiBzb2xhbWVudGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCdob2xhJyk7ZGllOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0IEBmZWNoYSA9IG5vdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCdob2xhJyk7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgc3AucGVkaWRvID0gQHBlZGlkbzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnaG9sYScpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
