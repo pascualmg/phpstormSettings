@@ -135,12 +135,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/ListBundle/Model/Manager.php" timestamp="1591010082862" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/marca_enviado.sql" timestamp="1590659236947">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Service/TaxActivator.php" timestamp="1590743788957">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="59" />
@@ -175,12 +169,12 @@
       <file name="/console_1" timestamp="1591005538915">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591013969481">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591015727059">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="224" column="92" />
-        <mark key="]" line="224" column="92" />
-        <mark key="^" line="263" column="30" />
-        <mark key="." line="224" column="92" />
+        <mark key="[" line="264" column="35" />
+        <mark key="]" line="265" column="10" />
+        <mark key="^" line="265" column="10" />
+        <mark key="." line="265" column="9" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/requests-with-tests.http" timestamp="1591008982047">
         <mark key="[" line="13" column="57" />
@@ -190,6 +184,12 @@
       </file>
       <file name="/tax [taxes@local]" timestamp="1590733492017">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/sqls/Aftersales/is_parent_case.sql" timestamp="1591016048109">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -263,11 +263,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJFVFVSTiBpc19wYXJlbnQgOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -276,102 +276,31 @@
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gY29tcHJhc19kYXRvcwp3aGVyZSBwZWRpZG8gPSBAcGVkaWRvOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJFVFVSTiBpc19wYXJlbnQgOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERFQ0xBUkUgaXNfcGFyZW50IEJPT0w7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>#cosas
-SELECT pr.returnId,
-       prt.name             AS caseType,
-       pra.country,
-       lo.dt                AS solvedDate,
-       rs.`status`,
-       pr.created           AS creationDate,
-       sp.fecha             AS deliveryDate,
-       pr.trackId           AS tickedId,
-       ar.nSeguimiento      AS deliveryTrackId,
-       ar.transporte        AS deliveryAgency,
-       pr.clientId,
-       pr.firstReference    AS orderId,
-       pr.info              AS description,
-       ac.recogida          AS deliveryType,
-       prsi.invoice         AS invoiceId,
-       pr.reference_case    AS parentCaseId,
-       ar.urlSeguimiento    AS deliveryTrackUrl,
-       w.nom_garantia       AS extraWarranty,
-       CASE
-           WHEN (
-                    SELECT prl.position
-                    FROM pccom_returns_log prl
-                    WHERE prl.returnId = pr.returnid
-                      AND prl.position NOT in
-                          ('ActionFinished', 'ActionReceived', 'ActionDelivered', 'ActionChangeNserie',
-                           'ActionNotAccess', 'ActionSaveNewBarcode', 'ActionChangeModalityCase',
-                           'ActionRecoveryReturn', 'ActionDeleteReturn', 'ActionComposedRMA')
-                    ORDER BY prl.logId DESC
-                    LIMIT 1) = 'ActionCreateRefund' THEN &quot;Reembolso&quot;
-           WHEN (
-                    SELECT prl.position
-                    FROM pccom_returns_log prl
-                    WHERE prl.returnId = pr.returnid
-                      AND prl.position NOT in
-                          ('ActionFinished', 'ActionReceived', 'ActionDelivered', 'ActionChangeNserie',
-                           'ActionNotAccess', 'ActionSaveNewBarcode', 'ActionChangeModalityCase',
-                           'ActionRecoveryReturn', 'ActionDeleteReturn', 'ActionComposedRMA')
-                    ORDER BY prl.logId DESC
-                    LIMIT 1) = 'ActionCreateOrder' THEN &quot;Reemplazo&quot;
-           WHEN (
-                    SELECT prl.position
-                    FROM pccom_returns_log prl
-                    WHERE prl.returnId = pr.returnid
-                      AND prl.position NOT in
-                          ('ActionFinished', 'ActionReceived', 'ActionDelivered', 'ActionChangeNserie',
-                           'ActionNotAccess', 'ActionSaveNewBarcode', 'ActionChangeModalityCase',
-                           'ActionRecoveryReturn', 'ActionDeleteReturn', 'ActionComposedRMA')
-                    ORDER BY prl.logId DESC
-                    LIMIT 1) = 'ActionSendItem' THEN &quot;Reparación&quot;
-           WHEN (
-                    SELECT prl.position
-                    FROM pccom_returns_log prl
-                    WHERE prl.returnId = pr.returnid
-                      AND prl.position NOT in
-                          ('ActionFinished', 'ActionReceived', 'ActionDelivered', 'ActionChangeNserie',
-                           'ActionNotAccess', 'ActionSaveNewBarcode', 'ActionChangeModalityCase',
-                           'ActionRecoveryReturn', 'ActionDeleteReturn', 'ActionComposedRMA')
-                    ORDER BY prl.logId DESC
-                    LIMIT 1) = 'ActionEndRefund' THEN &quot;Devolucion_rechazada&quot;
-           ELSE &quot;Error&quot; END AS solucion_cliente
-FROM pccom_returns pr
-         INNER JOIN pccom_returns_types prt ON pr.typeId = prt.typeId
-         INNER JOIN pccom_returns_address pra ON pr.returnId = pra.returnId
-         LEFT JOIN pccom_returns_log lo ON lo.returnId = pr.returnId AND lo.position = 'ActionFinished'
-         LEFT JOIN seguimiento_pedidos sp ON sp.pedido = pr.reference AND sp.respuesta = 40
-         LEFT JOIN asistente_recogidas ar ON ar.id_caso = pr.returnId
-         LEFT JOIN asistente_casos ac ON ac.id_caso = pr.returnId
-         LEFT JOIN pccom_returns_status rs ON rs.id = pr.`status`
-         LEFT JOIN pccom_returns_save_invoice prsi ON pr.returnId = prsi.returnId
-         LEFT JOIN warranty_csv w ON w.pedido = CAST(pr.firstReference AS UNSIGNED) AND w.id_articulo = pr.productId
-WHERE pr.returnId = 2756757;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBwY2NvbV9yZXR1cm5zX2xvZwp3aGVyZSByZXR1cm5JZCA9IDI3NTY3NDc7CgoKCgoKc2VsZWN0ICogZnJvbSBoZWxwZGVzay5oZXNrX3VzZXJzIHdoZXJlIGVtYWlsIGxpa2UgJyVwYXNjdWFsJScK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">REVMSU1JVEVSIC8vCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpzZWxlY3QgcG9ydGVzLCBjb250cmFyZWVtYm9sc28sIHByLioKZnJvbSBhc2lzdGVudGVfcmVjb2dpZGFzIHByCndoZXJlIHByLmlkX2Nhc28gPSAyNzc2NTMzCgoKc2VsZWN0ICoKZnJvbSBjbGllbnRlc190YXJpZmFzIGN0CmxlZnQgam9pbiBjbGllbnRlcyBjIG9uIGN0LmlkX2NsaWVudGUgPSBjLmlkX2NsaWVudGUKd2hlcmUgYy5lbWFpbCBsaWtlICclcGFzY3VhbC5tdW5veiUnOwoKc2VsZWN0ICoKZnJvbSBjbGllbnRlc190YXJpZmFzCndoZXJlIGlkX2NsaWVudGUgPSAxNjk3MjcKCgpzZWxlY3QgKgpmcm9tIGhlbHBkZXNrLmhlc2tfdGlja2V0cyB0CmxlZnQgam9pbiB3ZWIucGNjb21fcmV0dXJucyByIG9uIHIudHJhY2tJZCA9IHQudHJhY2tpZAp3aGVyZSByLnJldHVybklkID0gMjc3MjU0MjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IHByLiAqCmZyb20gcGNjb21fcmV0dXJucyBwcgp3aGVyZSByZXR1cm5JZCA9IDI3NzI1NDI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FzZQogd2hlbiAoc2VsZWN0IHBybC5wb3NpdGlvbiBmcm9tIHBjY29tX3JldHVybnNfbG9nIHBybCB3aGVyZSBwcmwucmV0dXJuSWQgPSBwci5yZXR1cm5pZCBhbmQgcHJsLnBvc2l0aW9uIG5vdCBpbiAoJ0FjdGlvbkZpbmlzaGVkJywgJ0FjdGlvblJlY2VpdmVkJywgJ0FjdGlvbkRlbGl2ZXJlZCcsICdBY3Rpb25DaGFuZ2VOc2VyaWUnLCAnQWN0aW9uTm90QWNjZXNzJywgJ0FjdGlvblNhdmVOZXdCYXJjb2RlJywgJ0FjdGlvbkNoYW5nZU1vZGFsaXR5Q2FzZScsICdBY3Rpb25SZWNvdmVyeVJldHVybicsICdBY3Rpb25EZWxldGVSZXR1cm4nLCAnQWN0aW9uQ29tcG9zZWRSTUEnKSBvcmRlciBieSBwcmwubG9nSWQgZGVzYyBsaW1pdCAxKSA9ICdBY3Rpb25DcmVhdGVSZWZ1bmQnIHRoZW4gIlJlZW1ib2xzbyIKIHdoZW4gKHNlbGVjdCBwcmwucG9zaXRpb24gZnJvbSBwY2NvbV9yZXR1cm5zX2xvZyBwcmwgd2hlcmUgcHJsLnJldHVybklkID0gcHIucmV0dXJuaWQgYW5kIHBybC5wb3NpdGlvbiBub3QgaW4gKCdBY3Rpb25GaW5pc2hlZCcsICdBY3Rpb25SZWNlaXZlZCcsICdBY3Rpb25EZWxpdmVyZWQnLCAnQWN0aW9uQ2hhbmdlTnNlcmllJywgJ0FjdGlvbk5vdEFjY2VzcycsICdBY3Rpb25TYXZlTmV3QmFyY29kZScsICdBY3Rpb25DaGFuZ2VNb2RhbGl0eUNhc2UnLCAnQWN0aW9uUmVjb3ZlcnlSZXR1cm4nLCAnQWN0aW9uRGVsZXRlUmV0dXJuJywgJ0FjdGlvbkNvbXBvc2VkUk1BJykgb3JkZXIgYnkgcHJsLmxvZ0lkIGRlc2MgbGltaXQgMSkgPSAnQWN0aW9uQ3JlYXRlT3JkZXInIHRoZW4gIlJlZW1wbGF6byIKIHdoZW4gKHNlbGVjdCBwcmwucG9zaXRpb24gZnJvbSBwY2NvbV9yZXR1cm5zX2xvZyBwcmwgd2hlcmUgcHJsLnJldHVybklkID0gcHIucmV0dXJuaWQgYW5kIHBybC5wb3NpdGlvbiBub3QgaW4gKCdBY3Rpb25GaW5pc2hlZCcsICdBY3Rpb25SZWNlaXZlZCcsICdBY3Rpb25EZWxpdmVyZWQnLCAnQWN0aW9uQ2hhbmdlTnNlcmllJywgJ0FjdGlvbk5vdEFjY2VzcycsICdBY3Rpb25TYXZlTmV3QmFyY29kZScsICdBY3Rpb25DaGFuZ2VNb2RhbGl0eUNhc2UnLCAnQWN0aW9uUmVjb3ZlcnlSZXR1cm4nLCAnQWN0aW9uRGVsZXRlUmV0dXJuJywgJ0FjdGlvbkNvbXBvc2VkUk1BJykgb3JkZXIgYnkgcHJsLmxvZ0lkIGRlc2MgbGltaXQgMSkgPSAnQWN0aW9uU2VuZEl0ZW0nIHRoZW4gIlJlcGFyYWNpw7NuIgogd2hlbiAoc2VsZWN0IHBybC5wb3NpdGlvbiBmcm9tIHBjY29tX3JldHVybnNfbG9nIHBybCB3aGVyZSBwcmwucmV0dXJuSWQgPSBwci5yZXR1cm5pZCBhbmQgcHJsLnBvc2l0aW9uIG5vdCBpbiAoJ0FjdGlvbkZpbmlzaGVkJywgJ0FjdGlvblJlY2VpdmVkJywgJ0FjdGlvbkRlbGl2ZXJlZCcsICdBY3Rpb25DaGFuZ2VOc2VyaWUnLCAnQWN0aW9uTm90QWNjZXNzJywgJ0FjdGlvblNhdmVOZXdCYXJjb2RlJywgJ0FjdGlvbkNoYW5nZU1vZGFsaXR5Q2FzZScsICdBY3Rpb25SZWNvdmVyeVJldHVybicsICdBY3Rpb25EZWxldGVSZXR1cm4nLCAnQWN0aW9uQ29tcG9zZWRSTUEnKSBvcmRlciBieSBwcmwubG9nSWQgZGVzYyBsaW1pdCAxKSA9ICdBY3Rpb25FbmRSZWZ1bmQnIHRoZW4gIkRldm9sdWNpb25fcmVjaGF6YWRhIgogZWxzZSAiRXJyb3IiCiBlbmQgYXMgc29sdWNpb25fY2xpZW50ZQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
