@@ -185,11 +185,11 @@
       <file name="/tax [taxes@local]" timestamp="1590733492017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/sqls/Aftersales/is_parent_case.sql" timestamp="1591016048109">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/src/sqls/Aftersales/is_parent_case.sql" timestamp="1591017119001">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -263,44 +263,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJFVFVSTiBpc19wYXJlbnQgOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, parent_case(reference_case)</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>, parent_case(reference_case)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CnNlbGVjdCAqIGZyb20gY29tcHJhc19kYXRvcwp3aGVyZSBwZWRpZG8gPSBAcGVkaWRvOw==</text>
+        <text>2744640</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJFVFVSTiBpc19wYXJlbnQgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERFQ0xBUkUgaXNfcGFyZW50IEJPT0w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REVMSU1JVEVSIC8vCkRST1AgRlVOQ1RJT04gSUYgRVhJU1RTIGlzX3BhcmVudDsKQ1JFQVRFIEZVTkNUSU9OIHBhcmVudF9jYXNlKGlkX2Nhc2UgSU5UKQogICAgUkVUVVJOUyBCT09MCkJFR0lOCiAgICBSRVRVUk4gKAogICAgICAgIFNFTEVDVCBJRihjb3VudCgqKSwgdHJ1ZSwgZmFsc2UpCiAgICAgICAgRlJPTSBwY2NvbV9yZXR1cm5zIHIKICAgICAgICBXSEVSRSByLnJldHVybklkID0gaWRfY2FzZQogICAgICAgICAgQU5EIChyLnJlZmVyZW5jZV9jYXNlID0gMCBPUiByLnJlZmVyZW5jZV9jYXNlIElTIE5VTEwpCiAgICApOwplbmQgLy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgaXNfcGFyZW50X2Nhc2UocmV0dXJuSWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REVMSU1JVEVSIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRSByLnJldHVybklkID0gaWRfY2FzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGUk9NIHBjY29tX3JldHVybnMgcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgSUYoY291bnQoKiksIHRydWUsIGZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0IGlzX3BhcmVudF9jYXNlKDI3NDQ2NDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
