@@ -120,7 +120,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591098869667">
+      <file name="/Dummy.txt" timestamp="1591103914682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -131,16 +131,17 @@
       <file name="/web.articulos_rastrillo" timestamp="1591084112585">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1591102932148">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="26" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1591103393153" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1591103893937">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="37" />
       </file>
       <file name="/foo.bar" timestamp="1591084112596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_1" timestamp="1591096542406">
+      <file name="/console_1" timestamp="1591102982252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalAfterSaleCaseSummaryRepository.php" timestamp="1591098859147">
@@ -148,12 +149,11 @@
         <mark key="]" line="58" column="68" />
         <mark key="." line="58" column="68" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591096008757">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591103138555">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="0" />
-        <mark key="^" line="336" column="37" />
-        <mark key="." line="281" column="0" />
+        <mark key="[" line="355" column="0" />
+        <mark key="]" line="355" column="0" />
+        <mark key="." line="355" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/Entity/OrderSummary.php" timestamp="1591101377925">
         <mark key="[" line="21" column="0" />
@@ -164,7 +164,7 @@
       <file name="/articulos_rastrillo [mysql.web.dev.pccom.interno]" timestamp="1591084112571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console 1" timestamp="1591091418494">
+      <file name="/console 1" timestamp="1591102980716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/866e533a-7283-4320-8dbf-9abe921b52fc/console.sql" timestamp="1591093009285">
@@ -177,6 +177,7 @@
         <mark key="]" line="131" column="8" />
         <mark key="." line="131" column="8" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/CaseDTO.php" timestamp="1591103260023" />
     </filemarks>
     <jumps>
       <jump line="484" column="36" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
@@ -249,44 +250,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>OrderState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>OrderState</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IC8qKiBAdmFyICRpZCBpbnQgKi8KICAgIHByaXZhdGUgJGlkOwoKICAgIA==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyICRzdGF0ZSBPcmRlclN0YXRlICovCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+aWQgPSAkaWQ7Cg==</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHNlbGYoJGlkLCAkc3RhdGUpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEpzb25TZXJpYWxpemFibGUgYXMgSnNvblNlcmlhbGl6YWJsZUFsaWFzOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkc3RhdGUKICAgICAqIEByZXR1cm4gT3JkZXJTdW1tYXJ5CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRTdGF0ZShpbnQgJHN0YXRlKTogT3JkZXJTdW1tYXJ5CiAgICB7CiAgICAgICAgJHRoaXMtPnN0YXRlID0gJHN0YXRlOwogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRJZChpbnQgJGlkKTogT3JkZXJTdW1tYXJ5Cg==</text>
+        <text encoding="base64">ZnJvbSBwZWRpZG9zX3NlZ3VpbWllbnRvIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBwY2NvbV9yZXR1cm5zX3Byb2R1Y3RzCndoZXJlIHByb2R1Y3RJZCA+IDkwMDAwMApvcmRlciBieSByZXR1cm5JZCBkZXNjOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gT3JkZXJTdW1tYXJ5Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyICRzdGF0ZSBPcmRlclN0YXRlICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
