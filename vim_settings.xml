@@ -131,6 +131,7 @@
       <file name="/console" timestamp="1591080238785">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591082121411" />
       <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Service/TaxActivator.php" timestamp="1590743788957">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="59" />
@@ -152,6 +153,12 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="64" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalCaseArticleRepository.php" timestamp="1591082219152">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="30" />
+      </file>
       <file name="/foo.bar" timestamp="1590733492029">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,12 +171,12 @@
       <file name="/console_1" timestamp="1591005538915">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591015727059">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591083294647">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="264" column="35" />
-        <mark key="]" line="265" column="10" />
-        <mark key="^" line="265" column="10" />
-        <mark key="." line="265" column="9" />
+        <mark key="[" line="288" column="17" />
+        <mark key="]" line="288" column="21" />
+        <mark key="." line="288" column="20" />
+        <mark key="^" line="288" column="21" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DbalAfterSalesCaseSolutionRepository.php" timestamp="1591080411289" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/GetCaseQueryHandler.php" timestamp="1591080338466" />
@@ -258,43 +265,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, parent_case(reference_case)</text>
+        <text>al.nombre</text>
       </register>
       <register name="-" type="4">
-        <text>, parent_case(reference_case)</text>
+        <text>al.nombre</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>2744640</text>
+        <text>SELECT al.nombre
+           FROM articulos_limpiados al
+           WHERE al.id_articulo = r.productId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZSBhbGxBcnRpY2xlcy5pZF9hcnRpY3VsbyA9IHIucHJvZHVjdElkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">REVMSU1JVEVSIC8vCkRST1AgRlVOQ1RJT04gSUYgRVhJU1RTIGlzX3BhcmVudDsKQ1JFQVRFIEZVTkNUSU9OIHBhcmVudF9jYXNlKGlkX2Nhc2UgSU5UKQogICAgUkVUVVJOUyBCT09MCkJFR0lOCiAgICBSRVRVUk4gKAogICAgICAgIFNFTEVDVCBJRihjb3VudCgqKSwgdHJ1ZSwgZmFsc2UpCiAgICAgICAgRlJPTSBwY2NvbV9yZXR1cm5zIHIKICAgICAgICBXSEVSRSByLnJldHVybklkID0gaWRfY2FzZQogICAgICAgICAgQU5EIChyLnJlZmVyZW5jZV9jYXNlID0gMCBPUiByLnJlZmVyZW5jZV9jYXNlIElTIE5VTEwpCiAgICApOwplbmQgLy8K</text>
+        <text encoding="base64">ICAgICAgICBGUk9NIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgaXNfcGFyZW50X2Nhc2UocmV0dXJuSWQpCg==</text>
+        <text encoding="base64">ICAgICAgIChTRUxFQ1QgYWxsQXJ0aWNsZXMubm9tYnJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSSUdIVCBKT0lOIGFydGljdWxvc19saW1waWFkb3MgYWwgb24gYWwuaWRfYXJ0aWN1bG8gPSBhLmlkX2FydGljdWxvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRSByLnJldHVybklkID0gaWRfY2FzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgTEVGVCBKT0lOIGFydGljdWxvcyBhIG9uIHIucHJvZHVjdElkID0gYS5pZF9hcnRpY3Vsbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGUk9NIHBjY29tX3JldHVybnMgcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgSUYoY291bnQoKiksIHRydWUsIGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IGlzX3BhcmVudF9jYXNlKDI3NDQ2NDApCg==</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
