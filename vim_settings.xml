@@ -120,26 +120,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591104929691">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="/console" timestamp="1591102600340">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/web.articulos_rastrillo" timestamp="1591084112585">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1591103393153" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1591103893937">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1591105542365">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="32" />
       </file>
-      <file name="/foo.bar" timestamp="1591084112596">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/Repository/OrderSummaryRepository.php" timestamp="1591105572172">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591103138555">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="355" column="0" />
+        <mark key="]" line="355" column="0" />
+        <mark key="." line="355" column="0" />
+      </file>
+      <file name="/console 1" timestamp="1591102980716">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/CaseDTO.php" timestamp="1591103260023" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/AfterSalesCaseNotFoundException.php" timestamp="1591106765114" />
+      <file name="/Dummy.txt" timestamp="1591106464600">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/console_1" timestamp="1591102982252">
         <mark key="[" line="0" column="0" />
@@ -149,40 +159,28 @@
         <mark key="]" line="58" column="68" />
         <mark key="." line="58" column="68" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591103138555">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="355" column="0" />
-        <mark key="]" line="355" column="0" />
-        <mark key="." line="355" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/Entity/OrderSummary.php" timestamp="1591101377925">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="17" column="21" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/articulos_rastrillo [mysql.web.dev.pccom.interno]" timestamp="1591084112571">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console 1" timestamp="1591102980716">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/866e533a-7283-4320-8dbf-9abe921b52fc/console.sql" timestamp="1591093009285">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/Centralita.v2.yaml" timestamp="1591102784493">
         <mark key="[" line="131" column="8" />
         <mark key="]" line="131" column="8" />
         <mark key="." line="131" column="8" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/CaseDTO.php" timestamp="1591103260023" />
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/OrderSummaryTest.php" timestamp="1591104958314">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/Service/Exception/OrderSummaryNotFoundException.php" timestamp="1591106770188">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="16" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -257,10 +255,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>testOfId</text>
+        <text>$statusCode,</text>
       </register>
       <register name="-" type="4">
-        <text>testOfId</text>
+        <text>$statusCode,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -269,31 +267,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+aWQgPSAkaWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>is parent case</text>
+        <text encoding="base64">ICAgICAgICAkaGVhZGVycyA9IFtdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBcRXhjZXB0aW9uICRwcmV2aW91cyA9IG51bGwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAkZXh0cmFEYXRhID0gW10sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0SnNvblNlcmlhbGl6ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdHVzQ29kZSA9IDUwMCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkY29kZSA9IDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHNlbGYoJGlkLCAkc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19pbnZva2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEpzb25TZXJpYWxpemFibGUgYXMgSnNvblNlcmlhbGl6YWJsZUFsaWFzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGlkKCk6IGludAogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
