@@ -125,19 +125,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Application/UpdateTax/UpdateTaxCommand.php" timestamp="1590735530205">
-        <mark key="[" line="62" column="19" />
-      </file>
-      <file name="/console" timestamp="1591080238785">
+      <file name="/console" timestamp="1591091445391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591086968431" />
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Service/TaxActivator.php" timestamp="1590743788957">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="59" />
-        <mark key="^" line="24" column="59" />
-        <mark key="." line="24" column="58" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/146087d2-aac1-4f39-96e9-369af67fbdba/console.sql" timestamp="1591011061836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -168,9 +159,9 @@
       <file name="/console_1" timestamp="1591005538915">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591090502303">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591091475963">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="328" column="5" />
+        <mark key="[" line="328" column="4" />
         <mark key="]" line="328" column="5" />
         <mark key="." line="328" column="5" />
         <mark key="^" line="328" column="5" />
@@ -179,7 +170,15 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DbalAfterSalesCaseSolutionRepository.php" timestamp="1591080411289" />
+      <file name="/console 1" timestamp="1591091418494">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/GetCaseQueryHandler.php" timestamp="1591080338466" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/866e533a-7283-4320-8dbf-9abe921b52fc/console.sql" timestamp="1591091759771">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/requests-with-tests.http" timestamp="1591008982047">
         <mark key="[" line="13" column="57" />
         <mark key="]" line="13" column="57" />
@@ -264,8 +263,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>articulos_rastrillo_archivados</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VMRUNUIHIucmV0dXJuSWQsCiAgICAgICBwcnAucHJvZHVjdElkLAogICAgICAgKAogICAgICAgICAgIFNFTEVDVCBJRihyLnByb2R1Y3RJZCA+IDkwMDAwMCwgQ09OQ0FUKCdyYXN0cmlsbG8gLSAnLCBhLm5vbWJyZSksIGEubm9tYnJlKQogICAgICAgICAgIEZST00gYXJ0aWN1bG9zIGEKICAgICAgICAgICBXSEVSRSBhLmlkX2FydGljdWxvID0gci5wcm9kdWN0SWQKICAgICAgICAgICBVTklPTgogICAgICAgICAgIFNFTEVDVCBJRihyLnByb2R1Y3RJZCA+IDkwMDAwMCwgQ09OQ0FUKCdyYXN0cmlsbG8gLSAnLCBhbC5ub21icmUpLCBhbC5ub21icmUpCiAgICAgICAgICAgRlJPTSBhcnRpY3Vsb3NfbGltcGlhZG9zIGFsCiAgICAgICAgICAgV0hFUkUgYWwuaWRfYXJ0aWN1bG8gPSByLnByb2R1Y3RJZAogICAgICAgICAgIFVOSU9OCiAgICAgICAgICAgU0VMRUNUIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHAucHJvZHVjdE5hbWUpLCBwLnByb2R1Y3ROYW1lKQogICAgICAgICAgIEZST00gcGNjb21fcmV0dXJuc19wcm9kdWN0cyBwCiAgICAgICAgICAgV0hFUkUgcC5wcm9kdWN0SWQgPSByLnByb2R1Y3RJZAogICAgICAgICAgIExJTUlUIDEKICAgICAgICkgYXMgcHJvZHVjdE5hbWUsCiAgICAgICBwcnNuLnNuCkZST00gcGNjb21fcmV0dXJucyByCiAgICAgICAgIElOTkVSIEpPSU4gcGNjb21fcmV0dXJuc19wcm9kdWN0cyBwcnAgT04gci5wcm9kdWN0SWQgPSBwcnAucHJvZHVjdElkCiAgICAgICAgIExFRlQgSk9JTiBwY2NvbV9yZXR1cm5zX3NlcmlhbF9udW1iZXJzIHByc24gT04gcHJwLnJldHVybklkID0gcHJzbi5yZXR1cm5JZApXSEVSRSByLnJldHVybklkID0gOnJldHVybklkCk9SREVSIEJZIHByc24ub3JkZXJJZCBERVNDCkxJTUlUIDE7</text>
       </register>
       <register name="-" type="4">
         <text>articulos_rastrillo_archivados</text>
@@ -277,21 +276,24 @@
         <text encoding="base64">b3JkZXIgYnkgcmV0dXJuSWQgZGVzYzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSwgcHJvZHVjdE5hbWUpLAo=</text>
+        <text encoding="base64">U0VMRUNUIHIucmV0dXJuSWQsCiAgICAgICBwcnAucHJvZHVjdElkLAogICAgICAgKAogICAgICAgICAgIFNFTEVDVCBJRihyLnByb2R1Y3RJZCA+IDkwMDAwMCwgQ09OQ0FUKCdyYXN0cmlsbG8gLSAnLCBhLm5vbWJyZSksIGEubm9tYnJlKQogICAgICAgICAgIEZST00gYXJ0aWN1bG9zIGEKICAgICAgICAgICBXSEVSRSBhLmlkX2FydGljdWxvID0gci5wcm9kdWN0SWQKICAgICAgICAgICBVTklPTgogICAgICAgICAgIFNFTEVDVCBJRihyLnByb2R1Y3RJZCA+IDkwMDAwMCwgQ09OQ0FUKCdyYXN0cmlsbG8gLSAnLCBhbC5ub21icmUpLCBhbC5ub21icmUpCiAgICAgICAgICAgRlJPTSBhcnRpY3Vsb3NfbGltcGlhZG9zIGFsCiAgICAgICAgICAgV0hFUkUgYWwuaWRfYXJ0aWN1bG8gPSByLnByb2R1Y3RJZAogICAgICAgICAgIFVOSU9OCiAgICAgICAgICAgU0VMRUNUIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHAucHJvZHVjdE5hbWUpLCBwLnByb2R1Y3ROYW1lKQogICAgICAgICAgIEZST00gcGNjb21fcmV0dXJuc19wcm9kdWN0cyBwCiAgICAgICAgICAgV0hFUkUgcC5wcm9kdWN0SWQgPSByLnByb2R1Y3RJZAogICAgICAgICAgIExJTUlUIDEKICAgICAgICkgYXMgcHJvZHVjdE5hbWUsCiAgICAgICBwcnNuLnNuCkZST00gcGNjb21fcmV0dXJucyByCiAgICAgICAgIElOTkVSIEpPSU4gcGNjb21fcmV0dXJuc19wcm9kdWN0cyBwcnAgT04gci5wcm9kdWN0SWQgPSBwcnAucHJvZHVjdElkCiAgICAgICAgIExFRlQgSk9JTiBwY2NvbV9yZXR1cm5zX3NlcmlhbF9udW1iZXJzIHByc24gT04gcHJwLnJldHVybklkID0gcHJzbi5yZXR1cm5JZApXSEVSRSByLnJldHVybklkID0gOnJldHVybklkCk9SREVSIEJZIHByc24ub3JkZXJJZCBERVNDCkxJTUlUIDE7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSwgcHJvZHVjdE5hbWUpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSxwcm9kdWN0TmFtZSkgLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSxwcm9kdWN0TmFtZSkgLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSxwcm9kdWN0TmFtZSkgLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSxwcm9kdWN0TmFtZSkgLAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>SET @name = (
     SELECT a.nombre
     FROM articulos a
@@ -307,14 +309,11 @@
     LIMIT 1
 );</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZSBhbGxBcnRpY2xlcy5pZF9hcnRpY3VsbyA9IHIucHJvZHVjdElkCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGUk9NIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZSBhbGxBcnRpY2xlcy5pZF9hcnRpY3VsbyA9IHIucHJvZHVjdElkCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
