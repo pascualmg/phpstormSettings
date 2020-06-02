@@ -120,7 +120,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591006881992">
+      <file name="/Dummy.txt" timestamp="1591087675389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -131,7 +131,7 @@
       <file name="/console" timestamp="1591080238785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591082121411" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591086968431" />
       <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Service/TaxActivator.php" timestamp="1590743788957">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="59" />
@@ -144,22 +144,19 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/web.articulos_rastrillo" timestamp="1591084112585">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Model/RMACommonFunction.php" timestamp="1591010039840">
         <mark key="^" line="435" column="8" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/src/Tax/Domain/Service/TaxCreator.php" timestamp="1590734266906">
-        <mark key="[" line="27" column="65" />
-        <mark key="]" line="27" column="65" />
-        <mark key="^" line="27" column="65" />
-        <mark key="." line="27" column="64" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalCaseArticleRepository.php" timestamp="1591087129973">
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="43" column="9" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalCaseArticleRepository.php" timestamp="1591082219152">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="30" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="30" />
-      </file>
-      <file name="/foo.bar" timestamp="1590733492029">
+      <file name="/foo.bar" timestamp="1591084112596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1591006881969">
@@ -171,12 +168,14 @@
       <file name="/console_1" timestamp="1591005538915">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591083294647">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591086704352">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="288" column="17" />
-        <mark key="]" line="288" column="21" />
-        <mark key="." line="288" column="20" />
-        <mark key="^" line="288" column="21" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="." line="294" column="0" />
+      </file>
+      <file name="/articulos_rastrillo [mysql.web.dev.pccom.interno]" timestamp="1591084112571">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DbalAfterSalesCaseSolutionRepository.php" timestamp="1591080411289" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/GetCaseQueryHandler.php" timestamp="1591080338466" />
@@ -265,45 +264,56 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>al.nombre</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>al.nombre</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT al.nombre
-           FROM articulos_limpiados al
-           WHERE al.id_articulo = r.productId</text>
+      <register name="0" type="2">
+        <text encoding="base64">b3JkZXIgYnkgcmV0dXJuSWQgZGVzYzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSwgcHJvZHVjdE5hbWUpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZSBhbGxBcnRpY2xlcy5pZF9hcnRpY3VsbyA9IHIucHJvZHVjdElkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGUk9NIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSxwcm9kdWN0TmFtZSkgLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIChTRUxFQ1QgYWxsQXJ0aWNsZXMubm9tYnJlCg==</text>
+        <text encoding="base64">ICAgICAgIElGKHIucHJvZHVjdElkID4gOTAwMDAwLCBDT05DQVQoJ3Jhc3RyaWxsbyAtICcsIHByb2R1Y3ROYW1lKSxwcm9kdWN0TmFtZSkgLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSSUdIVCBKT0lOIGFydGljdWxvc19saW1waWFkb3MgYWwgb24gYWwuaWRfYXJ0aWN1bG8gPSBhLmlkX2FydGljdWxvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgTEVGVCBKT0lOIGFydGljdWxvcyBhIG9uIHIucHJvZHVjdElkID0gYS5pZF9hcnRpY3Vsbwo=</text>
+        <text>SET @name = (
+    SELECT a.nombre
+    FROM articulos a
+    WHERE a.id_articulo = r.productId
+    UNION
+    SELECT al.nombre
+    FROM articulos_limpiados al
+    WHERE al.id_articulo = r.productId
+    UNION
+    SELECT p.productName
+    FROM pccom_returns_products p
+    WHERE p.productId = r.productId
+    LIMIT 1
+);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVyZSBhbGxBcnRpY2xlcy5pZF9hcnRpY3VsbyA9IHIucHJvZHVjdElkCg==</text>
+      </register>
       <register name="9" type="2">
-        <text>'</text>
+        <text encoding="base64">ICAgICAgICBGUk9NIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
