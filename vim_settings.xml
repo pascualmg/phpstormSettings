@@ -120,24 +120,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591113786503">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591128964705">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
         <mark key="^" line="2" column="37" />
-        <mark key="." line="2" column="36" />
+        <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalAfterSalesCaseRepository.php" timestamp="1591103393153" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/Service/OrderSummaryFinder.php" timestamp="1591112314171">
         <mark key="[" line="32" column="50" />
         <mark key="]" line="32" column="62" />
         <mark key="^" line="32" column="62" />
         <mark key="." line="32" column="61" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1591105542365">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Domain/AfterSales/Service/Landbot/OrderSummaryFinderTest.php" timestamp="1591113379585">
         <mark key="[" line="44" column="0" />
@@ -150,11 +143,17 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/app/config/routing.yml" timestamp="1591128753428">
+        <mark key="[" line="115" column="13" />
+        <mark key="]" line="115" column="20" />
+        <mark key="^" line="115" column="20" />
+        <mark key="." line="115" column="19" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalClientSummaryRepository.php" timestamp="1591115319385" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1591116360431">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="21" />
-        <mark key="." line="36" column="20" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1591129605169">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="32" />
+        <mark key="." line="35" column="32" />
         <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/AfterSales/OrderSummaryFinderTest.php" timestamp="1591112650005">
@@ -163,37 +162,46 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/GetCase/CaseDTO.php" timestamp="1591103260023" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/InboxController.php" timestamp="1591128512722" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/services.yml" timestamp="1591129207975">
+        <mark key="[" line="118" column="40" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Exception/AfterSalesCaseNotFoundException.php" timestamp="1591106765114" />
-      <file name="/Dummy.txt" timestamp="1591115210850">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing_landbot.yml" timestamp="1591128794941">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591129363248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing_aftersales.yml" timestamp="1591114003286">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="73" />
-        <mark key="^" line="16" column="73" />
-        <mark key="." line="16" column="72" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing_aftersales.yml" timestamp="1591128829919">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1591116482968">
-        <mark key="[" line="2539" column="70" />
-        <mark key="]" line="2539" column="70" />
-        <mark key="." line="2539" column="70" />
-        <mark key="^" line="2539" column="68" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591128947553">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1591128857995" />
+      <file name="$USER_HOME$/src/pccapi/app/config/services.yml" timestamp="1591129278573">
+        <mark key="[" line="147" column="59" />
+        <mark key="]" line="147" column="67" />
+        <mark key="." line="147" column="66" />
+        <mark key="^" line="147" column="67" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/Catalog/Article/Review/Report/ReportReviewTest.php" timestamp="1591108795536" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/Landbot/services.yml" timestamp="1591116435076">
-        <mark key="[" line="4" column="73" />
-        <mark key="]" line="4" column="107" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Aftersales/Landbot/services.yml" timestamp="1591129327425">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="2" />
         <mark key="^" line="4" column="107" />
-        <mark key="." line="4" column="106" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/OrderSummaryTest.php" timestamp="1591104958314">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="11" />
+        <mark key="." line="10" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -268,21 +276,54 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PDO</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PDO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R0VUIGh0dHA6Ly9sb2NhbGhvc3Q6NjA4MC9hZnRlcnNhbGVzL2Nhc2UvMjc5NjAzMT9hY2Nlc3NfdG9rZW49TldRd00yUm1aVFZtWW1GalpXTm1OakJpT1RreU56azJNVGs0T0RRMVpEZzFaakpsT1dNMllqSmxOalZtWWpaa01UTTFPRFkzTTJKak1EYzBPV00zTUEmWERFQlVHX1NFU1NJT05fU1RBUlQ9UEhQU1RPUk0K</text>
+        <text encoding="base64">ICAgIC0geyByZXNvdXJjZTogIi4uLy4uL3NyYy9QY2MvRG9tYWluL1NlcnZpY2UvQWZ0ZXJzYWxlcy9zZXJ2aWNlcy55bWwiIH0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text>pcc_landbot_order_summary:
+    path: /landbot/ordersummary/{orderId}
+    requirements:
+        orderId: '\d+'
+    defaults: { _controller: PccUserBundle:LandBot:getOrderSummary}
+    methods: [GET]</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text>pcc_user_create_clientSolution:
+    path:     /{typeId}/solution/{idArticle}
+    defaults: { _controller: PccUserBundle:Returns:getSolution }
+    methods: [GET]
+
+pcc_rma_client:
+    path: /case/{caseId}
+    requirements:
+        caseId: '\d+'
+    defaults: { _controller: PccUserBundle:Returns:getCase }
+    methods:  [GET]</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAobmV3IE9yZGVyU3VtbWFyeUZpbmRlcigKICAgICAgICAgICAgICAgIAogICAgICAgICAgICApKQ==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>new class implements OrderSummaryRepository {
                     public function find(int $orderId): ?OrderSummary
                     {
@@ -291,26 +332,8 @@
                     }
                 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bGltaXQgMQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgKiAKICAgICAgICBmcm9tIGFwaV9hZ2VuY2lhc19wZWRpZG9zIHAKICAgICAgICBsaW1pdCAx</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmJpbmRWYWx1ZSgndGVsZXBob25lJywgJHRlbGVwaG9uZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdIRVJFIGMudGVsZWZvbm9fbW92aWwgPSA6dGVsZXBob25lIEFORCBjLmVtYWlsID0gOmVtYWlsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZST00gY2xpZW50ZXMgYwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLnRlbGVmb25vX21vdmlsIEFTIHRlbGVwaG9uZQo=</text>
+        <text encoding="base64">bGltaXQgMQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
