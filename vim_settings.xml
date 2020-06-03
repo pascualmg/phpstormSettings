@@ -120,7 +120,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Order/OrderConstants.php" timestamp="1591180535972" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Order/OrderConstants.php" timestamp="1591190804818" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Order/OrderFinderService.php" timestamp="1591174926529" />
       <file name="/a.dummy" timestamp="1591171211670">
         <mark key="[" line="0" column="0" />
@@ -141,14 +141,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/app/config/Services/Domain/Service/Order/services.yml" timestamp="1591174976395" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591187064088">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="351" column="14" />
-        <mark key="]" line="351" column="23" />
-        <mark key="." line="351" column="22" />
-        <mark key="^" line="351" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591193415777">
+        <mark key="'" line="356" column="1" />
+        <mark key="[" line="367" column="25" />
+        <mark key="]" line="367" column="26" />
+        <mark key="^" line="367" column="25" />
+        <mark key="." line="367" column="26" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1591189643323">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1591190735368">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="6" />
@@ -246,15 +246,16 @@
       <jump line="16" column="2" filename="$USER_HOME$/src/deleteame/index.php" />
       <jump line="75" column="103" filename="$USER_HOME$/src/pccapi/app/logs/dev.log" />
       <jump line="8640" column="0" filename="$USER_HOME$/src/pccapi/app/logs/dev.log" />
+      <jump line="355" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IN ('EN REPARTO')</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>IN ('EN REPARTO')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -263,31 +264,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVxdWVzdC0+YXR0cmlidXRlcy0+Z2V0KCdvcmRlcklkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgYWdlbmNpYSBsaWtlICcldXJnZW50ZSUnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlckNvbnN0YW50czo6Cg==</text>
+        <text encoding="base64">c2VsZWN0IGFnZW5jaWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgUENDT01QX1NUQVRVU19SRUNFSVZFRF9PUkRFUiA9ICdQZWRpZG8gcmVjaWJpZG8nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZTogJycK</text>
+        <text encoding="base64">ICAgIHslIGVuZGlmICV9YGBgYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKCRyZXN1bHRbJ3N0YXR1cyddKXsK</text>
+        <text encoding="base64">ICAgIHslIGVuZGlmICV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hlcmUgZGlhc19yZXBhcnRvID4gMQpsaW1pdCAxMDs=</text>
+        <text encoding="base64">ICAgIHslIHNldCBkYXRlRW50cmVnYWRvID0gdHJhY2tpbmcuZGF0ZSAlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgICAgICR0aGlzLT5nZXQoJ3NlcnZpY2Vfb3JkZXIuZmluZGVyJykKICAgICAgICAgICAgICAgIC0+ZmluZE9uZUJ5T3JkZXJOdW1iZXJPckZhaWwoJG9yZGVySWQpCiAgICAgICAgICAgICkKICAgICAgICApOw==</text>
+        <text encoding="base64">ICAgIHslIHNldCBzaGlwcGluZ0NsYXNzID0gImVudHJlZ2FkbyIgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmpzb25BcnJheWZ5KAo=</text>
+        <text encoding="base64">ICAgIHslIGVsc2VpZiB0cmFja2luZy5yZXNwb25zZSA9PSA5ICV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24ganNvbkFycmF5ZnkoJG9iail7CiAgICAgICAgZHVtcCgkb2JqKTtkaWU7CiAgICAgICAgcmV0dXJuIGpzb25fZW5jb2RlKGpzb25fZGVjb2RlKCRvYmopLCBKU09OX1BSRVRUWV9QUklOVCk7CiAgICB9</text>
+        <text encoding="base64">ICAgIHslIHNldCBkYXRlUHJlcGFyYWRvID0gdHJhY2tpbmcuZGF0ZSAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
