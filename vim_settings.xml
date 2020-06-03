@@ -120,6 +120,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Order/OrderConstants.php" timestamp="1591180535972" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Order/OrderFinderService.php" timestamp="1591174926529" />
       <file name="/a.dummy" timestamp="1591171211670">
         <mark key="[" line="0" column="0" />
@@ -136,42 +137,28 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Controller/Returns/DataReturnOrderController.php" timestamp="1591176760214" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/OrderSummaryQuery.php" timestamp="1591170667547">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/Service/OrderSummaryFinder.php" timestamp="1591170012318">
-        <mark key="[" line="32" column="50" />
-        <mark key="]" line="32" column="62" />
-        <mark key="^" line="32" column="62" />
-        <mark key="." line="32" column="61" />
-      </file>
       <file name="/PHP Console" timestamp="1591175791246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/app/config/Services/Domain/Service/Order/services.yml" timestamp="1591174976395" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591177374986">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591180113070">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="371" column="0" />
-        <mark key="]" line="371" column="0" />
-        <mark key="." line="371" column="0" />
+        <mark key="[" line="352" column="28" />
+        <mark key="]" line="352" column="28" />
+        <mark key="." line="352" column="27" />
+        <mark key="^" line="352" column="28" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1591168230354">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
-        <mark key="^" line="31" column="8" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1591180549932">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="43" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="43" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Order/Zingtree/OrderTree/GerOrdersEmail/GetOrders.php" timestamp="1591179634803" />
       <file name="/console 1" timestamp="1591173646923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/getOrderSummaryQueryHandler.php" timestamp="1591171054405">
-        <mark key="[" line="23" column="81" />
-        <mark key="]" line="23" column="82" />
-        <mark key="." line="23" column="82" />
-      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/Order/Zingtree/OrderTree/GetOrder/GetOrder.php" timestamp="1591179114374" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/GetOrderSummaryQueryHandler.php" timestamp="1591171142172">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="7" />
@@ -182,15 +169,15 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Order/OrderInfoService.php" timestamp="1591176323553" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591177522578">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="32" column="54" />
-        <mark key="^" line="32" column="54" />
-        <mark key="." line="32" column="53" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Order/OrderInfoService.php" timestamp="1591178437528" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591179216977">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/EntityBundle/Entity/Components/OrdersExpeditions.php" timestamp="1591176655424" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/CommonBundle/Events/KernelListener.php" timestamp="1591175554907" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/Zingtree/OrdersController.php" timestamp="1591180093765" />
     </filemarks>
     <jumps>
       <jump line="484" column="36" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
@@ -264,7 +251,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dHJhY2tpbmdOdW1iZXIoJG9yZGVySWQpCg==</text>
+        <text encoding="base64">d2hlcmUgZGlhc19yZXBhcnRvID4gMQpsaW1pdCAxMDs=</text>
       </register>
       <register name="-" type="4">
         <text>info</text>
@@ -276,31 +263,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVxdWVzdC0+YXR0cmlidXRlcy0+Z2V0KCdvcmRlcklkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dHJhY2tpbmdOdW1iZXIoJG9yZGVySWQpCg==</text>
+        <text encoding="base64">d2hlcmUgZGlhc19yZXBhcnRvID4gMQpsaW1pdCAxMDs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgICAgICR0aGlzLT5nZXQoJ3NlcnZpY2Vfb3JkZXIuZmluZGVyJykKICAgICAgICAgICAgICAgIC0+ZmluZE9uZUJ5T3JkZXJOdW1iZXJPckZhaWwoJG9yZGVySWQpCiAgICAgICAgICAgICkKICAgICAgICApOw==</text>
       </register>
       <register name="3" type="2">
-        <text>limit 10</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmpzb25BcnJheWZ5KAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YW5kIGVudmlhZG8gPSAncycK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24ganNvbkFycmF5ZnkoJG9iail7CiAgICAgICAgZHVtcCgkb2JqKTtkaWU7CiAgICAgICAgcmV0dXJuIGpzb25fZW5jb2RlKGpzb25fZGVjb2RlKCRvYmopLCBKU09OX1BSRVRUWV9QUklOVCk7CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNi0wMlQwNjAzMzYuNDA0Lmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dHJhY2tpbmdOdW1iZXIoJG9yZGVySWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNi0wMlQwNjA2NTQuNTAwLmpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNi0wMlQwNjA3MjMuMjAwLmpzb24K</text>
+        <text>limit 10</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNi0wMlQwNjA5NTEuMjAwLmpzb24K</text>
+        <text encoding="base64">YW5kIGVudmlhZG8gPSAncycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNi0wMlQwNjEwMDYuMjAwLmpzb24K</text>
+        <text encoding="base64">PD4gMjAyMC0wNi0wMlQwNjAzMzYuNDA0Lmpzb24K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
