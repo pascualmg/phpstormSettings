@@ -18,6 +18,7 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,11 +123,6 @@
     <filemarks>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Order/OrderConstants.php" timestamp="1591190804818" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/Service/Order/OrderFinderService.php" timestamp="1591174926529" />
-      <file name="/a.dummy" timestamp="1591171211670">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="/console" timestamp="1591173646617">
         <mark key="[" line="0" column="0" />
       </file>
@@ -242,10 +238,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>map logistic status to pccom client status</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>map logistic status to pccom client status</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwlXD4=</text>
@@ -281,7 +277,7 @@
         <text encoding="base64">d2hlcmUgcmVzcHVlc3RhID0gLTIwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
