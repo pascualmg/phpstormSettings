@@ -122,10 +122,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591347396476">
+      <file name="/Dummy.txt" timestamp="1591613262497">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/GetOrderSummaryQuery.php" timestamp="1591602481600">
         <mark key="'" line="20" column="77" />
@@ -133,6 +133,28 @@
         <mark key="]" line="38" column="32" />
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591176283600">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/Exception/ClientSummaryNotFoundException.php" timestamp="1591613422934" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1591613230722">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/docs/openapi/landbot.v1.yaml" timestamp="1591350276319">
+        <mark key="[" line="286" column="38" />
+        <mark key="]" line="286" column="38" />
+        <mark key="." line="286" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591612881829">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1591600264265">
         <mark key="[" line="0" column="0" />
@@ -153,32 +175,17 @@
       <file name="/console 1" timestamp="1591600397033">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591176283600">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="2" column="37" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1591610405245">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/docs/openapi/landbot.v1.yaml" timestamp="1591350276319">
-        <mark key="[" line="286" column="38" />
-        <mark key="]" line="286" column="38" />
-        <mark key="." line="286" column="38" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591610450277">
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/GetOrderSummaryQueryHandler.php" timestamp="1591610357252">
         <mark key="[" line="53" column="28" />
         <mark key="]" line="53" column="12" />
         <mark key="." line="53" column="11" />
         <mark key="^" line="53" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/OrderSummaryTest.php" timestamp="1591613103530">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -254,11 +261,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>jsonSerialize()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN0YXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>jsonSerialize()</text>
+        <text>ZT-1feature/</text>
       </register>
       <register name="/" type="4">
         <text>te</text>
@@ -267,31 +274,31 @@
         <text encoding="base64">KCR0aGlzLT5vcmRlclN1bW1hcnlGaW5kZXIpKCRvcmRlclN1bW1hcnlRdWVyeS0+b3JkZXJJZCgpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN0YXRlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWVudElkJyA9PiAkdGhpcy0+Y2xpZW50SWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXRlJyA9PiAkdGhpcy0+c3RhdGUoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjbGllbnQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiAkdGhpcy0+aWQoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwo=</text>
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRpc1ZhbGlkKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWVudElkJyA9PiAkdGhpcy0+Y2xpZW50SWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRjbGllbnRJZHMpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXRlJyA9PiAkdGhpcy0+c3RhdGUoKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRjbGllbnRTdW1tYXJpZXMpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiAkdGhpcy0+aWQoKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRvcmRlclN1bW1hcnkpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
