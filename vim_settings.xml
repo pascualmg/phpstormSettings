@@ -15,6 +15,7 @@
         <entry>strin</entry>
         <entry>cli</entry>
         <entry encoding="base64">XDwlXD4=</entry>
+        <entry>te</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -126,6 +127,13 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/GetOrderSummaryQuery.php" timestamp="1591602481600">
+        <mark key="'" line="20" column="77" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="31" />
+      </file>
       <file name="/PHP Console" timestamp="1591600264265">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,11 +164,17 @@
         <mark key="]" line="286" column="38" />
         <mark key="." line="286" column="38" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591600278248">
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="33" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="24" column="33" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591602790738">
+        <mark key="[" line="29" column="76" />
+        <mark key="]" line="29" column="75" />
+        <mark key="^" line="29" column="75" />
+        <mark key="." line="29" column="74" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/GetOrderSummaryQueryHandler.php" timestamp="1591602978815">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="21" column="112" />
+        <mark key="^" line="21" column="112" />
+        <mark key="." line="21" column="111" />
       </file>
     </filemarks>
     <jumps>
@@ -231,48 +245,49 @@
       <jump line="75" column="103" filename="$USER_HOME$/src/pccapi/app/logs/dev.log" />
       <jump line="8640" column="0" filename="$USER_HOME$/src/pccapi/app/logs/dev.log" />
       <jump line="355" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" />
+      <jump line="16" column="77" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/GetOrderSummaryQuery.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>AfterSaleCaseSummaries</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5sYW5kYm90LnNlcnZpY2UuZmluZC5jbGllbnRzdW1tYXJ5JyksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>AfterSaleCaseSummaries</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwlXD4=</text>
+        <text>te</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBXSEVOIHJlc3B1ZXN0YSA9IDEgVEhFTiAnUmVjaWJpZG8nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5sYW5kYm90LnNlcnZpY2UuZmluZC5jbGllbnRzdW1tYXJ5JyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBFTFNFIGVzdGFkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JkZXIgYnkgcGVkaWRvIGRlc2M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpzZWxlY3QgY291bnQoKiksIHJlc3B1ZXN0YSwgZXN0YWRvCmZyb20gc2VndWltaWVudG9fcGVkaWRvcyBzcApncm91cCBieSByZXNwdWVzdGE7</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW1haWwgPSAkZW1haWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRlbWFpbCk7ZGllOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBFTFNFIGVzdGFkbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JkZXIgYnkgcGVkaWRvIGRlc2M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgZXN0YWRvOwo=</text>
+        <text encoding="base64">CgpzZWxlY3QgY291bnQoKiksIHJlc3B1ZXN0YSwgZXN0YWRvCmZyb20gc2VndWltaWVudG9fcGVkaWRvcyBzcApncm91cCBieSByZXNwdWVzdGE7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgcmVzcHVlc3RhID0gLTIwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -281,10 +296,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDwlXD4=</last-search>
+      <last-search>te</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>te</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
