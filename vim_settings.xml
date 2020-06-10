@@ -123,10 +123,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591781961213">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1591793320128">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/GetOrderSummaryQuery.php" timestamp="1591631417050">
         <mark key="'" line="25" column="77" />
@@ -138,11 +138,20 @@
       <file name="/a.dummy" timestamp="1591613842535">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="/console" timestamp="1591792500750">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591176283600">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="2" column="37" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/DBalSubCaseRepository.php" timestamp="1591793232789">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="74" column="22" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1591777904721">
         <mark key="[" line="84" column="45" />
@@ -156,7 +165,7 @@
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591786440414">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" timestamp="1591793441917">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="12" />
         <mark key="." line="25" column="12" />
@@ -174,6 +183,7 @@
         <mark key="." line="22" column="39" />
         <mark key="^" line="22" column="40" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/app/config/routing.yml" timestamp="1591792194336" />
       <file name="/PHP Console" timestamp="1591600264265">
         <mark key="[" line="0" column="0" />
       </file>
@@ -292,10 +302,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>updatedOn and __toString</text>
+        <text>5 , show json</text>
       </register>
       <register name="-" type="4">
-        <text>updatedOn and __toString</text>
+        <text>5 , show json</text>
       </register>
       <register name="/" type="4">
         <text>pho</text>
@@ -304,6 +314,18 @@
         <text encoding="base64">ICAgICAgICAgICAgLT50aGF0KCRwYXlsb2FkW3NlbGY6OlBBWUxPQURfRU1BSUxfS0VZXSwgc2VsZjo6UEFZTE9BRF9FTUFJTF9LRVkpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAJCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAJCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text>/**
  * {
  * &quot;id&quot;: 22020476775,
@@ -317,29 +339,17 @@
  * }
  */</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgKG5ldyBHZXRPcmRlclN1bW1hcnlRdWVyeUhhbmRsZXIoCiAgICAgICAgICAgICAgICAkdGhpcy0+Z2V0KCdhZnRlcnNhbGVzLmxhbmRib3Quc2VydmljZS5maW5kLm9yZGVyc3VtbWFyeScpLAogICAgICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5sYW5kYm90LnNlcnZpY2UuZmluZC5jbGllbnRzdW1tYXJ5JykKICAgICAgICAgICAgKSktPmhhbmRsZSgKICAgICAgICAgICAgICAgIEdldE9yZGVyU3VtbWFyeVF1ZXJ5Ojpmcm9tUGF5bG9hZCgKICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcmRlcklkJyA9PiAkcmVxdWVzdC0+YXR0cmlidXRlcy0+Z2V0KCdvcmRlcklkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHJlcXVlc3QtPmdldCgnZW1haWwnKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RlbGVwaG9uZScgPT4gJHJlcXVlc3QtPmdldCgndGVsZXBob25lJykKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKICAgICAgICApOw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJ2YWwoJ2Nvc2EnKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX190b1N0cmluZygpIG1ldGhvZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0b1N0cmluCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgKG5ldyBHZXRPcmRlclN1bW1hcnlRdWVyeUhhbmRsZXIoCiAgICAgICAgICAgICAgICAkdGhpcy0+Z2V0KCdhZnRlcnNhbGVzLmxhbmRib3Quc2VydmljZS5maW5kLm9yZGVyc3VtbWFyeScpLAogICAgICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5sYW5kYm90LnNlcnZpY2UuZmluZC5jbGllbnRzdW1tYXJ5JykKICAgICAgICAgICAgKSktPmhhbmRsZSgKICAgICAgICAgICAgICAgIEdldE9yZGVyU3VtbWFyeVF1ZXJ5Ojpmcm9tUGF5bG9hZCgKICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcmRlcklkJyA9PiAkcmVxdWVzdC0+YXR0cmlidXRlcy0+Z2V0KCdvcmRlcklkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHJlcXVlc3QtPmdldCgnZW1haWwnKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RlbGVwaG9uZScgPT4gJHJlcXVlc3QtPmdldCgndGVsZXBob25lJykKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKICAgICAgICApOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJ2YWwoJ2Nvc2EnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5rZXlFeGlzdHMoc2VsZjo6UEFZTE9BRF9PUkRFUl9JRCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
