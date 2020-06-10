@@ -123,7 +123,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591778326449">
+      <file name="/Dummy.txt" timestamp="1591778695555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -210,11 +210,11 @@
         <mark key="." line="70" column="87" />
         <mark key="^" line="70" column="88" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/OrderSummaryTest.php" timestamp="1591778260671">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="8" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/OrderSummaryTest.php" timestamp="1591778685812">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="13" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="42" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -291,11 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgKG5ldyBHZXRPcmRlclN1bW1hcnlRdWVyeUhhbmRsZXIoCiAgICAgICAgICAgICAgICAkdGhpcy0+Z2V0KCdhZnRlcnNhbGVzLmxhbmRib3Quc2VydmljZS5maW5kLm9yZGVyc3VtbWFyeScpLAogICAgICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5sYW5kYm90LnNlcnZpY2UuZmluZC5jbGllbnRzdW1tYXJ5JykKICAgICAgICAgICAgKSktPmhhbmRsZSgKICAgICAgICAgICAgICAgIEdldE9yZGVyU3VtbWFyeVF1ZXJ5Ojpmcm9tUGF5bG9hZCgKICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcmRlcklkJyA9PiAkcmVxdWVzdC0+YXR0cmlidXRlcy0+Z2V0KCdvcmRlcklkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHJlcXVlc3QtPmdldCgnZW1haWwnKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RlbGVwaG9uZScgPT4gJHJlcXVlc3QtPmdldCgndGVsZXBob25lJykKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKICAgICAgICApOw==</text>
+      <register name="&quot;" type="4">
+        <text>entregado</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>entregado</text>
       </register>
       <register name="/" type="4">
         <text>pho</text>
@@ -304,32 +304,42 @@
         <text encoding="base64">ICAgICAgICAgICAgLT50aGF0KCRwYXlsb2FkW3NlbGY6OlBBWUxPQURfRU1BSUxfS0VZXSwgc2VsZjo6UEFZTE9BRF9FTUFJTF9LRVkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgKG5ldyBHZXRPcmRlclN1bW1hcnlRdWVyeUhhbmRsZXIoCiAgICAgICAgICAgICAgICAkdGhpcy0+Z2V0KCdhZnRlcnNhbGVzLmxhbmRib3Quc2VydmljZS5maW5kLm9yZGVyc3VtbWFyeScpLAogICAgICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5sYW5kYm90LnNlcnZpY2UuZmluZC5jbGllbnRzdW1tYXJ5JykKICAgICAgICAgICAgKSktPmhhbmRsZSgKICAgICAgICAgICAgICAgIEdldE9yZGVyU3VtbWFyeVF1ZXJ5Ojpmcm9tUGF5bG9hZCgKICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcmRlcklkJyA9PiAkcmVxdWVzdC0+YXR0cmlidXRlcy0+Z2V0KCdvcmRlcklkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHJlcXVlc3QtPmdldCgnZW1haWwnKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RlbGVwaG9uZScgPT4gJHJlcXVlc3QtPmdldCgndGVsZXBob25lJykKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKICAgICAgICApOw==</text>
+        <text>/**
+ * {
+ * &quot;id&quot;: 22020476775,
+ * &quot;state&quot;: &quot;Entregado&quot;,
+ * &quot;clientId&quot;: 4151533,
+ * &quot;updatedOn&quot;: {
+ * &quot;date&quot;: &quot;2020-04-03 12:15:28.000000&quot;,
+ * &quot;timezone_type&quot;: 3,
+ * &quot;timezone&quot;: &quot;Europe/Madrid&quot;
+ * }
+ * }
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJ2YWwoJ2Nvc2EnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgKICAgICAgICAgICAgKG5ldyBHZXRPcmRlclN1bW1hcnlRdWVyeUhhbmRsZXIoCiAgICAgICAgICAgICAgICAkdGhpcy0+Z2V0KCdhZnRlcnNhbGVzLmxhbmRib3Quc2VydmljZS5maW5kLm9yZGVyc3VtbWFyeScpLAogICAgICAgICAgICAgICAgJHRoaXMtPmdldCgnYWZ0ZXJzYWxlcy5sYW5kYm90LnNlcnZpY2UuZmluZC5jbGllbnRzdW1tYXJ5JykKICAgICAgICAgICAgKSktPmhhbmRsZSgKICAgICAgICAgICAgICAgIEdldE9yZGVyU3VtbWFyeVF1ZXJ5Ojpmcm9tUGF5bG9hZCgKICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcmRlcklkJyA9PiAkcmVxdWVzdC0+YXR0cmlidXRlcy0+Z2V0KCdvcmRlcklkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHJlcXVlc3QtPmdldCgnZW1haWwnKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RlbGVwaG9uZScgPT4gJHJlcXVlc3QtPmdldCgndGVsZXBob25lJykKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKICAgICAgICApOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX190b1N0cmluZygpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICBzdHJ2YWwoJ2Nvc2EnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0b1N0cmluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX190b1N0cmluZygpIG1ldGhvZC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5rZXlFeGlzdHMoc2VsZjo6UEFZTE9BRF9PUkRFUl9JRCkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0b1N0cmluCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>OrderIdNotOwnedByClientException.php implemented 
-Se lanza cuando el pedido no pertenece a ese cliente</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5rZXlFeGlzdHMoc2VsZjo6UEFZTE9BRF9PUkRFUl9JRCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
