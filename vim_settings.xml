@@ -123,19 +123,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591953312950">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1591949427610">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="/routing_support.yml" timestamp="1591956547379" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/ListAfterSalesByEmail/ListAfterSalesByEmailCommand.php" timestamp="1591949684692">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/ListAfterSalesByEmail/ClientAfterSaleCaseSummariesDTO.php" timestamp="1591948949577" />
-      <file name="/console" timestamp="1591952072146">
+      <file name="/console" timestamp="1592213650230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1591951308273">
@@ -154,26 +152,6 @@
         <mark key="]" line="140" column="0" />
         <mark key="^" line="140" column="0" />
         <mark key="." line="139" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/ListAfterSalesByEmail/aa.php" timestamp="1591948946565" />
-      <file name="/SupportManager.php" timestamp="1591956491430" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591952082024">
-        <mark key="'" line="356" column="1" />
-        <mark key="[" line="453" column="0" />
-        <mark key="]" line="453" column="0" />
-        <mark key="." line="453" column="0" />
-        <mark key="^" line="453" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing_landbot.yml" timestamp="1591950439386">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591953312950">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Landbot/Mock/MemoryClientSummaryRepository.php" timestamp="1591949859911">
         <mark key="[" line="39" column="0" />
@@ -199,8 +177,27 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/866e533a-7283-4320-8dbf-9abe921b52fc/console.sql" timestamp="1591952556802" />
-      <file name="$USER_HOME$/src/pccapi/.idea/httpRequests/2020-06-12T101449.200.json" timestamp="1591950373404" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/ListAfterSalesByEmail/ListAfterSalesByEmailCommand.php" timestamp="1591949684692">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1591952082024">
+        <mark key="'" line="356" column="1" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="." line="453" column="0" />
+        <mark key="^" line="453" column="17" />
+      </file>
+      <file name="/console 1" timestamp="1592213649896">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing_landbot.yml" timestamp="1591950439386">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="14" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="484" column="36" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
