@@ -123,6 +123,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1592325135935">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/AfterSales/OrderSummaryState/OrderSummaryStateTest.php" timestamp="1592325133229">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="109" column="42" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1592312591471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -131,20 +142,31 @@
       <file name="/console" timestamp="1592302359458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1592306279417" />
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1592305716302">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/AfterSales/OrderSummaryState/OrderSummaryStateMother.php" timestamp="1592324476909">
-        <mark key="[" line="59" column="12" />
-        <mark key="]" line="59" column="14" />
-        <mark key="^" line="59" column="14" />
-        <mark key="." line="59" column="13" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/AfterSales/OrderSummaryState/OrderSummaryStateMother.php" timestamp="1592324896048">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="67" column="14" />
+        <mark key="^" line="67" column="14" />
+        <mark key="." line="67" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Support/SupportController.php" timestamp="1592298809982">
+        <mark key="[" line="906" column="52" />
+        <mark key="]" line="906" column="52" />
+        <mark key="^" line="906" column="52" />
+        <mark key="." line="906" column="52" />
       </file>
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1592294045008">
         <mark key="[" line="36" column="15" />
         <mark key="]" line="36" column="15" />
         <mark key="." line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummaryState.php" timestamp="1592325106662">
+        <mark key="[" line="59" column="39" />
+        <mark key="]" line="56" column="44" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="56" column="44" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1592313490666">
         <mark key="[" line="26" column="0" />
@@ -158,35 +180,14 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="/console 1" timestamp="1592324519055">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Landbot/Mock/OrderSummaryStateMother.php" timestamp="1592312632484">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="9" column="35" />
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592324397629">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Application/AfterSales/OrderSummaryState/OrderSummaryStateTest.php" timestamp="1592324443753">
-        <mark key="[" line="91" column="35" />
-        <mark key="]" line="91" column="50" />
-        <mark key="." line="91" column="49" />
-        <mark key="^" line="91" column="50" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Controller/Support/SupportController.php" timestamp="1592298809982">
-        <mark key="[" line="906" column="52" />
-        <mark key="]" line="906" column="52" />
-        <mark key="^" line="906" column="52" />
-        <mark key="." line="906" column="52" />
-      </file>
-      <file name="$USER_HOME$/src/pccfront/src/Pcc/Bundle/WebBundle/Model/Support/SupportManager.php" timestamp="1592298549339" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummaryState.php" timestamp="1592316865198">
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="34" />
-        <mark key="." line="40" column="33" />
-        <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/OrderSummaryTest.php" timestamp="1592315164432">
         <mark key="[" line="43" column="18" />
@@ -270,44 +271,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>'Entregado';</text>
       </register>
       <register name="/" type="4">
         <text>pho</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gd2l0aFJlc3BvbnNlQmV0d2VlbjdBbmQzOUluY2x1ZGVkQW5kU29tZUFnZW5jeSgpCiAgICB7CiAgICAgICAgcmV0dXJuIE9yZGVyU3VtbWFyeVN0YXRlOjpmcm9tKAogICAgICAgICAgICA4LAogICAgICAgICAgICAnc29tZU90aGVyTm90VGllbmRhJwogICAgICAgICk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVFJfREVMSVZFUkVEID0gJ0VudHJlZ2Fkbyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZW5lcmF0b3IoKXsKICAgICAgICAKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RmFpbCgpCiAgICB7CiAgICAgICAgc2VsZjo6YXNzZXJ0U2FtZSgxLCAyKTsKICAgIH0=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoJHRoaXMtPmFnZW5jeVJlc3BvbnNlQ29kZSA9PT0gOSAmJiAkdGhpcy0+YWdlbmN5TmFtZSA9PT0gc2VsZjo6QUdFTkNZX05BTUVfUENDT01fU0hPUCk6CiAgICAgICAgICAgICAgICAkc3RhdGUgPSAnRW50cmVnYWRvJzsKICAgICAgICAgICAgICAgIGJyZWFrOwog</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZW5lcmF0b3IoKXsKICAgICAgICAKICAgIH0=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoJHRoaXMtPmFnZW5jeVJlc3BvbnNlQ29kZSA9PT0gOSAmJiAkdGhpcy0+YWdlbmN5TmFtZSA9PT0gc2VsZjo6QUdFTkNZX05BTUVfUENDT01fU0hPUCk6CiAgICAgICAgICAgICAgICAkc3RhdGUgPSAnRW50cmVnYWRvJzsKICAgICAgICAgICAgICAgIGJyZWFrOwog</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3JkZXJTdW1tYXJ5U3RhdGU6OlNUUl9ERUxJVkVSRUQK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3JkZXJTdW1tYXJ5U3RhdGU6OlNUUl9ERUxJVkVSRUQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoJHRoaXMtPmFnZW5jeVJlc3BvbnNlQ29kZSA9PT0gNDApOgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoJHRoaXMtPmFnZW5jeVJlc3BvbnNlQ29kZSA9PT0gOSAmJiAkdGhpcy0+YWdlbmN5TmFtZSA9PT0gc2VsZjo6QUdFTkNZX05BTUVfUENDT01fU0hPUCk6CiAgICAgICAgICAgICAgICAkc3RhdGUgPSAnRW50cmVnYWRvJzsKICAgICAgICAgICAgICAgIGJyZWFrOwog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
