@@ -123,7 +123,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592325135935">
+      <file name="/Dummy.txt" timestamp="1592390497819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -142,6 +142,12 @@
       <file name="/console" timestamp="1592302359458">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/after-sales-service/tests/Integration/testRepo.php" timestamp="1592390583114">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Landbot/OrderSummary.php" timestamp="1592305716302">
         <mark key="[" line="10" column="24" />
       </file>
@@ -157,6 +163,7 @@
         <mark key="^" line="906" column="52" />
         <mark key="." line="906" column="52" />
       </file>
+      <file name="$USER_HOME$/src/after-sales-service/src/Domain/CaseState.php" timestamp="1592390466210" />
       <file name="$USER_HOME$/src/pccfront/app/config/parameters.yml" timestamp="1592294045008">
         <mark key="[" line="36" column="15" />
         <mark key="]" line="36" column="15" />
@@ -180,9 +187,10 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="/console 1" timestamp="1592324519055">
+      <file name="/console 1" timestamp="1592381539575">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/after-sales-service/tests/Integration/aa.php" timestamp="1592390504851" />
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Landbot/Mock/OrderSummaryStateMother.php" timestamp="1592312632484">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="9" column="35" />
@@ -194,6 +202,12 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="18" />
         <mark key="^" line="43" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/tests/Integration/TestRepo.php" timestamp="1592390965569">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -275,7 +289,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'Entregado';</text>
+        <text>doctrine</text>
       </register>
       <register name="/" type="4">
         <text>pho</text>
@@ -290,25 +304,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RmFpbCgpCiAgICB7CiAgICAgICAgc2VsZjo6YXNzZXJ0U2FtZSgxLCAyKTsKICAgIH0=</text>
+        <text encoding="base64">LyoqCioge0Bpbmhlcml0RG9jfQoqLwpwcm90ZWN0ZWQgZnVuY3Rpb24gdGVhckRvd24oKQp7CnBhcmVudDo6dGVhckRvd24oKTsKCiR0aGlzLT5lbnRpdHlNYW5hZ2VyLT5jbG9zZSgpOwokdGhpcy0+ZW50aXR5TWFuYWdlciA9IG51bGw7IC8vIGF2b2lkIG1lbW9yeSBsZWFrcwp9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">JHRoaXMtPmFzc2VydENvdW50KDEsICRwcm9kdWN0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZW5lcmF0b3IoKXsKICAgICAgICAKICAgIH0=</text>
+        <text encoding="base64">LT5nZXRNYW5hZ2VyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHByb2R1Y3RzID0gJHRoaXMtPmVudGl0eU1hbmFnZXIKLT5nZXRSZXBvc2l0b3J5KEFmdGVyU2FsZUNhc2U6OmNsYXNzKQogICAgLT4KOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoJHRoaXMtPmFnZW5jeVJlc3BvbnNlQ29kZSA9PT0gOSAmJiAkdGhpcy0+YWdlbmN5TmFtZSA9PT0gc2VsZjo6QUdFTkNZX05BTUVfUENDT01fU0hPUCk6CiAgICAgICAgICAgICAgICAkc3RhdGUgPSAnRW50cmVnYWRvJzsKICAgICAgICAgICAgICAgIGJyZWFrOwog</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEVudGl0eU1hbgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoJHRoaXMtPmFnZW5jeVJlc3BvbnNlQ29kZSA9PT0gOSAmJiAkdGhpcy0+YWdlbmN5TmFtZSA9PT0gc2VsZjo6QUdFTkNZX05BTUVfUENDT01fU0hPUCk6CiAgICAgICAgICAgICAgICAkc3RhdGUgPSAnRW50cmVnYWRvJzsKICAgICAgICAgICAgICAgIGJyZWFrOwog</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIFBjQ29tcG9uZW50ZXNcQWZ0ZXJTYWxlc1xEb21haW5cUmVwb3NpdG9yeVxEYmFsQWY7IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
