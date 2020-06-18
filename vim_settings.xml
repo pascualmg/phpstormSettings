@@ -124,7 +124,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/after-sales-service/.env.dist" timestamp="1592400721625" />
-      <file name="/console" timestamp="1592392103103">
+      <file name="/console" timestamp="1592465339949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1592399994849">
@@ -137,11 +137,14 @@
         <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/src/Infrastructure/Repository/aa.php" timestamp="1592398966662" />
-      <file name="$USER_HOME$/src/after-sales-service/config/services.yaml" timestamp="1592402776046">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="41" />
-        <mark key="^" line="25" column="42" />
+      <file name="$USER_HOME$/src/after-sales-service/config/services.yaml" timestamp="1592465045679">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1592465353364">
+        <mark key="[" line="453" column="0" />
       </file>
       <file name="/console 1" timestamp="1592398109377">
         <mark key="[" line="0" column="0" />
@@ -151,13 +154,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592401690547">
+      <file name="/Dummy.txt" timestamp="1592464779823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/composer.json" timestamp="1592400475678" />
-      <file name="$USER_HOME$/src/after-sales-service/src/EntryPoint/DeactivateRepairCenterController.php" timestamp="1592403073410">
+      <file name="$USER_HOME$/src/after-sales-service/src/EntryPoint/DeactivateRepairCenterController.php" timestamp="1592464900440">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="45" />
         <mark key="." line="24" column="45" />
@@ -174,9 +177,6 @@
         <mark key="]" line="10" column="21" />
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
-      </file>
-      <file name="/foo.bar" timestamp="1592392102467">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/tests/Domain/Service/TestDB.php" timestamp="1592399974444">
         <mark key="[" line="26" column="28" />
@@ -277,10 +277,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>pho</text>
