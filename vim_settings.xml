@@ -156,10 +156,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/taxes.public.tax" timestamp="1592392102417">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/after-sales-service/composer.json" timestamp="1592400475678" />
+      <file name="$USER_HOME$/src/after-sales-service/src/EntryPoint/DeactivateRepairCenterController.php" timestamp="1592403073410">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="52" />
+      </file>
       <file name="$USER_HOME$/src/after-sales-service/config/routes.yaml" timestamp="1592402597312">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="15" />
@@ -274,10 +277,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>deactivate</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>deactivate</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>pho</text>
@@ -286,31 +289,31 @@
         <text encoding="base64">ICAgICAgICA8c2VydmVyIG5hbWU9IlNIRUxMX1ZFUkJPU0lUWSIgdmFsdWU9Ii0xIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text>database url</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlcGFpckNlbnRlckRlYWN0aXZhdG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVwYWlyQ2VudGVyRGVhY3RpdmF0b3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>database url</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpOiB2b2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpib290S2VybmVsKCk7CiAgICAgICAgJHRoaXMtPnJlcG8gPSBzZWxmOjoka2VybmVsLT5nZXRDb250YWluZXIoKQogICAgICAgICAgICAtPmdldCgncmVwb3NpdG9yeS5yZXBhaXJfY2VudGVyJyk7CiAgICAgICAgJHJlc3VsdCA9ICR0aGlzLT5yZXBvLT5ieUlkKDEpOwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpOiB2b2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text>fix: kernel var</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmOjpib290S2VybmVsKCk7CiAgICAgICAgJHRoaXMtPnJlcG8gPSBzZWxmOjoka2VybmVsLT5nZXRDb250YWluZXIoKQogICAgICAgICAgICAtPmdldCgncmVwb3NpdG9yeS5yZXBhaXJfY2VudGVyJyk7CiAgICAgICAgJHJlc3VsdCA9ICR0aGlzLT5yZXBvLT5ieUlkKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
