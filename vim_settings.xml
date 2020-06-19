@@ -123,65 +123,78 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/taxes-service/config/context/tax/services.yaml" timestamp="1592477239642" />
-      <file name="$USER_HOME$/src/after-sales-service/.env.dist" timestamp="1592400721625" />
-      <file name="/console" timestamp="1592465634269">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/after-sales-service/docker/php/Dockerfile" timestamp="1592401083170">
+      <file name="$USER_HOME$/src/after-sales-service/docker/php/Dockerfile" timestamp="1592562276836">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/config/services.yaml" timestamp="1592479395314">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="29" column="8" />
+      <file name="$USER_HOME$/src/after-sales-service/src/Application/Landbot/ListAfterSalesByEmail/ListAfterSalesByEmailCommand.php" timestamp="1592563393158">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="10" />
+        <mark key="^" line="29" column="10" />
+        <mark key="." line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/src/taxes-service/config/routes.yaml" timestamp="1592477551674" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1592547380825">
-        <mark key="[" line="453" column="0" />
+      <file name="$USER_HOME$/src/after-sales-service/tests/Mocks/Domain/Model/MemoryAfterSaleCaseSummaryRepository.php" timestamp="1592560373132">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592475840921">
+      <file name="$USER_HOME$/src/after-sales-service/composer.json" timestamp="1592564103543">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/src/Entrypoint/Controller/GetListAfterSalesByPhoneController.php" timestamp="1592561644401">
+        <mark key="'" line="30" column="69" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/tests/Mocks/Domain/Model/AfterSaleCaseSummaryMother.php" timestamp="1592560312893">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/src/Infrastructure/Repository/DbalCaseRefundRepository.php" timestamp="1592561099828" />
+      <file name="$USER_HOME$/src/after-sales-service/src/Entrypoint/Controller/GetListAfterSalesByEmailController.php" timestamp="1592563490637">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="27" column="50" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/Makefile" timestamp="1592562362951">
+        <mark key="[" line="35" column="63" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/tests/Mocks/Domain/Model/MemoryClientSummaryRepository.php" timestamp="1592560413981">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/app/config/routing.yml" timestamp="1592559066148" />
+      <file name="$USER_HOME$/src/after-sales-service/config/routes_landbot.yml" timestamp="1592562742571">
+        <mark key="[" line="14" column="93" />
+        <mark key="]" line="14" column="93" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="14" column="93" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Resources/config/routing_landbot.yml" timestamp="1592559316721" />
+      <file name="/Dummy.txt" timestamp="1592564181412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/taxes.public.tax" timestamp="1592465633700">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/after-sales-service/tests/Mocks/Domain/Model/ClientSummaryMother.php" timestamp="1592560467742">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/EntryPoint/DeactivateRepairCenterController.php" timestamp="1592478046483">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="30" column="50" />
-      </file>
-      <file name="$USER_HOME$/src/after-sales-service/config/context/system/messenger.yaml" timestamp="1592466463881" />
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1592485818286" />
-      <file name="$USER_HOME$/src/after-sales-service/config/context/system/connections.yaml" timestamp="1592400811821">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-      </file>
-      <file name="/foo.bar" timestamp="1592465633715">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/after-sales-service/tests/Domain/Service/DBTest.php" timestamp="1592401671572">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="26" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592472199439">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tax [taxes@local]" timestamp="1592465633665">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/after-sales-service/config/context/afterSales/services.yaml" timestamp="1592484610630" />
+      <file name="$USER_HOME$/src/after-sales-service/tests/Domain/Service/ClientSummaryFinderTest.php" timestamp="1592560464456" />
     </filemarks>
     <jumps>
       <jump line="484" column="36" filename="$USER_HOME$/src/rulestorm-api/docs/openapi/openapi.yaml" />
@@ -254,48 +267,49 @@
       <jump line="16" column="77" filename="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/Landbot/getOrderSummary/GetOrderSummaryQuery.php" />
       <jump line="13" column="56" filename="$USER_HOME$/src/pccapi/docs/openapi/landbot.v1.yaml" />
       <jump line="124" column="0" filename="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/LandBotController.php" />
+      <jump line="22" column="69" filename="$USER_HOME$/src/after-sales-service/src/Entrypoint/Controller/GetListAfterSalesByPhoneController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>rma_client</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAic2xldm9tYXQvY29kaW5nLXN0YW5kYXJkIjogIn42LjAiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>rma_client</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>pho</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmVyIG5hbWU9IlNIRUxMX1ZFUkJPU0lUWSIgdmFsdWU9Ii0xIiAvPgo=</text>
+        <text encoding="base64">YmFzaDoKCQlkb2NrZXItY29tcG9zZSBydW4gLS1ybSAtdSAke1VJRH06JHtHSUR9ICR7RE9DS0VSX1BIUF9TRVJWSUNFfSBzaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVwYWlyQ2VudGVyRGVhY3RpdmF0b3IgJHJlcGFpckNlbnRlckRlYWN0aXZhdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAic2xldm9tYXQvY29kaW5nLXN0YW5kYXJkIjogIn42LjAiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBfZGVmYXVsdHM6CiAgICBhdXRvd2lyZTogdHJ1ZQogICAgYXV0b2NvbmZpZ3VyZTogdHJ1ZQogICAgcHVibGljOiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb250cm9sbGVyLnJlcGFpcmNlbnRlci5kZWFjdGl2YXRlOgogICAgY2xhc3M6IFBjQ29tcG9uZW50ZXNcQWZ0ZXJTYWxlc1xFbnRyeVBvaW50XERlYWN0aXZhdGVSZXBhaXJDZW50ZXJDb250cm9sbGVyCiAgICBhcmd1bWVudHM6CiAgICAgIC0gJ0BoYW5kbGVyLnJlcGFpcmNlbnRlci5kZWFjdGl2YXRlJw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb250cm9sbGVyLnJlcGFpcmNlbnRlci5kZWFjdGl2YXRlOgogICAgY2xhc3M6IFBjQ29tcG9uZW50ZXNcQWZ0ZXJTYWxlc1xFbnRyeVBvaW50XERlYWN0aXZhdGVSZXBhaXJDZW50ZXJDb250cm9sbGVyCiAgICBhcmd1bWVudHM6CiAgICAgIC0gJ0BoYW5kbGVyLnJlcGFpcmNlbnRlci5kZWFjdGl2YXRlJwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGZyb21QYXlsb2FkKGFycmF5ICRwYXlsb2FkKTogc2VsZgogICAgewogICAgICAgIEFzc2VydDo6bGF6eSgpLT50aGF0KCRwYXlsb2FkLCAncmVxdWVzdCcpCiAgICAgICAgICAgIC0+a2V5RXhpc3RzKHNlbGY6OlBBWUxPQURfRU1BSUxfS0VZKQogICAgICAgICAgICAtPnZlcmlmeU5vdygpOwoKICAgICAgICBBc3NlcnQ6OmxhenkoKQogICAgICAgICAgICAtPnRoYXQoJHBheWxvYWRbc2VsZjo6UEFZTE9BRF9FTUFJTF9LRVldLCBzZWxmOjpQQVlMT0FEX0VNQUlMX0tFWSkKICAgICAgICAgICAgLT5ub3RCbGFuaygpLT5lbWFpbCgpCiAgICAgICAgICAgIC0+dmVyaWZ5Tm93KCk7CgogICAgICAgIHJldHVybiBuZXcgc2VsZigKICAgICAgICAgICAgJHBheWxvYWRbc2VsZjo6UEFZTE9BRF9FTUFJTF9LRVldCiAgICAgICAgKTsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG9jb25maWd1cmU6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGFuZGxlciA9ICRoYW5kbGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG93aXJlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdEFmdGVyU2FsZXNCeVBob25lQ29tbWFuZEhhbmRsZXIgJGhhbmRsZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLQo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAnQGhhbmRsZXIucmVwYWlyY2VudGVyLmRlYWN0aXZhdGUnCg==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgTGlzdEFmdGVyU2FsZXNCeVBob25lQ29tbWFuZEhhbmRsZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
