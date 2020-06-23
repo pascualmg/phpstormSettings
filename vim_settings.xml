@@ -139,7 +139,7 @@
       <file name="/web.pccom_returns_repair_center" timestamp="1592899653378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592900024894">
+      <file name="/Dummy.txt" timestamp="1592901095009">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -178,11 +178,11 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/tests/PcComponentes/AfterSales/Domain/Service/RepairCenterCreatorTest.php" timestamp="1592831269943">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="17" />
-        <mark key="^" line="40" column="17" />
-        <mark key="." line="40" column="16" />
+      <file name="$USER_HOME$/src/after-sales-service/tests/PcComponentes/AfterSales/Domain/Service/RepairCenterCreatorTest.php" timestamp="1592900554929">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="68" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="22" column="67" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/src/Infrastructure/Repository/DBalAfterSalesCaseRepository.php" timestamp="1592896118129">
         <mark key="'" line="79" column="52" />
@@ -294,10 +294,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UE5BTUUgLT4gUEFSQU1FVEVS</text>
+        <text encoding="base64">Q1JVRCAtPiBTUlVE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UE5BTUUgLT4gUEFSQU1FVEVS</text>
+        <text encoding="base64">Q1JVRCAtPiBTUlVE</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
@@ -305,35 +305,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkZWFjdGl2ZSgkaWQpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIG5ldyBSZQo=</text>
+      <register name="1" type="4">
+        <text>new RepairCenter(
+            42,
+            'Aviejuno',
+            'fakeCorreosCode',
+            'fakeAddress',
+            new \DateTimeImmutable(),
+            new \DateTimeImmutable()
+        );</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIG5ldyBSZQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>----- ----------------------------------------------------------------------- 
   36     Result of callable                                                     
          PcComponentes\AfterSales\Application\CreateRepairCenter\CreateRepairC  
          enterCommandHandler (void) is used.</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c2RqZmxzYWoK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgUmVwYWlyQ2VudGVyQ3JlYXRvciBlcGFpckNlbnRlckNyZWF0b3I7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8qKiBAdmFyIENyZWF0ZVJlcGFpckNlbnRlckNvbW1hbmRIYW5kbGVyICovCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8qKiBAdmFyIFJlcGFpckNlbnRlckNyZWF0b3IgKi8K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
