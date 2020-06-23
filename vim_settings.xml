@@ -124,17 +124,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1592821295179">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/after-sales-service/config/routes_aftersales.yml" timestamp="1592819436459">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-      </file>
       <file name="/pccom_returns_repair_center [mysql.web.dev.pccom.interno]" timestamp="1592822351803">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,57 +133,75 @@
       <file name="/web.pccom_returns_repair_center" timestamp="1592822351827">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592836948735">
+      <file name="/Dummy.txt" timestamp="1592897490099">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/config/routes.yaml" timestamp="1592819416073">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Domain/Service/RepairCenterCreator.php" timestamp="1592829582214">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="39" column="25" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/src/after-sales-service/src/Domain/Service/RepairCenterCreator.php" timestamp="1592896508179">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1592822351839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Domain/RepairCenter.php" timestamp="1592828635357">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="67" column="54" />
-        <mark key="]" line="67" column="54" />
-        <mark key="." line="67" column="53" />
-        <mark key="^" line="67" column="54" />
+      <file name="$USER_HOME$/src/after-sales-service/src/Domain/RepairCenter.php" timestamp="1592897463800">
+        <mark key="[" line="71" column="64" />
+        <mark key="]" line="71" column="64" />
+        <mark key="^" line="71" column="65" />
+        <mark key="." line="71" column="64" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommandHandler.php" timestamp="1592822007638">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="65" />
+      <file name="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommandHandler.php" timestamp="1592896356421">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="2" column="65" />
-        <mark key="." line="2" column="64" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Entrypoint/Controller/CreateRepairCenterController.php" timestamp="1592829812699">
+      <file name="$USER_HOME$/src/after-sales-service/src/Entrypoint/Controller/CreateRepairCenterController.php" timestamp="1592897084089">
         <mark key="'" line="20" column="1" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="32" column="29" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommand.php" timestamp="1592829142059">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommand.php" timestamp="1592897385014">
+        <mark key="'" line="36" column="28" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="71" column="49" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/tests/PcComponentes/AfterSales/Domain/Service/RepairCenterCreatorTest.php" timestamp="1592831269943">
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="17" />
         <mark key="^" line="40" column="17" />
         <mark key="." line="40" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/src/Infrastructure/Repository/DBalAfterSalesCaseRepository.php" timestamp="1592896118129">
+        <mark key="'" line="79" column="52" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="196" column="37" />
+        <mark key="." line="197" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/tests/PcComponentes/AfterSales/Domain/RepairCenterTest.php" timestamp="1592897552141">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/src/Domain/Repository/RepairCenterRepository.php" timestamp="1592896656221">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/src/Infrastructure/Repository/DBalRepairCenterRepository.php" timestamp="1592896196303">
+        <mark key="[" line="69" column="83" />
+        <mark key="]" line="68" column="82" />
+        <mark key="^" line="68" column="82" />
+        <mark key="." line="69" column="83" />
       </file>
     </filemarks>
     <jumps>
@@ -271,48 +278,56 @@
       <jump line="22" column="69" filename="$USER_HOME$/src/after-sales-service/src/Entrypoint/Controller/GetListAfterSalesByPhoneController.php" />
       <jump line="13" column="0" filename="$USER_HOME$/src/after-sales-service/src/Domain/RepairCenter.php" />
       <jump line="20" column="1" filename="$USER_HOME$/src/after-sales-service/src/Entrypoint/Controller/CreateRepairCenterController.php" />
+      <jump line="79" column="52" filename="$USER_HOME$/src/after-sales-service/src/Infrastructure/Repository/DBalAfterSalesCaseRepository.php" />
+      <jump line="19" column="27" filename="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommand.php" />
+      <jump line="21" column="31" filename="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommand.php" />
+      <jump line="29" column="28" filename="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommand.php" />
+      <jump line="36" column="28" filename="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommand.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRocm93cw==</text>
+        <text>is_serializable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93cw==</text>
+        <text>is_serializable</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgJHNvbWVSZXBhaXJDZW50ZXIgPSBuZXcgUmVwYWlyQ2VudGVyKAogICAgICAgICAgICA0MiwKICAgICAgICAgICAgJ0F2aWVqdW5vJywKICAgICAgICAgICAgJ2Zha2VDb3JyZW9zQ29kZScsCiAgICAgICAgICAgICdmYWtlQWRkcmVzcycsCiAgICAgICAgICAgIG5ldyBcRGF0ZVRpbWVJbW11dGFibGUoKSwKICAgICAgICAgICAgbmV3IFxEYXRlVGltZUltbXV0YWJsZSgpCiAgICAgICAgKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkZWFjdGl2ZSgkaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRTYW1lKDEsMik7Cg==</text>
+      <register name="2" type="4">
+        <text>----- ----------------------------------------------------------------------- 
+  36     Result of callable                                                     
+         PcComponentes\AfterSales\Application\CreateRepairCenter\CreateRepairC  
+         enterCommandHandler (void) is used.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAkc29tZVJlcGFpckNlbnRlci0+aWQoKSwK</text>
+        <text encoding="base64">c2RqZmxzYWoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAkc29tZVJlcGFpckNlbnRlci0+aWQoKSwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVwYWlyQ2VudGVyQ3JlYXRvciBlcGFpckNlbnRlckNyZWF0b3I7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgXERhdGVUaW1lSW1tdXRhYmxlKCkK</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIENyZWF0ZVJlcGFpckNlbnRlckNvbW1hbmRIYW5kbGVyICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgXERhdGVUaW1lSW1tdXRhYmxlKCksCg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIFJlcGFpckNlbnRlckNyZWF0b3IgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgXERhdGVUaW1lSW1tdXRhYmxlKCkK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgXERhdGVUaW1lSW1tdXRhYmxlKCksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZmFrZUFkZHJlc3MnLAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
