@@ -124,7 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593159988453">
+      <file name="/Dummy.txt" timestamp="1593416973615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -142,6 +142,11 @@
         <mark key="]" line="7" column="79" />
         <mark key="^" line="7" column="79" />
         <mark key="." line="7" column="79" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1593416736870">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/tests/Domain/Model/OptionMother.php" timestamp="1593158155479">
         <mark key="[" line="40" column="12" />
@@ -170,9 +175,6 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="47" column="33" />
       </file>
-      <file name="/api_centralita_cola [mysql.web.dev.pccom.interno]" timestamp="1593094739350">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/OptionAlreadyExistsException.php" timestamp="1593415785184">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -189,11 +191,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/src/Domain/Exception/ExternalResquestNotFoundException.php" timestamp="1593413180844" />
-      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Entrypoint/Controller/CreateOptionController.php" timestamp="1593158799668">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="30" column="56" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Entrypoint/Controller/CreateOptionController.php" timestamp="1593416045598">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/QueueMustExistsException.php" timestamp="1593415628018">
         <mark key="[" line="16" column="16" />
@@ -305,7 +306,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFRocm93YWJsZTsK</text>
+        <text encoding="base64">Iy0taGVhZGVyICdDb29raWU6IEFBRk1GPWEzNDAxNWNmZWM2N2E1ZGJjMWQyODMwY2IwMjhiY2E5Jwo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -317,31 +318,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQWxsKCk6IGFycmF5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFRocm93YWJsZTsK</text>
+        <text encoding="base64">Iy0taGVhZGVyICdDb29raWU6IEFBRk1GPWEzNDAxNWNmZWM2N2E1ZGJjMWQyODMwY2IwMjhiY2E5Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRtZXNzYWdlLCAkY29kZSwgJHByZXZpb3VzKTsK</text>
+        <text encoding="base64">Q29va2llOiBBQUZNRj1hMzQwMTVjZmVjNjdhNWRiYzFkMjgzMGNiMDI4YmNhOQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbWVzc2FnZSA9ICJvcmlnaW4gaWQgbXVzdCBleGlzdHMiLCAkY29kZSA9IDQyMikKICAgIHsKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRtZXNzYWdlLCAkY29kZSk7CiAgICB9</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVzb3VyY2UoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaWQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24gfCBcSnNvbkV4Y2VwdGlvbiAkZXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgSnNvblJlc3BvbnNlKCRleGNlcHRpb24tPmdldE1lc3NhZ2UoKSwgNDAwKTsKICAgICAgICB9IGNhdGNoIChcVGhyb3dhYmxlICRlKSB7CiAgICAgICAgICAgICRodHRwQ29kZSA9ICRlLT5nZXRDb2RlKCk+PTQwMAogICAgICAgICAgICAgICAgPyAkZS0+Z2V0Q29kZSgpCiAgICAgICAgICAgICAgICA6IDUwMDsKCiAgICAgICAgICAgIHJldHVybiBuZXcgSnNvblJlc3BvbnNlKCRlLT5nZXRNZXNzYWdlKCksICRodHRwQ29kZSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgpOwogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbWVzc2FnZSA9ICIiLCAkY29kZSA9IDAsIFRocm93YWJsZSAkcHJldmlvdXMgPSBudWxsKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJG1lc3NhZ2UsICRjb2RlLCAkcHJldmlvdXMpOwogICAgfQo=</text>
+        <text encoding="base64">dXNlIFRocm93YWJsZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZGF0YSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRtZXNzYWdlLCAkY29kZSwgJHByZXZpb3VzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbWVzc2FnZSA9ICJvcmlnaW4gaWQgbXVzdCBleGlzdHMiLCAkY29kZSA9IDQyMikKICAgIHsKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRtZXNzYWdlLCAkY29kZSk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
