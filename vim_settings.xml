@@ -127,14 +127,16 @@
       <file name="/web.pccom_returns_refund_mode" timestamp="1593427718141">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/pccapi/app/phpunit.xml.dist" timestamp="1593430611955">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssocRefundModeToAfterSalesCase/AssocRefundModeToAfterSalesCaseCommand.php" timestamp="1593425042011">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="67" />
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="66" />
-      </file>
-      <file name="/pccom_returns_user_preferences [mysql.web.dev.pccom.interno]" timestamp="1593420627998">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1593427665173">
         <mark key="[" line="0" column="0" />
@@ -149,16 +151,16 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RefundModeToAfterSalesCaseAssociatorTest.php" timestamp="1593428854228">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="29" />
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RefundModeToAfterSalesCaseAssociatorTest.php" timestamp="1593430547697">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="/dummy.sql" timestamp="1593427690699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593428891541">
+      <file name="/Dummy.txt" timestamp="1593430246044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -295,7 +297,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ArticleFinder</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
@@ -307,28 +309,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAnQGFmdGVyc2FsZXMucmVwb3NpdG9yeS5hcnRpY2xlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0tFUk5FTF9ESVInID0+ICcvYXBwJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFmdGVyc2FsZXMuc2VydmljZXMuZmluZGVyLmFydGljbGU6CiAgICAgIGNsYXNzOiBQY2NcRG9tYWluXEFmdGVyU2FsZXNcU2VydmljZVxBcnRpY2xlRmluZGVyCiAgICAgIGFyZ3VtZW50czoKICAgICAgICAtICdAYWZ0ZXJzYWxlcy5yZXBvc2l0b3J5LmFydGljbGUnICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpjb250YWluZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5pIG5hbWU9ImVycm9yX3JlcG9ydGluZyIgdmFsdWU9Ii0xIiAvPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29ubmVjdGlvbi0+Y2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbnRhaW5lci0+Z2V0KCcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29ubmVjdGlvbi0+cXVlcnkoJHNxbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2VybmVsLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGZhbHNlID09PSAkcmVzdWx0KSA/Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2VybmVsID0gc2VsZjo6Ym9vdEtlcm5lbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
