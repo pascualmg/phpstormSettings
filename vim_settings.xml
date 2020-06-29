@@ -124,24 +124,64 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/web.pccom_returns_refund_mode" timestamp="1593427718141">
+      <file name="/Dummy.txt" timestamp="1593438011473">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="/console" timestamp="1593434478580">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/web.pccom_returns_refund_mode" timestamp="1593434486771">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundModeToAfterSalesCaseAssociator.php" timestamp="1593434597037">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="4" />
+      </file>
+      <file name="/web.pccom_returns_user_preferences" timestamp="1593434486895">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssocRefundModeToAfterSalesCase/AssocRefundModeToAfterSalesCaseHandler.php" timestamp="1593436375175">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="8" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/src/pccapi/app/phpunit.xml.dist" timestamp="1593433341058">
         <mark key="[" line="30" column="2" />
         <mark key="]" line="30" column="2" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssocRefundModeToAfterSalesCase/AssocRefundModeToAfterSalesCaseCommand.php" timestamp="1593425042011">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="67" />
-        <mark key="^" line="10" column="67" />
-        <mark key="." line="10" column="66" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssocRefundModeToAfterSalesCase/AssocRefundModeToAfterSalesCaseCommand.php" timestamp="1593436608145">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="85" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1593438813392">
+        <mark key="[" line="321" column="55" />
+        <mark key="]" line="321" column="53" />
+        <mark key="^" line="321" column="53" />
+        <mark key="." line="321" column="52" />
+      </file>
+      <file name="/pccom_returns_user_preferences [mysql.web.dev.pccom.interno]" timestamp="1593434486873">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/pccom_returns_refund_mode [mysql.web.dev.pccom.interno]" timestamp="1593434486744">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1593427665173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1593427605950" />
+      <file name="/foo.bar" timestamp="1593434486918">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593427350459">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/default" timestamp="1593427700024">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,61 +191,20 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RefundModeToAfterSalesCaseAssociatorTest.php" timestamp="1593433026221">
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="53" />
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/RefundMode.php" timestamp="1593438572540">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RefundModeToAfterSalesCaseAssociatorTest.php" timestamp="1593435599711">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="42" />
         <mark key="^" line="25" column="53" />
-        <mark key="." line="25" column="52" />
+        <mark key="." line="25" column="42" />
       </file>
       <file name="/dummy.sql" timestamp="1593427690699">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593430246044">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundModeToAfterSalesCaseAssociator.php" timestamp="1593433433669">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="4" />
-      </file>
-      <file name="/web.pccom_returns_user_preferences" timestamp="1593420628008">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssocRefundModeToAfterSalesCase/AssocRefundModeToAfterSalesCaseHandler.php" timestamp="1593424952256">
-        <mark key="[" line="18" column="52" />
-        <mark key="]" line="16" column="76" />
-        <mark key="." line="16" column="75" />
-        <mark key="^" line="16" column="76" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssocRefundModeToAfterSalesCase/AssocRefundModeToAfterSalesCase.php" timestamp="1593423184515">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="10" column="4" />
-      </file>
-      <file name="/pccom_returns_refund_mode [mysql.web.dev.pccom.interno]" timestamp="1593427718112">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1593427718153">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593427350459">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/RefundMode.php" timestamp="1593427246191">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundModeToAfterSalesCaseAssociate.php" timestamp="1593424324402">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="10" column="54" />
-        <mark key="^" line="10" column="54" />
-        <mark key="." line="10" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -294,43 +293,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA8bG9nZ2luZz4KICAgICAgICA8bG9nIHR5cGU9ImNvdmVyYWdlLWh0bWwiIHRhcmdldD0icmVwb3J0L2h0bWwvY292ZXJhZ2UiIHRpdGxlPSJDb3ZlcmFnZSB0ZXN0IHVuaXRhcmlvcyBBUEkgUGNDb21wb25lbnRlcyIKICAgICAgICAgICAgIGNoYXJzZXQ9IlVURi04IiB5dWk9InRydWUiIGhpZ2hsaWdodD0idHJ1ZSIKICAgICAgICAgICAgIGxvd1VwcGVyQm91bmQ9IjM1IiBoaWdoTG93ZXJCb3VuZD0iNzAiLz4KICAgICAgICA8bG9nIHR5cGU9ImNvdmVyYWdlLWNsb3ZlciIgdGFyZ2V0PSJyZXBvcnQvY2xvdmVyL2Nsb3Zlci54bWwiLz4KICAgICAgICA8bG9nIHR5cGU9Imp1bml0IiB0YXJnZXQ9InJlcG9ydC9qdW5pdC9qdW5pdC54bWwiIGxvZ0luY29tcGxldGVTa2lwcGVkPSJmYWxzZSIvPgogICAgICAgIDxsb2cgdHlwZT0iY292ZXJhZ2UtdGV4dCIgdGFyZ2V0PSJwaHA6Ly9zdGRvdXQiIC8+CiAgICA8L2xvZ2dpbmc+</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmJpbmRWYWx1ZSgnY2FzZUlkJywgJGNhc2VJZCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgIGNhc2Ugc2VsZjo6Q1JFRElUOgogICAgICAgICAgICAgICByZXR1cm4gbmV3IHNlbGYoc2VsZjo6Q1JFRElUKTsKICAgICAgICAgICAgICAgYnJlYWs7CiAgICAg</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICA8bG9nZ2luZz4KICAgICAgICA8bG9nIHR5cGU9ImNvdmVyYWdlLWh0bWwiIHRhcmdldD0icmVwb3J0L2h0bWwvY292ZXJhZ2UiIHRpdGxlPSJDb3ZlcmFnZSB0ZXN0IHVuaXRhcmlvcyBBUEkgUGNDb21wb25lbnRlcyIKICAgICAgICAgICAgIGNoYXJzZXQ9IlVURi04IiB5dWk9InRydWUiIGhpZ2hsaWdodD0idHJ1ZSIKICAgICAgICAgICAgIGxvd1VwcGVyQm91bmQ9IjM1IiBoaWdoTG93ZXJCb3VuZD0iNzAiLz4KICAgICAgICA8bG9nIHR5cGU9ImNvdmVyYWdlLWNsb3ZlciIgdGFyZ2V0PSJyZXBvcnQvY2xvdmVyL2Nsb3Zlci54bWwiLz4KICAgICAgICA8bG9nIHR5cGU9Imp1bml0IiB0YXJnZXQ9InJlcG9ydC9qdW5pdC9qdW5pdC54bWwiIGxvZ0luY29tcGxldGVTa2lwcGVkPSJmYWxzZSIvPgogICAgICAgIDxsb2cgdHlwZT0iY292ZXJhZ2UtdGV4dCIgdGFyZ2V0PSJwaHA6Ly9zdGRvdXQiIC8+CiAgICA8L2xvZ2dpbmc+</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgxLCAyKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApOwogICAgICAgICR0aGlzLT5hc3NlcnRTYW1lKDEsIDIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsb2dnaW5nPgogICAgICAgIDxsb2cgdHlwZT0iY292ZXJhZ2UtaHRtbCIgdGFyZ2V0PSJyZXBvcnQvaHRtbC9jb3ZlcmFnZSIgdGl0bGU9IkNvdmVyYWdlIHRlc3QgdW5pdGFyaW9zIEFQSSBQY0NvbXBvbmVudGVzIgogICAgICAgICAgICAgY2hhcnNldD0iVVRGLTgiIHl1aT0idHJ1ZSIgaGlnaGxpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgbG93VXBwZXJCb3VuZD0iMzUiIGhpZ2hMb3dlckJvdW5kPSI3MCIvPgogICAgICAgIDxsb2cgdHlwZT0iY292ZXJhZ2UtY2xvdmVyIiB0YXJnZXQ9InJlcG9ydC9jbG92ZXIvY2xvdmVyLnhtbCIvPgogICAgICAgIDxsb2cgdHlwZT0ianVuaXQiIHRhcmdldD0icmVwb3J0L2p1bml0L2p1bml0LnhtbCIgbG9nSW5jb21wbGV0ZVNraXBwZWQ9ImZhbHNlIi8+CiAgICAgICAgPGxvZyB0eXBlPSJjb3ZlcmFnZS10ZXh0IiB0YXJnZXQ9InBocDovL3N0ZG91dCIgLz4KICAgIDwvbG9nZ2luZz4=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgJHRoaXMtPnZhbHVlID0gMjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgJHRoaXMtPnZhCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgJHRoaXMtPnZhCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICkpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBSZWZ1bmRNb2RlOjpmcm9tSW50KCRyZWZ1bmRNb2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0tFUk5FTF9ESVInID0+ICcvYXBwJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBSZWZ1bmRNb2RlOjpmcm9tSW50KCRyZWZ1bmRNb2RlKQogICAgICAgICAgKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpjb250YWluZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEFzc29jUmVmdW5kTW9kZVRvQWZ0ZXJTYWxlc0Nhc2VDb21tYW5kKAogICAgICAgICAgICAgICRyZXN1bHRbJ2lkQ2FzZSddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5pIG5hbWU9ImVycm9yX3JlcG9ydGluZyIgdmFsdWU9Ii0xIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKCRlbnRlcm8gPT09IDEpPyBuZXcgc2VsZihzZWxmOjpDUkVESVQpIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
