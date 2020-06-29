@@ -132,8 +132,10 @@
       <file name="/web.api_centralita_opcion" timestamp="1593160288569">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1593095614519">
-        <mark key="[" line="0" column="13" />
+      <file name="/a.dummy" timestamp="1593412932449">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/OriginNotFoundException.php" timestamp="1593095547756">
         <mark key="[" line="5" column="7" />
@@ -146,6 +148,12 @@
         <mark key="]" line="40" column="16" />
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/OrigintMustExistsException.php" timestamp="1593413091274">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="13" column="5" />
       </file>
       <file name="/web.api_centralita_cola" timestamp="1593094739366">
         <mark key="[" line="0" column="0" />
@@ -165,11 +173,11 @@
       <file name="/api_centralita_cola [mysql.web.dev.pccom.interno]" timestamp="1593094739350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/OptionAlreadyExistsException.php" timestamp="1593093776674">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="7" column="87" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/OptionAlreadyExistsException.php" timestamp="1593413741565">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/src/Application/Option/CreateOptionHandler.php" timestamp="1593158870547">
         <mark key="[" line="30" column="16" />
@@ -180,23 +188,18 @@
       <file name="/foo.bar" timestamp="1593094739374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/tests/Infrastructure/Persistence/InMemoryOptionRepository.php" timestamp="1593093504712">
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="48" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="48" />
-      </file>
-      <file name="$USER_HOME$/src/customer-support-service/config/services.yaml" timestamp="1593342242954" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Exception/ExternalResquestNotFoundException.php" timestamp="1593413180844" />
       <file name="$USER_HOME$/src/customer-support-service/src/Domain/Entrypoint/Controller/CreateOptionController.php" timestamp="1593158799668">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="30" column="56" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/QueueMustExistsException.php" timestamp="1593412859888">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/QueueMustExistsException.php" timestamp="1593412906141">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/src/Infrastructure/Persistence/DBalExternalRequestRepository.php" timestamp="1593158005339">
         <mark key="[" line="8" column="0" />
@@ -208,6 +211,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/ExternalRequestMustExistsException.php" timestamp="1593413277198">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="36" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="11" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -295,11 +304,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>handler test and fix uuid import and fix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVzb3VyY2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>handler test and fix uuid import and fix</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
@@ -308,34 +317,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQWxsKCk6IGFycmF5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFBjY29tcG9uZW50ZXNcRGRkXERvbWFpblxNb2RlbFxWYWx1ZU9iamVjdFxVdWlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVzb3VyY2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text>Merge remote-tracking branch 'origin' into feature/ZT-143-backend-crear-caso-de-uso-de-creacion-de-opcion
-
-# Conflicts:
-#	src/Infrastructure/Persistence/DBalExternalRequestRepository.php</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaWQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgxLCAxKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIFBjY29tcG9uZW50ZXNcRGRkXERvbWFpblxNb2RlbFxWYWx1ZU9iamVjdFxVdWlkOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbWVzc2FnZSA9ICIiLCAkY29kZSA9IDAsIFRocm93YWJsZSAkcHJldmlvdXMgPSBudWxsKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJG1lc3NhZ2UsICRjb2RlLCAkcHJldmlvdXMpOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZGF0YSgpIG1ldGhvZC4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRvcHRpb25DcmVhdG9yTW9jayAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbWVzc2FnZSA9ICJvcmlnaW4gaWQgbXVzdCBleGlzdHMiLCAkY29kZSA9IDQyMikKICAgIHsKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRtZXNzYWdlLCAkY29kZSk7CiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFBjY29tcG9uZW50ZXNcRGRkXERvbWFpblxNb2RlbFxWYWx1ZU9iamVjdFxVdWlkOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFBjQ29tcG9uZW50ZXNcQ3VzdG9tZXJTdXBwb3J0XERvbWFpblxNb2RlbFxSZXBvc2l0b3J5XEV4dGVybmFyUmVxdWVzdFJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRtZXNzYWdlLCAkY29kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
