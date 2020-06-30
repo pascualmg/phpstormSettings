@@ -301,10 +301,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>apixception</text>
+        <text>OptionAlreadyExistsException</text>
       </register>
       <register name="-" type="4">
-        <text>apixception</text>
+        <text>OptionAlreadyExistsException</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
@@ -313,31 +313,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWRpdCgpewogICAgICAgIHJldHVybiBuZXcgc2VsZihzZWxmOjpDUkVESVQpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVzb3VyY2UoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">dXNlIFBjQ29tcG9uZW50ZXNcQ3VzdG9tZXJTdXBwb3J0XERvbWFpblxTZXJ2aWNlXEV4Y2VwdGlvblxPcHRpb25cY3JlYXRlXEV4dGVybmFsUmVxdWVzdE11c3RFeGlzdHNFeGNlcHRpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaWQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">dXNlIFBjQ29tcG9uZW50ZXNcQ3VzdG9tZXJTdXBwb3J0XERvbWFpblxTZXJ2aWNlXEV4Y2VwdGlvblxPcHRpb25cY3JlYXRlXFF1ZXVlTXVzdEV4aXN0c0V4Y2VwdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFBjQ29tcG9uZW50ZXNcQ3VzdG9tZXJTdXBwb3J0XERvbWFpblxTZXJ2aWNlXEV4Y2VwdGlvblxPcHRpb25cY3JlYXRlXE9yaWdpbk11c3RFeGlzdHNFeGNlcHRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFBjQ29tcG9uZW50ZXNcQ3VzdG9tZXJTdXBwb3J0XERvbWFpblxTZXJ2aWNlXEV4Y2VwdGlvblxPcHRpb25cY3JlYXRlXE9wdGlvbkFscmVhZHlFeGlzdHNFeGNlcHRpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkYXRhKCk6IGFycmF5CiAgICB7CiAgICAgICAgcmV0dXJuIFtdOwogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVzb3VyY2UoKSBtZXRob2QuCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaWQoKSBtZXRob2QuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgVXVpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkYXRhKCk6IGFycmF5CiAgICB7CiAgICAgICAgcmV0dXJuIFtdOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
