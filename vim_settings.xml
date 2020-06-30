@@ -124,23 +124,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/customer-support-service/config/packages/apixception.yaml" timestamp="1593500618295" />
       <file name="/pccom_returns_log [mysql.web.dev.pccom.interno]" timestamp="1593442679347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/pccom_returns_action_process [mysql.web.dev.pccom.interno]" timestamp="1593442606765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/web.pccom_returns_refund_mode" timestamp="1593434486771">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/OrigintMustExistsException.php" timestamp="1593501602033">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssocRefundModeToAfterSalesCase/AssocRefundModeToAfterSalesCaseCommand.php" timestamp="1593436608145">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="85" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="/pccom_returns_user_preferences [mysql.web.dev.pccom.interno]" timestamp="1593434486873">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/OptionCreator.php" timestamp="1593501718672">
+        <mark key="[" line="75" column="47" />
+        <mark key="]" line="75" column="50" />
+        <mark key="^" line="75" column="50" />
+        <mark key="." line="75" column="49" />
       </file>
       <file name="/web.pccom_returns_log" timestamp="1593442679377">
         <mark key="[" line="0" column="0" />
@@ -148,16 +149,13 @@
       <file name="/web.pccom_returns_action_process" timestamp="1593442606793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/PHP Console" timestamp="1593501823568">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1593443633101">
         <mark key="[" line="499" column="0" />
         <mark key="]" line="499" column="0" />
         <mark key="." line="499" column="0" />
-      </file>
-      <file name="/web.pccom_returns" timestamp="1593440878937">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console 1" timestamp="1593440757981">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/tests/Pcc/Tests/Domain/Aftersales/Service/RefundModeToAfterSalesCaseAssociatorTest.php" timestamp="1593443388770">
         <mark key="[" line="25" column="42" />
@@ -165,10 +163,10 @@
         <mark key="^" line="25" column="72" />
         <mark key="." line="25" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593498715405">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1593501812491">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Domain/AfterSales/Service/RefundModeToAfterSalesCaseAssociator.php" timestamp="1593499623182">
         <mark key="[" line="42" column="5" />
@@ -176,16 +174,13 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="5" />
       </file>
-      <file name="/web.pccom_returns_user_preferences" timestamp="1593434486895">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Application/AfterSales/AssocRefundModeToAfterSalesCase/AssocRefundModeToAfterSalesCaseHandler.php" timestamp="1593498713741">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1593462149700">
+      <file name="$USER_HOME$/src/pccapi/src/Pcc/Bundle/UserBundle/Controller/ReturnsController.php" timestamp="1593500510831">
         <mark key="[" line="321" column="58" />
         <mark key="]" line="321" column="76" />
         <mark key="." line="321" column="75" />
@@ -203,8 +198,17 @@
         <mark key="." line="37" column="33" />
         <mark key="^" line="37" column="34" />
       </file>
-      <file name="/pccom_returns [mysql.web.dev.pccom.interno]" timestamp="1593440878913">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/QueueMustExistsException.php" timestamp="1593501702745">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="28" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/Exception/Option/create/ExternalRequestMustExistsException.php" timestamp="1593501092196">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -292,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19kZXN0cnVjdCgpIG1ldGhvZC4K</text>
+      <register name="&quot;" type="4">
+        <text>apixception</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>apixception</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
@@ -305,31 +309,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWRpdCgpewogICAgICAgIHJldHVybiBuZXcgc2VsZihzZWxmOjpDUkVESVQpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19kZXN0cnVjdCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVzb3VyY2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaWQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCdqYXJsJyk7ZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXBkYXRlIHBjY29tX3JldHVybnMpIHNldCBhY3RpdmU9MCB3aGVyZSByZXR1cm5JZCA9IDI0NjEyMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXBkYXRlIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkYXRhKCk6IGFycmF5CiAgICB7CiAgICAgICAgcmV0dXJuIFtdOwogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBwY2NvbV9yZXQK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVzb3VyY2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBwY2NvbV9yZXR1cm5zX3VzZXJfcHJlZmVyZW5jZXNgCigKICAgIGBjYXNlX2lkYCAgICAgaW50KDExKSAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICAgIGByZWZ1bmRfZm9ybWAgZW51bSAoJ2Fib25vJywnc2FsZG8nKSBOT1QgTlVMTCwKICAgIFBSSU1BUlkgS0VZIChgY2FzZV9pZGApLAogICAgVU5JUVVFIEtFWSBgcGNjb21fcmV0dXJuc191c2VyX3ByZWZlcmVuY2VzX2Nhc2VfaWRfdWluZGV4YCAoYGNhc2VfaWRgKQopIEVOR0lORSA9IElubm9EQgogIERFRkFVTFQgQ0hBUlNFVCA9IGxhdGluMQo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgVXVpZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
