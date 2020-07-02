@@ -124,10 +124,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1593673634711">
+      <file name="/console" timestamp="1593683575011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/web.pccom_returns_refund_mode" timestamp="1593674757049">
+      <file name="/web.pccom_returns_refund_mode" timestamp="1593682399512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/config/routes_aftersales.yml" timestamp="1593612228679">
@@ -149,11 +149,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/pccapi/src/Pcc/Infrastructure/Persistence/Doctrine/Repository/AfterSales/Landbot/DBalOrderSummaryRepository.php" timestamp="1593673499715" />
-      <file name="/web.pccom_returns" timestamp="1593611012914">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console 1" timestamp="1593611013498">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1593683521004">
+        <mark key="[" line="464" column="0" />
+        <mark key="]" line="464" column="0" />
+        <mark key="." line="464" column="0" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/src/Domain/Model/Repository/ExternalRequestRepository.php" timestamp="1593674931557">
         <mark key="[" line="13" column="53" />
@@ -169,16 +168,16 @@
       <file name="/web.pccom_returns_user_preferences" timestamp="1593674756997">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/pccom_returns_refund_mode [mysql.web.dev.pccom.interno]" timestamp="1593674757034">
+      <file name="/pccom_returns_refund_mode [mysql.web.dev.pccom.interno]" timestamp="1593682399497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1593674757065">
+      <file name="/foo.bar" timestamp="1593682399522">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommand.php" timestamp="1593611385315">
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="13" column="54" />
-        <mark key="." line="13" column="54" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/866e533a-7283-4320-8dbf-9abe921b52fc/console.sql" timestamp="1593683583235">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/src/Infrastructure/Persistence/DBalExternalRequestRepository.php" timestamp="1593678584649">
         <mark key="[" line="43" column="0" />
@@ -272,7 +271,15 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBkZWZhdWwK</text>
+        <text>SELECT _r.returnId, _c.repairCenterId, _r.created, _a.id_familia, _a.id_marca, _r.typeId, _rc.name, _add.country
+FROM pccom_returns _r
+         INNER JOIN pccom_returns_repair_center_assigned _c ON _r.returnId = _c.returnId
+         INNER JOIN pccom_returns_repair_center _rc ON _c.repairCenterId = _rc.id
+         INNER JOIN pccom_returns_address _add ON _c.returnId = _add.returnId
+         LEFT JOIN articulos _a ON _r.productId = _a.id_articulo
+WHERE _a.id_familia = 1115 AND _r.typeId = 2
+ORDER BY _r.returnId DESC
+LIMIT 100;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHNuYWtlIC0+IGNhbWVs</text>
@@ -284,31 +291,39 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWRpdCgpewogICAgICAgIHJldHVybiBuZXcgc2VsZihzZWxmOjpDUkVESVQpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBkZWZhdWwK</text>
+        <text>SELECT _r.returnId, _c.repairCenterId, _r.created, _a.id_familia, _a.id_marca, _r.typeId, _rc.name, _add.country
+FROM pccom_returns _r
+         INNER JOIN pccom_returns_repair_center_assigned _c ON _r.returnId = _c.returnId
+         INNER JOIN pccom_returns_repair_center _rc ON _c.repairCenterId = _rc.id
+         INNER JOIN pccom_returns_address _add ON _c.returnId = _add.returnId
+         LEFT JOIN articulos _a ON _r.productId = _a.id_articulo
+WHERE _a.id_familia = 1115 AND _r.typeId = 2
+ORDER BY _r.returnId DESC
+LIMIT 100;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBkCg==</text>
+        <text encoding="base64">ZnJvbSBwY2NvbV9yZXR1cm5zLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBkZWZhdWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGNvbm5lY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KENvbm5lY3Rpb24gJGNvbm5lY3Rpb24pCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KENvbm5lY3Rpb24gJGNvbm5lY3Rpb24pCiAgICB7CiAgICAgICAgJHRoaXMtPmNvbm5lY3Rpb24gPSAkY29ubmVjdGlvbjsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGNvbm5lY3Rpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmlsdGVyKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
