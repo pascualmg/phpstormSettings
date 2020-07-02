@@ -130,11 +130,6 @@
       <file name="/web.pccom_returns_refund_mode" timestamp="1593682399512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/config/routes_aftersales.yml" timestamp="1593612228679">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-      </file>
       <file name="/pccom_returns_user_preferences [mysql.web.dev.pccom.interno]" timestamp="1593674756984">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,6 +159,12 @@
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/web/quovadis/listado_rma_enviados_fabricante.php" timestamp="1593688066579">
+        <mark key="[" line="222" column="23" />
+        <mark key="]" line="208" column="21" />
+        <mark key="." line="208" column="20" />
+        <mark key="^" line="208" column="21" />
       </file>
       <file name="/web.pccom_returns_user_preferences" timestamp="1593674756997">
         <mark key="[" line="0" column="0" />
@@ -270,19 +271,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>SELECT _r.returnId, _c.repairCenterId, _r.created, _a.id_familia, _a.id_marca, _r.typeId, _rc.name, _add.country
-FROM pccom_returns _r
-         INNER JOIN pccom_returns_repair_center_assigned _c ON _r.returnId = _c.returnId
-         INNER JOIN pccom_returns_repair_center _rc ON _c.repairCenterId = _rc.id
-         INNER JOIN pccom_returns_address _add ON _c.returnId = _add.returnId
-         LEFT JOIN articulos _a ON _r.productId = _a.id_articulo
-WHERE _a.id_familia = 1115 AND _r.typeId = 2
-ORDER BY _r.returnId DESC
-LIMIT 100;</text>
+      <register name="&quot;" type="4">
+        <text>query</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNuYWtlIC0+IGNhbWVs</text>
+        <text>query</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
