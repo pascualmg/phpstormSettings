@@ -124,18 +124,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594021804485">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1594034871850">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/tests/Infrastructure/Persistence/InMemoryExternalRequestRepository.php" timestamp="1594019535788">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/customer-support-service/tests/Infrastructure/Persistence/InMemoryExternalRequestRepository.php" timestamp="1594034385326">
+        <mark key="'" line="30" column="73" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="/fragment.php" timestamp="1593701948517">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1594032811509">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/Requests/switchboard.menu.getall.externalrequest.http" timestamp="1593714483186">
         <mark key="[" line="0" column="60" />
@@ -147,16 +155,11 @@
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/tests/Infrastructure/Persistence/InMemoryRepository.php" timestamp="1594021773386">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/customer-support-service/src/Application/ExternalRequest/FindAllExternalRequestQuery.php" timestamp="1593694832036">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/src/customer-support-service/tests/Infrastructure/Persistence/InMemoryRepository.php" timestamp="1594034167600">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="46" />
+        <mark key="." line="31" column="45" />
+        <mark key="^" line="31" column="46" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/vendor/pccomponentes/criteria/src/Domain/Criteria/Filters.php" timestamp="1593696738641">
         <mark key="[" line="8" column="32" />
@@ -164,11 +167,17 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/ExternalRequestFilter.php" timestamp="1593714894878">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="20" column="55" />
-        <mark key="^" line="20" column="55" />
-        <mark key="." line="20" column="54" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Application/ExternalRequest/FindAllExternalRequestHandler.php" timestamp="1594034866013">
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="85" />
+        <mark key="^" line="17" column="85" />
+        <mark key="." line="17" column="84" />
+      </file>
+      <file name="$USER_HOME$/src/customer-support-service/src/Domain/Service/ExternalRequestFilter.php" timestamp="1594032476237">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/src/customer-support-service/src/System/Infrastructure/Persistence/ArrayBuilderCriteriaVisitor.php" timestamp="1593713485223">
         <mark key="[" line="76" column="49" />
@@ -176,13 +185,13 @@
         <mark key="^" line="79" column="8" />
         <mark key="." line="76" column="49" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/tests/Domain/Service/ExternalRequestFilterTest.php" timestamp="1594020796814">
-        <mark key="[" line="31" column="52" />
-        <mark key="]" line="31" column="64" />
-        <mark key="." line="31" column="63" />
-        <mark key="^" line="31" column="64" />
+      <file name="$USER_HOME$/src/customer-support-service/tests/Domain/Service/ExternalRequestFilterTest.php" timestamp="1594032392613">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/docs/openapi/openapi.yaml" timestamp="1593713883407">
+      <file name="$USER_HOME$/src/customer-support-service/docs/openapi/openapi.yaml" timestamp="1594032773223">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
@@ -190,32 +199,24 @@
       <file name="$USER_HOME$/src/customer-support-service/src/System/Infrastructure/Persistence/DBALRepository.php" timestamp="1593696960517">
         <mark key="[" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/src/customer-support-service/tests/Infrastructure/Persistence/InMemoryOptionRepository.php" timestamp="1594034357114">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="93" />
+        <mark key="." line="26" column="92" />
+        <mark key="^" line="26" column="93" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdb3e6aa-928b-454f-b32a-1dec6759e193/console.sql" timestamp="1593698053243">
         <mark key="[" line="500" column="0" />
         <mark key="]" line="464" column="0" />
         <mark key="." line="464" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1593695422491">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/src/customer-support-service/config/routes.yaml" timestamp="1594031871056">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/src/customer-support-service/config/routes.yaml" timestamp="1593695443666">
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="27" column="67" />
-        <mark key="^" line="27" column="67" />
-        <mark key="." line="27" column="67" />
-      </file>
-      <file name="$USER_HOME$/src/customer-support-service/src/Entrypoint/Controller/FindAllExternalRequestController.php" timestamp="1593695180762">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="15" />
-      </file>
-      <file name="$USER_HOME$/src/customer-support-service/src/Infrastructure/Persistence/DBalExternalRequestRepository.php" timestamp="1593715005098">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/src/customer-support-service/src/Infrastructure/Persistence/DBalExternalRequestRepository.php" timestamp="1594032646692">
+        <mark key="[" line="46" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -299,15 +300,16 @@
       <jump line="36" column="28" filename="$USER_HOME$/src/after-sales-service/src/Application/CreateRepairCenter/CreateRepairCenterCommand.php" />
       <jump line="120" column="28" filename="$USER_HOME$/src/hydrator/Hydrator.php" />
       <jump line="146" column="34" filename="$USER_HOME$/src/customer-support-service/src/Infrastructure/Persistence/DBalOptionRepository.php" />
+      <jump line="31" column="73" filename="$USER_HOME$/src/customer-support-service/tests/Infrastructure/Persistence/InMemoryExternalRequestRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRlbGV0ZSB1bnVzZWQgZnVuYw==</text>
+        <text>delete calss InMemoryRepository.php</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlbGV0ZSB1bnVzZWQgZnVuYw==</text>
+        <text>delete calss InMemoryRepository.php</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
@@ -316,31 +318,31 @@
         <text encoding="base64">ICAgICAgICAkcmVwby0+c2F2ZSgkZXh0ZXJuYWxSZXF1ZXN0T25lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwby0+c2F2ZShFeHRlcm5hbFJlcXVlc3RNb3RoZXI6OnNvbWVWYWxpZE9yaWdpbigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPl9maW5kQWxsKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YnVmZmVyWyRpZC0+dmFsdWUoKV0gPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZCgpIG1ldGhvZC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZCgpIG1ldGhvZC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmJ1ZmZlcjsK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZCgpIG1ldGhvZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBfZmluZEFsbCgpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
