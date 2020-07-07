@@ -145,35 +145,29 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/src/sqls/Aftersales/OrderSummary.sql" timestamp="1594108741752">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="12" column="18" />
+      <file name="$USER_HOME$/src/sqls/Aftersales/OrderSummary.sql" timestamp="1594115852772">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/config/services.yaml" timestamp="1594114983754">
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="40" column="57" />
-        <mark key="." line="40" column="56" />
-        <mark key="^" line="40" column="57" />
+      <file name="$USER_HOME$/src/after-sales-service/config/services.yaml" timestamp="1594115163964">
+        <mark key="[" line="55" column="129" />
+        <mark key="]" line="55" column="129" />
+        <mark key="." line="55" column="129" />
+        <mark key="^" line="55" column="70" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/requests/pcc_landbot_order_summary.http" timestamp="1594114922001">
-        <mark key="[" line="0" column="26" />
+      <file name="$USER_HOME$/src/after-sales-service/requests/pcc_landbot_order_summary.http" timestamp="1594115888081">
+        <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Infrastructure/Repository/DBalOrderSummaryRepository.php" timestamp="1594114414193">
-        <mark key="[" line="48" column="62" />
-        <mark key="]" line="49" column="32" />
-        <mark key="^" line="49" column="32" />
-        <mark key="." line="49" column="31" />
-      </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Domain/DeliveryUrl.php" timestamp="1594108813264">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="19" />
+      <file name="$USER_HOME$/src/after-sales-service/src/Infrastructure/Repository/DBalOrderSummaryRepository.php" timestamp="1594116002853">
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="49" column="16" />
+        <mark key="^" line="49" column="16" />
+        <mark key="." line="49" column="15" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/config/routes_landbot.yml" timestamp="1594114882066" />
       <file name="$USER_HOME$/src/after-sales-service/.env" timestamp="1594114186592">
@@ -187,11 +181,20 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/src/after-sales-service/src/Domain/TrackUrl.php" timestamp="1594110218787">
-        <mark key="[" line="48" column="45" />
-        <mark key="]" line="48" column="44" />
-        <mark key="^" line="48" column="44" />
-        <mark key="." line="48" column="43" />
+      <file name="/componentes.pccom_logistic_orders_stickers_expedition" timestamp="1594115436804">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/OrderSummary" timestamp="1594115251952">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/after-sales-service/src/Domain/TrackUrl.php" timestamp="1594116447796">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="97" column="44" />
+        <mark key="^" line="97" column="44" />
+        <mark key="." line="97" column="43" />
+      </file>
+      <file name="/pccom_logistic_orders_stickers_expedition [mysql.web.dev.pccom.interno]" timestamp="1594115436796">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/config/context/system/connections.yaml" timestamp="1594114078205">
         <mark key="[" line="24" column="33" />
@@ -199,7 +202,7 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="28" />
       </file>
-      <file name="/foo.bar" timestamp="1594042755218">
+      <file name="/foo.bar" timestamp="1594115436815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/after-sales-service/src/Domain/OrderSummary.php" timestamp="1594113775349">
@@ -308,43 +311,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>web</text>
+        <text>pedido</text>
       </register>
       <register name="-" type="4">
-        <text>web</text>
+        <text>pedido</text>
       </register>
       <register name="/" type="4">
         <text>cre</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBEb2N0cmluZVxEQkFMXENvbm5lY3Rpb246ICdAY29ubmVjdGlvbi5kYmFsLndlYicK</text>
+        <text encoding="base64">aW5uZXIgam9pbiB3ZWIuY29tcHJhc19kYXRvcyBjZCBvbiBjZC5wZWRpZG8gPSB0Lm9yZGVyTnVtYmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW5uZXIgam9pbiB3ZWIuY29tcHJhc19kYXRvcyBjZCBvbiBjZC5wZWRpZG8gPSB0Lm9yZGVyTnVtYmVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">bGVmdCBqb2luIHdlYi5jb21wcmFzX2RhdG9zX2FyY2hpdmFkb3MgY2RhIG9uIGNkYS5wZWRpZG8gPSB0Lm9yZGVyTnVtYmVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdD8/bnVsbDsgCg==</text>
+        <text encoding="base64">d2hlcmUgeWVhcihmZWNoYSkgPiAyMDIwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBAc29tZV9vZGVyX3dpdGhfdHJha2luZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICBEb2N0cmluZVxEQkFMXENvbm5lY3Rpb246ICdAY29ubmVjdGlvbi5kYmFsLmNvbXBvbmVudGVzJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgQ29ubmVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdD8/bnVsbDsgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDb25uZWN0aW9uICRjb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZCgpIG1ldGhvZC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
