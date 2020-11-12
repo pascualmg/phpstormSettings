@@ -1,5 +1,5 @@
 <toolSet name="-cs-fixer over current class">
-  <tool name="PHPCBF" description="PHPCBF" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="PHPCBF" description="linter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/src/pccapi/bin/phpcbf" />
       <option name="PARAMETERS" value="$FileDirRelativeToProjectRoot$/$FileName$" />
@@ -8,7 +8,7 @@
   </tool>
   <tool name="php-cs-fixer (Fabien Potencier)" description="el de Fabien" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/src/pccapi/bin/php-cs-fixer" />
+      <option name="COMMAND" value="$USER_HOME$/src/pccapi/bin/php-cs-fixer-v2.phar" />
       <option name="PARAMETERS" value=" fix  --rules=@PSR2 -vvv $FileDirRelativeToProjectRoot$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
@@ -20,10 +20,10 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="PHPCBF_mac_generic_php" description="PHPCBF" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="test" description="PHPCBF" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/local/bin/php" />
-      <option name="PARAMETERS" value=" /Users/passh/src/pccfront/bin/php-cs-fixer-v2.phar --verbose fix $FileDirRelativeToProjectRoot$/$FileName$ --rules=@PSR2" />
+      <option name="COMMAND" value="$USER_HOME$/src/after-sales-service/vendor/bin/phpcbf" />
+      <option name="PARAMETERS" value="--standard=phpcs.xml.dist -pw $FileDirRelativeToProjectRoot$/$FileName$ " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
