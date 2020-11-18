@@ -24,5 +24,11 @@
         <property name="serverTimezone" value="UTC" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="BIG_DATA" uuid="146087d2-aac1-4f39-96e9-369af67fbdba">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.50.90:3310</jdbc-url>
+    </data-source>
   </component>
 </application>
