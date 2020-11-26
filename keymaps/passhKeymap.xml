@@ -53,5 +53,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
   </action>
   <action id="MaximizeToolWindow" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="ShowReformatFileDialog" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="meta comma" />
+  </action>
 </keymap>
