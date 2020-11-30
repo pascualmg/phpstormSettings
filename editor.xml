@@ -3,7 +3,12 @@
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Hack" />
+  </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="TodoConfiguration">
