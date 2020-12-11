@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="make fix aftersales" description="fix aftersales" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" value="fix" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/src/after-sales-service" />
+    </exec>
+  </tool>
+</toolSet>
