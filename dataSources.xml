@@ -37,5 +37,12 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:7490/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="postgres@aftersales PROD" uuid="ce800647-d8bb-4335-9a75-b37604819812">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>aftersales</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.50.177:5432/after_sales</jdbc-url>
+    </data-source>
   </component>
 </application>
