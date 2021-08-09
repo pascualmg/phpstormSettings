@@ -15,15 +15,6 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:7390/taxes</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="PRODUCCION_CUIDAO" uuid="866e533a-7283-4320-8dbf-9abe921b52fc">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.50.30:3306/web</jdbc-url>
-      <driver-properties>
-        <property name="serverTimezone" value="UTC" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="BIG_DATA" uuid="146087d2-aac1-4f39-96e9-369af67fbdba">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
@@ -36,13 +27,6 @@
       <remarks>aftersales</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:7490/postgres</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="postgres@aftersales PROD" uuid="ce800647-d8bb-4335-9a75-b37604819812">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>aftersales</remarks>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://192.168.50.177:5432/after_sales</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="mysql local" uuid="78bf186c-6765-4e1c-822b-35915ec4f49f">
       <driver-ref>mysql.8</driver-ref>
