@@ -61,5 +61,12 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://192.168.50.177/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="CUSTOMER PROD" read-only="true" uuid="3289f1c3-2b2e-4f1b-abd0-95c62d6b44fc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>customer</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.50.177/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
