@@ -54,7 +54,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:7590/customer-support</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="AFTERSALES PROD" read-only="true" uuid="20648eb7-4ef8-42ca-a857-9d5614b97278">
+    <data-source source="LOCAL" name="AFTERSALES PROD" uuid="20648eb7-4ef8-42ca-a857-9d5614b97278">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <remarks>aftersales</remarks>
