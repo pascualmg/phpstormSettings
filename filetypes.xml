@@ -13,6 +13,11 @@
       <mapping ext="yml " type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
       <mapping pattern="ipService" type="TypeScript" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="yaml " type="YAML" />
