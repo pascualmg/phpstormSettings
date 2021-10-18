@@ -3,10 +3,9 @@
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.6.0" />
     </driver>
-    <driver id="mysql.8" dialect="MariaDB" icon="providers/mariadb.svg">
+    <driver id="mysql.8" icon="providers/mariadb.svg">
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
     </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />

@@ -68,5 +68,34 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://192.168.50.177/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="PROD WEB READONLY" uuid="4c9e5900-83be-4e10-b4a4-16df8b5bb3d7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>de solo lectura</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.50.31:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="CUSTOMER PROD [2]" uuid="1ec0fc24-a03f-4f66-b5dd-6b7fda62d248">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>customer</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.50.177/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="zProd - Xgest" read-only="true" uuid="b635fecd-66df-40a3-8635-a95d743f5fa7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://escritura.xgest.pccom.interno:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="AfterSales - Desarrollo" uuid="a0bd7ff3-abfc-47c8-84e7-f02050654dc7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.21.2.158:31475/after-sales</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
