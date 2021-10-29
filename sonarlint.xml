@@ -3,10 +3,9 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>dfc8df9fdf9bdf9adfc9df9fdf98dfc8dfcedfc8df9ddf92df9cdf9cdfc9dfcbdf98dfc9df9bdf9edfcfdfccdfcedf98df9edfcfdf9cdf9edfcfdf92df98df9bdf93dfccdf9cdfc9df9bdf9adf93df9d</token>
-          <option name="name" value="cloud" />
-          <organizationKey>pccom</organizationKey>
+          <option name="hostUrl" value="http://sonarqube.dev.pccom.interno" />
+          <token>dfcedf9edf99dfcbdfc8df9edf93df9adf9fdfccdf9adf9ddf9adf9edfccdfc9dfc9df9cdf92df92dfcedfc8df99df93df9bdfcedf9cdf98dfc9dfcfdfc9df98dfccdf98dfccdf9fdf9fdf92df9fdfce</token>
+          <option name="name" value="pccom" />
         </SonarQubeServer>
       </list>
     </option>
