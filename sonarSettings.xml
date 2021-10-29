@@ -1,0 +1,15 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="anonymous" value="true" />
+          <option name="hostUrl" value="http://sonarqube.dev.pccom.interno" />
+          <option name="name" value="pccomponentes" />
+          <option name="organization" value="" />
+          <option name="user" value="" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
