@@ -1,4 +1,15 @@
 <application>
+  <component name="localAnalysisScripts">
+    <option name="beans">
+      <list>
+        <LocalAnalysisScript>
+          <option name="name" value="" />
+          <option name="pathToSonarReport" value="$USER_HOME$/src/after-sales-service/sonar-project.properties" />
+          <option name="sourceCode" value="" />
+        </LocalAnalysisScript>
+      </list>
+    </option>
+  </component>
   <component name="sonarServers">
     <option name="beans">
       <list>
