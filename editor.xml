@@ -5,6 +5,7 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
@@ -31,13 +32,10 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
-    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JsonEditorOptions">
     <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
