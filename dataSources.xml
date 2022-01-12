@@ -90,5 +90,12 @@
       <jdbc-url>jdbc:postgresql://172.21.2.158:31475/after-sales</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="CUSTOMER DEV" read-only="true" uuid="3e383bd3-4abf-4bf2-a190-21de351ea58a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>customer</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.21.2.158:30336/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
