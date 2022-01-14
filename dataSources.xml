@@ -21,7 +21,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.50.90:3310</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="postgres@aftersales" uuid="43519680-761a-42b0-990e-f52cc1ef5d01">
+    <data-source source="LOCAL" name="AFTERSALES LOCAL" uuid="43519680-761a-42b0-990e-f52cc1ef5d01">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <remarks>aftersales</remarks>
