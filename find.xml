@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
-    <option name="SEARCH_SCOPE" value="Current File" />
-    <mask>*.yml</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -16,5 +15,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
