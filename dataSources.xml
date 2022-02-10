@@ -47,10 +47,10 @@
         <property name="serverTimezone" value="UTC" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="postgres@customer" uuid="b5f65731-cff6-44e0-813d-57eaa02b4f8d">
+    <data-source source="LOCAL" name="CUSTOMER LOCAL" uuid="b5f65731-cff6-44e0-813d-57eaa02b4f8d">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
-      <remarks>aftersales</remarks>
+      <remarks>customer local</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:7590/customer-support</jdbc-url>
     </data-source>
