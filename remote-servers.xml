@@ -6,20 +6,5 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
-    <remote-server name="DockerBunnker" type="docker">
-      <configuration>
-        <option name="certificatesPath" />
-        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="48f49c09-4465-44c0-aa13-77cbc5c21040" />
-        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
-        <option name="pathMappings">
-          <list>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="/Users" />
-              <option name="virtualMachinePath" value="/home" />
-            </DockerPathMappingImpl>
-          </list>
-        </option>
-      </configuration>
-    </remote-server>
   </component>
 </application>
