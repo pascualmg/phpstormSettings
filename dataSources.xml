@@ -104,7 +104,7 @@
       <jdbc-url>jdbc:mysql://SPVSERVER.PCCOM.INTERNO:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="LOCAL_SPVSERVER" read-only="true" uuid="72353860-691a-460a-af2f-b4b4b6ec07b9">
+    <data-source source="LOCAL" name="LOCAL_SPVSERVER" uuid="72353860-691a-460a-af2f-b4b4b6ec07b9">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
