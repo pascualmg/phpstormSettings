@@ -1,0 +1,18 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>dfc8df9fdf9bdf9adfc9df9fdf98dfc8dfcedfc8df9ddf92df9cdf9cdfc9dfcbdf98dfc9df9bdf9edfcfdfccdfcedf98df9edfcfdf9cdf9edfcfdf92df98df9bdf93dfccdf9cdfc9df9bdf9adf93df9d</token>
+          <option name="name" value="cloud" />
+          <organizationKey>pccom</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules>
+      <Rule active="false" key="php:S125" />
+      <Rule active="false" key="php:S1135" />
+    </rules>
+  </component>
+</application>
