@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -15,8 +14,8 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
+    <mask>*.yml</mask>
     <mask>*.php</mask>
   </component>
 </application>
