@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
   </component>
@@ -16,6 +20,7 @@
         <entry key="JSON" value="true" />
         <entry key="JavaScript" value="true" />
         <entry key="LESS" value="true" />
+        <entry key="Markdown" value="true" />
         <entry key="PHP" value="true" />
         <entry key="SASS" value="true" />
         <entry key="SCSS" value="true" />
@@ -28,6 +33,8 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
@@ -36,6 +43,9 @@
   </component>
   <component name="JsonEditorOptions">
     <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
