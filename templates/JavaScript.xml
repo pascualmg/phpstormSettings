@@ -1,7 +1,6 @@
 <templateSet group="JavaScript">
-  <template name="cl" value="console.log('$TEXT$', $ITEM$);//TODO: borrame.&#10;" shortcut="SPACE" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log('$TEXT$', $TEXT$);//TODO: borrame.&#10;" shortcut="SPACE" description="console.log" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>

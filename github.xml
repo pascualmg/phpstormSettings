@@ -1,7 +1,11 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="f0e3fe98-c16e-4eef-b009-231a53d856d8" name="pascualmg">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="pascualmg" />
-    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="COPY_URL_GIST" value="true" />
     <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
