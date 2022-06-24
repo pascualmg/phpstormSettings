@@ -512,6 +512,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="manjaro.mpb">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.jetbrains.android">
           <value>
             <PluginData>
