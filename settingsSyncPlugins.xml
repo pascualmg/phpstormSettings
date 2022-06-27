@@ -52,6 +52,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="NEON support">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.jetbrains.php" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="PerforceDirectPlugin">
           <value>
             <PluginData>
