@@ -110,6 +110,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.alibabacloud.intellij.cosy">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="org.intellij.plugins.markdown" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.github.copilot">
           <value>
             <PluginData>
@@ -386,6 +398,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.kalessil.phpStorm.phpInspectionsEA">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.jetbrains.php" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.samvtran.plugins.macosforallkeymap">
           <value>
             <PluginData>
@@ -410,6 +434,18 @@
           </value>
         </entry>
         <entry key="de.espend.idea.php.annotation">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.jetbrains.php" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="de.espend.idea.php.phpunit">
           <value>
             <PluginData>
               <option name="dependencies">
@@ -488,6 +524,18 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="net.king2500.plugins.PhpAdvancedAutoComplete">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.jetbrains.php" />
                 </set>
               </option>
             </PluginData>
