@@ -9,35 +9,6 @@
         <property name="serverTimezone" value="UTC" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="taxes@local" uuid="eb634421-4b21-42e1-bd93-75690130007b">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:7390/taxes</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="BIG_DATA" uuid="146087d2-aac1-4f39-96e9-369af67fbdba">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.50.90:3310</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="AFTERSALES LOCAL" uuid="43519680-761a-42b0-990e-f52cc1ef5d01">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>aftersales</remarks>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:7490/postgres</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="mysql local" uuid="78bf186c-6765-4e1c-822b-35915ec4f49f">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>replica de web para test</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:7590/web</jdbc-url>
-      <driver-properties>
-        <property name="serverTimezone" value="UTC" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="mysql.wms.dev.pccom.interno" uuid="edcde1b0-808e-4062-a641-fa2b72c0e4f2">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
@@ -54,40 +25,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:7590/customer-support</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="AFTERSALES PROD" read-only="true" uuid="20648eb7-4ef8-42ca-a857-9d5614b97278">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>aftersales</remarks>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://192.168.50.177/postgres</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="CUSTOMER PROD" read-only="true" uuid="3289f1c3-2b2e-4f1b-abd0-95c62d6b44fc">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>customer</remarks>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://192.168.50.177/postgres</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="PROD WEB READONLY" uuid="4c9e5900-83be-4e10-b4a4-16df8b5bb3d7">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>de solo lectura</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.50.31:3306</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
     <data-source source="LOCAL" name="zProd - Xgest" read-only="true" uuid="b635fecd-66df-40a3-8635-a95d743f5fa7">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://escritura.xgest.pccom.interno:3306</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="AfterSales - Desarrollo" uuid="a0bd7ff3-abfc-47c8-84e7-f02050654dc7">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://172.21.2.151:31475/after-sales</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="CUSTOMER DEV" uuid="3e383bd3-4abf-4bf2-a190-21de351ea58a">
@@ -96,20 +38,6 @@
       <remarks>customer</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://172.21.2.158:30336/postgres</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="SPVSERVER@PROD" read-only="true" uuid="38bf6cc5-141f-4346-af61-2a5635547d1b">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://SPVSERVER.PCCOM.INTERNO:3306</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="SPVSERVER@LOCAL" uuid="72353860-691a-460a-af2f-b4b4b6ec07b9">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:25001</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
 </application>

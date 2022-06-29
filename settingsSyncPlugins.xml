@@ -240,6 +240,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.plugins.macoskeymap">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.quarkus">
           <value>
             <PluginData />
