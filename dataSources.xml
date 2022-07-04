@@ -25,7 +25,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:7590/customer-support</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="zProd - Xgest" read-only="true" uuid="b635fecd-66df-40a3-8635-a95d743f5fa7">
+    <data-source source="LOCAL" name="XGEST_PROD_OMG_NO_ME_TOQUES" read-only="true" uuid="b635fecd-66df-40a3-8635-a95d743f5fa7">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
