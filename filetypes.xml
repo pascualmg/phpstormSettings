@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="QueueResetor" type="AUTO_DETECTED" />
       <mapping pattern="StockNotifications.md" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="testRepo" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="consolador.js" type="PLAIN_TEXT" />
@@ -15,6 +18,7 @@
       <mapping ext="yml " type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <mapping pattern="ipService" type="TypeScript" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="yaml " type="YAML" />
