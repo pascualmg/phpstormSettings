@@ -73,6 +73,20 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="SequenceDiagram">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="Tomcat">
           <value>
             <PluginData>
@@ -119,6 +133,17 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.andrey4623.rainbowcsv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -547,6 +572,17 @@
                 <set>
                   <option value="com.intellij.modules.platform" />
                   <option value="com.jetbrains.php" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="net.seesharpsoft.intellij.plugins.csv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>
