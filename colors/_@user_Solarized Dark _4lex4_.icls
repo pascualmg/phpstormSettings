@@ -1,11 +1,31 @@
 <scheme name="_@user_Solarized Dark (4lex4)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-05-17T23:33:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-05-17T23:39:15</property>
+    <property name="modified">2022-06-30T13:01:14</property>
     <property name="originalScheme">Solarized Dark (4lex4)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hack Nerd Font FC Ligatured CCG" />
+    <option name="EDITOR_FONT_SIZE" value="32" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="32" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Hack Nerd Font FC Ligatured CCG" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="10483e" />
     <option name="ANNOTATIONS_COLOR" value="869798" />
@@ -89,17 +109,17 @@
     <option name="ScrollBar.Mac.thumbBorderColor" value="273259" />
     <option name="ScrollBar.Mac.thumbColor" value="6b808659" />
     <option name="ScrollBar.Mac.trackColor" value="" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="a384459" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="384459" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="99a6a559" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="6b80861a" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="a384447" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="384447" />
     <option name="ScrollBar.Transparent.thumbColor" value="99a6a547" />
     <option name="ScrollBar.Transparent.trackColor" value="" />
     <option name="ScrollBar.background" value="16414d" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="a384459" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="384459" />
     <option name="ScrollBar.hoverThumbColor" value="99a6a559" />
     <option name="ScrollBar.hoverTrackColor" value="" />
-    <option name="ScrollBar.thumbBorderColor" value="a384447" />
+    <option name="ScrollBar.thumbBorderColor" value="384447" />
     <option name="ScrollBar.thumbColor" value="99a6a547" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="3d5963" />
@@ -138,7 +158,7 @@
         <option name="FOREGROUND" value="a85ba3" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1027,7 +1047,7 @@
         <option name="BACKGROUND" value="2e4e58" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -2485,8 +2505,8 @@
         <option name="FOREGROUND" value="a85ba3" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b38700" />
