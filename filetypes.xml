@@ -16,6 +16,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping pattern="ipService" type="TypeScript" />
+      <mapping pattern="*xml.dist" type="XML" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="yaml " type="YAML" />
       <removed_mapping ext="ant" approved="true" type="XML" />
