@@ -112,5 +112,12 @@
       <jdbc-url>jdbc:postgresql://172.21.2.151:31475/after-sales</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="SPVSERVER@LECTURA" read-only="true" uuid="0ea27399-5b43-4a37-8539-354ba1700302">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.50.112:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
