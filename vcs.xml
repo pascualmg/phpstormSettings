@@ -22,6 +22,18 @@
           <option name="url" value="https://github.com/JetBrains/phpstorm-stubs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PcComponentes/ddd.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PcComponentes/criteria-array-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.pccomponentes.com:pascual.munoz/requests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/src" />
@@ -37,9 +49,6 @@
         <option value="Space.CommitStatus" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
   <component name="VcsEditorTab.Settings">
     <option name="openInNewWindow" value="true" />
