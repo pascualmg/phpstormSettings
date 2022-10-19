@@ -1,33 +1,40 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="StockNotifications.md" type="AUTO_DETECTED" />
       <mapping pattern="QueueResetor" type="AUTO_DETECTED" />
+      <mapping pattern="StockNotifications.md" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="testRepo" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern="consolador.js" type="PLAIN_TEXT" />
       <mapping pattern=".node-xmlhttprequest-sync-2695" type="PLAIN_TEXT" />
       <mapping pattern="Link2A.js" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
-      <mapping pattern="consolador.js" type="PLAIN_TEXT" />
       <mapping pattern=".node-xmlhttprequest-sync-17543" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="export" type="PLAIN_TEXT" />
       <mapping ext="yml " type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <mapping pattern="ipService" type="TypeScript" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="yaml " type="YAML" />
       <removed_mapping ext="ant" approved="true" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="snap" approved="true" type="Jest Snapshot" />
+      <removed_mapping ext="ttf" approved="true" type="Font" />
       <removed_mapping pattern="babelrc" approved="true" type="PLAIN_TEXT" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
