@@ -3,9 +3,6 @@
     <extensionMap>
       <mapping pattern="QueueResetor" type="AUTO_DETECTED" />
       <mapping pattern="StockNotifications.md" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV file" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="testRepo" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="consolador.js" type="PLAIN_TEXT" />
@@ -18,7 +15,6 @@
       <mapping ext="yml " type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
       <mapping pattern="ipService" type="TypeScript" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="yaml " type="YAML" />
@@ -26,6 +22,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
@@ -34,6 +31,7 @@
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="snap" approved="true" type="Jest Snapshot" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ttf" approved="true" type="Font" />
       <removed_mapping pattern="babelrc" approved="true" type="PLAIN_TEXT" />
       <mapping ext=".model" type="Tabnine project model file" />
