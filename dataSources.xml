@@ -37,7 +37,7 @@
       <synchronize>true</synchronize>
       <remarks>customer</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://172.21.2.158:30336/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://172.21.2.153:30336/customer-support</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="AFTERSALES PROD" uuid="167f9d44-c825-4ff4-bc26-a2abfa687a3f">
       <driver-ref>postgresql</driver-ref>
